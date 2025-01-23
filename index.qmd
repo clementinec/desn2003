@@ -1,11 +1,12 @@
 ---
-title: "Desn2003"
+title: "DESN2003: Reserach for Innovation"
 ---
 
 Welcome to DESN2003: Research for Innovation offered at the University of Hong Kong. This site is meant to host slides and communications that are relevant.
 
 ## Weekly Lecture Notes
 - [Week 1](DESN2003_L1.qmd)
+  - [Survey Data](survey.qmd)
 
 ## Time & Location
 

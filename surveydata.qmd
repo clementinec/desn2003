@@ -1,0 +1,18 @@
+---
+title: "Survey Data"
+---
+
+### Table of Collected Survey
+
+| User ID | Age | Occupation         | Lifestyle                       | Frequency of Eating Out (per week) | Preference for Sustainability (1-10) | Key Priorities          | Pain Points                                     |
+|---------|-----|--------------------|---------------------------------|------------------------------------|---------------------------------------|-------------------------|-----------------------------------------------|
+| 1       | 25  | Software Engineer  | Busy, health-conscious          | 5                                  | 8                                     | Convenience             | Packaging is often inconvenient to carry       |
+| 2       | 28  | Graphic Designer   | Creative, eco-friendly          | 3                                  | 10                                    | Aesthetic Design        | Lack of stylish options for sustainable packaging |
+| 3       | 30  | Marketing Manager  | Ambitious, social               | 4                                  | 6                                     | Brand Reputation        | Hard to trust claims of sustainability         |
+| 4       | 24  | Accountant         | Detail-oriented, practical      | 2                                  | 7                                     | Cost-Effectiveness      | High cost of eco-friendly options              |
+| 5       | 27  | Product Manager    | Goal-driven, tech-savvy         | 4                                  | 9                                     | Recyclability           | Confusion about what is recyclable             |
+| 6       | 32  | Data Analyst       | Analytical, eco-conscious       | 3                                  | 7                                     | Durability              | Low durability of sustainable packaging        |
+| 7       | 26  | Event Planner      | Outgoing, organized             | 5                                  | 8                                     | Ease of Use             | Difficult to open or reseal packaging          |
+| 8       | 29  | Content Creator    | Trendy, sustainability-focused  | 4                                  | 9                                     | Trendy Look             | Sustainability options are not visually appealing |
+| 9       | 23  | Financial Analyst  | Focused, efficient              | 2                                  | 5                                     | Compactness             | Packaging takes up too much space              |
+| 10      | 31  | Consultant         | Strategic, time-efficient       | 3                                  | 8                                     | Multi-functionality     | Limited options for multi-use packaging        |
