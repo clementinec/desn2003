@@ -7,6 +7,7 @@ Welcome to DESN2003: Research for Innovation offered at the University of Hong K
 ## Weekly Lecture Notes
 - [Week 1](DESN2003_L1.qmd)
   - [Survey Data](survey.qmd)
+- [Week 2](desn2003_W2.qmd)
 
 ## Time & Location
 
