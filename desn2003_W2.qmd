@@ -6,7 +6,7 @@ author: Dr. Hongshan Guo
 format:
   revealjs:
     slide-number: true
-    theme: simple
+    theme: night
     width: 1600
     height: 1200
     <!-- preview-links: auto -->
@@ -24,12 +24,12 @@ format:
 # Classification of research
 
 ## Types of Research: Classification & Definition
-- Applied vs. Fundamental
+- **Applied vs. Fundamental**
   - Basic (Fundamental) Research
     - Expanding knowledge without immediate practical application
   - Applied Research
     - Solving specific, real-world problems
-- Quantitative & Qualitative
+- **Quantitative & Qualitative**
   - Quantitative Research
     - Using numbers and statistics to analyze data
   - Qualitative Research
@@ -65,16 +65,93 @@ format:
 ## Quantitative Methods (Cont'd)
 
 - **Longitudinal Analysis**: 
-  - Studies the same variables over an extended period to observe changes and developments.
+  - Studies the same variables over an **extended period** to observe changes and developments.
 - **Meta-Analysis**: 
-  - Combines results from multiple studies to arrive at a comprehensive conclusion on a particular topic.
+  - **Combines results from multiple studies** to arrive at a comprehensive conclusion on a particular topic.
 - **Random Controlled Trials (RCTs)**: 
-  - Randomly assigns participants to a treatment or control group to evaluate the eﬀect of an intervention.
+  - Randomly assigns participants to a **treatment or control group** to evaluate the eﬀect of an intervention.
 - **Quasi-experimental**: 
   - Resembles experimental design but lacks random assignment, o#en used when controlled experiments are not feasible.
 - **Survey**: 
   - Collects data from a sample of individuals through questionnaires or interviews to generalize findings to a larger population.
 
+
+
+# A quick side-note: Introduction to AB Testing
+
+**AB Testing: The Scientific Approach to Design Decisions**
+
+- **Definition**: A method to compare two versions of a variable to determine which performs better
+- **Origin**: Derived from *Randomized Controlled Trials* (RCTs) in scientific research
+- **Application**: Widely used in *product development*, *marketing*, and *user experience design*
+
+::: {.notes}
+AB testing brings scientific rigor to design and product decisions, allowing data-driven choices.
+:::
+
+## Key Concepts
+
+1. **Control Group**: The existing version (A)
+2. **Treatment Group**: The new version being tested (B)
+3. **Randomization**: Users randomly assigned to A or B
+4. **Metrics**: Predefined measures of success
+5. **Statistical Significance**: Ensuring results aren't due to chance
+
+::: {.callout-tip}
+## Remember
+The only difference between A and B should be the element you're testing!
+:::
+
+## The AB Testing Process
+
+1. <span style="color: #4CAF50;">**Hypothesis**</span>: Formulate a testable prediction
+2. <span style="color: #2196F3;">**Design**</span>: Create version A and B
+3. <span style="color: #FFC107;">**Implement**</span>: Set up the test environment
+4. <span style="color: #9C27B0;">**Collect Data**</span>: Run the test and gather results
+5. <span style="color: #F44336;">**Analyze**</span>: Determine statistical significance
+6. <span style="color: #795548;">**Conclude**</span>: Make data-driven decisions
+
+## 
+
+![What do we know about click-through rate?](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/A-B_testing_example.png/620px-A-B_testing_example.png)
+
+::: {.notes}
+Clicks/Views * 100
+  - Effectiveness
+  - Placement & Visability
+  - User Experience Improvements
+  - Performance Benchmarking
+:::
+
+
+## Case Study - Button Color Test
+
+**Hypothesis**: *A green "Learn More" button will increase conversions compared to the current blue button.*
+
+**Results**:
+
+- Version A (Blue): 100 sign-ups from 1000 views (10% conversion)
+- Version B (Green): 150 sign-ups from 1000 views (15% conversion)
+- *50% increase* in conversion rate, statistically significant (p < 0.05)
+
+## Slide 5: Best Practices and Conclusions
+
+**Best Practices**:
+
+- Test one variable at a time
+- Ensure sufficient sample size
+- Run tests long enough for statistical significance
+- Consider seasonal effects and external factors
+
+**Conclusions**:
+
+- AB testing provides *data-driven insights* for design decisions
+- It reduces guesswork and potential costly mistakes
+- Continuous testing leads to ongoing optimization
+
+::: {.notes}
+AB testing is a powerful tool, but it's important to use it wisely and in conjunction with other research methods.
+:::
 
 ## Qualitative Methods
 
@@ -196,7 +273,7 @@ format:
 
 > From "Designing Voice Interfaces for Older Adults: A Systematic Literature Review" (Chen et al., 2020, International Journal of Human-Computer Interaction):
 
-> "This systematic review synthesizes research on voice user interfaces (VUIs) for older adults. We analyzed 45 papers published between 2010 and 2020, focusing on design considerations, user experiences, and challenges. Our findings indicate that while VUIs can enhance independence for older adults, current designs often do not adequately address age-related changes in cognition, hearing, and speech production**. Moreover, privacy concerns and technology acceptance remain significant barriers to VUI adoption among this population. We identify key research gaps and provide a roadmap for future work in designing age-friendly VUIs."
+> "This systematic review synthesizes research on voice user interfaces (VUIs) for older adults. We analyzed 45 papers published between 2010 and 2020, focusing on design considerations, user experiences, and challenges. Our findings indicate that while VUIs can enhance independence for older adults, current designs often do not adequately address age-related changes in cognition, hearing, and speech production. Moreover, privacy concerns and technology acceptance remain significant barriers to VUI adoption among this population. We identify key research gaps and provide a roadmap for future work in designing age-friendly VUIs."
 
 ## Exercising identificaiton of Research Gap - Abstract Three
 
