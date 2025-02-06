@@ -158,7 +158,7 @@
     "href": "desn2003_W2.html#section",
     "title": "DESN2003: Research for Innovation",
     "section": "",
-    "text": "What do we know about click-through rate?\nClicks/Views * 100 - Effectiveness - Placement & Visability - User Experience Improvements - Performance Benchmarking"
+    "text": "What do you know about click through rate?\nClicks/Views * 100 - Effectiveness - Placement & Visability - User Experience Improvements - Performance Benchmarking"
   },
   {
     "objectID": "desn2003_W2.html#case-study---button-color-test",
@@ -168,11 +168,11 @@
     "text": "Case Study - Button Color Test\nHypothesis: A green “Learn More” button will increase conversions compared to the current blue button.\nResults:\n\nVersion A (Blue): 100 sign-ups from 1000 views (10% conversion)\nVersion B (Green): 150 sign-ups from 1000 views (15% conversion)\n50% increase in conversion rate, statistically significant (p &lt; 0.05)"
   },
   {
-    "objectID": "desn2003_W2.html#slide-5-best-practices-and-conclusions",
-    "href": "desn2003_W2.html#slide-5-best-practices-and-conclusions",
+    "objectID": "desn2003_W2.html#best-practices-and-conclusions",
+    "href": "desn2003_W2.html#best-practices-and-conclusions",
     "title": "DESN2003: Research for Innovation",
-    "section": "Slide 5: Best Practices and Conclusions",
-    "text": "Slide 5: Best Practices and Conclusions\nBest Practices:\n\nTest one variable at a time\nEnsure sufficient sample size\nRun tests long enough for statistical significance\nConsider seasonal effects and external factors\n\nConclusions:\n\nAB testing provides data-driven insights for design decisions\nIt reduces guesswork and potential costly mistakes\nContinuous testing leads to ongoing optimization\n\n\nAB testing is a powerful tool, but it’s important to use it wisely and in conjunction with other research methods."
+    "section": "Best Practices and Conclusions",
+    "text": "Best Practices and Conclusions\nBest Practices:\n\nTest one variable at a time\nEnsure sufficient sample size\nRun tests long enough for statistical significance\nConsider seasonal effects and external factors\n\nConclusions:\n\nAB testing provides data-driven insights for design decisions\nIt reduces guesswork and potential costly mistakes\nContinuous testing leads to ongoing optimization\n\n\nAB testing is a powerful tool, but it’s important to use it wisely and in conjunction with other research methods."
   },
   {
     "objectID": "desn2003_W2.html#qualitative-methods",
