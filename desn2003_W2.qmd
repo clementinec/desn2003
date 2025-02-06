@@ -6,7 +6,7 @@ author: Dr. Hongshan Guo
 format:
   revealjs:
     slide-number: true
-    theme: night
+    theme: simple
     width: 1600
     height: 1200
     <!-- preview-links: auto -->
@@ -76,7 +76,6 @@ format:
   - Collects data from a sample of individuals through questionnaires or interviews to generalize findings to a larger population.
 
 
-
 # A quick side-note: Introduction to AB Testing
 
 **AB Testing: The Scientific Approach to Design Decisions**
@@ -113,7 +112,7 @@ The only difference between A and B should be the element you're testing!
 
 ## 
 
-![What do we know about click-through rate?](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/A-B_testing_example.png/620px-A-B_testing_example.png)
+![What do you know about click through rate?](data/A-B_testing_example.png){width=600px}
 
 ::: {.notes}
 Clicks/Views * 100
@@ -134,7 +133,7 @@ Clicks/Views * 100
 - Version B (Green): 150 sign-ups from 1000 views (15% conversion)
 - *50% increase* in conversion rate, statistically significant (p < 0.05)
 
-## Slide 5: Best Practices and Conclusions
+## Best Practices and Conclusions
 
 **Best Practices**:
 
