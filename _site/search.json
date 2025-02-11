@@ -168,11 +168,11 @@
     "text": "Case Study - Button Color Test\nHypothesis: A green “Learn More” button will increase conversions compared to the current blue button.\nResults:\n\nVersion A (Blue): 100 sign-ups from 1000 views (10% conversion)\nVersion B (Green): 150 sign-ups from 1000 views (15% conversion)\n50% increase in conversion rate, statistically significant (p &lt; 0.05)"
   },
   {
-    "objectID": "desn2003_W2.html#slide-5-best-practices-and-conclusions",
-    "href": "desn2003_W2.html#slide-5-best-practices-and-conclusions",
+    "objectID": "desn2003_W2.html#best-practices-and-conclusions",
+    "href": "desn2003_W2.html#best-practices-and-conclusions",
     "title": "DESN2003: Research for Innovation",
-    "section": "Slide 5: Best Practices and Conclusions",
-    "text": "Slide 5: Best Practices and Conclusions\nBest Practices:\n\nTest one variable at a time\nEnsure sufficient sample size\nRun tests long enough for statistical significance\nConsider seasonal effects and external factors\n\nConclusions:\n\nAB testing provides data-driven insights for design decisions\nIt reduces guesswork and potential costly mistakes\nContinuous testing leads to ongoing optimization\n\n\nAB testing is a powerful tool, but it’s important to use it wisely and in conjunction with other research methods."
+    "section": "Best Practices and Conclusions",
+    "text": "Best Practices and Conclusions\nBest Practices:\n\nTest one variable at a time\nEnsure sufficient sample size\nRun tests long enough for statistical significance\nConsider seasonal effects and external factors\n\nConclusions:\n\nAB testing provides data-driven insights for design decisions\nIt reduces guesswork and potential costly mistakes\nContinuous testing leads to ongoing optimization\n\n\nAB testing is a powerful tool, but it’s important to use it wisely and in conjunction with other research methods."
   },
   {
     "objectID": "desn2003_W2.html#qualitative-methods",
@@ -287,10 +287,87 @@
     "text": "Table of Collected Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\nUser ID\nAge\nOccupation\nLifestyle\nFrequency of Eating Out (per week)\nPreference for Sustainability (1-10)\nKey Priorities\nPain Points\n\n\n\n\n1\n25\nSoftware Engineer\nBusy, health-conscious\n5\n8\nConvenience\nPackaging is often inconvenient to carry\n\n\n2\n28\nGraphic Designer\nCreative, eco-friendly\n3\n10\nAesthetic Design\nLack of stylish options for sustainable packaging\n\n\n3\n30\nMarketing Manager\nAmbitious, social\n4\n6\nBrand Reputation\nHard to trust claims of sustainability\n\n\n4\n24\nAccountant\nDetail-oriented, practical\n2\n7\nCost-Effectiveness\nHigh cost of eco-friendly options\n\n\n5\n27\nProduct Manager\nGoal-driven, tech-savvy\n4\n9\nRecyclability\nConfusion about what is recyclable\n\n\n6\n32\nData Analyst\nAnalytical, eco-conscious\n3\n7\nDurability\nLow durability of sustainable packaging\n\n\n7\n26\nEvent Planner\nOutgoing, organized\n5\n8\nEase of Use\nDifficult to open or reseal packaging\n\n\n8\n29\nContent Creator\nTrendy, sustainability-focused\n4\n9\nTrendy Look\nSustainability options are not visually appealing\n\n\n9\n23\nFinancial Analyst\nFocused, efficient\n2\n5\nCompactness\nPackaging takes up too much space\n\n\n10\n31\nConsultant\nStrategic, time-efficient\n3\n8\nMulti-functionality\nLimited options for multi-use packaging"
   },
   {
-    "objectID": "desn2003_W2.html#best-practices-and-conclusions",
-    "href": "desn2003_W2.html#best-practices-and-conclusions",
+    "objectID": "desn2003_2_js.html#submit-your-document-0-this-week",
+    "href": "desn2003_2_js.html#submit-your-document-0-this-week",
     "title": "DESN2003: Research for Innovation",
-    "section": "Best Practices and Conclusions",
-    "text": "Best Practices and Conclusions\nBest Practices:\n\nTest one variable at a time\nEnsure sufficient sample size\nRun tests long enough for statistical significance\nConsider seasonal effects and external factors\n\nConclusions:\n\nAB testing provides data-driven insights for design decisions\nIt reduces guesswork and potential costly mistakes\nContinuous testing leads to ongoing optimization\n\n\nAB testing is a powerful tool, but it’s important to use it wisely and in conjunction with other research methods."
+    "section": "Submit Your Document 0 this week!",
+    "text": "Submit Your Document 0 this week!\nLength: ~500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
+  },
+  {
+    "objectID": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
+    "href": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Let’s start by looking at some research paper examples",
+    "text": "Let’s start by looking at some research paper examples\nAs seen on Moodle\n\nHong Kong Compression\nFashion, Sustainability, Innovations and Energy + interview-heavy"
+  },
+  {
+    "objectID": "desn2003_2_js.html#literature-review-an-overview",
+    "href": "desn2003_2_js.html#literature-review-an-overview",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Literature Review, an Overview",
+    "text": "Literature Review, an Overview\nObjectives:\nAt end of this session being able to:\n\nexplain what the review of literature is;\nidentify and describe the objectives and sources of the review of literature;\nexplain the function of literature review serves;\nknow where to start to conduct the review of literature and\naware of precautions a researcher should take into consideration in library use;\ngetting warmed up on various literature review formats"
+  },
+  {
+    "objectID": "desn2003_2_js.html#on-literature-review",
+    "href": "desn2003_2_js.html#on-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "On literature review",
+    "text": "On literature review\nLiterature + Review:\n\nliterature: language, knowledge of an area of investigation of any discipline on its investigations of\n\ntheoretical\npratical\nany relevant reserach studies\n\nreview: knowledge organised, show why current study might be an addition to the field:\n\noften seen at graduate level\nconsidered creative and tedious at the same time\nsynthesizing available knowledge in unique way as to\nprovide value-add on top of the existing research"
+  },
+  {
+    "objectID": "desn2003_2_js.html#two-phases-of-literature-review",
+    "href": "desn2003_2_js.html#two-phases-of-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Two phases of literature review",
+    "text": "Two phases of literature review\nPhase One: Catch-them-all\n\nID all relevant publications within your problem space\nRead/Skim through more relevant ones and broaden your understanding\nCritique on how/why some of them is (not) adequate in what they claim\n\nPhase Two: Write on Relevance\n\nSynthesize your findings on the literature into writings\nPresent your own evaluation of the literature that you found relevant, both good and bad\nYour background, reader’s roadmap of how your arguments are paved"
+  },
+  {
+    "objectID": "desn2003_2_js.html#why-do-we-need-literature-review",
+    "href": "desn2003_2_js.html#why-do-we-need-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Why do we need literature review?",
+    "text": "Why do we need literature review?\n\nTo understand the research landscape\nTo avoid repetitive work\nTo ascertain innovation and research excellence (if any)\nTo identify additional research gap (if any)"
+  },
+  {
+    "objectID": "desn2003_2_js.html#realistically-literature-review-provides-us-a-stock-of",
+    "href": "desn2003_2_js.html#realistically-literature-review-provides-us-a-stock-of",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Realistically, Literature Review Provides us a stock of:",
+    "text": "Realistically, Literature Review Provides us a stock of:\n\nTheories, ideas, explanations or hypotheses;\nRecord to check against for repetition;\nPossible method, procedure, sources of data suitable to even a new problem;\nRelevant conclusions drawn in the related studies;"
+  },
+  {
+    "objectID": "desn2003_2_js.html#common-sources-of-literature",
+    "href": "desn2003_2_js.html#common-sources-of-literature",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Common Sources of Literature",
+    "text": "Common Sources of Literature\n\nBooks;\n(Academic) Journals;\nAbstracts;\nEncyclopaedias;\nHandbooks and Guides;\nSpecial Dictionaries;\nDissertations and Theses;\nAnything off the search Engine."
+  },
+  {
+    "objectID": "desn2003_2_js.html#functions-of-literatures",
+    "href": "desn2003_2_js.html#functions-of-literatures",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Functions of Literatures",
+    "text": "Functions of Literatures\n\nProvides conceptual frame of refrence for contemplated research\nHelps generate an understanding of status of current field\nPoints to possible choice of research methodology, instrumentation & data needed for analysis\nDemonstrate why proposed research is needed and provides roadmap to success;"
+  },
+  {
+    "objectID": "desn2003_2_js.html#expanding-on-phase-one-of-literature-review",
+    "href": "desn2003_2_js.html#expanding-on-phase-one-of-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Expanding on Phase One of Literature Review",
+    "text": "Expanding on Phase One of Literature Review\nRepeat this on each of the sources that you came across\n\nRELEVANCE? Gain general impression of what the selected source is\n\n\nwhat is it trying to answer aka research question\nhow is the source structured\nwhether the problem identified was tackled and how\nany relevant questions put forward\n\n\nHOW MIGHT IT HELP YOU? Consider how the source would help you\n\n\nDoes it answer (a part) of your research question?\nWhere are the answers/evidence located in the source"
+  },
+  {
+    "objectID": "desn2003_2_js.html#precautions",
+    "href": "desn2003_2_js.html#precautions",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Precautions",
+    "text": "Precautions\n\nAvoid intellectual dishonesty: Write and think on your own\nPractice critical thinking: Do it on your own standing\nLiteature review is not relisting previous studies\nAlways helpful to arrange studies in chronological order before categorizing them on fields/relevance"
+  },
+  {
+    "objectID": "desn2003_2_js.html#submit-your-document-0-next-week",
+    "href": "desn2003_2_js.html#submit-your-document-0-next-week",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Submit Your Document 0 next week!",
+    "text": "Submit Your Document 0 next week!\nLength: ≤ 500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
   }
 ]

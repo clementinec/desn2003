@@ -1,0 +1,284 @@
+---
+title: "DESN2003: Research for Innovation"
+subtitle: "Week 3: Research Paper Examples & Literature Review"
+author: "Hongshan Guo"
+
+format: 
+  revealjs:
+    slide-number: c/t
+    width: 1600
+    height: 1200
+    theme: dark
+    footer: DESN2003 Research For Innovation, Session Two
+    center: true
+    output-file: desn2003_2_js.html
+
+incremental: true
+---
+
+## Submit Your Document 0 next week!
+
+Length: ≤ 500 words
+
+  - Expand beyond what you've written before
+  - Think critically at how much better you could've written this
+
+Style: Extended Abstract
+
+  - Should contain what you normally see in normal abstracts
+  - Can contain additional bullet points and outlines on what do you propose to do next or potential outcomes
+
+
+## Let's start by looking at some research paper examples
+
+As seen on Moodle
+
+  1. Hong Kong Compression
+  2. Fashion, Sustainability, Innovations and Energy + __interview-heavy__
+
+## Literature Review, an Overview
+
+### Objectives:
+
+At end of this session being able to:
+
+- __explain what__ the review of literature is;
+- __identify__ and __describe__ the objectives and sources of the review of literature;
+- __explain the function__ of literature review serves;
+- know where to start to __conduct the review of literature__ and 
+- __aware__ of precautions a researcher should take into consideration in library use;
+- getting warmed up on various __literature review formats__
+ 
+
+## On literature review
+
+Literature + Review:
+
+- <span style="color:red">literature</span>: language, knowledge of an area of investigation of **any** discipline on its investigations of 
+  - theoretical
+  - pratical
+  - any relevant reserach studies
+- <span style="color:yellow">review</span>: knowledge organised, show why current study might be an addition to the field:
+  - often seen at graduate level
+  - considered creative and tedious at the same time
+  - synthesizing available knowledge in **unique way** as to
+  - provide <span style="color:magenta">value-add</span> on top of the existing research 
+
+## Two phases of literature review
+
+Phase One: Catch-them-all
+
+  - ID all relevant publications within your problem space
+  - Read/Skim through more relevant ones and broaden your understanding
+  - Critique on how/why some of them is (not) adequate in what they claim
+
+Phase Two:  Write on Relevance
+  
+  - Synthesize your findings on the literature into writings
+  - Present **your own evaluation** of the literature that you found relevant, _both good and bad_
+  - Your background, reader's roadmap of how your arguments are paved
+
+## Why do we need literature review?
+
+- To understand the research landscape
+- To avoid repetitive work
+- To ascertain innovation and research excellence (if any)
+- **To identify additional research gap (if any)**
+
+## Realistically, Literature Review Provides us a stock of:
+
+- Theories, ideas, explanations or hypotheses;
+- Record to check against for repetition;
+- Possible method, procedure, sources of data suitable to even a new problem;
+- Relevant conclusions drawn in the related studies;
+
+## Common Sources of Literature
+
+- Books; 
+- (Academic) Journals;
+- Abstracts;
+- Encyclopaedias;
+- Handbooks and Guides;
+- Special Dictionaries;
+- Dissertations and Theses;
+- Anything off the search Engine.
+
+## Functions of Literatures
+
+1. Provides conceptual frame of refrence for contemplated research
+2. Helps generate an understanding of status of current field
+3. Points to possible choice of research methodology, instrumentation & data needed for analysis
+4. Demonstrate why proposed research is needed and provides roadmap to success;
+
+## Expanding on Phase One of Literature Review
+
+Repeat this on each of the sources that you came across
+
+1. RELEVANCE? Gain general impression of what the selected source is
+  - what is it trying to answer aka research question 
+  - how is the source structured
+  - whether the problem identified was tackled and how
+  - any relevant questions put forward
+
+2. HOW MIGHT IT HELP YOU? Consider how the source would help you
+  - Does it answer (a part) of your research question?
+  - Where are the answers/evidence located in the source
+---
+
+3. HOW DOES IT HELP? Read more on the source and at depth to understand
+
+  - How well does the source answer your question
+  - What are its limitations (if there are any)
+
+4. WRITE YOUR NOTES DOWN.
+
+  - Who wrote this and when and where (citation manager like Zotero)  
+  - Why did you find it relevant and how does it help your case
+
+## Precautions
+
+- Avoid intellectual dishonesty: Write and think on your own
+- Practice critical thinking: Do it on your own standing
+- Liteature review is not relisting previous studies
+- Always helpful to arrange studies in chronological order before categorizing them on fields/relevance
+
+
+# Literature Scavenger Hunt & Annotated Bibliography
+
+- Focus on UI/UX, HCI & Architectural Design  
+- Hands-on research practice
+
+---
+
+# Session Objectives
+
+- Identify diverse literature sources  
+- Evaluate & annotate sources  
+- Build a foundation for a literature review
+
+---
+
+# Today's Research Topic
+
+**"How do AI-driven personalization and immersive mixed reality experiences reshape user trust and engagement in digital and physical spaces?"**
+
+- Explore cutting-edge UI/UX & HCI trends  
+- Investigate the impact of AI and AR/VR on user behavior  
+- Understand the interplay between technology, design, and trust
+---
+
+# Session Outline
+
+- **Introduction (5 min):** Overview & key concepts  
+- **Scavenger Hunt (20 min):** Find 3+ sources  
+- **Annotated Bibliography (20 min):** Analyze & annotate sources  
+- **Wrap-Up (5 min):** Share & discuss
+
+---
+
+# What is a Literature Review?
+
+- **Overview:**  
+  - Summarizes existing research  
+  - Identifies gaps and informs new studies  
+- **In Design:**  
+  - Grounds your project in current thinking  
+  - Guides design decisions with evidence
+
+---
+
+# What is an Annotated Bibliography?
+
+- **Definition:**  
+  - A list of sources with summaries and evaluations
+- **Components:**  
+  - **Citation:** Standard reference  
+  - **Summary:** Main ideas/findings  
+  - **Evaluation:** Strengths & limitations  
+  - **Relevance:** How it informs your topic
+
+---
+
+# Example Annotation
+
+**Citation:**  
+Smith, J. (2020). *Designing Trust: UI Elements and User Experience*. Journal of HCI.
+
+**Annotation:**  
+This study examines how minimalist UI designs impact user trust through A/B testing. It finds that simplified layouts reduce cognitive load and increase user confidence. **Strengths:** Robust methodology and clear data analysis. **Limitations:** Focuses solely on e-commerce, limiting broader applicability. **Relevance:** Offers empirical support for design decisions in UI/UX, aligning with our research question.
+
+---
+
+# Online Libraries & Digital Tools
+
+- **Libraries & Databases:**  
+  - Google Scholar, JSTOR  
+  - ACM Digital Library, IEEE Xplore
+- **Digital Tools:**  
+  - Zotero/Mendeley for citations  
+  - Google Docs for collaborative notes  
+  - Mind mapping tools (Miro, Coggle)
+
+---
+
+# Group Instructions
+
+- **Form Groups:** 3-4 members  
+- **Task:**  
+  - Use online libraries & digital tools to find **3+ diverse sources**  
+  - Record: Title, Author, Year, Source Type  
+  - Jot down a brief note on why each source is relevant  
+- **Focus:** Keep the lens on UI/UX, HCI, and architecture
+
+---
+
+# Scavenger Hunt Tips
+
+- Search for varied sources:  
+  - Academic articles, book chapters, industry reports  
+- Use targeted keywords:  
+  - "UI design", "user experience", "HCI", "architectural design"  
+- Verify source credibility and publication date
+
+---
+
+# Annotated Bibliography Task
+
+- For each source, write a **100-150 word annotation** including:
+  - **Summary:** What does the source say?  
+  - **Evaluation:** How reliable and useful is it?  
+  - **Relevance:** How does it connect to your research question?
+
+---
+
+# How It All Works Together
+
+1. **Scavenger Hunt:**  
+   - Gather a variety of credible sources on your topic  
+2. **Annotated Bibliography:**  
+   - Analyze and synthesize your findings  
+   - Create a critical framework for your literature review
+
+---
+
+# Wrap-Up & Sharing
+
+- **Sharing:**  
+  - Each group presents one annotated entry  
+  - Discuss insights and any challenges encountered
+- **Q&A:** Open the floor for questions and reflections
+
+---
+
+# Reflection
+
+- How do these exercises mirror real-world research?  
+- What next steps would you take in building your literature review?
+
+---
+
+# Thank You!
+
+- Keep refining your research skills  
+- Questions? Let’s discuss!
+
