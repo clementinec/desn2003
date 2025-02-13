@@ -95,7 +95,7 @@
     "href": "index.html#weekly-lecture-notes",
     "title": "DESN2003: Reserach for Innovation",
     "section": "Weekly Lecture Notes",
-    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2"
+    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3"
   },
   {
     "objectID": "index.html#time-location",
@@ -280,18 +280,11 @@
     "text": "Optional: Academic Research and Prior Art Search?"
   },
   {
-    "objectID": "surveydata.html",
-    "href": "surveydata.html",
-    "title": "Survey Data",
-    "section": "",
-    "text": "Table of Collected Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\nUser ID\nAge\nOccupation\nLifestyle\nFrequency of Eating Out (per week)\nPreference for Sustainability (1-10)\nKey Priorities\nPain Points\n\n\n\n\n1\n25\nSoftware Engineer\nBusy, health-conscious\n5\n8\nConvenience\nPackaging is often inconvenient to carry\n\n\n2\n28\nGraphic Designer\nCreative, eco-friendly\n3\n10\nAesthetic Design\nLack of stylish options for sustainable packaging\n\n\n3\n30\nMarketing Manager\nAmbitious, social\n4\n6\nBrand Reputation\nHard to trust claims of sustainability\n\n\n4\n24\nAccountant\nDetail-oriented, practical\n2\n7\nCost-Effectiveness\nHigh cost of eco-friendly options\n\n\n5\n27\nProduct Manager\nGoal-driven, tech-savvy\n4\n9\nRecyclability\nConfusion about what is recyclable\n\n\n6\n32\nData Analyst\nAnalytical, eco-conscious\n3\n7\nDurability\nLow durability of sustainable packaging\n\n\n7\n26\nEvent Planner\nOutgoing, organized\n5\n8\nEase of Use\nDifficult to open or reseal packaging\n\n\n8\n29\nContent Creator\nTrendy, sustainability-focused\n4\n9\nTrendy Look\nSustainability options are not visually appealing\n\n\n9\n23\nFinancial Analyst\nFocused, efficient\n2\n5\nCompactness\nPackaging takes up too much space\n\n\n10\n31\nConsultant\nStrategic, time-efficient\n3\n8\nMulti-functionality\nLimited options for multi-use packaging"
-  },
-  {
-    "objectID": "desn2003_2_js.html#submit-your-document-0-this-week",
-    "href": "desn2003_2_js.html#submit-your-document-0-this-week",
+    "objectID": "desn2003_2_js.html#submit-your-document-0-next-week",
+    "href": "desn2003_2_js.html#submit-your-document-0-next-week",
     "title": "DESN2003: Research for Innovation",
-    "section": "Submit Your Document 0 this week!",
-    "text": "Submit Your Document 0 this week!\nLength: ~500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
+    "section": "Submit Your Document 0 next week!",
+    "text": "Submit Your Document 0 next week!\nLength: ≤ 500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
   },
   {
     "objectID": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
@@ -364,10 +357,10 @@
     "text": "Precautions\n\nAvoid intellectual dishonesty: Write and think on your own\nPractice critical thinking: Do it on your own standing\nLiteature review is not relisting previous studies\nAlways helpful to arrange studies in chronological order before categorizing them on fields/relevance"
   },
   {
-    "objectID": "desn2003_2_js.html#submit-your-document-0-next-week",
-    "href": "desn2003_2_js.html#submit-your-document-0-next-week",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Submit Your Document 0 next week!",
-    "text": "Submit Your Document 0 next week!\nLength: ≤ 500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
+    "objectID": "surveydata.html",
+    "href": "surveydata.html",
+    "title": "Survey Data",
+    "section": "",
+    "text": "Table of Collected Survey\n\n\n\n\n\n\n\n\n\n\n\n\n\nUser ID\nAge\nOccupation\nLifestyle\nFrequency of Eating Out (per week)\nPreference for Sustainability (1-10)\nKey Priorities\nPain Points\n\n\n\n\n1\n25\nSoftware Engineer\nBusy, health-conscious\n5\n8\nConvenience\nPackaging is often inconvenient to carry\n\n\n2\n28\nGraphic Designer\nCreative, eco-friendly\n3\n10\nAesthetic Design\nLack of stylish options for sustainable packaging\n\n\n3\n30\nMarketing Manager\nAmbitious, social\n4\n6\nBrand Reputation\nHard to trust claims of sustainability\n\n\n4\n24\nAccountant\nDetail-oriented, practical\n2\n7\nCost-Effectiveness\nHigh cost of eco-friendly options\n\n\n5\n27\nProduct Manager\nGoal-driven, tech-savvy\n4\n9\nRecyclability\nConfusion about what is recyclable\n\n\n6\n32\nData Analyst\nAnalytical, eco-conscious\n3\n7\nDurability\nLow durability of sustainable packaging\n\n\n7\n26\nEvent Planner\nOutgoing, organized\n5\n8\nEase of Use\nDifficult to open or reseal packaging\n\n\n8\n29\nContent Creator\nTrendy, sustainability-focused\n4\n9\nTrendy Look\nSustainability options are not visually appealing\n\n\n9\n23\nFinancial Analyst\nFocused, efficient\n2\n5\nCompactness\nPackaging takes up too much space\n\n\n10\n31\nConsultant\nStrategic, time-efficient\n3\n8\nMulti-functionality\nLimited options for multi-use packaging"
   }
 ]
