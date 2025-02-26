@@ -1,0 +1,308 @@
+---
+title: “Research” Gap - What they are and how to identify them
+subtitle: "DESN2003: Research for Innovation, Week Five"
+author: Hongshan Guo
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: false
+    filters: 
+      - timer
+---
+
+# Quick Flashback
+
+## What we’ve covered insofar.
+- W1: Introduction to Research & Innovation
+- W2: Research Methods, an Introduction
+- W3: Literature Research, what they are and why they matter
+- W4: SOTA Literature Research with LLMs
+
+## And the Evaluation Metrics
+### Individual Research (40%+20%)
+- Doc0: Research Scope through Extended Abstract
+- Relevant Literature Review (Doc 0.1)
+- Collecting Evidence (Doc 0.2)
+- Doc1: Research Paper Draft & Presentation
+### Group Research (Collaborative Informational Interviews, 30%)
+- Literature Review (in practice)
+- Oral Presentation (15%)+ Group Report (15%)
+
+## Reflection on Doc 0
+- Grades and Comment released on Moodle
+- Some common issues:
+	- Introduction ≠ Abstract
+	- Extended Abstract: Abstract + outline of research paper
+	- Format of Abstract: no citation, plain text (1 paragraph usually)
+	- As high-level as possible
+	- **Theoretical Framework**
+
+## Theoretical Framework
+What the literature has already said about it.
+1. What theories have been developed to investigate the question/problem that you intend to investigate?
+2. Does it involve looking at multiple disciplines when you want to set this up?
+3. What are the common caveats they mention as ‘future work’ and are any them of them relevant to your proposed research?
+
+# Let's look at examples of some Research Paper
+1. Feasibility study of public space: https://www.pland.gov.hk/file/planning_studies/comp_s/pdf/reimagining_public_spaces_in_hong_kong_feasibility_study_consultancy_report_en.pdf
+2. Chan, E. H. W., & Lee, G. K. L. (2009). Design considerations for environmental sustainability in high density development: A case study of Hong Kong. Environment, Development and Sustainability, 11(2), 359–374. https://doi.org/10.1007/s10668-007-9117-0
+
+
+
+
+# Research Gap - what they are and how to identify them through Qualitative Research
+
+## Research Gap
+Areas that has received little or no investigation that produces relevant and timely research that works best for the current scope of the matter.
+
+TLDR: Pain point you think your research will be covering.
+
+Let's potentially look at one example here.
+
+
+## Identifying Research Gap
+- Leverage research that currently exists.
+- Helps in building understanding of current domain.
+
+## Types of research gaps
+1. The **classic** literature gap
+2. The **disagreement** gap
+3. The **contexual** gap, and
+4. The **methodological** gap
+
+## Classic literature gap
+- Emerges when new concept or phenomenon that hasn't been studied much
+- e.g. Launch of a new service/platform
+- Fully exploratory investigation
+- **Adjacent** literature available ONLY
+
+## Disagreement gap
+- Emerges when there are contrasting and contradictory findings in existing research
+- e.g. Is earth flat?
+- Opposing findings needs to be somewhat balanced
+	- Avoiding corner-case anomaly
+
+## Contextual Gap
+Decent existing research exists, but absence of research in specific contexts:
+- a specific population
+- a precise geographic area
+- a certain time period
+- Is a popular option for dissertation as it often builds on existing literature
+- Often leverages similar if not the same methodology from other prior studies.
+- Address why is the proposed investigation for this subgroup relevant.
+
+## The Methodological Gap
+- Emerges when you identified insufficiencies amongst popular methodologies for the specified topic
+- Propose alternatives and 
+- Justify the suggested change through evidence and arguments 
+
+## Let's look at some examples:
+
+### Context: Healthcare
+Despite extensive research on diabetes management, there’s a research gap in terms of understanding the effectiveness of digital health interventions in rural populations (compared to urban ones) within Eastern Europe.
+
+### Context: Environmental Science
+While a wealth of research exists regarding plastic pollution in oceans, there is significantly less understanding of microplastic accumulation in freshwater ecosystems like rivers and lakes, particularly within Southern Africa.
+
+### Context: Education
+While empirical research surrounding online learning has grown over the past five years, there remains a lack of comprehensive studies regarding the effectiveness of online learning for students with special educational needs.
+
+## Finding A Resarch Gap
+1. Find as many lit reviews, systematic reviews and meta-analysis as you can that covers your area of interests on top of most recent journal articles;
+2. Find what other researchers have identified as 'future research is needed' and she if someone has already investigated the problem that you observe, or can fill your list of 'candidate topics' for you instead.
+3. If you found the question has already been answered, congrats and review it critically to confirm whether you may need to change the direction of proposed resarch.
+4. If you haven't found anything that agrees specifically with your topic, then congrats as you now have a list that you can exhaust before running out of proposed research.
+
+## Working with Research Gap
+- What data can you collect upon them?
+- What data do you not already know about it?
+- What is the information that you absolutely need?
+- What might you learn from your own experiments?
+
+## A quick recap:
+1. What's a research gap?
+2. What are the four most common types of resarch gaps?
+3. How can one identify research gaps?
+
+# Exploring Qualitative Research
+
+## Unpacking Qualitative Insights
+- Delving into 'why' and 'how':
+  - In-depth interviews
+  - Ethnographic fieldwork
+  - Thematic content analysis
+- Architectural focus:
+  - Impact of public spaces on community
+  - Personal narratives and daily interactions
+
+## The Power of Observation
+- Observing space usage:
+  - Unscripted interactions
+  - Essence of architectural design
+
+## Participant Narratives
+- Collecting stories:
+  - Individual experiences in spaces
+  - Mosaic of community life
+
+# Role in Identifying Gaps
+
+## Filling the Void
+- Uncovering nuanced perspectives:
+  - Complex dynamics
+  - Overlooked areas
+
+## Architectural Application
+- Evolving role of libraries:
+  - Beyond books to communal hubs
+  - Emerging functions and community needs
+
+## Bridging the Gap
+- Capturing lived experience:
+  - Understanding spaces' impact on behavior
+
+# Qualitative Methodologies for Gap Identification
+
+
+## A Mock Case Examples
+
+### Revitalizing Historical Districts
+- Contemporary interventions:
+  - Community sentiments on preservation vs. modernization
+
+
+## Methodological Gaps in Design Research
+
+### Rethinking Data Collection
+- Beyond traditional surveys:
+  - Capturing emotional resonance of spaces
+
+### Innovative Analysis Techniques
+- Narrative analysis for deeper meanings:
+  - Collect stories people tell about spaces
+
+### Embracing Emerging Technologies
+- Virtual reality in design:
+  - Simulating user experiences pre-construction
+
+## Case Study: Urban Green Spaces
+- **Objective:** Explore how urban green spaces influence community well-being.
+- **Method:** Ethnographic observation and in-depth interviews with residents.
+  - Observations reveal how different groups use green spaces.
+  - Interviews uncover personal narratives about the value of these spaces.
+- **Findings:** 
+  - Varied uses by different demographics (e.g., families, elderly, athletes).
+  - Emotional and social significance attached to green spaces.
+- **Research Questions Identified:**
+  - How do design elements of urban green spaces cater to diverse community needs?
+  - What role do green spaces play in fostering community bonds?
+
+### Reflection:
+- Ethnographic insights reveal nuanced use and value of green spaces, leading to targeted research questions about design and community impact.
+
+---
+## Participatory Design: Community Centers
+- **Objective:** Understand community needs for a new community center design.
+- **Method:** Participatory workshops with future users of the center.
+  - Stakeholders include local residents, community leaders, and potential users.
+  - Workshops facilitate collaborative ideation and feedback on design concepts.
+- **Findings:**
+  - Insights into desired facilities, activities, and architectural features.
+  - Community concerns about accessibility, inclusivity, and sustainability.
+- **Research Questions Identified:**
+  - How can community center design promote inclusivity and accessibility for all age groups?
+  - What sustainable design practices can be integrated to meet community expectations?
+
+### Reflection:
+- Direct engagement with the community uncovers specific design needs and preferences, guiding research towards creating inclusive and sustainable community centers.
+
+
+
+# In-Session Seminar
+
+
+## Try it out: Find the research gap
+
+- Find one paper that is relevant to your own personal project
+- Read the paper's abstract/introduction/conclusion;
+- identify the research gap your selected paper attempted to cover;
+- Write down your own research gap in a similar fashion.
+
+_Volunteers gets free pass on one late submission._
+
+# 
+
+:::: {.columns}
+
+::: {.column width="65%"}
+
+**Reflect on what you write, compare it to how your current writeups for:**
+
+1. Has the research gap type changed?
+2. Which do you think is better and why? (Quatlitative assessment)
+3. Qualitatively assess which one is written better.
+
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="25%"}
+::: {.timer  #TestminWaiting seconds=300}
+:::
+:::
+
+::::
+
+
+## Quick Look on Qualitative Research & Data Collection:
+
+:::: {.columns}
+
+::: {.column width="45%"}
+
+1. Find this paper: Are UX Evaluation Methods Providing the Same Big Picture?
+2. Find the underlying data: "Figshare Supplementary Material: Raw Data from the Longitudinal UX Evaluation"
+3. Check out Section 6 of qualitative results.
+
+Ready to spend some time to read it?
+:::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="45%"}
+::: {.timer  #TimeWriting seconds=600}
+:::
+- Identify the research gap and
+- Consider what you can make out from the given dataset.
+:::
+::::
+
+
+## A little intro on sentence completion 
+### as a qualitative research method for UEQ
+
+- Definition: An open-ended but guided qualitative method for gathering insights.
+- Purpose: To explore users' attitudes, perceptions, and emotional responses.
+- Typically provide respondaents with beginnings of sentences (stems) for respondents to complete the sentences in ways that are meaningful to them.
+
+## Quick example:
+"Using this app makes me feel..."
+
+**Goal**: Encourage expressive and spontaneous user feedback
+
+- Prompts are open-ended yet focused
+- Avoid leading question to minimizew bias
+- Provides user-centered insights
+- Captures emotional and subconscious reactions to the product/service.
+
+
+

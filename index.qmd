@@ -10,6 +10,7 @@ Welcome to DESN2003: Research for Innovation offered at the University of Hong K
 - [Week 2](desn2003_W2.qmd)
 - [Week 3](desn2003_W3.qmd)
 - [Week 4](desn2003_W4.qmd)
+- [Week 5](desn2003_W5.qmd)
 
 
 
