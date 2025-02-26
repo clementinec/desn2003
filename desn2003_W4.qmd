@@ -1,0 +1,270 @@
+---
+title: "Literature Review Extended by Advanced Methods"
+subtitle: "DESN2003: Research for Innovation, Week Four"
+author: Hongshan Guo
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: false
+---
+
+## Refresher on Introduction to Literature Review
+
+### Purpose and Objectives
+
+- **Definition:** A comprehensive survey of publications relevant to a research topic.
+- **Purpose:** Establishes context, identifies gaps, and justifies new research.
+
+### Key Objectives
+
+- Synthesize existing knowledge.
+- Identify research gaps and questions.
+- Inform methodology.
+- Ground research in existing literature.
+
+## Types of Literature Reviews
+
+### Narrative Review
+
+- Broad, subjective overview.
+- Thematic analysis of literature.
+
+### Systematic Review
+
+- Structured, transparent approach.
+- Answers specific research questions.
+
+### Meta-Analysis
+
+- Combines data from multiple studies.
+- Statistical analysis to find effect size.
+
+### Scoping Review
+
+- Maps key concepts, types of evidence.
+- Informative for research areas.
+
+::: {.notes}
+Think of literature reviews like recipes for making a cake.
+
+* **Narrative Review**: A creative recipe with no specific ingredients or 
+quantities. It's like following your grandma's "secret" recipe that works 
+well but is hard to replicate.
+  + Example: A general overview of the field, summarizing key points without 
+quantitative data.
+* **Thematic Analysis**: A systematic approach to categorize and 
+understand different flavors (themes) in a cake.
+  + Example: Analyzing literature on a specific topic, identifying patterns 
+or themes that emerge from the studies.
+* **Systematic Review**: A structured recipe book with detailed 
+instructions, using established methods to find all relevant ingredients.
+  + Example: Following a well-defined protocol to gather and synthesize all 
+existing research on a particular question or intervention.
+* **Meta-Analysis**: A statistical analysis of multiple cake recipes to 
+identify the "best" combination of ingredients.
+  + Example: Quantitatively combining data from multiple studies to estimate 
+the overall effect size or outcome.
+* **Scoping Review**: A rough sketch of different types of cakes and their 
+ingredients, helping you understand what's out there.
+  + Example: Gathering information on a broad topic, identifying key 
+concepts, and understanding the types of evidence available.
+
+:::
+
+## HOW could they help you in doing research?
+
+- **Research literacy**: 
+  - Understanding the different approaches 
+  - appreciate the complexity and nuances of research 
+  - in your chosen field.
+- **Research design**: 
+  - Recognizing the strengths and limitations of each type 
+  - informs your own research design, 
+  - ensuring usage of the most suitable approach for their project.
+- **Evidence-based practice**: 
+  - As future practitioners or scholars
+  - need to evaluate and apply existing knowledge effectively, 
+  - making informed decisions based on high-quality evidence.
+- **Critical thinking**: 
+  - develops critical thinking skills
+  - enabling to critically assess the validity and relevance of research findings.
+
+
+## Zotero as a Citation Manager
+
+### Overview
+
+- Free, user-friendly tool to collect, organize, and cite research.
+
+### Key Features
+
+- Browser integration for easy data collection.
+- Organize sources with tags and collections.
+- Generate citations and bibliographies.
+
+## Comparing Citation Styles and Tools
+
+### Citation Styles
+
+- **APA:** Author, A. A. (Year of Publication). Title of work: Capital letter also for subtitle. Publisher.
+- **MLA:** Author(s). "Title of Book." Title of Container, other contributors, version, numbers, Publisher, publication date.
+- **Chicago:** Author, Title, Publisher, Year of publication.
+
+## Face-off: Citation Managers:
+
+To compare Zotero, EndNote, Mendeley, and RefWorks in terms of usability, integration, and cost, a comparison table can be quite effective. Here's a simplified overview:
+
+Certainly, here's a more concise comparison table for Zotero, EndNote, Mendeley, and RefWorks:
+
+| Feature       | Zotero             | EndNote          | Mendeley          | RefWorks          |
+|---------------|--------------------|------------------|-------------------|-------------------|
+| **Usability** | User-friendly, open-source. | Professional, feature-rich. | User-friendly with social features. | Simple and intuitive. |
+| **Integration** | Excellent browser and word processor support. | Strong with Microsoft Word and LaTeX. | Good with browsers and Microsoft Word, includes PDF annotator. | Good with academic databases and library systems. |
+| **Cost**      | Free.              | Expensive, varies by institution. | Free basic, premium features cost extra. | Often free through institutions, otherwise subscription-based. |
+
+## TLDR Notes on Citation Managers
+- <span style="color:red">**Zotero**</span>: Highly regarded for its ease of use and flexibility, community-developed plugins
+- **EndNote**: Most comprehensive citation management tools. Costly.
+- **Mendeley**: Popular for PDF annotation features and social networking.
+- **RefWorks**: Straightforward approach to reference management, appealing for those new to research.
+
+## HKU Libraries and Resources
+
+### Accessing Resources
+
+- Direct link to [HKU Libraries](https://lib.hku.hk/).
+- Comprehensive access to academic materials.
+
+### Additional Services
+
+- Article Delivery, Interlibrary Loans for broader access.
+
+## Exploring Scispace, Research Rabbit, etc. 
+
+### [Scispace](https://typeset.io/papers/on-the-understanding-of-the-mean-radiant-temperature-within-46oufotg3y)
+
+- Insights into papers, summarization features.
+
+### [Research Rabbit](https://researchrabbitapp.com/home)
+
+- Visual exploration of paper relationships.
+
+### Zotero GPT, seaml.es, Consensus
+
+### Comparison
+
+- Tool selection based on research needs - or ho.
+
+## More from HKU Library
+
+- Scite Assistant
+  - Access via [Scite](http://find.lib.hku.hk/record=alma991044378699503414)
+  - More information: assistant by scite
+- Scopus AI (On trial)
+  - Access via [Scopus](http://find.lib.hku.hk/record=alma991012748039703414)
+  - More information: What is Scopus AI?
+- Web of Science Research Assistant (On trial until 7 March 2025)
+  - Access via [Web of Science](http://find.lib.hku.hk/record=alma991018968639703414)
+  - More information: Web of Science Research Assistant
+
+
+## Citation Style Example: "Silent Spring"
+
+### APA: American Psychological Association
+
+- Carson, R. (1962). *Silent Spring*. Houghton Mifflin.
+
+### MLA: Modern Language Association
+
+- Carson, Rachel. *Silent Spring*. Houghton Mifflin, 1962.
+
+### Chicago: Chicago Manual of Style
+
+- Carson, Rachel. 1962. *Silent Spring*. Boston: Houghton Mifflin.
+
+## Citation Export Format
+
+#### One-off export:
+
+  - RTF
+  - CSV (comma-seperated values)
+  - Clipboard
+
+#### Custom Styles:
+
+  - BibTeX (LaTeX):
+
+    ```latex
+    @book{Carson1962SilentSpring,
+    title={Silent Spring},
+    author={Carson, Rachel},
+    publisher={Houghton Mifflin},
+    year={1962},
+    address={Boston},
+  }
+    ```
+
+# Ready to dive into literature review with your selected topic? 
+
+<!-- ## Let's perhaps turn back to what you submitted first.
+
+## 19/20 Submissions
+
+- Late submission will result in 10% reduction of grade obtained.
+- Good avoidance of plagiarism
+  - practice paraphrasing where fit.
+- Make your proposal abstract-ready
+- Abstract & Citations
+- Introduction (prelim data) and Background (importance/research gap identified)
+- Over-promise
+
+ -->
+## Something you hopefully have already done: Scoping to a research topic
+
+  1. What time period do you want to focus on? **WHEN** - Time
+  2. What location would you like to focus on? **WHERE** - Location
+  3. What category would you like to focus on? **WHAT** - Category
+  4. What perspective, point of view or issue do you wish to capture? **Issue**
+
+## Having a clear research question:
+
+Does this research proposal:
+
+  1. Define topic area
+  2. Describe the problem
+  3. Specify the gap & justify the investigation
+  4. Draw out one (or a few) research questions
+
+## IN-Session: 
+1. Sign up for research rabbit, scispace or your platform of choice and identify three articles to 'shadow'.
+2. Compare the three ariticle's abstract and your write-up insofar, identify the one that is closest structurally to your writeup and compare:
+  - How are they different?
+  - Where do you think you could/should change?
+  - Are you potentially over-promising?
+  - Can you make your research more 'real' and 'personal'?
+  - How are they different structurally? 
+
+<!-- **You have 10 minutes.** -->
+
+## Assess & Refine
+- Evaluate the question
+    - Do you understand it on first reading?
+    - Is the research feasible given the time and resources that we have?
+    - Does it contribute to a wider (academic) conversation?
+- Tighten your focus
+    - Look at the extracted research question and see if there’s any vagueness in wording: e.g. teenagers to Grade 9-10 students in HK
+- Talk it over
+    - Leverage this assessment criteria and discuss what you think of the current paper
+- Revision suggestions
+    - Any suggestions that you have for the authors when reading through this entire writeup?
+
+## Take five minutes to look at your own submission right now.
+
+We will be reviewing submitted Doc0 momentarily: <span style="color:red">let me know if you prefer to retract yours for peer-review.</span>

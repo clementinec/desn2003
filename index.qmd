@@ -9,11 +9,14 @@ Welcome to DESN2003: Research for Innovation offered at the University of Hong K
   - [Survey Data](surveydata.qmd)
 - [Week 2](desn2003_W2.qmd)
 - [Week 3](desn2003_W3.qmd)
+- [Week 4](desn2003_W4.qmd)
+
 
 
 ## Time & Location
 
 - Time: 
   - THU, 10:30-12:20
+  - Office Hour by Appointment
 - Location: 
   - CPD3.21.

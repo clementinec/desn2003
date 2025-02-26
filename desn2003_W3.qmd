@@ -223,32 +223,6 @@ This study examines how minimalist UI designs impact user trust through A/B test
   - Mind mapping tools (Miro, Coggle)
 
 :::{.notes}
-Artificial Intelligence & Machine Learning:
-"Artificial intelligence"
-"Machine learning"
-"Algorithmic personalization"
-"Predictive analytics"
-Extended Immersive Technologies:
-"Mixed reality"
-"Augmented reality"
-"Virtual reality"
-"Immersive technologies"
-User Experience & Interaction:
-"User experience" (UX)
-"Interaction design"
-"Digital interfaces"
-"Adaptive systems"
-"Smart environments"
-Trust & Behavioral Metrics:
-"Digital trust"
-"Algorithmic trust"
-"Technology acceptance"
-"User satisfaction"
-"Behavioral analytics"
-Context & Environment:
-"Context-aware computing"
-"Cyber-physical systems"
-"Digital transformation"
 
 :::
 ---
