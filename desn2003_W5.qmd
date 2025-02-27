@@ -51,8 +51,8 @@ What the literature has already said about it.
 
 # Example Research Paper(s)
 
-1. Feasibility study of public space: https://www.pland.gov.hk/file/planning_studies/comp_s/pdf/reimagining_public_spaces_in_hong_kong_feasibility_study_consultancy_report_en.pdf
-2. Chan, E. H. W., & Lee, G. K. L. (2009). Design considerations for environmental sustainability in high density development: A case study of Hong Kong. Environment, Development and Sustainability, 11(2), 359–374. https://doi.org/10.1007/s10668-007-9117-0
+1. [Feasibility study of public space](https://www.pland.gov.hk/file/planning_studies/comp_s/pdf/reimagining_public_spaces_in_hong_kong_feasibility_study_consultancy_report_en.pdf)
+2. Chan, E. H. W., & Lee, G. K. L. (2009). D[esign considerations for environmental sustainability in high density development: A case study of Hong Kong](https://doi.org/10.1007/s10668-007-9117-0). Environment, Development and Sustainability, 11(2), 359–374. 
 
 
 # Research Gap - what they are and how to identify them through Qualitative Research
