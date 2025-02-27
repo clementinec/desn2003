@@ -1527,6 +1527,91 @@ Hongshan Guo
 <li>Provides user-centered insights</li>
 <li>Captures emotional and subconscious reactions to the product/service.</li>
 </ul>
+</section>
+<section id="rapid-fire-countdown" class="slide level2 center">
+<h2>Rapid-Fire Countdown</h2>
+<div id="timer-container" style="text-align: center;">
+<!-- Timer Display -->
+<div id="timer" style="
+    font-size: 348px;
+    color: black;
+    margin-bottom: 20px;">
+00:00
+</div>
+<p><!-- Control Buttons --> <button id="start-button" style="
+    font-size: 24px;
+    padding: 20px 40px;
+    background-color: #007ACC;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-right: 10px;"> Start Timer </button> <button id="reset-button" style="
+    font-size: 24px;
+    padding: 20px 40px;
+    background-color: #DC3545;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;"> Reset Timer </button></p>
+</div>
+<script>
+  let countdownDuration = 60; // 5 minutes
+  let initialDuration = 60; // Store the initial time
+  let timerInterval;
+
+  // Format time as MM:SS
+  function formatTime(seconds) {
+    const minutes = Math.floor(seconds / 60);
+    const remainingSeconds = seconds % 60;
+    return `${minutes.toString().padStart(2, '0')}:${remainingSeconds.toString().padStart(2, '0')}`;
+  }
+
+  // Update the timer display
+  function updateTimer() {
+    const timerElement = document.getElementById("timer");
+    if (countdownDuration > 0) {
+      countdownDuration--;
+      timerElement.innerText = formatTime(countdownDuration);
+
+      // Change color to red when time is below 60 seconds
+      if (countdownDuration < 60) {
+        timerElement.style.color = "red";
+      } else {
+        timerElement.style.color = "black";
+      }
+    } else {
+      timerElement.innerText = "Time's up!";
+      clearInterval(timerInterval);
+    }
+  }
+
+  // Start the countdown when the button is clicked
+  document.getElementById("start-button").addEventListener("click", function () {
+    clearInterval(timerInterval); // Ensure no duplicate intervals
+    timerInterval = setInterval(updateTimer, 1000);
+
+    // Disable the start button while the timer is running
+    this.disabled = true;
+    this.innerText = "Timer Running...";
+  });
+
+  // Reset the timer when the reset button is clicked
+  document.getElementById("reset-button").addEventListener("click", function () {
+    clearInterval(timerInterval); // Stop the timer
+    countdownDuration = initialDuration; // Reset time to initial value
+
+    // Reset the timer display
+    const timerElement = document.getElementById("timer");
+    timerElement.innerText = formatTime(countdownDuration);
+    timerElement.style.color = "black"; // Reset color to black
+
+    // Re-enable the start button
+    const startButton = document.getElementById("start-button");
+    startButton.disabled = false;
+    startButton.innerText = "Start Timer";
+  });
+</script>
 
 <div class="quarto-auto-generated-content">
 <div class="footer footer-default">
