@@ -95,7 +95,7 @@
     "href": "index.html#weekly-lecture-notes",
     "title": "DESN2003: Reserach for Innovation",
     "section": "Weekly Lecture Notes",
-    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3\nWeek 4"
+    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3\nWeek 4\nWeek 5"
   },
   {
     "objectID": "index.html#time-location",
@@ -105,81 +105,123 @@
     "text": "Time & Location\n\nTime:\n\nTHU, 10:30-12:20\nOffice Hour by Appointment\n\nLocation:\n\nCPD3.21."
   },
   {
-    "objectID": "desn2003_2_js.html#submit-your-document-0-next-week",
-    "href": "desn2003_2_js.html#submit-your-document-0-next-week",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Submit Your Document 0 next week!",
-    "text": "Submit Your Document 0 next week!\nLength: ≤ 500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
+    "objectID": "desn2003_W4.html#refresher-on-introduction-to-literature-review",
+    "href": "desn2003_W4.html#refresher-on-introduction-to-literature-review",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Refresher on Introduction to Literature Review",
+    "text": "Refresher on Introduction to Literature Review\nPurpose and Objectives\n\nDefinition: A comprehensive survey of publications relevant to a research topic.\nPurpose: Establishes context, identifies gaps, and justifies new research.\n\nKey Objectives\n\nSynthesize existing knowledge.\nIdentify research gaps and questions.\nInform methodology.\nGround research in existing literature."
   },
   {
-    "objectID": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
-    "href": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Let’s start by looking at some research paper examples",
-    "text": "Let’s start by looking at some research paper examples\nAs seen on Moodle\n\nHong Kong Compression\nFashion, Sustainability, Innovations and Energy + interview-heavy"
+    "objectID": "desn2003_W4.html#types-of-literature-reviews",
+    "href": "desn2003_W4.html#types-of-literature-reviews",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Types of Literature Reviews",
+    "text": "Types of Literature Reviews\nNarrative Review\n\nBroad, subjective overview.\nThematic analysis of literature.\n\nSystematic Review\n\nStructured, transparent approach.\nAnswers specific research questions.\n\nMeta-Analysis\n\nCombines data from multiple studies.\nStatistical analysis to find effect size.\n\nScoping Review\n\nMaps key concepts, types of evidence.\nInformative for research areas.\n\n\nThink of literature reviews like recipes for making a cake.\n\nNarrative Review: A creative recipe with no specific ingredients or quantities. It’s like following your grandma’s “secret” recipe that works well but is hard to replicate.\n\nExample: A general overview of the field, summarizing key points without quantitative data.\n\nThematic Analysis: A systematic approach to categorize and understand different flavors (themes) in a cake.\n\nExample: Analyzing literature on a specific topic, identifying patterns or themes that emerge from the studies.\n\nSystematic Review: A structured recipe book with detailed instructions, using established methods to find all relevant ingredients.\n\nExample: Following a well-defined protocol to gather and synthesize all existing research on a particular question or intervention.\n\nMeta-Analysis: A statistical analysis of multiple cake recipes to identify the “best” combination of ingredients.\n\nExample: Quantitatively combining data from multiple studies to estimate the overall effect size or outcome.\n\nScoping Review: A rough sketch of different types of cakes and their ingredients, helping you understand what’s out there.\n\nExample: Gathering information on a broad topic, identifying key concepts, and understanding the types of evidence available."
   },
   {
-    "objectID": "desn2003_2_js.html#literature-review-an-overview",
-    "href": "desn2003_2_js.html#literature-review-an-overview",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Literature Review, an Overview",
-    "text": "Literature Review, an Overview\nObjectives:\nAt end of this session being able to:\n\nexplain what the review of literature is;\nidentify and describe the objectives and sources of the review of literature;\nexplain the function of literature review serves;\nknow where to start to conduct the review of literature and\naware of precautions a researcher should take into consideration in library use;\ngetting warmed up on various literature review formats"
+    "objectID": "desn2003_W4.html#how-could-they-help-you-in-doing-research",
+    "href": "desn2003_W4.html#how-could-they-help-you-in-doing-research",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "HOW could they help you in doing research?",
+    "text": "HOW could they help you in doing research?\n\nResearch literacy:\n\nUnderstanding the different approaches\nappreciate the complexity and nuances of research\nin your chosen field.\n\nResearch design:\n\nRecognizing the strengths and limitations of each type\ninforms your own research design,\nensuring usage of the most suitable approach for their project.\n\nEvidence-based practice:\n\nAs future practitioners or scholars\nneed to evaluate and apply existing knowledge effectively,\nmaking informed decisions based on high-quality evidence.\n\nCritical thinking:\n\ndevelops critical thinking skills\nenabling to critically assess the validity and relevance of research findings."
   },
   {
-    "objectID": "desn2003_2_js.html#on-literature-review",
-    "href": "desn2003_2_js.html#on-literature-review",
-    "title": "DESN2003: Research for Innovation",
-    "section": "On literature review",
-    "text": "On literature review\nLiterature + Review:\n\nliterature: language, knowledge of an area of investigation of any discipline on its investigations of\n\ntheoretical\npratical\nany relevant reserach studies\n\nreview: knowledge organised, show why current study might be an addition to the field:\n\noften seen at graduate level\nconsidered creative and tedious at the same time\nsynthesizing available knowledge in unique way as to\nprovide value-add on top of the existing research"
+    "objectID": "desn2003_W4.html#zotero-as-a-citation-manager",
+    "href": "desn2003_W4.html#zotero-as-a-citation-manager",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Zotero as a Citation Manager",
+    "text": "Zotero as a Citation Manager\nOverview\n\nFree, user-friendly tool to collect, organize, and cite research.\n\nKey Features\n\nBrowser integration for easy data collection.\nOrganize sources with tags and collections.\nGenerate citations and bibliographies."
   },
   {
-    "objectID": "desn2003_2_js.html#two-phases-of-literature-review",
-    "href": "desn2003_2_js.html#two-phases-of-literature-review",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Two phases of literature review",
-    "text": "Two phases of literature review\nPhase One: Catch-them-all\n\nID all relevant publications within your problem space\nRead/Skim through more relevant ones and broaden your understanding\nCritique on how/why some of them is (not) adequate in what they claim\n\nPhase Two: Write on Relevance\n\nSynthesize your findings on the literature into writings\nPresent your own evaluation of the literature that you found relevant, both good and bad\nYour background, reader’s roadmap of how your arguments are paved"
+    "objectID": "desn2003_W4.html#comparing-citation-styles-and-tools",
+    "href": "desn2003_W4.html#comparing-citation-styles-and-tools",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Comparing Citation Styles and Tools",
+    "text": "Comparing Citation Styles and Tools\nCitation Styles\n\nAPA: Author, A. A. (Year of Publication). Title of work: Capital letter also for subtitle. Publisher.\nMLA: Author(s). “Title of Book.” Title of Container, other contributors, version, numbers, Publisher, publication date.\nChicago: Author, Title, Publisher, Year of publication."
   },
   {
-    "objectID": "desn2003_2_js.html#why-do-we-need-literature-review",
-    "href": "desn2003_2_js.html#why-do-we-need-literature-review",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Why do we need literature review?",
-    "text": "Why do we need literature review?\n\nTo understand the research landscape\nTo avoid repetitive work\nTo ascertain innovation and research excellence (if any)\nTo identify additional research gap (if any)"
+    "objectID": "desn2003_W4.html#face-off-citation-managers",
+    "href": "desn2003_W4.html#face-off-citation-managers",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Face-off: Citation Managers:",
+    "text": "Face-off: Citation Managers:\nTo compare Zotero, EndNote, Mendeley, and RefWorks in terms of usability, integration, and cost, a comparison table can be quite effective. Here’s a simplified overview:\nCertainly, here’s a more concise comparison table for Zotero, EndNote, Mendeley, and RefWorks:\n\n\n\n\n\n\n\n\n\n\nFeature\nZotero\nEndNote\nMendeley\nRefWorks\n\n\n\n\nUsability\nUser-friendly, open-source.\nProfessional, feature-rich.\nUser-friendly with social features.\nSimple and intuitive.\n\n\nIntegration\nExcellent browser and word processor support.\nStrong with Microsoft Word and LaTeX.\nGood with browsers and Microsoft Word, includes PDF annotator.\nGood with academic databases and library systems.\n\n\nCost\nFree.\nExpensive, varies by institution.\nFree basic, premium features cost extra.\nOften free through institutions, otherwise subscription-based."
   },
   {
-    "objectID": "desn2003_2_js.html#realistically-literature-review-provides-us-a-stock-of",
-    "href": "desn2003_2_js.html#realistically-literature-review-provides-us-a-stock-of",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Realistically, Literature Review Provides us a stock of:",
-    "text": "Realistically, Literature Review Provides us a stock of:\n\nTheories, ideas, explanations or hypotheses;\nRecord to check against for repetition;\nPossible method, procedure, sources of data suitable to even a new problem;\nRelevant conclusions drawn in the related studies;"
+    "objectID": "desn2003_W4.html#tldr-notes-on-citation-managers",
+    "href": "desn2003_W4.html#tldr-notes-on-citation-managers",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "TLDR Notes on Citation Managers",
+    "text": "TLDR Notes on Citation Managers\n\nZotero: Highly regarded for its ease of use and flexibility, community-developed plugins\nEndNote: Most comprehensive citation management tools. Costly.\nMendeley: Popular for PDF annotation features and social networking.\nRefWorks: Straightforward approach to reference management, appealing for those new to research."
   },
   {
-    "objectID": "desn2003_2_js.html#common-sources-of-literature",
-    "href": "desn2003_2_js.html#common-sources-of-literature",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Common Sources of Literature",
-    "text": "Common Sources of Literature\n\nBooks;\n(Academic) Journals;\nAbstracts;\nEncyclopaedias;\nHandbooks and Guides;\nSpecial Dictionaries;\nDissertations and Theses;\nAnything off the search Engine."
+    "objectID": "desn2003_W4.html#hku-libraries-and-resources",
+    "href": "desn2003_W4.html#hku-libraries-and-resources",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "HKU Libraries and Resources",
+    "text": "HKU Libraries and Resources\nAccessing Resources\n\nDirect link to HKU Libraries.\nComprehensive access to academic materials.\n\nAdditional Services\n\nArticle Delivery, Interlibrary Loans for broader access."
   },
   {
-    "objectID": "desn2003_2_js.html#functions-of-literatures",
-    "href": "desn2003_2_js.html#functions-of-literatures",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Functions of Literatures",
-    "text": "Functions of Literatures\n\nProvides conceptual frame of refrence for contemplated research\nHelps generate an understanding of status of current field\nPoints to possible choice of research methodology, instrumentation & data needed for analysis\nDemonstrate why proposed research is needed and provides roadmap to success;"
+    "objectID": "desn2003_W4.html#exploring-scispace-research-rabbit-etc.",
+    "href": "desn2003_W4.html#exploring-scispace-research-rabbit-etc.",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Exploring Scispace, Research Rabbit, etc.",
+    "text": "Exploring Scispace, Research Rabbit, etc.\nScispace\n\nInsights into papers, summarization features.\n\nResearch Rabbit\n\nVisual exploration of paper relationships.\n\nZotero GPT, seaml.es, Consensus\nComparison\n\nTool selection based on research needs - or ho."
   },
   {
-    "objectID": "desn2003_2_js.html#expanding-on-phase-one-of-literature-review",
-    "href": "desn2003_2_js.html#expanding-on-phase-one-of-literature-review",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Expanding on Phase One of Literature Review",
-    "text": "Expanding on Phase One of Literature Review\nRepeat this on each of the sources that you came across\n\nRELEVANCE? Gain general impression of what the selected source is\n\n\nwhat is it trying to answer aka research question\nhow is the source structured\nwhether the problem identified was tackled and how\nany relevant questions put forward\n\n\nHOW MIGHT IT HELP YOU? Consider how the source would help you\n\n\nDoes it answer (a part) of your research question?\nWhere are the answers/evidence located in the source"
+    "objectID": "desn2003_W4.html#more-from-hku-library",
+    "href": "desn2003_W4.html#more-from-hku-library",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "More from HKU Library",
+    "text": "More from HKU Library\n\nScite Assistant\n\nAccess via Scite\nMore information: assistant by scite\n\nScopus AI (On trial)\n\nAccess via Scopus\nMore information: What is Scopus AI?\n\nWeb of Science Research Assistant (On trial until 7 March 2025)\n\nAccess via Web of Science\nMore information: Web of Science Research Assistant"
   },
   {
-    "objectID": "desn2003_2_js.html#precautions",
-    "href": "desn2003_2_js.html#precautions",
-    "title": "DESN2003: Research for Innovation",
-    "section": "Precautions",
-    "text": "Precautions\n\nAvoid intellectual dishonesty: Write and think on your own\nPractice critical thinking: Do it on your own standing\nLiteature review is not relisting previous studies\nAlways helpful to arrange studies in chronological order before categorizing them on fields/relevance"
+    "objectID": "desn2003_W4.html#citation-style-example-silent-spring",
+    "href": "desn2003_W4.html#citation-style-example-silent-spring",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Citation Style Example: “Silent Spring”",
+    "text": "Citation Style Example: “Silent Spring”\nAPA: American Psychological Association\n\nCarson, R. (1962). Silent Spring. Houghton Mifflin.\n\nMLA: Modern Language Association\n\nCarson, Rachel. Silent Spring. Houghton Mifflin, 1962.\n\nChicago: Chicago Manual of Style\n\nCarson, Rachel. 1962. Silent Spring. Boston: Houghton Mifflin."
+  },
+  {
+    "objectID": "desn2003_W4.html#citation-export-format",
+    "href": "desn2003_W4.html#citation-export-format",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Citation Export Format",
+    "text": "Citation Export Format\nOne-off export:\n\nRTF\nCSV (comma-seperated values)\nClipboard\n\nCustom Styles:\n\nBibTeX (LaTeX):\n@book{Carson1962SilentSpring,\ntitle={Silent Spring},\nauthor={Carson, Rachel},\npublisher={Houghton Mifflin},\nyear={1962},\naddress={Boston},\n  }"
+  },
+  {
+    "objectID": "desn2003_W4.html#something-you-hopefully-have-already-done-scoping-to-a-research-topic",
+    "href": "desn2003_W4.html#something-you-hopefully-have-already-done-scoping-to-a-research-topic",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Something you hopefully have already done: Scoping to a research topic",
+    "text": "Something you hopefully have already done: Scoping to a research topic\n\nWhat time period do you want to focus on? WHEN - Time\nWhat location would you like to focus on? WHERE - Location\nWhat category would you like to focus on? WHAT - Category\nWhat perspective, point of view or issue do you wish to capture? Issue"
+  },
+  {
+    "objectID": "desn2003_W4.html#having-a-clear-research-question",
+    "href": "desn2003_W4.html#having-a-clear-research-question",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Having a clear research question:",
+    "text": "Having a clear research question:\nDoes this research proposal:\n\nDefine topic area\nDescribe the problem\nSpecify the gap & justify the investigation\nDraw out one (or a few) research questions"
+  },
+  {
+    "objectID": "desn2003_W4.html#in-session",
+    "href": "desn2003_W4.html#in-session",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "IN-Session:",
+    "text": "IN-Session:\n\nSign up for research rabbit, scispace or your platform of choice and identify three articles to ‘shadow’.\nCompare the three ariticle’s abstract and your write-up insofar, identify the one that is closest structurally to your writeup and compare:\n\n\nHow are they different?\nWhere do you think you could/should change?\nAre you potentially over-promising?\nCan you make your research more ‘real’ and ‘personal’?\nHow are they different structurally?"
+  },
+  {
+    "objectID": "desn2003_W4.html#assess-refine",
+    "href": "desn2003_W4.html#assess-refine",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Assess & Refine",
+    "text": "Assess & Refine\n\nEvaluate the question\n\nDo you understand it on first reading?\nIs the research feasible given the time and resources that we have?\nDoes it contribute to a wider (academic) conversation?\n\nTighten your focus\n\nLook at the extracted research question and see if there’s any vagueness in wording: e.g. teenagers to Grade 9-10 students in HK\n\nTalk it over\n\nLeverage this assessment criteria and discuss what you think of the current paper\n\nRevision suggestions\n\nAny suggestions that you have for the authors when reading through this entire writeup?"
+  },
+  {
+    "objectID": "desn2003_W4.html#take-five-minutes-to-look-at-your-own-submission-right-now.",
+    "href": "desn2003_W4.html#take-five-minutes-to-look-at-your-own-submission-right-now.",
+    "title": "Literature Review Extended by Advanced Methods",
+    "section": "Take five minutes to look at your own submission right now.",
+    "text": "Take five minutes to look at your own submission right now.\nWe will be reviewing submitted Doc0 momentarily: let me know if you prefer to retract yours for peer-review."
   },
   {
     "objectID": "desn2003_W2.html#roadmapoverview-of-session",
@@ -357,123 +399,284 @@
     "text": "Optional: Academic Research and Prior Art Search?"
   },
   {
-    "objectID": "desn2003_W4.html#refresher-on-introduction-to-literature-review",
-    "href": "desn2003_W4.html#refresher-on-introduction-to-literature-review",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Refresher on Introduction to Literature Review",
-    "text": "Refresher on Introduction to Literature Review\nPurpose and Objectives\n\nDefinition: A comprehensive survey of publications relevant to a research topic.\nPurpose: Establishes context, identifies gaps, and justifies new research.\n\nKey Objectives\n\nSynthesize existing knowledge.\nIdentify research gaps and questions.\nInform methodology.\nGround research in existing literature."
+    "objectID": "desn2003_2_js.html#submit-your-document-0-next-week",
+    "href": "desn2003_2_js.html#submit-your-document-0-next-week",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Submit Your Document 0 next week!",
+    "text": "Submit Your Document 0 next week!\nLength: ≤ 500 words\n\nExpand beyond what you’ve written before\nThink critically at how much better you could’ve written this\n\nStyle: Extended Abstract\n\nShould contain what you normally see in normal abstracts\nCan contain additional bullet points and outlines on what do you propose to do next or potential outcomes"
   },
   {
-    "objectID": "desn2003_W4.html#types-of-literature-reviews",
-    "href": "desn2003_W4.html#types-of-literature-reviews",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Types of Literature Reviews",
-    "text": "Types of Literature Reviews\nNarrative Review\n\nBroad, subjective overview.\nThematic analysis of literature.\n\nSystematic Review\n\nStructured, transparent approach.\nAnswers specific research questions.\n\nMeta-Analysis\n\nCombines data from multiple studies.\nStatistical analysis to find effect size.\n\nScoping Review\n\nMaps key concepts, types of evidence.\nInformative for research areas.\n\n\nThink of literature reviews like recipes for making a cake.\n\nNarrative Review: A creative recipe with no specific ingredients or quantities. It’s like following your grandma’s “secret” recipe that works well but is hard to replicate.\n\nExample: A general overview of the field, summarizing key points without quantitative data.\n\nThematic Analysis: A systematic approach to categorize and understand different flavors (themes) in a cake.\n\nExample: Analyzing literature on a specific topic, identifying patterns or themes that emerge from the studies.\n\nSystematic Review: A structured recipe book with detailed instructions, using established methods to find all relevant ingredients.\n\nExample: Following a well-defined protocol to gather and synthesize all existing research on a particular question or intervention.\n\nMeta-Analysis: A statistical analysis of multiple cake recipes to identify the “best” combination of ingredients.\n\nExample: Quantitatively combining data from multiple studies to estimate the overall effect size or outcome.\n\nScoping Review: A rough sketch of different types of cakes and their ingredients, helping you understand what’s out there.\n\nExample: Gathering information on a broad topic, identifying key concepts, and understanding the types of evidence available."
+    "objectID": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
+    "href": "desn2003_2_js.html#lets-start-by-looking-at-some-research-paper-examples",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Let’s start by looking at some research paper examples",
+    "text": "Let’s start by looking at some research paper examples\nAs seen on Moodle\n\nHong Kong Compression\nFashion, Sustainability, Innovations and Energy + interview-heavy"
   },
   {
-    "objectID": "desn2003_W4.html#how-could-they-help-you-in-doing-research",
-    "href": "desn2003_W4.html#how-could-they-help-you-in-doing-research",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "HOW could they help you in doing research?",
-    "text": "HOW could they help you in doing research?\n\nResearch literacy:\n\nUnderstanding the different approaches\nappreciate the complexity and nuances of research\nin your chosen field.\n\nResearch design:\n\nRecognizing the strengths and limitations of each type\ninforms your own research design,\nensuring usage of the most suitable approach for their project.\n\nEvidence-based practice:\n\nAs future practitioners or scholars\nneed to evaluate and apply existing knowledge effectively,\nmaking informed decisions based on high-quality evidence.\n\nCritical thinking:\n\ndevelops critical thinking skills\nenabling to critically assess the validity and relevance of research findings."
+    "objectID": "desn2003_2_js.html#literature-review-an-overview",
+    "href": "desn2003_2_js.html#literature-review-an-overview",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Literature Review, an Overview",
+    "text": "Literature Review, an Overview\nObjectives:\nAt end of this session being able to:\n\nexplain what the review of literature is;\nidentify and describe the objectives and sources of the review of literature;\nexplain the function of literature review serves;\nknow where to start to conduct the review of literature and\naware of precautions a researcher should take into consideration in library use;\ngetting warmed up on various literature review formats"
   },
   {
-    "objectID": "desn2003_W4.html#zotero-as-a-citation-manager",
-    "href": "desn2003_W4.html#zotero-as-a-citation-manager",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Zotero as a Citation Manager",
-    "text": "Zotero as a Citation Manager\nOverview\n\nFree, user-friendly tool to collect, organize, and cite research.\n\nKey Features\n\nBrowser integration for easy data collection.\nOrganize sources with tags and collections.\nGenerate citations and bibliographies."
+    "objectID": "desn2003_2_js.html#on-literature-review",
+    "href": "desn2003_2_js.html#on-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "On literature review",
+    "text": "On literature review\nLiterature + Review:\n\nliterature: language, knowledge of an area of investigation of any discipline on its investigations of\n\ntheoretical\npratical\nany relevant reserach studies\n\nreview: knowledge organised, show why current study might be an addition to the field:\n\noften seen at graduate level\nconsidered creative and tedious at the same time\nsynthesizing available knowledge in unique way as to\nprovide value-add on top of the existing research"
   },
   {
-    "objectID": "desn2003_W4.html#comparing-citation-styles-and-tools",
-    "href": "desn2003_W4.html#comparing-citation-styles-and-tools",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Comparing Citation Styles and Tools",
-    "text": "Comparing Citation Styles and Tools\nCitation Styles\n\nAPA: Author, A. A. (Year of Publication). Title of work: Capital letter also for subtitle. Publisher.\nMLA: Author(s). “Title of Book.” Title of Container, other contributors, version, numbers, Publisher, publication date.\nChicago: Author, Title, Publisher, Year of publication."
+    "objectID": "desn2003_2_js.html#two-phases-of-literature-review",
+    "href": "desn2003_2_js.html#two-phases-of-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Two phases of literature review",
+    "text": "Two phases of literature review\nPhase One: Catch-them-all\n\nID all relevant publications within your problem space\nRead/Skim through more relevant ones and broaden your understanding\nCritique on how/why some of them is (not) adequate in what they claim\n\nPhase Two: Write on Relevance\n\nSynthesize your findings on the literature into writings\nPresent your own evaluation of the literature that you found relevant, both good and bad\nYour background, reader’s roadmap of how your arguments are paved"
   },
   {
-    "objectID": "desn2003_W4.html#face-off-citation-managers",
-    "href": "desn2003_W4.html#face-off-citation-managers",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Face-off: Citation Managers:",
-    "text": "Face-off: Citation Managers:\nTo compare Zotero, EndNote, Mendeley, and RefWorks in terms of usability, integration, and cost, a comparison table can be quite effective. Here’s a simplified overview:\nCertainly, here’s a more concise comparison table for Zotero, EndNote, Mendeley, and RefWorks:\n\n\n\n\n\n\n\n\n\n\nFeature\nZotero\nEndNote\nMendeley\nRefWorks\n\n\n\n\nUsability\nUser-friendly, open-source.\nProfessional, feature-rich.\nUser-friendly with social features.\nSimple and intuitive.\n\n\nIntegration\nExcellent browser and word processor support.\nStrong with Microsoft Word and LaTeX.\nGood with browsers and Microsoft Word, includes PDF annotator.\nGood with academic databases and library systems.\n\n\nCost\nFree.\nExpensive, varies by institution.\nFree basic, premium features cost extra.\nOften free through institutions, otherwise subscription-based."
+    "objectID": "desn2003_2_js.html#why-do-we-need-literature-review",
+    "href": "desn2003_2_js.html#why-do-we-need-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Why do we need literature review?",
+    "text": "Why do we need literature review?\n\nTo understand the research landscape\nTo avoid repetitive work\nTo ascertain innovation and research excellence (if any)\nTo identify additional research gap (if any)"
   },
   {
-    "objectID": "desn2003_W4.html#tldr-notes-on-citation-managers",
-    "href": "desn2003_W4.html#tldr-notes-on-citation-managers",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "TLDR Notes on Citation Managers",
-    "text": "TLDR Notes on Citation Managers\n\nZotero: Highly regarded for its ease of use and flexibility, community-developed plugins\nEndNote: Most comprehensive citation management tools. Costly.\nMendeley: Popular for PDF annotation features and social networking.\nRefWorks: Straightforward approach to reference management, appealing for those new to research."
+    "objectID": "desn2003_2_js.html#realistically-literature-review-provides-us-a-stock-of",
+    "href": "desn2003_2_js.html#realistically-literature-review-provides-us-a-stock-of",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Realistically, Literature Review Provides us a stock of:",
+    "text": "Realistically, Literature Review Provides us a stock of:\n\nTheories, ideas, explanations or hypotheses;\nRecord to check against for repetition;\nPossible method, procedure, sources of data suitable to even a new problem;\nRelevant conclusions drawn in the related studies;"
   },
   {
-    "objectID": "desn2003_W4.html#hku-libraries-and-resources",
-    "href": "desn2003_W4.html#hku-libraries-and-resources",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "HKU Libraries and Resources",
-    "text": "HKU Libraries and Resources\nAccessing Resources\n\nDirect link to HKU Libraries.\nComprehensive access to academic materials.\n\nAdditional Services\n\nArticle Delivery, Interlibrary Loans for broader access."
+    "objectID": "desn2003_2_js.html#common-sources-of-literature",
+    "href": "desn2003_2_js.html#common-sources-of-literature",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Common Sources of Literature",
+    "text": "Common Sources of Literature\n\nBooks;\n(Academic) Journals;\nAbstracts;\nEncyclopaedias;\nHandbooks and Guides;\nSpecial Dictionaries;\nDissertations and Theses;\nAnything off the search Engine."
   },
   {
-    "objectID": "desn2003_W4.html#exploring-scispace-research-rabbit-etc.",
-    "href": "desn2003_W4.html#exploring-scispace-research-rabbit-etc.",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Exploring Scispace, Research Rabbit, etc.",
-    "text": "Exploring Scispace, Research Rabbit, etc.\nScispace\n\nInsights into papers, summarization features.\n\nResearch Rabbit\n\nVisual exploration of paper relationships.\n\nZotero GPT, seaml.es, Consensus\nComparison\n\nTool selection based on research needs - or ho."
+    "objectID": "desn2003_2_js.html#functions-of-literatures",
+    "href": "desn2003_2_js.html#functions-of-literatures",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Functions of Literatures",
+    "text": "Functions of Literatures\n\nProvides conceptual frame of refrence for contemplated research\nHelps generate an understanding of status of current field\nPoints to possible choice of research methodology, instrumentation & data needed for analysis\nDemonstrate why proposed research is needed and provides roadmap to success;"
   },
   {
-    "objectID": "desn2003_W4.html#more-from-hku-library",
-    "href": "desn2003_W4.html#more-from-hku-library",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "More from HKU Library",
-    "text": "More from HKU Library\n\nScite Assistant\n\nAccess via Scite\nMore information: assistant by scite\n\nScopus AI (On trial)\n\nAccess via Scopus\nMore information: What is Scopus AI?\n\nWeb of Science Research Assistant (On trial until 7 March 2025)\n\nAccess via Web of Science\nMore information: Web of Science Research Assistant"
+    "objectID": "desn2003_2_js.html#expanding-on-phase-one-of-literature-review",
+    "href": "desn2003_2_js.html#expanding-on-phase-one-of-literature-review",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Expanding on Phase One of Literature Review",
+    "text": "Expanding on Phase One of Literature Review\nRepeat this on each of the sources that you came across\n\nRELEVANCE? Gain general impression of what the selected source is\n\n\nwhat is it trying to answer aka research question\nhow is the source structured\nwhether the problem identified was tackled and how\nany relevant questions put forward\n\n\nHOW MIGHT IT HELP YOU? Consider how the source would help you\n\n\nDoes it answer (a part) of your research question?\nWhere are the answers/evidence located in the source"
   },
   {
-    "objectID": "desn2003_W4.html#citation-style-example-silent-spring",
-    "href": "desn2003_W4.html#citation-style-example-silent-spring",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Citation Style Example: “Silent Spring”",
-    "text": "Citation Style Example: “Silent Spring”\nAPA: American Psychological Association\n\nCarson, R. (1962). Silent Spring. Houghton Mifflin.\n\nMLA: Modern Language Association\n\nCarson, Rachel. Silent Spring. Houghton Mifflin, 1962.\n\nChicago: Chicago Manual of Style\n\nCarson, Rachel. 1962. Silent Spring. Boston: Houghton Mifflin."
+    "objectID": "desn2003_2_js.html#precautions",
+    "href": "desn2003_2_js.html#precautions",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Precautions",
+    "text": "Precautions\n\nAvoid intellectual dishonesty: Write and think on your own\nPractice critical thinking: Do it on your own standing\nLiteature review is not relisting previous studies\nAlways helpful to arrange studies in chronological order before categorizing them on fields/relevance"
   },
   {
-    "objectID": "desn2003_W4.html#citation-export-format",
-    "href": "desn2003_W4.html#citation-export-format",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Citation Export Format",
-    "text": "Citation Export Format\nOne-off export:\n\nRTF\nCSV (comma-seperated values)\nClipboard\n\nCustom Styles:\n\nBibTeX (LaTeX):\n@book{Carson1962SilentSpring,\ntitle={Silent Spring},\nauthor={Carson, Rachel},\npublisher={Houghton Mifflin},\nyear={1962},\naddress={Boston},\n  }"
+    "objectID": "desn2003_W5.html#what-weve-covered-insofar.",
+    "href": "desn2003_W5.html#what-weve-covered-insofar.",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "What we’ve covered insofar.",
+    "text": "What we’ve covered insofar.\n\nW1: Introduction to Research & Innovation\nW2: Research Methods, an Introduction\nW3: Literature Research, what they are and why they matter\nW4: SOTA Literature Research with LLMs"
   },
   {
-    "objectID": "desn2003_W4.html#something-you-hopefully-have-already-done-scoping-to-a-research-topic",
-    "href": "desn2003_W4.html#something-you-hopefully-have-already-done-scoping-to-a-research-topic",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Something you hopefully have already done: Scoping to a research topic",
-    "text": "Something you hopefully have already done: Scoping to a research topic\n\nWhat time period do you want to focus on? WHEN - Time\nWhat location would you like to focus on? WHERE - Location\nWhat category would you like to focus on? WHAT - Category\nWhat perspective, point of view or issue do you wish to capture? Issue"
+    "objectID": "desn2003_W5.html#and-the-evaluation-metrics",
+    "href": "desn2003_W5.html#and-the-evaluation-metrics",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "And the Evaluation Metrics",
+    "text": "And the Evaluation Metrics\nIndividual Research (40%+20%)\n\nDoc0: Research Scope through Extended Abstract\nRelevant Literature Review (Doc 0.1)\nCollecting Evidence (Doc 0.2)\nDoc1: Research Paper Draft & Presentation ### Group Research (Collaborative Informational Interviews, 30%)\nLiterature Review (in practice)\nOral Presentation (15%)+ Group Report (15%)"
   },
   {
-    "objectID": "desn2003_W4.html#having-a-clear-research-question",
-    "href": "desn2003_W4.html#having-a-clear-research-question",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Having a clear research question:",
-    "text": "Having a clear research question:\nDoes this research proposal:\n\nDefine topic area\nDescribe the problem\nSpecify the gap & justify the investigation\nDraw out one (or a few) research questions"
+    "objectID": "desn2003_W5.html#reflection-on-doc-0",
+    "href": "desn2003_W5.html#reflection-on-doc-0",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Reflection on Doc 0",
+    "text": "Reflection on Doc 0\n\nGrades and Comment released on Moodle\nSome common issues:\n\nIntroduction ≠ Abstract\nExtended Abstract: Abstract + outline of research paper\nFormat of Abstract: no citation, plain text (1 paragraph usually)\nAs high-level as possible\nTheoretical Framework"
   },
   {
-    "objectID": "desn2003_W4.html#in-session",
-    "href": "desn2003_W4.html#in-session",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "IN-Session:",
-    "text": "IN-Session:\n\nSign up for research rabbit, scispace or your platform of choice and identify three articles to ‘shadow’.\nCompare the three ariticle’s abstract and your write-up insofar, identify the one that is closest structurally to your writeup and compare:\n\n\nHow are they different?\nWhere do you think you could/should change?\nAre you potentially over-promising?\nCan you make your research more ‘real’ and ‘personal’?\nHow are they different structurally?"
+    "objectID": "desn2003_W5.html#theoretical-framework",
+    "href": "desn2003_W5.html#theoretical-framework",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Theoretical Framework",
+    "text": "Theoretical Framework\nWhat the literature has already said about it. 1. What theories have been developed to investigate the question/problem that you intend to investigate? 2. Does it involve looking at multiple disciplines when you want to set this up? 3. What are the common caveats they mention as ‘future work’ and are any them of them relevant to your proposed research?"
   },
   {
-    "objectID": "desn2003_W4.html#assess-refine",
-    "href": "desn2003_W4.html#assess-refine",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Assess & Refine",
-    "text": "Assess & Refine\n\nEvaluate the question\n\nDo you understand it on first reading?\nIs the research feasible given the time and resources that we have?\nDoes it contribute to a wider (academic) conversation?\n\nTighten your focus\n\nLook at the extracted research question and see if there’s any vagueness in wording: e.g. teenagers to Grade 9-10 students in HK\n\nTalk it over\n\nLeverage this assessment criteria and discuss what you think of the current paper\n\nRevision suggestions\n\nAny suggestions that you have for the authors when reading through this entire writeup?"
+    "objectID": "desn2003_W5.html#research-gap",
+    "href": "desn2003_W5.html#research-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Research Gap",
+    "text": "Research Gap\nAreas that has received little or no investigation that produces relevant and timely research that works best for the current scope of the matter.\nTLDR: Pain point you think your research will be covering.\nLet’s potentially look at one example here."
   },
   {
-    "objectID": "desn2003_W4.html#take-five-minutes-to-look-at-your-own-submission-right-now.",
-    "href": "desn2003_W4.html#take-five-minutes-to-look-at-your-own-submission-right-now.",
-    "title": "Literature Review Extended by Advanced Methods",
-    "section": "Take five minutes to look at your own submission right now.",
-    "text": "Take five minutes to look at your own submission right now.\nWe will be reviewing submitted Doc0 momentarily: let me know if you prefer to retract yours for peer-review."
+    "objectID": "desn2003_W5.html#identifying-research-gap",
+    "href": "desn2003_W5.html#identifying-research-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Identifying Research Gap",
+    "text": "Identifying Research Gap\n\nLeverage research that currently exists.\nHelps in building understanding of current domain."
+  },
+  {
+    "objectID": "desn2003_W5.html#types-of-research-gaps",
+    "href": "desn2003_W5.html#types-of-research-gaps",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Types of research gaps",
+    "text": "Types of research gaps\n\nThe classic literature gap\nThe disagreement gap\nThe contexual gap, and\nThe methodological gap"
+  },
+  {
+    "objectID": "desn2003_W5.html#classic-literature-gap",
+    "href": "desn2003_W5.html#classic-literature-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Classic literature gap",
+    "text": "Classic literature gap\n\nEmerges when new concept or phenomenon that hasn’t been studied much\ne.g. Launch of a new service/platform\nFully exploratory investigation\nAdjacent literature available ONLY"
+  },
+  {
+    "objectID": "desn2003_W5.html#disagreement-gap",
+    "href": "desn2003_W5.html#disagreement-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Disagreement gap",
+    "text": "Disagreement gap\n\nEmerges when there are contrasting and contradictory findings in existing research\ne.g. Is earth flat?\nOpposing findings needs to be somewhat balanced\n\nAvoiding corner-case anomaly"
+  },
+  {
+    "objectID": "desn2003_W5.html#contextual-gap",
+    "href": "desn2003_W5.html#contextual-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Contextual Gap",
+    "text": "Contextual Gap\nDecent existing research exists, but absence of research in specific contexts: - a specific population - a precise geographic area - a certain time period - Is a popular option for dissertation as it often builds on existing literature - Often leverages similar if not the same methodology from other prior studies. - Address why is the proposed investigation for this subgroup relevant."
+  },
+  {
+    "objectID": "desn2003_W5.html#the-methodological-gap",
+    "href": "desn2003_W5.html#the-methodological-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "The Methodological Gap",
+    "text": "The Methodological Gap\n\nEmerges when you identified insufficiencies amongst popular methodologies for the specified topic\nPropose alternatives and\nJustify the suggested change through evidence and arguments"
+  },
+  {
+    "objectID": "desn2003_W5.html#lets-look-at-some-examples",
+    "href": "desn2003_W5.html#lets-look-at-some-examples",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Let’s look at some examples:",
+    "text": "Let’s look at some examples:\nContext: Healthcare\nDespite extensive research on diabetes management, there’s a research gap in terms of understanding the effectiveness of digital health interventions in rural populations (compared to urban ones) within Eastern Europe.\nContext: Environmental Science\nWhile a wealth of research exists regarding plastic pollution in oceans, there is significantly less understanding of microplastic accumulation in freshwater ecosystems like rivers and lakes, particularly within Southern Africa.\nContext: Education\nWhile empirical research surrounding online learning has grown over the past five years, there remains a lack of comprehensive studies regarding the effectiveness of online learning for students with special educational needs."
+  },
+  {
+    "objectID": "desn2003_W5.html#finding-a-resarch-gap",
+    "href": "desn2003_W5.html#finding-a-resarch-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Finding A Resarch Gap",
+    "text": "Finding A Resarch Gap\n\nFind as many lit reviews, systematic reviews and meta-analysis as you can that covers your area of interests on top of most recent journal articles;\nFind what other researchers have identified as ‘future research is needed’ and she if someone has already investigated the problem that you observe, or can fill your list of ‘candidate topics’ for you instead.\nIf you found the question has already been answered, congrats and review it critically to confirm whether you may need to change the direction of proposed resarch.\nIf you haven’t found anything that agrees specifically with your topic, then congrats as you now have a list that you can exhaust before running out of proposed research."
+  },
+  {
+    "objectID": "desn2003_W5.html#working-with-research-gap",
+    "href": "desn2003_W5.html#working-with-research-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Working with Research Gap",
+    "text": "Working with Research Gap\n\nWhat data can you collect upon them?\nWhat data do you not already know about it?\nWhat is the information that you absolutely need?\nWhat might you learn from your own experiments?"
+  },
+  {
+    "objectID": "desn2003_W5.html#a-quick-recap",
+    "href": "desn2003_W5.html#a-quick-recap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "A quick recap:",
+    "text": "A quick recap:\n\nWhat’s a research gap?\nWhat are the four most common types of resarch gaps?\nHow can one identify research gaps?"
+  },
+  {
+    "objectID": "desn2003_W5.html#unpacking-qualitative-insights",
+    "href": "desn2003_W5.html#unpacking-qualitative-insights",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Unpacking Qualitative Insights",
+    "text": "Unpacking Qualitative Insights\n\nDelving into ‘why’ and ‘how’:\n\nIn-depth interviews\nEthnographic fieldwork\nThematic content analysis\n\nArchitectural focus:\n\nImpact of public spaces on community\nPersonal narratives and daily interactions"
+  },
+  {
+    "objectID": "desn2003_W5.html#the-power-of-observation",
+    "href": "desn2003_W5.html#the-power-of-observation",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "The Power of Observation",
+    "text": "The Power of Observation\n\nObserving space usage:\n\nUnscripted interactions\nEssence of architectural design"
+  },
+  {
+    "objectID": "desn2003_W5.html#participant-narratives",
+    "href": "desn2003_W5.html#participant-narratives",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Participant Narratives",
+    "text": "Participant Narratives\n\nCollecting stories:\n\nIndividual experiences in spaces\nMosaic of community life"
+  },
+  {
+    "objectID": "desn2003_W5.html#filling-the-void",
+    "href": "desn2003_W5.html#filling-the-void",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Filling the Void",
+    "text": "Filling the Void\n\nUncovering nuanced perspectives:\n\nComplex dynamics\nOverlooked areas"
+  },
+  {
+    "objectID": "desn2003_W5.html#architectural-application",
+    "href": "desn2003_W5.html#architectural-application",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Architectural Application",
+    "text": "Architectural Application\n\nEvolving role of libraries:\n\nBeyond books to communal hubs\nEmerging functions and community needs"
+  },
+  {
+    "objectID": "desn2003_W5.html#bridging-the-gap",
+    "href": "desn2003_W5.html#bridging-the-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Bridging the Gap",
+    "text": "Bridging the Gap\n\nCapturing lived experience:\n\nUnderstanding spaces’ impact on behavior"
+  },
+  {
+    "objectID": "desn2003_W5.html#a-mock-case-examples",
+    "href": "desn2003_W5.html#a-mock-case-examples",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "A Mock Case Examples",
+    "text": "A Mock Case Examples\nRevitalizing Historical Districts\n\nContemporary interventions:\n\nCommunity sentiments on preservation vs. modernization"
+  },
+  {
+    "objectID": "desn2003_W5.html#methodological-gaps-in-design-research",
+    "href": "desn2003_W5.html#methodological-gaps-in-design-research",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Methodological Gaps in Design Research",
+    "text": "Methodological Gaps in Design Research\nRethinking Data Collection\n\nBeyond traditional surveys:\n\nCapturing emotional resonance of spaces\n\n\nInnovative Analysis Techniques\n\nNarrative analysis for deeper meanings:\n\nCollect stories people tell about spaces\n\n\nEmbracing Emerging Technologies\n\nVirtual reality in design:\n\nSimulating user experiences pre-construction"
+  },
+  {
+    "objectID": "desn2003_W5.html#case-study-urban-green-spaces",
+    "href": "desn2003_W5.html#case-study-urban-green-spaces",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Case Study: Urban Green Spaces",
+    "text": "Case Study: Urban Green Spaces\n\nObjective: Explore how urban green spaces influence community well-being.\nMethod: Ethnographic observation and in-depth interviews with residents.\n\nObservations reveal how different groups use green spaces.\nInterviews uncover personal narratives about the value of these spaces.\n\nFindings:\n\nVaried uses by different demographics (e.g., families, elderly, athletes).\nEmotional and social significance attached to green spaces.\n\nResearch Questions Identified:\n\nHow do design elements of urban green spaces cater to diverse community needs?\nWhat role do green spaces play in fostering community bonds?\n\n\nReflection:\n\nEthnographic insights reveal nuanced use and value of green spaces, leading to targeted research questions about design and community impact."
+  },
+  {
+    "objectID": "desn2003_W5.html#participatory-design-community-centers",
+    "href": "desn2003_W5.html#participatory-design-community-centers",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Participatory Design: Community Centers",
+    "text": "Participatory Design: Community Centers\n\nObjective: Understand community needs for a new community center design.\nMethod: Participatory workshops with future users of the center.\n\nStakeholders include local residents, community leaders, and potential users.\nWorkshops facilitate collaborative ideation and feedback on design concepts.\n\nFindings:\n\nInsights into desired facilities, activities, and architectural features.\nCommunity concerns about accessibility, inclusivity, and sustainability.\n\nResearch Questions Identified:\n\nHow can community center design promote inclusivity and accessibility for all age groups?\nWhat sustainable design practices can be integrated to meet community expectations?\n\n\nReflection:\n\nDirect engagement with the community uncovers specific design needs and preferences, guiding research towards creating inclusive and sustainable community centers."
+  },
+  {
+    "objectID": "desn2003_W5.html#try-it-out-find-the-research-gap",
+    "href": "desn2003_W5.html#try-it-out-find-the-research-gap",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Try it out: Find the research gap",
+    "text": "Try it out: Find the research gap\n\nFind one paper that is relevant to your own personal project\nRead the paper’s abstract/introduction/conclusion;\nidentify the research gap your selected paper attempted to cover;\nWrite down your own research gap in a similar fashion.\n\nVolunteers gets free pass on one late submission."
+  },
+  {
+    "objectID": "desn2003_W5.html#quick-look-on-qualitative-research-data-collection",
+    "href": "desn2003_W5.html#quick-look-on-qualitative-research-data-collection",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Quick Look on Qualitative Research & Data Collection:",
+    "text": "Quick Look on Qualitative Research & Data Collection:\n\n\n\nFind this paper: Are UX Evaluation Methods Providing the Same Big Picture?\nFind the underlying data: “Figshare Supplementary Material: Raw Data from the Longitudinal UX Evaluation”\nCheck out Section 6 of qualitative results.\n\nReady to spend some time to read it?\n\n\n\n\n\n\n\nIdentify the research gap and\nConsider what you can make out from the given dataset."
+  },
+  {
+    "objectID": "desn2003_W5.html#a-little-intro-on-sentence-completion",
+    "href": "desn2003_W5.html#a-little-intro-on-sentence-completion",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "A little intro on sentence completion",
+    "text": "A little intro on sentence completion\nas a qualitative research method for UEQ\n\nDefinition: An open-ended but guided qualitative method for gathering insights.\nPurpose: To explore users’ attitudes, perceptions, and emotional responses.\nTypically provide respondaents with beginnings of sentences (stems) for respondents to complete the sentences in ways that are meaningful to them."
+  },
+  {
+    "objectID": "desn2003_W5.html#quick-example",
+    "href": "desn2003_W5.html#quick-example",
+    "title": "“Research” Gap - What they are and how to identify them",
+    "section": "Quick example:",
+    "text": "Quick example:\n“Using this app makes me feel…”\nGoal: Encourage expressive and spontaneous user feedback\n\nPrompts are open-ended yet focused\nAvoid leading question to minimizew bias\nProvides user-centered insights\nCaptures emotional and subconscious reactions to the product/service."
   },
   {
     "objectID": "surveydata.html",

@@ -1,0 +1,116 @@
+---
+title: "Identifying Research Gaps in Audio Feedback for Mixed Reality (MR) and Enhanced Reality (ER)"
+author: "Research for Innovation | DESN2003"
+date: "2025"
+format: pdf
+---
+
+# Background
+
+**Mixed Reality (MR)**: Mixed Reality refers to technologies that **merge the physical and digital worlds** so real and virtual objects coexist and interact in real time. In MR, virtual elements are anchored to the real environment and respond to it, creating an immersive, interactive experience. (For example, Microsoft’s HoloLens is a well-known MR headset.)
+
+**Enhanced Reality (ER)**: Enhanced Reality is often considered an advanced form of Augmented Reality (AR). ER **goes beyond traditional AR** by **seamlessly integrating virtual elements into the user’s real environment** in a more interactive and immersive way. Essentially, while standard AR overlays information onto the real world, ER fully blends virtual content with the real world, making the combination feel natural to the user.
+
+**Cross-Modal Interactions**: In Human-Computer Interaction (HCI), *cross-modal interaction* refers to user experiences that engage multiple senses (modalities) simultaneously—such as vision, audio, and haptics. Our senses can influence each other: auditory cues can shift how we perceive visuals, and conversely, visuals or touch can alter how we interpret sounds. Designers often combine sound, visuals, and haptics to create more immersive experiences. However, poorly synchronized sensory cues can lead to confusion or discomfort (e.g., seeing something but hearing it at the wrong time or from the wrong direction).
+
+**Why Audio Feedback Matters**: Audio feedback significantly shapes user perception. Well-crafted sounds can elevate a product’s perceived quality (e.g., the “click” of a button or the distinctive shut of a car door). In MR/ER systems, audio can make virtual objects feel real and present—just as a humming virtual drone might sound like it is actually flying beside you. On the other hand, mismatched or poorly designed audio breaks immersion and reduces user satisfaction. The complexity of mixing virtual and real sounds (including background noise) further complicates audio design in MR/ER contexts.
+
+**Current Challenges**: Designing effective audio for MR/ER faces several hurdles, including:
+
+- **Spatial Accuracy**: Audio must precisely align with visual objects and the user’s position.
+- **Real-World Interference**: In noisy environments, virtual audio cues might become hard to notice.
+- **Multi-Sensory Synchronization**: Timing must be exact so visual, haptic, and audio cues reinforce each other. Even small mismatches can break immersion or cause confusion.
+- **Personalization**: Different users have varying hearing capabilities and preferences.
+
+Taken together, these challenges indicate that MR/ER audio feedback—especially in conjunction with other sensory modalities—is a rich area for further research and innovation.
+
+---
+
+# Scenario Prompt
+
+**Scenario**: You are on a design team developing a **mixed reality headset** for navigation on a busy university campus. The headset gives *spatialized audio cues* to help users walk from place to place without constantly checking a map on their phone. For instance, a subtle bell might sound from the left side when you need to turn left soon, and a “destination beacon” grows louder as you approach your target building.
+
+However, early user testing highlights several concerns:
+
+1. **Background Noise**: Campus environments can be loud (traffic, crowds). Users worry they might miss or misinterpret audio cues.
+2. **Sensory Overload**: The headset includes on-screen AR visuals (arrows, pop-ups). Some testers feel confused if the timing or direction of the audio does not perfectly match the visual prompts.
+3. **Accessibility**: Users with partial hearing loss or who prefer alternate cues may not benefit from purely audio-based navigation.
+4. **User Trust**: If the audio feedback is inconsistent or unnatural (e.g., slight mismatch in directional sound), users hesitate to follow it, reducing confidence in the system.
+
+This scenario reveals the complexities of using audio feedback in an MR environment, particularly when combined with visual or other sensory cues. Your task is to identify the possible research gaps in this domain and propose potential solutions or new opportunities.
+
+---
+
+# Guided Brainstorming
+
+Reflect on the following questions:
+
+1. **Known Limitations**: What limitations are commonly seen in audio feedback for MR/ER products? Think about issues like noise levels, spatial accuracy, user comfort, hardware constraints, etc.
+
+2. **Existing Solutions**: How do current MR/ER systems try to address these audio feedback challenges? Are there known techniques for spatial audio, noise cancellation, or user calibration?
+
+3. **Sensory Conflicts**: In what ways might audio cues conflict with visual or haptic cues? Can you think of examples where mismatched timing, volume, or perceived distance might cause confusion or reduce user immersion?
+
+4. **Unexplored Gaps**: Based on what you know or suspect, which areas remain under-explored? Are there unique user groups, environments, or technological considerations that have not been adequately studied?
+
+Take a few minutes to jot down ideas before discussing them in small groups (form small groups of 2-3) before moving to the next section.
+
+---
+
+# Student Activity
+
+Use the space below to document your thoughts.
+
+## 1. Identify Three Research Gaps
+
+List three potential research gaps or unanswered questions about MR/ER audio feedback. These should be *specific* issues or areas lacking clear solutions.
+
+- **Gap 1**:  
+  ...
+
+- **Gap 2**:  
+  ...
+
+- **Gap 3**:  
+  ...
+
+
+## 2. Identify a Target Market or User Group
+
+Who stands to benefit most if this gap is addressed? Explain why this group needs a solution and how it could benefit them (e.g., accessibility, gaming, industrial training, general everyday navigation).
+
+**User Group & Rationale**:  
+...
+
+## 3. Outline Key Areas for Further Literature Review
+
+If you were going to dive deeper into research on this gap, what topics or keywords would guide your search? (e.g., “spatial audio algorithms,” “audio-haptic synchronization,” “AR accessibility,” “cross-modal perception of direction.”)
+
+**Literature Review Focus**:  
+...
+
+## 4. Propose a Solution
+
+Choose **one** of the gaps above. Propose a potential solution, design approach, or research study that might address this gap. Be creative but also practical—think about technology feasibility, user needs, and potential impact.
+
+**Solution Idea**:  
+
+---
+
+# Further Reading and Exploration
+
+To dive deeper, consider exploring these resources:
+
+- **Yang et al. (2022).** *“Audio Augmented Reality: A Systematic Review of Technologies, Applications, and Future Directions.”*  
+  Provides an overview of how spatial audio is used in AR and highlights open research areas.
+
+- **Li et al. (2024).** *“Enhancing AR Interactivity with Audio-Centric Interfaces for Accessibility.”*  
+  Discusses using audio cues primarily for users with visual impairments, offering insights into inclusive design principles.
+
+- **Popp et al. (2022).** *“Anchoring Audio Sources to Virtual Objects in Room-Scale VR.”*  
+  Explores techniques for aligning virtual audio to specific 3D objects in real-time, helping maintain immersion.
+
+- **Collins & Kapralos (2019).** *“Pseudo-Haptics: Cross-Modal Perception in Virtual Environments.”*  
+  Examines how audio and visual cues can mimic or enhance tactile feedback in VR, opening the door to new multi-sensory experiences.
+
+*(As you read, keep track of the methodologies, research questions, and findings to help refine your own ideas.)*

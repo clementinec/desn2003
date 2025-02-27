@@ -13,8 +13,6 @@ format:
     preview-links: auto
     embed-resources: true
     incremental: false
-    filters: 
-      - timer
 ---
 
 # Quick Flashback
@@ -25,36 +23,36 @@ format:
 - W3: Literature Research, what they are and why they matter
 - W4: SOTA Literature Research with LLMs
 
-## And the Evaluation Metrics
+<!-- ## And the Evaluation Metrics
 ### Individual Research (40%+20%)
 - Doc0: Research Scope through Extended Abstract
 - Relevant Literature Review (Doc 0.1)
 - Collecting Evidence (Doc 0.2)
 - Doc1: Research Paper Draft & Presentation
-### Group Research (Collaborative Informational Interviews, 30%)
+### Group/Individual Interview Research (Collaborative Informational Interviews, 30%)
 - Literature Review (in practice)
-- Oral Presentation (15%)+ Group Report (15%)
+- Oral Presentation (15%)+ Group Report (15%) -->
 
 ## Reflection on Doc 0
 - Grades and Comment released on Moodle
 - Some common issues:
-	- Introduction ≠ Abstract
 	- Extended Abstract: Abstract + outline of research paper
 	- Format of Abstract: no citation, plain text (1 paragraph usually)
 	- As high-level as possible
-	- **Theoretical Framework**
+  - **Streamline your narratives**
+	<!-- - **Theoretical Framework** -->
 
 ## Theoretical Framework
 What the literature has already said about it.
+
 1. What theories have been developed to investigate the question/problem that you intend to investigate?
 2. Does it involve looking at multiple disciplines when you want to set this up?
 3. What are the common caveats they mention as ‘future work’ and are any them of them relevant to your proposed research?
 
-# Let's look at examples of some Research Paper
+# Example Research Paper(s)
+
 1. Feasibility study of public space: https://www.pland.gov.hk/file/planning_studies/comp_s/pdf/reimagining_public_spaces_in_hong_kong_feasibility_study_consultancy_report_en.pdf
 2. Chan, E. H. W., & Lee, G. K. L. (2009). Design considerations for environmental sustainability in high density development: A case study of Hong Kong. Environment, Development and Sustainability, 11(2), 359–374. https://doi.org/10.1007/s10668-007-9117-0
-
-
 
 
 # Research Gap - what they are and how to identify them through Qualitative Research
@@ -91,6 +89,7 @@ Let's potentially look at one example here.
 
 ## Contextual Gap
 Decent existing research exists, but absence of research in specific contexts:
+
 - a specific population
 - a precise geographic area
 - a certain time period
@@ -99,6 +98,7 @@ Decent existing research exists, but absence of research in specific contexts:
 - Address why is the proposed investigation for this subgroup relevant.
 
 ## The Methodological Gap
+
 - Emerges when you identified insufficiencies amongst popular methodologies for the specified topic
 - Propose alternatives and 
 - Justify the suggested change through evidence and arguments 
@@ -115,25 +115,28 @@ While a wealth of research exists regarding plastic pollution in oceans, there i
 While empirical research surrounding online learning has grown over the past five years, there remains a lack of comprehensive studies regarding the effectiveness of online learning for students with special educational needs.
 
 ## Finding A Resarch Gap
+
 1. Find as many lit reviews, systematic reviews and meta-analysis as you can that covers your area of interests on top of most recent journal articles;
 2. Find what other researchers have identified as 'future research is needed' and she if someone has already investigated the problem that you observe, or can fill your list of 'candidate topics' for you instead.
 3. If you found the question has already been answered, congrats and review it critically to confirm whether you may need to change the direction of proposed resarch.
 4. If you haven't found anything that agrees specifically with your topic, then congrats as you now have a list that you can exhaust before running out of proposed research.
 
-## Working with Research Gap
+<!-- ## Working with Research Gap
+
 - What data can you collect upon them?
 - What data do you not already know about it?
 - What is the information that you absolutely need?
-- What might you learn from your own experiments?
+- What might you learn from your own experiments? -->
 
-## A quick recap:
+<!-- ## A quick recap:
 1. What's a research gap?
 2. What are the four most common types of resarch gaps?
-3. How can one identify research gaps?
+3. How can one identify research gaps? -->
 
 # Exploring Qualitative Research
 
 ## Unpacking Qualitative Insights
+
 - Delving into 'why' and 'how':
   - In-depth interviews
   - Ethnographic fieldwork
@@ -152,33 +155,30 @@ While empirical research surrounding online learning has grown over the past fiv
   - Individual experiences in spaces
   - Mosaic of community life
 
-# Role in Identifying Gaps
+## Role in Identifying Gaps
 
-## Filling the Void
+### Filling the Void
 - Uncovering nuanced perspectives:
   - Complex dynamics
   - Overlooked areas
 
-## Architectural Application
+### Architectural Application
 - Evolving role of libraries:
   - Beyond books to communal hubs
   - Emerging functions and community needs
 
-## Bridging the Gap
+### Bridging the Gap
 - Capturing lived experience:
   - Understanding spaces' impact on behavior
 
-# Qualitative Methodologies for Gap Identification
+## Qualitative Methodologies for Gap Identification
 
-
-## A Mock Case Examples
-
-### Revitalizing Historical Districts
+### Mock Case Example: Revitalizing Historical Districts
 - Contemporary interventions:
   - Community sentiments on preservation vs. modernization
 
 
-## Methodological Gaps in Design Research
+<!-- ## Methodological Gaps in Design Research
 
 ### Rethinking Data Collection
 - Beyond traditional surveys:
@@ -190,7 +190,7 @@ While empirical research surrounding online learning has grown over the past fiv
 
 ### Embracing Emerging Technologies
 - Virtual reality in design:
-  - Simulating user experiences pre-construction
+  - Simulating user experiences pre-construction -->
 
 ## Case Study: Urban Green Spaces
 - **Objective:** Explore how urban green spaces influence community well-being.
@@ -224,16 +224,22 @@ While empirical research surrounding online learning has grown over the past fiv
 - Direct engagement with the community uncovers specific design needs and preferences, guiding research towards creating inclusive and sustainable community centers.
 
 
-
 # In-Session Seminar
 
 
-## Try it out: Find the research gap
+## Try it out: “Lightning” Gap Pitches
 
-- Find one paper that is relevant to your own personal project
-- Read the paper's abstract/introduction/conclusion;
-- identify the research gap your selected paper attempted to cover;
-- Write down your own research gap in a similar fashion.
+- Deliver a very short pitch on the main gap you identified thus far.
+- rapid-fire format gets everyone actively engaged and also helps refine clarity
+
+- Your pitch must clearly state 
+  1. the context of the research,
+  2. the existing literature direction, 
+  3. the gap, and 
+  4. why it matters.
+- You each get 1 minute per pitch, with 1 minute of audience Q&A or quick suggestions.
+- Feedback: one short note on mentimeter (e.g., “Have you considered X?” or “Could the real gap be Y?”)
+
 
 _Volunteers gets free pass on one late submission._
 
