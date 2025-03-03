@@ -10,7 +10,7 @@ website:
 
 format:
   html:
-    theme: Zephyr
+    theme: United
     css: styles.css
     toc: true
     page-layout: full
