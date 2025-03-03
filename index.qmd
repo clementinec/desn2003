@@ -12,6 +12,10 @@ Welcome to DESN2003: Research for Innovation offered at the University of Hong K
 - [Week 4](desn2003_W4.qmd)
 - [Week 5](desn2003_W5.qmd)
   - [Worksheet](data/worksheet.pdf)
+- [Week 6](desn2003_W6.qmd)
+  - [Evidence and Narrative](data/11_5_Osman+Abramson_Evidence & Narrative_JSAH 2007.pdf)
+  - [Urban Green Space](data/Binley Chen.pdf)
+
 
 
 
