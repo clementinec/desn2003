@@ -1,0 +1,157 @@
+---
+title: "Evidence and Narrative in Research: From Osman & Scott to Thermal Comfort Studies"
+subtitle: "DESN2003: Research for Innovation, Week Six"
+date: "2025-03-06"
+author: Hongshan Guo
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: false
+---
+---
+
+
+
+## 1: From Osman & Scott to Thermal Comfort Studies: Evidence and Narrative in Research  
+
+**A Data-Driven Qualitative Review in Architectural Research**  
+
+
+---
+
+## 2: What makes a story credible? 
+### How do we transform raw facts into a compelling narrative?
+
+---
+
+## 3: Let's open with some ideas from Osman & Scott
+
+- **Osman’s Idea:**
+  - Evidence is not self-explanatory.
+  - Facts become “evidence” when selectively assembled into a narrative.
+- **Scott’s Contribution:**
+  - Advocates for an “undetermined history.”
+  - Emphasizes embracing ambiguity, accident, and counter-narratives.
+  
+*Leverage these ideas as the thread that stitches our session together.*
+
+---
+
+## 4: Session Overview & Objectives
+- **Our Focus:**
+  - Use Osman & Scott as theoretical anchors to examine research narratives.
+  - Case study: “A Data-Driven Qualitative Review of Thermal Comfort Studies.”
+- **Learning Outcomes:**
+  - Understand roles of primary vs. secondary data.
+  - Recognize how narrative is constructed—and what is omitted.
+  - Develop strategies for critical, reflexive evidence gathering.
+
+---
+
+## 5: Introduction & Context Setting
+- **Exploration:**
+  - How evidence and narrative work together in research.
+  - Our case study is the provided draft on thermal comfort studies.
+- **Focus:**
+  - Examining how the draft uses different data types to build its narrative.
+
+---
+
+## 6: Dissecting the Draft’s Methodology
+- **Data Collection:**
+  - **Primary Data:** Field measurements, surveys, direct observations.
+  - **Secondary Data:** Established databases (e.g., ASHRAE, Chinese TCDB) and literature.
+- **Systematic Approach:**
+  - Literature screening, numerical evaluation criteria (scores 0–3).
+  - Mapping personal (age, gender, BMI) and contextual parameters.
+  
+*This method exemplifies how facts are mobilized into evidence, as Osman suggests.*
+
+---
+
+
+# <span style="color:blue">-3 (cold)</span> to 0 (neutral) to <span style="color:red">+3 (hot) </span> 
+
+## 7: Mapping between perception and numbers: A Quantitative Review
+
+<iframe src="data/draftreview.pdf" style="width:100%; height:800px;" frameborder="0"></iframe>
+
+**What benefits and drawbacks do you see in using numerical scoring to convert raw data into a narrative?**
+
+---
+
+## 8: Primary vs. Secondary Data Sources
+- **Primary Data:**
+  - Direct measurements (e.g., temperature, humidity).
+  - First-hand surveys and observations.
+- **Secondary Data:**
+  - Data from previous studies and databases.
+  - Provides context and broadens scope.
+  
+*The draft combines both to create a layered narrative.*
+
+---
+
+## 9: How Did We Do This in Our Manuscript?
+
+- **Leveraging Secondary Data:**
+  - Utilized established thermal comfort databases (ASHRAE & Chinese TCDB) as our primary sources.
+  - Compiled 88+ articles to form our evidence base.
+- **Systematic Data Evaluation:**
+  - Applied a numerical scoring system (0–3) to assess personal, contextual, and PMV parameters.
+  - Enabled structured comparison and identification of gaps across studies.
+- **Constructing the Narrative:**
+  - Integrated diverse data points to build a coherent story that supports our hypothesis.
+  - Demonstrated how selection and framing of secondary data can drive new insights.
+- **Testament to Methodology:**
+  - Our approach shows that robust secondary data can be effectively leveraged.
+  - Aligns with Osman’s and Scott’s ideas on how evidence is reinterpreted into a narrative.
+  
+---
+
+## 10: Critically Assessing Our Data Setup
+- **Maintain Critical Awareness:**
+  - **Triangulation:** Validate findings by comparing multiple sources.
+  - **Reflexivity:** Regularly question data selection and categorization.
+  - **Iterative Review:** Continuously refine data collection and narrative as new evidence emerges.
+- **Draft’s Limitations:**
+  - Inconsistent classifications and mapping issues.
+  - Underrepresentation of certain demographics.
+- **Future Enhancements:**
+  - Develop standardized classification/predictive frameworks.
+  - Incorporate mixed-method approaches.
+  
+*This process embodies the critical reflection championed by Osman and Scott.*
+
+---
+
+## 11: How can we ensure our data-driven narratives remain robust and adaptable as new evidence emerges?
+
+---
+
+## 12: Conclusion & Key Takeaways
+- **Summary:**
+  - Evidence transforms into narrative through careful selection and interpretation.
+  - Our case study demonstrates both the potential and limitations in this process.
+- **Key Takeaways:**
+  - Balance rigorous data collection with reflexive narrative construction.
+  - Be aware of what is included—and omitted—to strengthen research credibility.
+  - Osman and Scott remind us to remain open to alternative interpretations.
+  
+*Final Reflection:*  
+**“As researchers, how do we balance the rigor of data collection with the interpretive nature of narrative construction?”**
+
+---
+
+## 13: Thank You & Q&A
+
+### Questions & Discussion?
+
+
