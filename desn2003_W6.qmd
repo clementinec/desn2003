@@ -1,5 +1,5 @@
 ---
-title: "Evidence and Narrative in Research: From Osman & Scott to Thermal Comfort Studies"
+title: "Evidence and Narrative in Research: From Osman & Abramson to Thermal Comfort Studies"
 subtitle: "DESN2003: Research for Innovation, Week Six"
 date: "2025-03-06"
 author: Hongshan Guo
@@ -19,7 +19,7 @@ format:
 
 
 
-## 1: From Osman & Scott to Thermal Comfort Studies: Evidence and Narrative in Research  
+## 1: From Osman & Abramson to Thermal Comfort Studies: Evidence and Narrative in Research  
 
 **A Data-Driven Qualitative Review in Architectural Research**  
 
@@ -31,12 +31,12 @@ format:
 
 ---
 
-## 3: Let's open with some ideas from Osman & Scott
+## 3: Let's open with some ideas from Osman & Abramson
 
 - **Osman’s Idea:**
   - Evidence is not self-explanatory.
   - Facts become “evidence” when selectively assembled into a narrative.
-- **Scott’s Contribution:**
+- **Abramson’s Contribution:**
   - Advocates for an “undetermined history.”
   - Emphasizes embracing ambiguity, accident, and counter-narratives.
   
@@ -46,7 +46,7 @@ format:
 
 ## 4: Session Overview & Objectives
 - **Our Focus:**
-  - Use Osman & Scott as theoretical anchors to examine research narratives.
+  - Use Osman & Abramson as theoretical anchors to examine research narratives.
   - Case study: “A Data-Driven Qualitative Review of Thermal Comfort Studies.”
 - **Learning Outcomes:**
   - Understand roles of primary vs. secondary data.
@@ -112,7 +112,7 @@ format:
   - Demonstrated how selection and framing of secondary data can drive new insights.
 - **Testament to Methodology:**
   - Our approach shows that robust secondary data can be effectively leveraged.
-  - Aligns with Osman’s and Scott’s ideas on how evidence is reinterpreted into a narrative.
+  - Aligns with Osman’s and Abramson’s ideas on how evidence is reinterpreted into a narrative.
   
 ---
 
@@ -128,7 +128,7 @@ format:
   - Develop standardized classification/predictive frameworks.
   - Incorporate mixed-method approaches.
   
-*This process embodies the critical reflection championed by Osman and Scott.*
+*This process embodies the critical reflection championed by Osman and Abramson.*
 
 ---
 
@@ -143,7 +143,7 @@ format:
 - **Key Takeaways:**
   - Balance rigorous data collection with reflexive narrative construction.
   - Be aware of what is included—and omitted—to strengthen research credibility.
-  - Osman and Scott remind us to remain open to alternative interpretations.
+  - Osman and Abramson remind us to remain open to alternative interpretations.
   
 *Final Reflection:*  
 **“As researchers, how do we balance the rigor of data collection with the interpretive nature of narrative construction?”**
