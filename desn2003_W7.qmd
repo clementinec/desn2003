@@ -1,0 +1,387 @@
+---
+title: "Know Your Client (KYC), Working with informational interviews"
+subtitle: "DESN2003: Research for Innovation, Week Seven"
+author: Hongshan Guo
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+    filters: 
+      - timer
+---
+
+# Reflecting on Literature Review Submissions
+
+## How did we do with the literature reivew (Doc 0.1) submissions
+  - Basic stats:
+    - Median word counts: 1611
+    - Median # of citations: 12
+    - Avg. paragraph: 5
+  - The Goods
+    - Well articulated
+  - The Not-so-greats
+    - Lacks synergies with literature reviews in relevant fields
+      - formatting
+      - lengths
+      - contains conclusions
+    - Limited theoretical framework/backing
+
+ <!-- Take architectural history as an example? -->
+
+## Quick flash back on Document 1 submission
+
+  - Research-paper like
+  - ~80% of work needed to draft a research paper as it contains:
+    - Abstract
+    - Literature Review
+    - Methodology
+    - Hypothesis/Anticipated Conclusions
+    - Relevant References
+  - How is this different from a research proposal?
+
+# Informational Interview/Coffee Chat
+
+## Informational Interview/Coffee Chat
+  - What they are:
+    - Professional/Casual Networking tools
+      - Potential mentors, collaborators, future job opportunities
+    - Sitting down with people who have started a career
+    - _Gather insights and build professional relationships_
+  - Learning Opportunity
+    - Someone's firsthand experience
+    - challenges & successes
+    - career paths
+    - realistic picture of what to expect in a particular **field or role** (Not an ask, but preferrably something that we can look at)
+
+## Setting Expectation
+  - Neither should bear agenda to secure job offer
+  - Learn and build connections
+  - Experience informational interview as a long-term investment 
+  - Start building/expanding professional network
+  - The group project is a teaser of what you will likely experience going further into your career (irregardless of disciplines)
+
+## Quick Q&A on Information interviews
+  - Do you think you have a better idea of what these are by now?
+  - Any questions that you may have before we dive deeper into how to design/prepare for one?
+
+## Identify Person(s) of Intersts
+  
+  - Who to reach out to?
+    - Industry Leaders and Role Models
+    - Alumni Network
+    - Professional Associations
+  - Utilizing LinkedIn:
+    - Advanced Sesarch Features
+      - Filter professionals by industry, company, role and even location
+    - LinkedIn Groups: Join groups of related interests.
+  - How to narrow scope of search?
+    - Finding Common Grounds
+      - Shared Interests
+      - Recent Publications or Talks
+    - Leverage Existing Connections: Academic/Industry
+  - Demo
+
+## Crafting Effective Cold Messages
+
+### Key Components:
+
+  1. Subject Line: Clear and engaging subject line that conveys the purpose of the message.
+  2. Personalized Greetings: Use the receipient's name and personalized remark/compliment on recent accomplishments;
+  3. Introduction and Purpose: brief but effective.
+  4. Purpose Statement: seek advice, insights, experiences related to field of interest;
+  5. Make Connection: highlight commonalities shared with receipient
+  6. Experss Genuine Intersts
+  7. Specific Request: Call to Action with Flexibility
+  8. Politeness and Conciseness
+  9. Closing and Signature
+
+### Let's checkout some examples. Give a probability that you will respond to a message that you receive on LinkedIn. (3 Examples)
+
+
+## Reaching Out:
+
+#### Choosing the Right Platform:
+
+  - **Platform Etiquette**: 
+    - Norms and best practices for different platforms (LinkedIn, email, professional forums)
+    - Initial outreach varies accordingly
+  - **Professional Channels**: 
+    - using professional channels for communication is important
+    - make sure your profiles on these platforms are up-to-date and professional.
+      - What do we mean by _professional_?
+
+#### Timing and Frequency:
+
+  - **Optimal Timing**: 
+    - best times to send messages: avoiding weekends, late nights, and major holidays
+    - the likelihood of a timely response improves accordingly.
+  - **Follow-up Strategy**: 
+    - follow-up strategy involves a waiting period (typically 1-2 weeks) 
+    - a polite follow-up message if there's no initial response.
+
+
+## Reaching Out (Continued)
+
+#### Managing Outreach Volume:
+  - **Tracking System**: 
+    - set up a simple tracking system (like a spreadsheet) to monitor whom you’ve contacted, 
+    - when, and any responses or follow-up actions needed.
+  - **Balanced Approach**: 
+    - ideally no mass messaging. 
+    - a balanced, targeted approach to outreach, 
+    - focusing on quality and personalization over quantity.
+
+## Dealing with Responses:
+
+#### Positive Responses:
+  - **Immediate Acknowledgment**: 
+    - respond promptly to positive replies, 
+    - expressing gratitude for the willingness to engage and 
+    - proposing potential times for the chat or meeting.
+  - **Preparation**: 
+    - being well-prepared for the interaction, 
+    - with specific questions and goals in mind.
+
+#### Negative or No Responses:
+- **Handling Rejection**: 
+  - not everyone will have the time or interest to respond
+  - it’s not a reflection of their worth or the quality of their outreach.
+  - aka it might be very frustrating.
+- **Learning from Silence**: 
+  - how would a lack of response offer learning opportunities? 
+  - should you change your outreach strategy or message content?
+
+
+## Know Your Client (KYC)
+
+Do your homework so that you do not make mistakes.
+
+#### Research Basics
+  
+  - Background Check: reviewing linkedin profile, professional biographies, recent publications, news mentions.
+    - social engineering （Searching, 2018)
+  - Understanding their work: 
+    - familiarize with the professional's role/projects/contributions
+    - understanding the context and significance of their work
+
+#### Contextual Undersatnding
+  - Know the Industry: major trends, challenges and opportunities
+  - Company Culture: culture and values of where they work/associate with for talking points
+
+## Know Your Client (KYC) Cont'd
+
+#### Preparing Questions: Structured/Semi-structured
+  - Informed Questions: **Informed and Open-Ended**, reflecting their research and curiosity about the professional 
+  - Personalized Inquiry: avoid overly general or easily Google-able questions
+  - Object-Oriented: what do you want to achieve through the interviews
+    - get first-hand critique on the discipline
+    - know what day-to-day is like at the particular industry
+  - Set an agenda: what will happen if you don't have one?
+
+
+## Take 10min to social-engineer a professional
+  - do research on a potential interviewee that you might be interested in investigating
+  - you should cover at least the following:
+    - their professional role
+    - list out companies they worked for
+    - their career highlight/work most proud of
+    - identify interviews/podcasts/presentation where they gave public opinion and based on those
+    - come up with **two questions that you think is relevant to ask**
+
+<!-- - **Practical Exercise**: Arrange mock informational interviews where students can practice their research skills, question formulation, and conversational strategies in a supportive environment.
+
+#### Research Presentation:
+- **Group Activity**: Have students present their research findings about a professional to the group, including potential questions and conversation goals, to foster collective learning and feedback.
+ -->
+
+## Meet Your Client
+
+#### Showing Engagement:
+  - **Active Engagement**:
+    - active listening, 
+    - showing interest through body language (in person or on video calls), and 
+    - asking follow-up questions based on the discussion.
+  - **Note-taking**: 
+    - taking brief notes during the conversation (with permission) to capture key points and advice,
+    - demonstrates engagement and respect for the professional's insights.
+
+#### Respect and Professionalism:
+  - **Time Management**: 
+    - be mindful of the agreed-upon time for the conversation and 
+    - to avoid overextending unless the professional indicates they're willing to continue.
+  - **Confidentiality**: 
+    - the need to respect any confidential or sensitive information shared during the conversation.
+
+## Meet Your Client (Continued)
+
+### Post-Interaction Reflection:
+
+#### Reflective Practice:
+  - **Review and Reflect**: 
+    - review their notes and reflect on the conversation soon after, 
+    - identifying key learnings and any follow-up actions they might take.
+  - **Feedback Loop**:
+    - consider what went well and what could be improved for future interactions 
+    - mindset of continuous improvement.
+
+## Mock Interview (If we have time ~ 15min)
+  
+  - one-on-one practice: professional vs. student interviewer
+  - work together and determine who the professional will shadow (a real person)
+  - KYC on industry/persona individually
+  - student interviewer to come up with 3 questions as structured interview and one follow-up during the conversation
+  - student/professional to swap (if we have time)
+
+# Seminar Time: Back to Report Submission with Doc 0.1
+
+## Activities
+
+1. Vote to review one literature review that was submitted (anonymized on mentimeter).
+2. Selected literature reviewed by peers with the following criteria:
+  - **Objective**: Does the literature review sufficiently present its objective?
+  - **Landscape**: Do you think the literature review presented a clear theoretical framework of what are the relevant studies and state-of-the art research landscape?
+  - **Caveat/Importance**: Does the literature review present any clear indication that there is room for investigation of any existing caveats? 
+  - **Citations**: Do you think the number of citations included is enough/adequate?
+  - **Improvements**: Anything that the author can do to strengthen the literature review?
+  - **Challenge**: <span style="color: red">_On the topics that were discussed in the literature review, can you quickly leverage google scholar to find additional ones that investigates similar things?_</span>
+
+3. We will review the remainder three of the five documents (so long as time permits) for this week.
+
+## Addendum: Checklist for successful literature review
+
+### 1. Clarity and Coherence:
+- **Clear Objective**: Define the specific goals and scope of the literature review.
+- **Logical Structure**: Organize content in a logical manner, facilitating easy navigation and understanding.
+- **Language and Terminology**: Use clear, concise language appropriate for an interdisciplinary audience, avoiding unnecessary jargon.
+
+### 2. Problem Statement and Importance:
+- **Well-defined Issue**: Clearly articulate the problem or research question the literature review addresses.
+- **Significance**: Explain the importance and relevance of the problem within the context of design and computer science.
+- **Gap Identification**: Highlight gaps or shortcomings in existing research that the literature review aims to address.
+
+## Addendum: Checklist for successful literature review (Cont'd)
+
+### 3. Theoretical Framework:
+- **Conceptual Underpinnings**: Present the theories or models that underlie the research area.
+- **Framework Integration**: Demonstrate how the theoretical framework informs the literature review's approach and analysis.
+- **Interdisciplinary Relevance**: Ensure the framework is relevant and accessible to both design and computer science perspectives.
+
+### 4. Comprehensive Coverage:
+- **Breadth and Depth**: Cover a wide range of sources while diving deep into critical studies.
+- **Diverse Sources**: Include academic journals, conference papers, books, and reputable online resources relevant to both fields.
+- **Timeliness**: Ensure the inclusion of both foundational texts and recent research to reflect the current state of knowledge.
+
+### 5. Critical Analysis:
+- **Comparative Analysis**: Compare and contrast different studies, highlighting similarities and differences.
+- **Methodological Evaluation**: Assess the methodologies used in key studies for their strengths and limitations.
+- **Theoretical Critique**: Critically evaluate the theories discussed in the literature for their applicability and limitations in the interdisciplinary context.
+
+## Addendum: Checklist for successful literature review (Cont'd)
+
+### 6. Synthesis:
+- **Thematic Organization**: Synthesize literature thematically rather than summarizing each source individually.
+- **Insight Generation**: Derive new insights or perspectives from the synthesis of the reviewed literature.
+- **Interdisciplinary Integration**: Fuse insights from design and computer science to create a cohesive understanding.
+
+### 7. Relevance to Research Question:
+- **Alignment**: Ensure all reviewed literature contributes to answering the research question or addressing the problem statement.
+- **Application**: Discuss how findings from the literature review apply to the specific intersection of design and computer science.
+
+### 8. Source Evaluation:
+- **Credibility Assessment**: Evaluate the credibility and reliability of each source.
+- **Bias and Perspective**: Acknowledge potential biases in the literature and strive for a balanced perspective.
+
+## Addendum: Checklist for successful literature review (Cont'd)
+
+### 9. Conclusions and Implications:
+- **Summary of Findings**: Concisely summarize key findings and their implications for the research area.
+- **Future Research Directions**: Identify areas where further research is needed, especially at the intersection of design and computer science.
+
+### 10. Documentation and Referencing:
+- **Consistent Formatting**: Adhere to a consistent citation style appropriate for the interdisciplinary audience.
+- **Accurate Citations**: Ensure all sources are accurately cited within the text and in the reference list.
+
+### 11. Reflection on Interdisciplinarity:
+- **Integration Challenges**: Discuss any challenges encountered in integrating design and computer science literature and how they were addressed.
+- **Value of Interdisciplinary Approach**: Reflect on how the interdisciplinary approach enriches the understanding of the topic.
+
+## Revisiting Report Submission
+
+- Document 0: Research Statement (Extended Abstract)
+- Document 0.1: Literature Review 
+- Document 0.2: Methodology & Data Needed/Collected: Due <span style="color:red">Mar 23rd</span>
+- Document 1: Research Proposal(Paper-like): Due <span style="color:green">Apr. 23rd</span>
+
+## Resaerch Process in Flow Chart
+
+![](ReProc_FlowChart.png)
+
+## Checklist for your final research proposal/paper submission
+
+### Elements that you've finalized:
+- **Research Problem Definition (Doc 0)**:
+  - Articulated innovative challenge or aspect addressed.
+  - Contextualized within industry/societal needs.
+- **Relevant Concepts and Theories (Doc 0.1)**:
+  - Reviewed key theories underpinning the innovation area.
+  - Included interdisciplinary approaches.
+- **Previous Research Findings (Doc 0.1)**:
+  - Highlighted past innovations and research.
+  - Noted successes and gaps for building upon/addressing.
+
+### Ready to be finalized:
+- **Hypothesis Formulation (Doc 0.2)**:
+  - Developed clear, testable hypotheses predicting innovation outcomes.
+- **Research Design Formulation (Doc 0.2)**:
+  - Outlined approapriate research methodologies/technologies to be used.
+  - Discussed feasibility and potential impact of proposed research design.
+
+## Research Progress Check
+
+#### Insofar, Your Design Should Provide:
+- **Evidence for Hypothesis**:
+  - Detailed data collection/analysis plan for hypothesis testing.
+  - Consideration on data sources/appropriate technologies deployed in their collection.
+- **Significance**:
+  - Connected significance to societal/industry/academic trends.
+  - Highlighted contribution to knowledge/innovation advancement.
+- **Implementation and Scalability**:
+  - Discuss real-world implementation pathways.
+  - Address potential scalability barriers.
+- **Ethical Considerations and Sustainability**:
+  - Outline ethical considerations of the innovation.
+  - Address sustainability of the proposed solution.
+
+## Final Step in Finalizing Research
+
+### As Finalizing the Proposal (Doc 1):
+- **Integration and Synthesis**:
+  - Ensured alignment of all proposal components with innovation/research goals.
+- **Stakeholder Engagement**:
+  - Identified key stakeholders: beneficiaries, participants, impacted communities.
+  - Included stakeholder engagement plans: evidencing the effectiveness of proposed solution/design
+- **Consideration of Future Directions**:
+  - Speculated on future research directions to further the innovation.
+
+
+# Data Visualization
+
+## Minard's plot
+![Napoleon Invasion of Russia](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+
+## Instruments to help people reason about quantitative information.
+Above all else show the data.
+
+## Topics that we could cover:
+- Scales of data 
+- Omission and inclusion of data that speaks
+- Different quantitative plots thereof
+- Woring with the temporal dimensions
+- Goods and bads of 3D plot

@@ -1,0 +1,316 @@
+---
+title: "Data, Data, Data, Collection Methodologies and Quantitative vs. Qualitative"
+subtitle: "DESN2003: Research for Innovation, Week Seven (Part 1)"
+author: Hongshan Guo
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+    filters: 
+      - timer
+---
+
+# Introducting Data before its Collection
+
+## Types of Research Data Collection (Source)
+
+- Primary Data Source
+  - 1st hand information
+  - not changed by any individual
+  - not published yet
+  - **directly collected by authors**
+- Secondary Source
+  - published data
+  - what literature review is based on
+  - **reviewed by authors(you)**
+
+## Examples of data collection methods by category
+
+- Primary Data Collection Examples
+  - Questionnaires
+  - Interviews
+  - Focus Group Interviews
+  - Observation
+    - participant/non-participant
+    - aware/non-aware
+  - Survey
+  - Statistical Methods
+  - Experimental Methods
+- Secondary Data Collection Examples
+  - Published Papers/Sources
+  - Databases
+  - Books
+  - General websites
+  - Unpulibhsed personal records
+  - Census data/population statistics
+
+## Primary Data Collection Methods: Desining Questionnaires
+- a set of questions and secure answers from respondants
+- often analyzed by statsitical methods
+- consistency in questionnaires make cross-sectional analysis easy
+
+### Types of questions designed to measure variables in survey:
+- Close-end questions
+  1. Two-option aka dichotomous scales
+  2. More than two options: Nominal-polychromous
+  3. Ordinal-Polytomous scale
+  4. Continous or bounded types
+- Open-end questions
+  - setence completion
+  - open-ended questions with free text responses
+
+## Polytomous Variables, aka Options for Multiple Choice Questions
+Statistical term that refers to a **categorical** variable with more than two possible categories or levels
+
+##### Common in: Survey research ,healthcare, market research and education
+
+### Characteristics:
+- Categorical data: limited/distinct values or categories that are **mutually exclusive**
+- Always more than two options(binary)
+- Ordered and unordered (natural hiearchy)
+- Statistical analyses: e.g. logistic regression, cluster analysis for patterns and trends
+- Convertable to binary variables
+
+### Purpose:
+- Understanding complex phenomena: patterns and trends in the data collected
+- Provide insights to better categorization of data
+- Statistical analyses: Relationships between variables: e.g. logistic regression to predict probability
+- Market segmentation: e.g. customers to preference, behavior, demographic groups
+
+## Polytomous Variable (Continued)
+
+### When to use Polytomous Variables
+- Measuring attitudes or perceptions: for more nuanced perceptions
+- Putting definitions on categorizzing data: greater variability
+- Analyzing relationships between variables: job satisfication & job performance
+- Need to capture complex phenomena
+
+### Limitations
+- Power of explanation limited by available options
+  - e.g. satisfactory survey & number of enrolled students, what about change?
+- **subjectivity** from questionnaire design and interpretation of results
+- **response bias** 
+- small **sample sizes**
+  - calculating the appropriate size of population needed
+  - amount of respondants needed to reach statistical significance (reject null hypothesis, not covered by current class, leverage sample size calculator online)
+
+## Primary Data Collection: Designing Questionnaires
+
+Face-to-face, paper-and-pencil or remote, make sure your data collected is:
+- well-organized and 
+- easily accessible for analysis.
+
+
+### General rules for constructing a questionnaire:
+
+**Dos:**
+
+- questions should be short and simple
+- provide clear navigation to avoid difficulty in reading and motivate answering
+- use positive sentences
+- add open-answer possibility after provideing listed answers
+- improve reliability by selecting appropriate words
+- explain importance of the questionnaire
+- order your questions to solicit the right answers (sensitive to follow concrete/innocuous ones)
+
+**Do-nots:**
+
+- use more than one question (double-barreled) in one item
+- make assumptions for the respondents
+- lead the respondant to answers with clues, suggestions and hints
+
+## Steps involved in designing a questionnaire
+
+![](data/questionnaire_steps.png)
+
+
+## Primary Data Collection: Interviews
+Face-to-face and remote (telephone/zoom) interviews and merit/demerits (Kabir, 2016).
+
+![](data/interview_types.png)
+
+Good for complex or sensitive concepts and need detailed and high-status information (Frechtling, 2020).
+
+### Types of interviews by structure:
+- structured interviews: standardized questions that are pre-prepared
+- semi-structured interviews: conducted based on guide but goes beyond list of questions
+- unstructured interviews: _informal_, casual conversations
+
+## Rundown of an interview process
+![](data/interview_process.png)
+
+
+## Primary Data Collection: Focus Group Discussion (FGD)
+- Mixture of interview and observation
+- Used to discover human behavior, attitudes and respondents facing a particular concept
+- 6-12 people in each group with shared characteristics
+- Mediator aims to stimulate and discover the behavior of the participats and reasons for each behavior using the social dynamic of the group
+
+![](data/FGD.png)
+
+## FGD: Strengths and Weaknesses
+#### Strengths:
+  - discover social, health and cultural concepts
+  - literacy of individuals non-issue
+  - suitable to explore complex subjects
+  - useful to develop hypotheses
+
+#### Weaknesses:
+  - expensive and time-consuming
+  - privacy risks
+  - confined by readiness of facilitator/mediator
+  - domination of limited individuals in focus group (Frechtling, 2002, Kabir, 2016)
+
+## Survey and questionnaire: What's the difference?
+
+- Questionnaire is the written set of questions.
+- Survey is both the set of questions and the process of collecting, aggregating and analyzing the responses from those questions.
+
+![](data/survey_process.png)
+
+## Survey: Example survey accompanying sheet
+
+![](data/interval_scoring.png)
+
+
+## Good & Bad Survey Questions: Let's try out how to conduct surveys
+Context: Surveying respondants on their religious beliefs and life styles
+
+1. How religious are you?
+  - vague, not sure what is being asked
+  - How would you rate your level of spirituality? Pick a value between 0 to 4
+2. What do you think about smoking on campus?
+  - vague, too many possible answers
+  - Do you believe that all buildings on campus should be designated as smoke-free?
+3. How important is spirituality in your life? Pick a value between 1(not at all) to 5 (Very much so), (3: somewhat important).
+  - leading, suggests that spirituality is important
+  - What role does spirituality play in your life? Pick between 1(not important) to 5(very important) with 3 being somewhat important
+
+
+## Recap: Tips for effective surveys:
+1. Avoid ambiguity
+2. Avoid leading questions
+3. Avoid lengthy surveys and very long responses
+4. How will your initial questions influence answers to subsequent ones?
+5. Think carefully about sampling techniques
+6. Seek to achieve highest rate possible
+7. Standardize administration procedures
+8. Guarantee anonymity (or confidentiality at minimum)
+9. Seek measures of reliability
+10. Assess validity.
+
+## Primary Data Collection: Case Studies
+
+- Opportunity to investigate issues deeply and descriptively. 
+- technically not a research method
+- combination of various methods to form proper understanding of the proposed case:
+  - gather data through qualitative methods including interviews and surveys
+  - acquire secondary-sourced data e.g. essays and diaries for analysis
+  - personally provided notes can be also utilized alongside official ones
+
+![](data/case_study.png)
+
+
+## Information Sources for Case Studies
+
+- Direct observation from subjective evaluations
+  - Single or group of observers
+- Participant observation
+  - Researcher participate in the setting like other under-study people and observe happenings from a closer perspective
+- Conduct interviews with survey-type questions that are structured based on more open-ended question sets.
+- Use various census and survey records, newspapers, letters, instruments, tools, etc.
+
+## Merit and Challenges of working with Case Studies
+
+### Pros/Merits:
+- Combines the strengths of multiple research methods
+- Consider research from various time frame: past, present and future
+- Provide explanation about the changes and impacting factors that are not readily available
+
+### Cons/Challenges:
+- Complex processes, time consuming and expensive
+- No clear limit on when to stop collecting data
+- The assumption taken may not always be realistic or data tested in that context
+- Usually requires expert and trained conducting teams
+- Over-interpretation and over-generalizing issues can happen (Taherdoost, 2021)
+
+## Primary Data Collection: Experimental
+
+1. Laboratory/Controlled: 
+    - Highest control over study design and process, 
+    - gain precise and accurate data
+2. Field: 
+    - real-life situation, 
+    - variables are manipulated still but 
+    - your control is lower than Scenario 1
+3. Natural experiment: 
+    - no control over variables/environmental setting
+    - very low reproducibility
+
+
+## Secondary dcata collection methods
+
+**Data gathered from published sources.**
+
+![](data/secondary_data.png)
+
+## Challenges of Data Collection Process
+
+1. Location of data collection
+
+    - neutral location
+    - participants to feel free to provide their responses
+
+2. Literacy of Participants and Langauge of Questions
+
+    - Design of questions is appropriate for the literacy level of participants
+    - may require pilot tests to confirm (added costs)
+
+3. Timing
+
+    - Duration of test needs to be long enough to yield reasonable results
+    - Short enough to maintain the engagement of the participants
+
+4. Sensitivity of Data
+
+    - Privacy of the Participants (Unique identifier)
+    - Protecting personal information through promises and icebreakers and examples
+
+
+## Let's practice data collection/design concepts
+
+
+>_Several years ago, a group of students at University of Central Arkansas conducted a study in which they observed the rate at which cars failed to stop at a campus stop sign and recorded whether the car had a student parking decal or a faculty/staff parking decal._ This is obviously not fitting for Hong Kong context. Let's perhaps picture a study of the **rate of jay-walking at a traffic light** instead - and record whether the pedestrian who crossed is a student/staff/tourist/local resident. 
+>Use what we have covered today to answer questions 1-7:
+
+
+1. Which method of observation would be best? Justify your answer. Hint: back to participant/direct observations.
+2. How would you schedule observations?
+3. Define the categories of behavior that you would observe
+4. Describe how you would optimize and measure the reliability of observations, including the use of independent observers and calculation of interobserver agreement.
+5. Describe how you could use equipment for observation rather than human observers, what are the advantages and disadvantages?
+6. Describe how you might use public records to answer the same research question. What might be some limitations of this approach
+7. Describe how you might use a survey method to answer the same research question. What might be some limitations of this approach?
+
+
+## References
+
+1. Frechtling, J. (2002). An overview of quantitative and qualitative data collection methods The 2002 user-friendly handbook for project evaluation (pp. 43-62).
+2. Hox, J. J., & Boeije, H. R. (2005). Data collection, primary versus secondary Encyclopedia of social Measurement (Vol. 1): Elsevier.
+3. Data collection challenges (2005).
+4. **Kabir, S. M. S. (2016). Methods Of Data Collection Basic Guidelines for Research: An Introductory Approach for All Disciplines (first ed., pp. 201-275).**
+5. Olsen, W. (2012). Data collecti on: Key debates and methods in social research (Vol. 1): Sage.
+6. Pandey, P., & Pandey, M. M. (2015). Research Methodology: Tools and Techniques (Vol. 1). Romania: Bridge Center.
+7. Rimando, M., Brace, A. M., Namageyo-Funa, A., Parr, T. L., Sealy, D.-A., Davis, T. L., . . . Christiana, R.W. (2015). Data collection challenges and recommendations for early career researchers. The Qualitative Report, 20 (12), 2025-2036.
+8. Taherdoost, H. (2016a). How to design and create an effective survey/questionnaire; A step by step guide. International Journal of Academic Research in Management (IJARM), 5 (4), 37-41.
+9. Taherdoost, H. (2016b). Measurement and scaling techniques in research methodology; survey/questionnaire development. International Journal of Academic Research in Management (IJARM),6 (1), 1-5.
+10. Taherdoost, H. (2016c). Sampling methods in research methodology; how to choose a sampling technique for research. International Journal of Academic Research in Management (IJARM), 5 (2), 18-27.
+11. Taherdoost, H. (2019). What is the best response scale for survey and questionnaire design; review of different lengths of rating scale/attitude scale/Likert scale. International Journal of Academic Research in Management (IJARM), 8 (1), 1-10.
+12. Taherdoost, H. (2021). Handbook on Research Skills: The Essential Step-By-Step; Guide on How to Do a Research Project (Kindle ed.): Amazon.

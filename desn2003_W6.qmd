@@ -14,6 +14,11 @@ format:
     preview-links: auto
     embed-resources: true
     incremental: false
+  beamer: 
+    aspectratio: 43
+    navigation: horizontal
+    theme: AnnArbor
+    colortheme: lily
 ---
 ---
 
