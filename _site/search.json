@@ -242,7 +242,7 @@
     "href": "desn2003_W6_P.html#data-visualization-introducing-pygwalker",
     "title": "Data, Data, Data, Collection Methodologies and Quantitative vs. Qualitative",
     "section": "Data Visualization: Introducing Pygwalker",
-    "text": "Data Visualization: Introducing Pygwalker\nimport pandas as pd\ndf=pd.read_csv('data/tcdatasample.csv')\n\n!pip install pygwalker\nimport pygwalker as pyg\npyg.walk(df)\nData Sample"
+    "text": "Data Visualization: Introducing Pygwalker\n\nJupyterStreamlit App\n\n\n# In Jupyter:\nimport pandas as pd\ndf=pd.read_csv('data/tcdatasample.csv')\n\n!pip install pygwalker\nimport pygwalker as pyg\npyg.walk(df)\n\n\n#Set up as a separate datasample.py file. Run with `streamlit run datasample.py`\nfrom pygwalker.api.streamlit import StreamlitRenderer\nimport pandas as pd\nimport streamlit as st\n \n# Adjust the width of the Streamlit page\nst.set_page_config(\n    page_title=\"Use Pygwalker In Streamlit\",\n    layout=\"wide\"\n)\n# Import your data\ndf = pd.read_csv(\"/Users/guo/tprojs/desn2003/data/tcdatasample.csv\")\n \npyg_app = StreamlitRenderer(df)\n \npyg_app.explorer()\n\n\n\nData Download"
   },
   {
     "objectID": "desn2003_W6_P.html#lets-practice-data-collectiondesign-concepts",
@@ -1096,7 +1096,7 @@
     "href": "index.html#weekly-lecture-notes",
     "title": "DESN2003: Reserach for Innovation",
     "section": "Weekly Lecture Notes",
-    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3\nWeek 4\nWeek 5\n\nWorksheet\n\nWeek 6\n\nEvidence and Narrative\nUrban Green Space"
+    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3\nWeek 4\nWeek 5\n\nWorksheet\n\nWeek 6\n\nEvidence and Narrative\nUrban Green Space\n\nWeek 7\n\nWeek 7 (Cont’d)"
   },
   {
     "objectID": "index.html#time-location",
