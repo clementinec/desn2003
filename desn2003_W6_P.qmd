@@ -283,6 +283,9 @@ Context: Surveying respondants on their religious beliefs and life styles
     - Privacy of the Participants (Unique identifier)
     - Protecting personal information through promises and icebreakers and examples
 
+## Data Visualization: Introducing [Pygwalker](https://docs.kanaries.net/pygwalker/quick-start)
+
+[Data Sample](data/tcdatasample.csv)
 
 ## Let's practice data collection/design concepts
 
