@@ -17,6 +17,8 @@ Welcome to DESN2003: Research for Innovation offered at the University of Hong K
 - [Week 6](desn2003_W6.qmd)
   - [Evidence and Narrative](data/11_5_Osman+Abramson_Evidence & Narrative_JSAH 2007.pdf)
   - [Urban Green Space](data/Binley Chen.pdf)
+- [Week 7](desn2003_W6_P.qmd)
+  - [Week 7 (Cont'd)](desn2003_W7.qmd)
 
 
 

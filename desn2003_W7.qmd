@@ -13,8 +13,6 @@ format:
     preview-links: auto
     embed-resources: true
     incremental: true
-    filters: 
-      - timer
 ---
 
 # Reflecting on Literature Review Submissions
@@ -321,7 +319,7 @@ Do your homework so that you do not make mistakes.
 
 ## Resaerch Process in Flow Chart
 
-![](ReProc_FlowChart.png)
+![](data/ReProc_FlowChart.png)
 
 ## Checklist for your final research proposal/paper submission
 

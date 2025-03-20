@@ -13,8 +13,6 @@ format:
     preview-links: auto
     embed-resources: true
     incremental: true
-    filters: 
-      - timer
 ---
 
 # Introducting Data before its Collection
@@ -285,7 +283,43 @@ Context: Surveying respondants on their religious beliefs and life styles
 
 ## Data Visualization: Introducing [Pygwalker](https://docs.kanaries.net/pygwalker/quick-start)
 
-[Data Sample](data/tcdatasample.csv)
+::: {.panel-tabset}
+
+### Jupyter
+
+```{pyodide}
+# In Jupyter:
+import pandas as pd
+df=pd.read_csv('data/tcdatasample.csv')
+
+!pip install pygwalker
+import pygwalker as pyg
+pyg.walk(df)
+```
+
+### Streamlit App
+
+```{pyodide}
+#Set up as a separate datasample.py file. Run with `streamlit run datasample.py`
+from pygwalker.api.streamlit import StreamlitRenderer
+import pandas as pd
+import streamlit as st
+ 
+# Adjust the width of the Streamlit page
+st.set_page_config(
+    page_title="Use Pygwalker In Streamlit",
+    layout="wide"
+)
+# Import your data
+df = pd.read_csv("/Users/guo/tprojs/desn2003/data/tcdatasample.csv")
+ 
+pyg_app = StreamlitRenderer(df)
+ 
+pyg_app.explorer()
+```
+:::
+
+[Data Download](data/tcdatasample.csv)
 
 ## Let's practice data collection/design concepts
 
