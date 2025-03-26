@@ -19,7 +19,7 @@ Welcome to DESN2003: Research for Innovation offered at the University of Hong K
   - [Urban Green Space](data/Binley Chen.pdf)
 - [Week 7](desn2003_W6_P.qmd)
   - [Week 7 (Cont'd)](desn2003_W7.qmd)
-
+- [Week 8](desn2003_W8.qmd)
 
 
 
