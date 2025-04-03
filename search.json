@@ -221,7 +221,7 @@
     "href": "index.html#weekly-lecture-notes",
     "title": "DESN2003: Reserach for Innovation",
     "section": "Weekly Lecture Notes",
-    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3\nWeek 4\nWeek 5\n\nWorksheet\n\nWeek 6\n\nEvidence and Narrative\nUrban Green Space\n\nWeek 7\n\nWeek 7 (Cont’d)\n\nWeek 8"
+    "text": "Weekly Lecture Notes\n\nWeek 1\n\nSurvey Data\n\nWeek 2\nWeek 3\nWeek 4\nWeek 5\n\nWorksheet\n\nWeek 6\n\nEvidence and Narrative\nUrban Green Space\n\nWeek 7\n\nWeek 7 (Cont’d)\n\nWeek 8\n\nPeer Review\n\nWeek 9\n\nExample Writeup"
   },
   {
     "objectID": "index.html#time-location",
@@ -1225,20 +1225,6 @@
     "text": "References\n\nFrechtling, J. (2002). An overview of quantitative and qualitative data collection methods The 2002 user-friendly handbook for project evaluation (pp. 43-62).\nHox, J. J., & Boeije, H. R. (2005). Data collection, primary versus secondary Encyclopedia of social Measurement (Vol. 1): Elsevier.\nData collection challenges (2005).\nKabir, S. M. S. (2016). Methods Of Data Collection Basic Guidelines for Research: An Introductory Approach for All Disciplines (first ed., pp. 201-275).\nOlsen, W. (2012). Data collecti on: Key debates and methods in social research (Vol. 1): Sage.\nPandey, P., & Pandey, M. M. (2015). Research Methodology: Tools and Techniques (Vol. 1). Romania: Bridge Center.\nRimando, M., Brace, A. M., Namageyo-Funa, A., Parr, T. L., Sealy, D.-A., Davis, T. L., . . . Christiana, R.W. (2015). Data collection challenges and recommendations for early career researchers. The Qualitative Report, 20 (12), 2025-2036.\nTaherdoost, H. (2016a). How to design and create an effective survey/questionnaire; A step by step guide. International Journal of Academic Research in Management (IJARM), 5 (4), 37-41.\nTaherdoost, H. (2016b). Measurement and scaling techniques in research methodology; survey/questionnaire development. International Journal of Academic Research in Management (IJARM),6 (1), 1-5.\nTaherdoost, H. (2016c). Sampling methods in research methodology; how to choose a sampling technique for research. International Journal of Academic Research in Management (IJARM), 5 (2), 18-27.\nTaherdoost, H. (2019). What is the best response scale for survey and questionnaire design; review of different lengths of rating scale/attitude scale/Likert scale. International Journal of Academic Research in Management (IJARM), 8 (1), 1-10.\nTaherdoost, H. (2021). Handbook on Research Skills: The Essential Step-By-Step; Guide on How to Do a Research Project (Kindle ed.): Amazon."
   },
   {
-    "objectID": "writingsample.html",
-    "href": "writingsample.html",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "",
-    "text": "Title:\nInvestigating User Feedback for Enhancing GenAI-Integrated Conversational Interfaces in HCI\n\n\nAbstract\nThis study looks at how user feedback can help improve conversational interfaces that use generative AI (GenAI) in human-computer interaction (HCI). The idea is to explore both what users say and what their actions suggest about the interface’s design. We aim to understand if the interface meets users’ expectations and what improvements can be made. Early observations indicate that while users appreciate the advanced AI capabilities, there is some confusion regarding the AI’s decision-making process, which might be due to insufficient explanations in the design. The study will combine survey responses with usability testing data to offer recommendations for future improvements.\n\n\n\nLiterature Review\nHuman-computer interaction has been evolving over the past few decades, with a lot of focus on making systems more user-friendly. Early research by Norman (2013) showed that usability is the core of good design. More recent studies, however, have started to look at how GenAI can be integrated into these systems to make interactions more natural. For example, Lee and Park (2022) describe conversational agents that can mimic human dialogue, which seems promising but also raises questions about reliability and user trust.\nSome researchers argue that the use of GenAI might actually hinder user experience if the technology does not align with user expectations. Johnson et al. (2023) point out that while GenAI can produce quick responses, these responses sometimes lack context, which may lead users to feel misunderstood. This study is important because it mixes descriptive observations—like noting the speed of the responses—with analytical questions about whether the speed compromises the quality of interactions.\nThere is a noticeable gap, though, in the literature when it comes to understanding how different user groups (novices versus experienced users) actually interact with these systems. Many studies provide a lot of descriptive data (e.g., error rates, response times) without delving into why users might behave in a certain way. This gap is significant because without analysis, we just have numbers without an understanding of the underlying issues.\nIt is also worth noting that some of the literature is a bit redundant. Many papers just restate that user feedback is important without explaining how to implement it effectively. This is something that our research intends to address by not only gathering descriptive data but also engaging in a deeper analysis of user comments and behavior during interactions with the system.\n\n\n\nMethodology\nTo tackle the research questions, this study employs a mixed-methods approach, even though the approach might seem a bit scattered at first glance. The research is split into three phases.\nPhase 1: Pre-Test Survey\n- Participants: We plan to recruit about 30 undergraduate students, preferably with varying experiences in using conversational interfaces.\n- Survey Design: The survey will ask participants about their familiarity with GenAI, their initial impressions of conversational agents, and any previous experiences with AI-based interfaces.\n- Goal: This phase is meant to collect baseline data, which is crucial, even if it might seem a bit generic. The data will later be compared with what we observe during usability testing.\nPhase 2: Usability Testing\n- Test Setup: The usability tests will be conducted in a lab setting where participants interact with a prototype conversational interface. The interface is designed to simulate a GenAI-powered dialogue system, though there may be issues with its responsiveness.\n- Task Scenarios: Participants will perform tasks like asking for help, checking information, and engaging in casual conversation. These tasks are designed to mimic real-life usage but might not capture every nuance of natural conversation.\n- Data Collection: We will collect quantitative data such as task completion time and error rates, as well as qualitative data in the form of recorded verbal feedback and written comments.\n- Analytical Focus: The analysis will focus on identifying common themes in the feedback. For example, if several users mention that the system’s responses seem “robotic” or “hard to follow,” we will consider whether the interface lacks sufficient context or explanation. This phase is both descriptive (measuring performance metrics) and analytical (interpreting feedback to suggest improvements).\nPhase 3: Post-Test Survey and Group Discussion\n- Post-Test Survey: After the usability testing, participants will complete a short survey asking for their impressions of the interface and suggestions for improvement.\n- Group Discussion: A focus group will be held to discuss the usability test outcomes. The discussion will be semi-structured, allowing for both free-form feedback and guided questions about what worked and what did not.\n- Data Analysis: We plan to use thematic analysis on the qualitative data to extract key issues. The intent is to correlate these themes with the quantitative data from Phase 2, though this may lead to some unexpected or messy findings that will need careful interpretation."
-  },
-  {
-    "objectID": "desn2003_W9.html#group-project-example",
-    "href": "desn2003_W9.html#group-project-example",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "Group Project Example",
-    "text": "Group Project Example\n\nAlready posted on Moodle and here\nQuick walk-through lookouts:\n\nframework\ncontents that are expected\njust an example so not the final ‘solution manual’ that you will need to follow\ntypical length that is expected, so nothing major\ndemonstrates how you have leveraged techniques learnt in this class to investigate problems at hand\n\nLet’s take a quick look"
-  },
-  {
     "objectID": "desn2003_W9.html#why-theres-a-groupindividual-interview-based-project",
     "href": "desn2003_W9.html#why-theres-a-groupindividual-interview-based-project",
     "title": "DESN2003 | Research for Innovation",
@@ -1253,32 +1239,11 @@
     "text": "Pros and Cons: Working as a Group vs. Individual\n\nWorking as a group, you will:\n\nGet a chance to reach more people thus expanding your professional network\nWrite a smaller portion of the overall report on findings, however in the meantime\nlosing control over showflow and\nunable to push the conversation in desired directions, potentially leaving questions unanswered.\n\nWorking as an individual, you will:\n\nReach more people (unlike previously which was per-person level) and expand professional network further\nhave more control over how the conversation goes and ask questions that resonates more with you,\nfree to manipulate the formation of your final group report to be more consistent with your vision yet\nless likely to get more positive answer to do a sit-down interview, even a zoom-based one and\nwrite the full report on one’s own and coming up with all questions that you’ll want to ask\n\n\nMake your pick according to your liking."
   },
   {
-    "objectID": "desn2003_W9.html#essense-of-analytical-writing",
-    "href": "desn2003_W9.html#essense-of-analytical-writing",
+    "objectID": "desn2003_W9.html#descriptive-vs.-analytical-writing",
+    "href": "desn2003_W9.html#descriptive-vs.-analytical-writing",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Essense of Analytical Writing",
-    "text": "Essense of Analytical Writing\nWhat do you know about analytical writing?\n\nUnderstanding the pivotal role of analytical writing in design.\nDifferentiating between descriptive and analytical approaches.\nExploring the impact of analytical writing on research and design outcomes."
-  },
-  {
-    "objectID": "desn2003_W9.html#differentiating-the-two",
-    "href": "desn2003_W9.html#differentiating-the-two",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "Differentiating the two",
-    "text": "Differentiating the two\n\nDescriptive Writing:\n\nFocuses on the “what.”\nProvides a straightforward account without interpretation.\nExample: “The user interface contains a navigation bar at the top.”\n\nAnalytical Writing:\n\nDelves into the “why” and “how.”\nInterprets data, identifies patterns, and evaluates significance.\nExample: “Placing the navigation bar at the top enhances user accessibility, aligning with established usability principles.”\n\n\nOutput after careful thinking process rather than a recount/paragraphrasing."
-  },
-  {
-    "objectID": "desn2003_W9.html#why-should-anyone-try-to-learnwork-with-analytical-writing",
-    "href": "desn2003_W9.html#why-should-anyone-try-to-learnwork-with-analytical-writing",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "Why should anyone try to learn/work with analytical writing?",
-    "text": "Why should anyone try to learn/work with analytical writing?\nAny obvious benefits?\n\nInformed Decision-Making: Enables designers to base choices on thorough analysis rather than assumptions.\nEffective Communication: Facilitates clear articulation of design rationale to stakeholders.\nProblem-Solving: Assists in identifying user pain points and developing targeted solutions.\nContinuous Improvement: Encourages ongoing evaluation and refinement of design strategies."
-  },
-  {
-    "objectID": "desn2003_W9.html#knowing-the-what-how-do-we-enahcne-analytical-writing-skills",
-    "href": "desn2003_W9.html#knowing-the-what-how-do-we-enahcne-analytical-writing-skills",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "Knowing the what, how do we enahcne analytical writing skills?",
-    "text": "Knowing the what, how do we enahcne analytical writing skills?\nJust a few helpful tricks:\n\nEngage in Active Reading: Critically assess texts, identifying key arguments and evidence.\nPractice Writing Regularly: Analyze case studies, write reflections, and seek feedback.\nSeek Diverse Perspectives: Consider multiple viewpoints to enrich analysis.\nUtilize Frameworks: Apply models like SWOT (Strengths, Weaknesses, Opportunities, Threats) to structure analysis."
+    "section": "Descriptive vs. Analytical Writing",
+    "text": "Descriptive vs. Analytical Writing\nWelcome to today’s session on distinguishing between descriptive and analytical writing. Let’s enhance our academic writing skills together!\n\nIn this session, we’ll explore the key differences between descriptive and analytical writing, which are crucial for academic success, especially in fields like UI/UX and product design."
   },
   {
     "objectID": "desn2003_W9.html#activity-identify-the-writing-style",
@@ -1288,81 +1253,116 @@
     "text": "Activity: Identify the Writing Style\nWe’ll go through several examples. For each, determine if it’s descriptive or analytical. After your response, we’ll reveal the correct answer and discuss.\n\nThis interactive activity aims to help students practice distinguishing between descriptive and analytical writing through real examples."
   },
   {
-    "objectID": "desn2003_W9.html#example-1",
-    "href": "desn2003_W9.html#example-1",
+    "objectID": "desn2003_W9.html#example-1-question",
+    "href": "desn2003_W9.html#example-1-question",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Example 1",
-    "text": "Example 1\n“User engagement metrics have decreased by 20% over the past three months.”\nIs this descriptive or analytical?\n\nThis statement presents a factual observation without interpretation or analysis.\n\n\nAnswer: Descriptive\n“User engagement metrics have decreased by 20% over the past three months.”\nRationale:\nThis statement simply reports a fact without exploring underlying reasons or implications.\n\n\nDescriptive writing focuses on stating facts or observations without delving into analysis or interpretation."
+    "section": "Example 1: Question",
+    "text": "Example 1: Question\n“User engagement metrics have decreased by 20% over the past three months.”\nQuestion:\nIs this statement descriptive or analytical?\n\nThis statement simply presents a fact without interpretation. Think: Does it explain why or how?"
   },
   {
-    "objectID": "desn2003_W9.html#example-2",
-    "href": "desn2003_W9.html#example-2",
+    "objectID": "desn2003_W9.html#example-1-answer",
+    "href": "desn2003_W9.html#example-1-answer",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Example 2",
-    "text": "Example 2\n“The decline in user engagement over the past three months suggests that recent interface changes may have negatively impacted user experience, highlighting the need for usability testing.”\nIs this descriptive or analytical?\n\nThis statement not only presents the observed decline but also interprets potential causes and suggests actions.\n\n\nAnswer: Analytical\n“The decline in user engagement over the past three months suggests that recent interface changes may have negatively impacted user experience, highlighting the need for usability testing.”\nRationale:\nThis statement interprets the observed data, proposes a potential cause, and recommends further action, demonstrating analytical writing.\n\n\nAnalytical writing goes beyond mere observation by interpreting data, identifying possible causes, and suggesting solutions or further investigations."
+    "section": "Example 1: Answer",
+    "text": "Example 1: Answer\nAnswer: Descriptive\nExplanation:\nThe sentence reports a fact (a 20% drop) without delving into any reasons or implications behind the metric change."
   },
   {
-    "objectID": "desn2003_W9.html#example-3",
-    "href": "desn2003_W9.html#example-3",
+    "objectID": "desn2003_W9.html#example-2-question",
+    "href": "desn2003_W9.html#example-2-question",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Example 3",
-    "text": "Example 3\n“Maslow’s hierarchy of needs is a psychological theory that arranges human needs in a pyramid, with physiological needs at the base and self-actualization at the top.”\nIs this descriptive or analytical?\n\nThis statement describes the structure of Maslow’s hierarchy without analysis or critique.\n\n\nAnswer: Descriptive\n“Maslow’s hierarchy of needs is a psychological theory that arranges human needs in a pyramid, with physiological needs at the base and self-actualization at the top.”\nRationale:\nThis statement provides a description of the theory without evaluating its implications or validity.\n\n\nDescriptive writing outlines concepts or theories without engaging in evaluation or critical analysis."
+    "section": "Example 2: Question",
+    "text": "Example 2: Question\n“Maslow’s hierarchy of needs is a psychological theory that arranges human needs in a pyramid, with physiological needs at the base and self-actualization at the top.”\nQuestion:\nIs this statement descriptive or analytical?\n\nIt describes the theory’s structure, but it doesn’t critically assess its limitations or context."
   },
   {
-    "objectID": "desn2003_W9.html#example-4",
-    "href": "desn2003_W9.html#example-4",
+    "objectID": "desn2003_W9.html#example-2-answer",
+    "href": "desn2003_W9.html#example-2-answer",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Example 4",
-    "text": "Example 4\n“While Maslow’s hierarchy of needs provides a foundational framework for understanding human motivation, it has been critiqued for its rigid structure and lack of consideration for cultural variations in prioritizing needs.”\nIs this descriptive or analytical?\n\nThis statement evaluates the theory, acknowledging its contributions and limitations.\n\n\nAnswer: Analytical\n“While Maslow’s hierarchy of needs provides a foundational framework for understanding human motivation, it has been critiqued for its rigid structure and lack of consideration for cultural variations in prioritizing needs.”\nRationale:\nThis statement assesses the theory’s strengths and weaknesses, incorporating critical analysis.\n\n\nAnalytical writing involves evaluating theories or concepts, considering their strengths, limitations, and applicability in different contexts."
+    "section": "Example 2: Answer",
+    "text": "Example 2: Answer\nAnswer: Descriptive\nExplanation:\nWhile it explains the pyramid structure, it does not analyze or critique the theory’s applicability or limitations across different cultures."
   },
   {
-    "objectID": "desn2003_W9.html#example-5",
-    "href": "desn2003_W9.html#example-5",
+    "objectID": "desn2003_W9.html#example-3-question",
+    "href": "desn2003_W9.html#example-3-question",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Example 5",
-    "text": "Example 5\n“Survey results show that 60% of respondents prefer online shopping over in-store shopping.”\nIs this descriptive or analytical?\n\nThis statement reports survey findings without interpretation.\n\n\nAnswer: Descriptive\n“Survey results show that 60% of respondents prefer online shopping over in-store shopping.”\nRationale:\nThis statement presents data without analyzing underlying factors or implications.\n\n\nDescriptive writing presents data or findings without delving into analysis or exploring underlying reasons."
+    "section": "Example 3: Question",
+    "text": "Example 3: Question\n“The experiment demonstrated that plants exposed to sunlight grew faster than those kept in the shade.”\nQuestion:\nIs this statement descriptive or analytical?\n\nIt reports the outcome of an experiment without explaining the underlying reasons."
   },
   {
-    "objectID": "desn2003_W9.html#example-6",
-    "href": "desn2003_W9.html#example-6",
+    "objectID": "desn2003_W9.html#example-3-answer",
+    "href": "desn2003_W9.html#example-3-answer",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Example 6",
-    "text": "Example 6\n“The survey indicating that 60% of respondents prefer online shopping reflects a significant shift towards digital retail platforms, likely influenced by factors such as convenience and broader selection.”\nIs this descriptive or analytical?\n\nThis statement interprets the survey data, suggesting reasons behind the observed trend.\n\n\nAnswer: Analytical\n“The survey indicating that 60% of respondents prefer online shopping reflects a significant shift towards digital retail platforms, likely influenced by factors such as convenience and broader selection.”\nRationale:\nThis statement interprets the data, considers contributing factors, and discusses broader implications, exemplifying analytical writing.\n\n\nAnalytical writing interprets data by considering contributing factors and discussing broader implications, providing a deeper understanding of the subject matter."
+    "section": "Example 3: Answer",
+    "text": "Example 3: Answer\nAnswer: Descriptive\nExplanation:\nThe statement provides an observation (faster growth with sunlight) without discussing the process or significance of the finding."
+  },
+  {
+    "objectID": "desn2003_W9.html#example-4-question",
+    "href": "desn2003_W9.html#example-4-question",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Example 4: Question",
+    "text": "Example 4: Question\n“In Shakespeare’s ‘Macbeth,’ Lady Macbeth’s manipulation of her husband’s actions serves as a commentary on the corrupting power of unchecked ambition and challenges traditional gender roles in Shakespearean society.”\nQuestion:\nIs this statement descriptive or analytical?\n\nThis statement goes beyond merely describing; it interprets the role of Lady Macbeth to reveal broader themes."
+  },
+  {
+    "objectID": "desn2003_W9.html#example-4-answer",
+    "href": "desn2003_W9.html#example-4-answer",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Example 4: Answer",
+    "text": "Example 4: Answer\nAnswer: Analytical\nExplanation:\nIt not only identifies Lady Macbeth’s influence but also interprets her actions as a critique of societal norms, thus offering analytical insight."
+  },
+  {
+    "objectID": "desn2003_W9.html#example-5-question",
+    "href": "desn2003_W9.html#example-5-question",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Example 5: Question",
+    "text": "Example 5: Question\n“Survey results show that 60% of respondents prefer online shopping over in-store shopping.”\nQuestion:\nIs this statement descriptive or analytical?\n\nConsider if the sentence just states the data or explores reasons behind the preference."
+  },
+  {
+    "objectID": "desn2003_W9.html#example-5-answer",
+    "href": "desn2003_W9.html#example-5-answer",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Example 5: Answer",
+    "text": "Example 5: Answer\nAnswer: Descriptive\nExplanation:\nIt presents a statistic without discussing why users might prefer online shopping or its implications for consumer behavior."
+  },
+  {
+    "objectID": "desn2003_W9.html#example-6-question",
+    "href": "desn2003_W9.html#example-6-question",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Example 6: Question",
+    "text": "Example 6: Question\n“While the interface layout includes a navigation bar, a content area, and a footer, this design might impede user engagement if it fails to prioritize the most critical user tasks, suggesting a need for a more dynamic, behavior-driven layout.”\nQuestion:\nIs this statement descriptive or analytical?\n\nNotice how this sentence not only describes the interface components but also evaluates their impact on user engagement."
+  },
+  {
+    "objectID": "desn2003_W9.html#example-6-answer",
+    "href": "desn2003_W9.html#example-6-answer",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Example 6: Answer",
+    "text": "Example 6: Answer\nAnswer: Analytical\nExplanation:\nThe statement goes beyond description by assessing the potential drawbacks of the layout and suggesting improvements based on user behavior."
   },
   {
     "objectID": "desn2003_W9.html#key-takeaways",
     "href": "desn2003_W9.html#key-takeaways",
     "title": "DESN2003 | Research for Innovation",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\n\nDescriptive Writing: Focuses on stating facts and observations without interpretation.\nAnalytical Writing: Involves interpreting data, evaluating significance, and exploring implications.\n\nAim to incorporate analytical writing in your academic work to demonstrate critical thinking and depth of understanding.\n\nEncourage students to practice analytical writing to enhance their academic performance and critical thinking skills."
+    "text": "Key Takeaways\n\nDescriptive vs. Analytical:\n\nDescriptive writing states facts or observations.\n\nAnalytical writing explains the significance, reasoning, and implications behind those facts.\n\nDepth of Analysis:\n\nEffective academic writing connects evidence with critical interpretation.\n\nAlways ask: “Why is this important?” and “What does this mean for the overall argument?”\n\nPractical Strategies for Improvement:\n\nPeer Review: Leverage feedback from classmates to identify areas lacking analysis.\n\nReverse Outlining: Break down your text to pinpoint descriptive versus analytical sections.\n\nContinuous Revision:\n\nUse these insights to refine your drafts, deepening your analysis and improving clarity.\n\n\n\nThese key points emphasize the critical differences between descriptive and analytical writing. Remember, the goal is to transform simple statements into a compelling argument by integrating evidence, interpretation, and reflection. Use peer review and reverse outlining as tools to uncover and address any gaps in your analysis."
   },
   {
-    "objectID": "desn2003_W9.html#welcome-to-in-class-analytic-polishing",
-    "href": "desn2003_W9.html#welcome-to-in-class-analytic-polishing",
+    "objectID": "desn2003_W9.html#enhancing-your-analytical-writing",
+    "href": "desn2003_W9.html#enhancing-your-analytical-writing",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Welcome to In-Class Analytic Polishing!",
-    "text": "Welcome to In-Class Analytic Polishing!\nObjective:\n- Develop your analytical writing skills by examining and revising your literature review or methodology sections.\n- Engage in collaborative activities to practice critical analysis.\nToday’s Activities:\n1. Peer Review: In pairs, analyze each other’s writing using guided questions.\n2. Reverse Outlining: Break down a text (yours or a provided sample) to identify strengths and gaps.\n\nIn this session, we’ll focus on moving beyond descriptive writing into deep, analytical writing. You have the option to work on your own work or use a sample provided by me."
+    "section": "Enhancing Your Analytical Writing",
+    "text": "Enhancing Your Analytical Writing\nObjective:\n- Develop your analytical writing skills by examining and revising your literature review or methodology sections.\n- Engage in collaborative activities to practice critical analysis.\nToday’s Activities:\n1. Peer Review: In pairs, analyze each other’s writing using guided questions.\n2. Reverse Outlining: Break down a text (yours or a provided sample) to identify strengths and gaps.\n\nIn this session, we’ll focus on moving beyond descriptive writing into deep, analytical writing. You have the option to work on your own work or use a sample provided by me."
   },
   {
     "objectID": "desn2003_W9.html#stage-1-peer-review-activity",
     "href": "desn2003_W9.html#stage-1-peer-review-activity",
     "title": "DESN2003 | Research for Innovation",
     "section": "Stage 1: Peer Review Activity",
-    "text": "Stage 1: Peer Review Activity\nTime: 25 minutes\nInstructions:\n\nPair Up: Find a partner in the room - or whoever you sit next to.\nExchange Materials: Share your literature review or methodology section (or use the provided sample).\nGuided Review: Use these questions as you read your partner’s work:\n\nThesis & Argument:\n\nIs the thesis clear and arguable?\nDoes the argument show critical evaluation rather than just stating facts?\n\nUse of Evidence:\n\nIs evidence well integrated and analyzed?\nDoes the writer explain the significance of each piece of evidence?\n\nStructure & Flow:\n\nAre the ideas presented logically?\nDo transitions connect the analysis throughout the paper?\n\n\n\nGoal:\n- Provide constructive feedback focused on deepening the analysis.\n\nAs you review, think critically: Are the claims supported by analysis or just stated? Focus on suggesting ways to integrate evidence and clarify your argument."
+    "text": "Stage 1: Peer Review Activity\nTime: 25 minutes\nInstructions:\n\nPair Up: Find a partner in the room.\nExchange Materials: Share your literature review or methodology section (or use the provided sample).\nGuided Review: Use these questions as you read your partner’s work:\n\nThesis & Argument:\n\nIs the thesis clear and arguable?\nDoes the argument show critical evaluation rather than just stating facts?\n\nUse of Evidence:\n\nIs evidence well integrated and analyzed?\nDoes the writer explain the significance of each piece of evidence?\n\nStructure & Flow:\n\nAre the ideas presented logically?\nDo transitions connect the analysis throughout the paper?\n\n\n\nGoal:\n- Provide constructive feedback focused on deepening the analysis.\n\nAs you review, think critically: Are the claims supported by analysis or just stated? Focus on suggesting ways to integrate evidence and clarify your argument."
   },
   {
     "objectID": "desn2003_W9.html#stage-2-reverse-outlining-exercise",
     "href": "desn2003_W9.html#stage-2-reverse-outlining-exercise",
     "title": "DESN2003 | Research for Innovation",
     "section": "Stage 2: Reverse Outlining Exercise",
-    "text": "Stage 2: Reverse Outlining Exercise\nTime: 25 minutes\nInstructions:\n\nChoose Your Text: Pick a section from your own work or use the provided sample text.\nNumber Each Paragraph: Write numbers in the margin for clarity.\nSummarize Each Paragraph: In one sentence, capture the main idea or argument of each paragraph.\nEvaluate the Outline:\n\nAsk yourself: Does each summary contribute to your overall argument?\n\nIdentify any parts that are merely descriptive rather than analytical.\n\nPlan Revisions: Mark paragraphs that need more critical insight or better integration of evidence.\n\nGoal:\n- Reveal the structure and flow of your argument. - Identify areas where you can add deeper analysis or clarity.\n\nReverse outlining is a fantastic way to “step back” and see if your paragraphs are advancing your argument. Look for any gaps where analysis is missing, and consider how you can connect ideas more cohesively."
-  },
-  {
-    "objectID": "desn2003_W9.html#on-writing-sample",
-    "href": "desn2003_W9.html#on-writing-sample",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "On Writing Sample",
-    "text": "On Writing Sample\n\nStrengths Noted: The writeup successfully combines descriptive details (e.g., the steps of the usability test) with analytical commentary (e.g., questioning why users find responses robotic). There is a clear attempt to connect the literature with the research methodology.\nCaveats and Areas for Improvement: The language is sometimes repetitive, and the analytical parts are not always fully developed. For instance, the discussion on the gap in literature is somewhat superficial. There is a mix of overly generic phrases (“data is crucial”) with more detailed analysis, which might confuse the reader about the depth of the research.\nThe structure could be tightened; some parts seem scattered, reflecting a common issue in student writing where descriptive and analytical elements are not clearly separated.\nThis sample serves as a diagnostic example. It demonstrates both the potential for blending descriptive and analytical writing and the common pitfalls—such as redundancy, superficial analysis, and structural disorganization—that you should work on when revising your own work."
+    "text": "Stage 2: Reverse Outlining Exercise\nTime: 25 minutes\nInstructions:\n\nChoose Your Text: Pick a section from the previously worked-upon example you looked at (4-5 paragraphs max).\nNumber Each Paragraph: Number the paragraphs in the margin for clarity.\nSummarize Each Paragraph: In one sentence, capture the main idea or argument of each paragraph.\nEvaluate the Outline:\n\nDoes each summary contribute to your overall argument?\n\nIdentify any parts that are merely descriptive rather than analytical.\n\nPlan Revisions: Mark paragraphs that need more critical insight or better integration of evidence.\n\nGoal:\n- Reveal the structure and flow of your argument and present to each other. - Identify areas where you can add deeper analysis or clarity.\n\nReverse outlining is a fantastic way to “step back” and see if your paragraphs are advancing your argument. Look for any gaps where analysis is missing, and consider how you can connect ideas more cohesively."
   },
   {
     "objectID": "desn2003_W9.html#reflection-discussion",
@@ -1372,11 +1372,18 @@
     "text": "Reflection & Discussion\nDiscussion Questions:\n- What new insights did you gain about your own writing from these activities?\n- How can the feedback from your peer review inform your revisions?\n- What specific changes will you make to improve the analytical depth of your paper?\nNext Steps:\n- Revise your draft based on the insights and feedback received. - Schedule a follow-up session if you need additional support on integrating analytical writing techniques.\n\nFeel free to share your reflections with the class. This discussion will help you and your peers learn from one another’s experiences and insights. Remember, the aim is not just to correct, but to deepen your understanding of analytical writing."
   },
   {
-    "objectID": "desn2003_W9.html#some-simple-qa",
-    "href": "desn2003_W9.html#some-simple-qa",
+    "objectID": "desn2003_W9.html#double-check-your-submission-to-make-sure-that-it-can-be-considered-a-followable-instruction-manual-by-the-domain-experts.",
+    "href": "desn2003_W9.html#double-check-your-submission-to-make-sure-that-it-can-be-considered-a-followable-instruction-manual-by-the-domain-experts.",
     "title": "DESN2003 | Research for Innovation",
-    "section": "Some Simple Q&A",
-    "text": "Some Simple Q&A\n\nHow to use coding to do data visualization?\n\nBy programming language:\n\nPython, R, Javascript (Processing/Arduino)\n\nBy type of programming:\n\n(Text-based) Programming\nGraphical/Visual/Block-based programming: Grasshopper\n\n\nHow does data visualization differ in commercial vs. academic/research settings\n\nCommercial:\n\nGoal: Support decision-making\nDesigned to deliver messages\n\nAcademic:\n\nGoal: Present evidence and analysis alongside findings\nDesigned to present evidence"
+    "section": "Double-check your submission to make sure that it can be considered a followable instruction manual by the domain experts.",
+    "text": "Double-check your submission to make sure that it can be considered a followable instruction manual by the domain experts."
+  },
+  {
+    "objectID": "desn2003_W9.html#question-received-last-week",
+    "href": "desn2003_W9.html#question-received-last-week",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Question received last week",
+    "text": "Question received last week\n\nHow to use coding to do data visualization?\n\nBy programming language:\n\nPython, R, Javascript (Processing/Arduino)\n\nBy type of programming:\n\n(Text-based) Programming\nGraphical/Visual/Block-based programming: Grasshopper\n\n\nHow does data visualization differ in commercial vs. academic/research settings\n\nCommercial:\n\nGoal: Support decision-making\nDesigned to deliver messages\n\nAcademic:\n\nGoal: Present evidence and analysis alongside findings\nDesigned to present evidence"
   },
   {
     "objectID": "desn2003_W9.html#visualizing-quantitative-data",
@@ -1397,13 +1404,6 @@
     "href": "desn2003_W9.html#alternative-time-series-visualization",
     "title": "DESN2003 | Research for Innovation",
     "section": "Alternative Time Series Visualization",
-    "text": "Alternative Time Series Visualization"
-  },
-  {
-    "objectID": "desn2003_W9.html#sankey-diagram",
-    "href": "desn2003_W9.html#sankey-diagram",
-    "title": "DESN2003 | Research for Innovation",
-    "section": "Sankey Diagram",
-    "text": "Sankey Diagram\n\nInflow/Outflow\nNumerical Data that traces back to the source\nProgrammable yet messy in execution"
+    "text": "Alternative Time Series Visualization\n ## Sankey Diagram - Inflow/Outflow - Numerical Data that traces back to the source - Programmable yet messy in execution"
   }
 ]
