@@ -1,0 +1,400 @@
+---
+title: "DESN2003 | Research for Innovation"
+subtitle: "Lit Review Continues, Group Project and Finalizing Methodology"
+author: Hongshan Guo
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+    
+---
+
+<!-- ## Recapping on Literature Review
+- Grades & Comments published on Moodle
+- Major reasons that the grades may not appear to be satisfying:
+  - formatting is off
+  - recounting, synthesis are in, but critical lens are missing
+    - question literature if you could
+  - if you need any clarifications feel free to reach out to me for time to catch up next week on this during office hour
+    - we may arrange in-class seminar session if demands are high enough
+
+## Group Project Example
+  - Already posted on Moodle
+  - Quick walk-through lookouts:
+    - framework
+    - contents that are expected
+    - just an example so not the final 'solution manual' that you will need to follow
+    - typical length that is expected, so nothing major
+    - demonstrates how you have leveraged techniques learnt in this class to investigate problems at hand
+  - Let's take a quick look -->
+
+# Group Project
+
+## Why there's a Group/Individual (interview-based) Project
+  - Practicing **Research** in non-academic setting
+  - Reaching out to people with some predetermined agenda
+  - Attempt on additional insight by taking in first-hand primary data through interviews
+  - Something that wasn't possible with existing framework on your more 'academic' research
+  - Opportunity to collect data and synthesize insights
+  - Recognize and celebrate the <span style='color: orange'>inherent bias</span> that you bring in
+
+## Pros and Cons: Working as a Group vs. Individual
+  - Working as a group, you will:
+    - Get a chance to reach more people thus expanding your professional network
+    - Write a smaller portion of the overall report on findings, however in the meantime
+    - _losing control over showflow and_
+    - _unable to push the conversation in desired directions, potentially leaving questions unanswered._
+  - Working as an individual, you will:
+    - Reach more people (unlike previously which was per-person level) and expand professional network further
+    - have more control over how the conversation goes and ask questions that resonates more with you,
+    - free to manipulate the formation of your final group report to be more consistent with your vision yet
+    - _less likely to get more positive answer to do a sit-down interview, even a zoom-based one and_
+    - _write the full report on one's own and coming up with all questions that you'll want to ask_
+
+#### Make your pick according to your liking.
+
+## From previous class, we have five (six) centralized group:
+  
+  - Fashion | Games (Film-making): possibly expanding to two groups
+  - Project Manager
+  - Scientists | Academics | Professors
+  - Curator | Museum Business
+  - Designers
+
+## Task of the day 1
+
+  1. Find your initial team mates;
+  2. work out an initial list (excel/Google Sheet) version of top 3 candidates;
+  3. You have 15 minutes;
+  4. You are not expected to go very deep with social engineering, but 
+  5. Selection of candidates should be justified through the excel;
+  5. Possible columns can be why you picked them, star project, most recent interview, etc. and preference rank.
+
+<!-- ## Time left before initial presentation
+:::{.timer #task1 seconds=900}
+:::
+ -->
+<!-- # Methodology (Due 11:59 AM Mar 31st) -->
+
+<!-- ## Circling back to Methodology Examples in Google Drive
+
+- Refer to W8 folder
+- Refer to the two papers for methodology framework inspirations aka 'formatting'
+  - "Stuck in the stack" & "Air vs. MRT"
+  - What level of details did these papers ended up providing in their methodology section?
+  - Are they connected somehow to the literature review/background+introduction sections as well?
+  - _But what if my methodologies are not natural-science-related?_
+- Tutorial/Instruction Manual-like spirit
+
+## Why do people have write a methodology section in research papers?
+  - We previously discussed **what** are the typical methodologies out there that supports research as a given.
+  - Reserach is ultimately meant for pushing boundaries:
+    - 'dissemination'  (dissemination)
+      - clarify extent and specifics of the published work
+    - '**reproducible**' (repeatable)
+      - allow readers to repeat the publication -->
+
+## Descriptive vs. Analytical Writing
+
+Welcome to today's session on distinguishing between descriptive and analytical writing. Let's enhance our academic writing skills together!
+
+::: notes
+In this session, we'll explore the key differences between descriptive and analytical writing, which are crucial for academic success, especially in fields like UI/UX and product design.
+:::
+
+
+## Activity: Identify the Writing Style
+
+We'll go through several examples. For each, determine if it's descriptive or analytical. After your response, we'll reveal the correct answer and discuss.
+
+::: notes
+This interactive activity aims to help students practice distinguishing between descriptive and analytical writing through real examples.
+:::
+
+## Example 1: Question
+
+"User engagement metrics have decreased by 20% over the past three months."
+
+**Question:**  
+Is this statement **descriptive** or **analytical**?
+
+::: notes
+This statement simply presents a fact without interpretation. Think: Does it explain why or how?
+:::
+
+---
+
+## Example 1: Answer
+
+**Answer:** Descriptive
+
+*Explanation:*  
+The sentence reports a fact (a 20% drop) without delving into any reasons or implications behind the metric change.
+
+---
+
+## Example 2: Question
+
+"Maslow's hierarchy of needs is a psychological theory that arranges human needs in a pyramid, with physiological needs at the base and self-actualization at the top."
+
+**Question:**  
+Is this statement **descriptive** or **analytical**?
+
+::: notes
+It describes the theory’s structure, but it doesn't critically assess its limitations or context.
+:::
+
+---
+
+## Example 2: Answer
+
+**Answer:** Descriptive
+
+*Explanation:*  
+While it explains the pyramid structure, it does not analyze or critique the theory’s applicability or limitations across different cultures.
+
+---
+
+## Example 3: Question
+
+"The experiment demonstrated that plants exposed to sunlight grew faster than those kept in the shade."
+
+**Question:**  
+Is this statement **descriptive** or **analytical**?
+
+::: notes
+It reports the outcome of an experiment without explaining the underlying reasons.
+:::
+
+---
+
+## Example 3: Answer
+
+**Answer:** Descriptive
+
+*Explanation:*  
+The statement provides an observation (faster growth with sunlight) without discussing the process or significance of the finding.
+
+---
+
+## Example 4: Question
+
+"In Shakespeare's 'Macbeth,' Lady Macbeth's manipulation of her husband's actions serves as a commentary on the corrupting power of unchecked ambition and challenges traditional gender roles in Shakespearean society."
+
+**Question:**  
+Is this statement **descriptive** or **analytical**?
+
+::: notes
+This statement goes beyond merely describing; it interprets the role of Lady Macbeth to reveal broader themes.
+:::
+
+---
+
+## Example 4: Answer
+
+**Answer:** Analytical
+
+*Explanation:*  
+It not only identifies Lady Macbeth’s influence but also interprets her actions as a critique of societal norms, thus offering analytical insight.
+
+---
+
+## Example 5: Question
+
+"Survey results show that 60% of respondents prefer online shopping over in-store shopping."
+
+**Question:**  
+Is this statement **descriptive** or **analytical**?
+
+::: notes
+Consider if the sentence just states the data or explores reasons behind the preference.
+:::
+
+---
+
+## Example 5: Answer
+
+**Answer:** Descriptive
+
+*Explanation:*  
+It presents a statistic without discussing why users might prefer online shopping or its implications for consumer behavior.
+
+---
+
+## Example 6: Question
+
+"While the interface layout includes a navigation bar, a content area, and a footer, this design might impede user engagement if it fails to prioritize the most critical user tasks, suggesting a need for a more dynamic, behavior-driven layout."
+
+**Question:**  
+Is this statement **descriptive** or **analytical**?
+
+::: notes
+Notice how this sentence not only describes the interface components but also evaluates their impact on user engagement.
+:::
+
+---
+
+## Example 6: Answer
+
+**Answer:** Analytical
+
+*Explanation:*  
+The statement goes beyond description by assessing the potential drawbacks of the layout and suggesting improvements based on user behavior.
+
+## Key Takeaways
+
+- **Descriptive vs. Analytical:**  
+  - *Descriptive writing* states facts or observations.  
+  - *Analytical writing* explains the significance, reasoning, and implications behind those facts.
+  
+- **Depth of Analysis:**  
+  - Effective academic writing connects evidence with critical interpretation.  
+  - Always ask: "Why is this important?" and "What does this mean for the overall argument?"
+
+- **Practical Strategies for Improvement:**  
+  - **Peer Review:** Leverage feedback from classmates to identify areas lacking analysis.  
+  - **Reverse Outlining:** Break down your text to pinpoint descriptive versus analytical sections.
+
+- **Continuous Revision:**  
+  - Use these insights to refine your drafts, deepening your analysis and improving clarity.
+
+::: notes
+These key points emphasize the critical differences between descriptive and analytical writing. Remember, the goal is to transform simple statements into a compelling argument by integrating evidence, interpretation, and reflection. Use peer review and reverse outlining as tools to uncover and address any gaps in your analysis.
+:::
+
+## Enhancing Your Analytical Writing
+
+**Objective:**  
+- Develop your analytical writing skills by examining and revising your literature review or methodology sections.  
+- Engage in collaborative activities to practice critical analysis.
+
+**Today’s Activities:**  
+1. **Peer Review:** In pairs, analyze each other's writing using guided questions.  
+2. **Reverse Outlining:** Break down a text (yours or a provided sample) to identify strengths and gaps.
+
+::: notes
+In this session, we'll focus on moving beyond descriptive writing into deep, analytical writing. You have the option to work on your own work or use a sample provided by me.
+:::
+
+---
+
+## Stage 1: Peer Review Activity
+
+**Time:** 25 minutes
+
+**Instructions:**  
+
+1. **Pair Up:** Find a partner in the room.
+2. **Exchange Materials:** Share your literature review or methodology section (or use the provided sample).
+3. **Guided Review:** Use these questions as you read your partner’s work:
+   - **Thesis & Argument:**  
+     - Is the thesis clear and arguable?
+     - Does the argument show critical evaluation rather than just stating facts?
+   - **Use of Evidence:**  
+     - Is evidence well integrated and analyzed?
+     - Does the writer explain the significance of each piece of evidence?
+   - **Structure & Flow:**  
+     - Are the ideas presented logically?
+     - Do transitions connect the analysis throughout the paper?
+
+**Goal:**  
+- Provide constructive feedback focused on deepening the analysis.
+
+::: notes
+As you review, think critically: Are the claims supported by analysis or just stated? Focus on suggesting ways to integrate evidence and clarify your argument.
+:::
+
+---
+
+## Stage 2: Reverse Outlining Exercise
+
+**Time:** 25 minutes
+
+**Instructions:**  
+
+1. **Choose Your Text:** Pick a section from the previously worked-upon example you looked at (4-5 paragraphs max).
+2. **Number Each Paragraph:** Number the paragraphs in the margin for clarity.
+3. **Summarize Each Paragraph:** In one sentence, capture the main idea or argument of each paragraph.
+4. **Evaluate the Outline:**  
+   - Does each summary contribute to your overall argument?  
+   - Identify any parts that are merely descriptive rather than analytical.
+5. **Plan Revisions:** Mark paragraphs that need more critical insight or better integration of evidence.
+
+**Goal:**  
+- Reveal the structure and flow of your argument and present to each other.
+- Identify areas where you can add deeper analysis or clarity.
+
+::: notes
+Reverse outlining is a fantastic way to "step back" and see if your paragraphs are advancing your argument. Look for any gaps where analysis is missing, and consider how you can connect ideas more cohesively.
+:::
+
+---
+
+## Reflection & Discussion
+
+**Discussion Questions:**  
+- What new insights did you gain about your own writing from these activities?  
+- How can the feedback from your peer review inform your revisions?  
+- What specific changes will you make to improve the analytical depth of your paper?
+
+**Next Steps:**  
+- Revise your draft based on the insights and feedback received.
+- Schedule a follow-up session if you need additional support on integrating analytical writing techniques.
+
+::: notes
+Feel free to share your reflections with the class. This discussion will help you and your peers learn from one another’s experiences and insights. Remember, the aim is not just to correct, but to deepen your understanding of analytical writing.
+:::
+
+## Double-check your submission to make sure that it can be considered a followable instruction manual by the domain experts.
+
+# Data Visualization
+
+## Question received last week
+
+- How to use coding to do data visualization?
+  - By programming language:
+    - Python, R, Javascript (Processing/Arduino)
+  - By type of programming:
+    - (Text-based) Programming
+    - Graphical/Visual/Block-based programming: Grasshopper
+- How does data visualization differ in commercial vs. academic/research settings
+  - Commercial:
+    - Goal: Support decision-making
+    - Designed to deliver messages
+  - Academic:
+    - Goal: Present evidence and analysis alongside findings
+    - Designed to present evidence
+
+## Visualizing Quantitative Data
+
+- How do you usually work with them?
+- What do you think are your biggest strength in treating them? Color Pallete and aethetics plus readability
+- Types of data that can be visualized:
+  - Numerical
+  - Categorical
+  - Text (Free text)
+  - _Tabular_: multi-dimensional combined as above
+
+## Time Series Data
+  - Adding one more dimension
+  - Time-stamped information, usually numerical
+  - Scale of time series often important, similar to (potentially necessary) smoothing
+  ![Time Series Data with Weather data](https://images.ctfassets.net/uklh5xrq1p2j/5rT7o8AHq2HIlOHRSD2jgB/65db7b5c0cc2104228e4d3ca518fbc59/whatcaused2.png)
+
+## Alternative Time Series Visualization
+
+![](https://images.ctfassets.net/uklh5xrq1p2j/3f9hvirynb0nXNLivEYvmY/e81d7e23b0308229a430b2752cf77a21/facetsNotColor__6_.png)
+## Sankey Diagram
+  - Inflow/Outflow
+  - Numerical Data that traces back to the source
+  - Programmable yet messy in execution
+  ![Sankey Diagram off X](https://pbs.twimg.com/media/FDbIQ32X0AEqGRk.jpg)
+
+
