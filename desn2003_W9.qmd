@@ -35,7 +35,7 @@ format:
     - demonstrates how you have leveraged techniques learnt in this class to investigate problems at hand
   - Let's take a quick look -->
 
-# Group Project
+# Interview Project
 
 ## Why there's a Group/Individual (interview-based) Project
   - Practicing **Research** in non-academic setting
@@ -59,7 +59,7 @@ format:
     - _write the full report on one's own and coming up with all questions that you'll want to ask_
 
 #### Make your pick according to your liking.
-
+<!-- 
 ## From previous class, we have five (six) centralized group:
   
   - Fashion | Games (Film-making): possibly expanding to two groups
@@ -75,7 +75,7 @@ format:
   3. You have 15 minutes;
   4. You are not expected to go very deep with social engineering, but 
   5. Selection of candidates should be justified through the excel;
-  5. Possible columns can be why you picked them, star project, most recent interview, etc. and preference rank.
+  5. Possible columns can be why you picked them, star project, most recent interview, etc. and preference rank. -->
 
 <!-- ## Time left before initial presentation
 :::{.timer #task1 seconds=900}
