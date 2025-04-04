@@ -1,0 +1,95 @@
+---
+title: "Data Visualization: From Numbers to Insights"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+
+## What is Data Visualization?
+
+- **Definition:** Data visualization is the **graphical representation of information and data**. By using visual elements like charts, graphs, and maps, it provides an accessible way to see and understand **trends, outliers, patterns, and insights** in data ([Presenting Data | Digital Experience Studio | Michigan State University](https://dxstudio.msu.edu/analytics/data-visualization#:~:text=What%20is%20Data%20Visualization%3F)).
+- **Why it matters:** Visualizing data helps turn raw numbers into a story or insight. It's much easier for humans to spot patterns or comparisons in a chart than in a table of numbers.
+- **In this session:** We will explore visualization techniques for **quantitative data** (numbers) and **qualitative data** (text), and practice creating these visualizations.
+
+## Common Tools for Data Visualization
+
+- **Spreadsheets (Excel, Google Sheets):** Easiest starting point for beginners. Create bar charts, pie charts, etc. with a few clicks.
+- **Business Intelligence Tools (Tableau, Power BI):** User-friendly, drag-and-drop interfaces for more advanced visuals (maps, interactive dashboards) without coding. Require some learning but widely used.
+- **Programming Libraries:** For example, Python’s **Matplotlib/Seaborn** or R’s **ggplot2**. These offer high flexibility and customization, but require writing code. We'll use Python libraries today – a bit of a learning curve, but powerful for reproducible analysis.
+- **Which are easiest?** For absolute beginners, spreadsheets and GUI tools are most accessible. Coding libraries are powerful for those comfortable with programming (we'll guide you through using them).
+
+## Quantitative vs Qualitative Data
+
+- **Quantitative data:** Numbers and figures (e.g. test scores, survey ratings). We visualize distributions, comparisons, relationships (charts like bar graphs, box plots, scatter plots, etc.).
+- **Qualitative data:** Non-numeric information, often text (e.g. interview transcripts, open-ended responses). We use techniques like **thematic analysis** to categorize themes, and visualize using word clouds, concept maps, etc.
+- In this workshop, we examine **both**: for example, survey results (quantitative) and interview excerpts (qualitative) about students using GenAI for learning.
+
+# Quantitative Data Visualization
+
+## Diagrammatic Comparison: Bar Charts vs Histograms
+
+- **Bar Charts:** Used to compare **discrete categories**. For example, comparing counts or averages between groups. (A bar graph is essentially a *diagrammatic comparison* of discrete variables ([Exploring and Analyzing Data: Create basic charts | by Deepak Holla | Medium](https://medium.com/@deepak.holla/exploring-and-analyzing-data-create-basic-charts-6047f10d43a4#:~:text=Although%20a%20Histogram%20looks%20similar,bar%20graph%20shows%20categorical%20data)).)
+- **Histograms:** Used to show the **distribution of continuous data**. Values are grouped into bins; bars touch each other (continuous scale). Histograms plot how many data points fall into ranges of a numeric variable ([Exploring and Analyzing Data: Create basic charts | by Deepak Holla | Medium](https://medium.com/@deepak.holla/exploring-and-analyzing-data-create-basic-charts-6047f10d43a4#:~:text=Although%20a%20Histogram%20looks%20similar,bar%20graph%20shows%20categorical%20data)).
+- *Key difference:* In a bar chart, categories (e.g. Group A vs Group B) have gaps between bars and can be reordered; in a histogram, the x-axis is numeric with no gaps (e.g. 0–10, 10–20, ...), showing the shape of data distribution.
+
+## Box Plots (Box-and-Whisker Plots)
+
+- **What they show:** A box plot uses boxes and lines to **summarize a distribution** of a numeric dataset ([ A Complete Guide to Box Plots | Atlassian ](https://www.atlassian.com/data/charts/box-plot-complete-guide#:~:text=A%20box%20plot%20,line%20edges%20to%20indicate%20outliers)). It displays the median (central line), the interquartile range (the box spans the 25th to 75th percentiles), and “whiskers” extending to cover most of the range. Points outside the whiskers are plotted as outliers.
+- **Use case:** Great for **comparing distributions between multiple groups** ([ A Complete Guide to Box Plots | Atlassian ](https://www.atlassian.com/data/charts/box-plot-complete-guide#:~:text=)). For example, we can compare test scores of students who used GenAI vs those who did not, all in one concise chart. You can quickly see which group tends to score higher or has more variability.
+- **Insight:** Look at the median lines and box spans – are they higher or lower for one group? A higher median or a smaller IQR (box) might indicate one group generally performed better or had more consistent results.
+
+ ([image]()) *Example of a box plot comparing test score distributions for two groups (GenAI vs Traditional). The median score for the GenAI group is higher (around 80) with a smaller interquartile range than the Traditional group (median around 68). This indicates that in this sample, students using the AI tool performed slightly better on average and with less variability.*
+
+## Heatmaps and Confusion Matrices
+
+- **Heatmap:** A heatmap is a visualization that uses **color to represent the magnitude of values in a matrix** (table) ([What is: Heatmaps In Data Visualization Explained](https://statisticseasily.com/glossario/what-is-heatmaps-in-data-visualization/#:~:text=A%20heatmap%20is%20a%20data,and%20intensity%20across%20different%20variables)). Darker or brighter colors indicate larger values. Heatmaps make it easy to spot high or low values and patterns across two dimensions.  
+  – *Example:* A **correlation heatmap** can show the correlation coefficients between multiple variables, with color intensity indicating strength of correlation.
+- **Confusion Matrix:** A specific type of heatmap used in classification results. It is a table that describes the performance of a classification model by showing actual vs predicted counts ([Simple guide to confusion matrix terminology](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/#:~:text=A%20confusion%20matrix%20is%20a,related%20terminology%20can%20be%20confusing)). For example, in a binary classification, it shows how many true positives, true negatives, false positives, and false negatives the model produced.
+  - Even outside machine learning, you can use a similar matrix for analysis. *E.g.*, in our context, imagine a table with one axis = “Group (GenAI or Traditional)” and the other = “Did student recommend the method (Yes/No)”. This 2x2 table is essentially a confusion-matrix-like view of how outcomes differ by group (we will visualize that in the hands-on section).
+
+- **Reading heatmaps:** Pay attention to the color legend. For a correlation heatmap, for instance, a darker color between “Score” and “Satisfaction” might indicate a strong positive relationship (we will see an example).
+
+## Treemaps
+
+- **What is a Treemap?** A treemap uses a series of **nested rectangles** to visualize hierarchical data ([What is a treemap? | Definition from TechTarget](https://www.techtarget.com/searchenterprisedesktop/definition/treemap#:~:text=A%20treemap%20is%20a%20visual,amount%20of%20data%20it%20represents)). Each rectangle represents a category (and sub-category) and its size is **proportional to the value** it represents ([What is a treemap? | Definition from TechTarget](https://www.techtarget.com/searchenterprisedesktop/definition/treemap#:~:text=A%20treemap%20is%20a%20visual,amount%20of%20data%20it%20represents)). Color is often used to distinguish categories or encode an additional variable.
+- **Use cases:** Treemaps are great for showing **parts-of-a-whole** and **hierarchies**. For example, imagine we surveyed students in different regions and asked what resources they use. A treemap could show each region as a large rectangle, subdivided by resource type usage within that region, with area indicating number of students.
+- **For beginners:** Treemaps can be a bit complex to create from scratch, but tools like Excel (with add-ins) or Python's `plotly` library can generate them. They provide a quick sense of which categories are largest or smallest in a hierarchy at a glance.
+
+## Regional Distribution Maps
+
+- **Choropleth Maps:** These are **thematic maps** where geographic regions are colored or shaded according to a data variable ([Choropleth Map - Definitions & FAQs - Atlas.co](https://atlas.co/glossary/choropleth-map/#:~:text=Choropleth%20Map%20,represents%20an%20aggregate%20summary)). They allow us to visualize data distributions across locations (e.g., by country or state).
+- **Use cases:** To display any data that has a geographic component. For example, a choropleth could show the number of survey respondents in each region, or the average test score in each country. Darker shades might mean more respondents or higher scores, etc.
+- **Example scenario:** In our GenAI study, if we had enough data per region, we could create a map coloring regions by the percentage of students who found GenAI helpful. A quick glance might reveal regional differences (perhaps uptake is higher in some areas).
+- *Note:* Creating maps requires geographic data (like country codes) and sometimes additional libraries (e.g., geopandas or plotly). It’s an advanced visualization, but conceptually important to know.
+
+# Qualitative Data Visualization
+
+## Thematic Analysis of Text Data
+
+- **What is Thematic Analysis?** It’s “a method for identifying, analyzing, and reporting patterns (themes) within data” ([The interview coding – RELEARN](https://relearnproject.wordpress.com/2024/01/05/the-interview-coding/#:~:text=coding%20knowing%20in%20other%20words,Braun%20%26%20Clarke%2C%202006)). In qualitative research (like interview transcripts or open responses), we read through text to find recurring ideas or topics (themes).
+- **How to do it:** Typically, you would code the text – label segments with theme tags (e.g., "time-saving", "frustration with AI", "prefers self-study"). Then you might count how often each theme appears or find exemplar quotes for each theme.
+- **Visualizing Qualitative Data:** One quick visualization is a **word cloud**, which displays words by frequency. While not a rigorous analysis, it highlights prominent terms and can hint at key themes. Other visual approaches include concept maps or thematic networks, but those are more advanced.
+
+ ([image]()) *Word cloud of common terms from student transcripts. Frequently mentioned words appear larger, indicating prevalent themes. Here we see prominent words like "AI", "using", "time", and "answers", reflecting key points students discussed.*
+
+- *Interpretation:* In this example, **“AI”** stands out (many students mention it), along with words like **“time”** (e.g., saving time), **“tutor”**, **“answers”**, **“helpful”**, and **“confusing”**. This suggests a divide in experiences: many found the AI helpful (saving time, getting answers), while some found it confusing. This matches what we might expect: some students praise the AI, others point out issues.
+
+## Drawing Conclusions from Visualizations
+
+- **Look for Patterns:** Once you have charts, **scan for trends or differences**. Is one bar taller? One box plot median higher? Identify the key pattern (e.g., *“Group A’s scores are higher than Group B’s”*).
+- **Ask "Why":** Think about why the visual shows that pattern. Does it support your hypothesis or indicate something new? For example, if the GenAI group’s performance is better, could it be due to the tool’s help?
+- **Consider Context:** Always relate visuals back to context. Check if differences are meaningful (could be statistically or practically significant) and consider external factors (sample size, bias, etc.). Remember that **correlation is not causation** – a higher score with AI use doesn’t *prove* AI caused it, but it’s a clue.
+- **Outliers & Anomalies:** Notice any outliers or unexpected points. Discuss why they might occur. (In our box plot, one Traditional student had a very low score – perhaps they struggled significantly without AI.)
+- **Summarize Insights:** In presentations or reports, write a sentence or two stating what the visualization shows and what conclusion you draw. *Example:* “Students with GenAI support had higher median test scores and were more likely to recommend the study method. This suggests the AI assistance may have improved their learning experience.” Always tie the visual back to the research question or decision at hand.
+
+---
+
+*Now that we've covered the theory, let's put it into practice with some hands-on exercises! In the following Jupyter notebook segment, we'll load example datasets and create these visualizations step-by-step.* 🚀

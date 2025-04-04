@@ -1,0 +1,244 @@
+---
+title: "Data Visualization - Getting Ready"
+format: html
+---
+1. **Load the dataset:** First, import pandas and load the CSV file containing the survey data.
+
+    ```python
+    import pandas as pd
+    # Load the AB testing survey data
+    df = pd.read_csv('survey_data.csv')
+    # Preview the first few rows
+    print(df.head())
+    ```
+
+    This dataset (`survey_data.csv`) contains mock survey results from an A/B test. Each row is a student, with columns for:
+    - **ParticipantID:** Unique ID for the respondent  
+    - **Group:** Learning method used (e.g., "GenAI" for students who used a Generative AI tool, or "Traditional" for those who did not)  
+    - **Region:** Geographic region of the student  
+    - **Score:** Test score (numeric) after the learning period  
+    - **Satisfaction:** Self-reported satisfaction (1-5 scale) with the learning method  
+    - **Recommend:** Whether the student would recommend that method (Yes/No)  
+    - **Comment:** An open-ended comment about their experience (qualitative feedback)
+
+2. **Inspect and summarize the data:** It’s good practice to understand the basic structure and summary statistics of the data before plotting.
+
+    ```python
+    # Check data dimensions and types
+    print("Shape of dataset:", df.shape)
+    print(df.info())
+    
+    # Basic statistical summary of numeric columns
+    print(df.describe())
+    
+    # How many participants in each group?
+    print(df['Group'].value_counts())
+    
+    # How many said "Yes" vs "No" to Recommend in each group?
+    print(pd.crosstab(df['Group'], df['Recommend']))
+    ```
+
+    Look at the output:
+    - The dataset shape tells us how many rows (participants) and columns we have. We expect around 20 rows (mock data).
+    - `df.info()` shows each column’s type (notice that *Group* and *Recommend* are non-numeric categorical data, etc.).
+    - `df.describe()` gives min, max, mean, etc., for numeric fields like Score and Satisfaction.
+    - The value counts and crosstab give a quick view of group sizes and recommendation breakdown by group.
+
+    *Observation:* Suppose we see 10 students in the GenAI group and 10 in Traditional (balanced groups). The crosstab might show, for example, GenAI group has more "Yes" recommends than Traditional. Keep these numbers in mind as we visualize.
+
+3. **Compare test scores with a box plot:** Now, let's visualize the distribution of scores for each group using a box plot.
+
+    ```python
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    
+    plt.figure(figsize=(6,4))
+    sns.boxplot(x='Group', y='Score', data=df, palette='Pastel2')
+    plt.title('Test Score Distribution by Group')
+    plt.ylabel('Test Score')
+    plt.xlabel('Group (Learning Method)')
+    plt.show()
+    ```
+
+    This will produce a box plot for each group (GenAI vs Traditional):
+    - **Median:** the line inside each box. Compare the median scores of the two groups.
+    - **Box (IQR):** height of each box shows the middle 50% of scores. A taller box = more variability.
+    - **Whiskers and outliers:** see if any points lie outside the whiskers (these would be plotted as individual dots). Whiskers cover most of the range.
+
+    *What to look for:* Is one box higher than the other? For example, you might observe the GenAI group's median is around the low 80s while Traditional is around high 60s. That would indicate higher typical performance for GenAI users in this sample. Also note the spread; if one group has a much taller box or longer whiskers, their results were more variable.
+
+4. **Plot a bar chart for recommendations:** Let’s examine the Yes/No recommendations in each group. A bar chart (or grouped bar chart) can show how many students in each group would recommend the method.
+
+    ```python
+    plt.figure(figsize=(6,4))
+    sns.countplot(x='Group', hue='Recommend', data=df, palette='Set2')
+    plt.title('Students Recommending the Method (Yes/No)')
+    plt.xlabel('Group')
+    plt.ylabel('Number of Students')
+    plt.legend(title='Recommend?')
+    plt.show()
+    ```
+
+    This chart creates two bars for each group: one for "Yes" and one for "No". For instance, if the GenAI group has 8 "Yes" and 2 "No", and the Traditional group has 5 "Yes" and 5 "No", the plot will show that difference clearly:
+    - Look at the **relative heights** of the "Yes" bars between groups. In our example, the GenAI "Yes" bar would be much taller than Traditional "Yes".
+    - This visualizes the same info as the crosstab earlier but in a more intuitive way.
+
+    *Interpretation:* Suppose the GenAI group has a higher count of "Yes" (recommend) responses than the Traditional group. This suggests students who used the AI tool were more likely to recommend that learning method to others, indicating a more positive overall experience.
+
+5. **Correlation heatmap (Score vs Satisfaction):** We expect that if students did well, they might also report higher satisfaction. Let’s quantify the relationship between Score and Satisfaction.
+
+    ```python
+    # Compute correlation matrix for numeric variables
+    corr_matrix = df[['Score','Satisfaction']].corr()
+    print(corr_matrix)
+    
+    # Visualize the correlation matrix
+    sns.heatmap(corr_matrix, annot=True, cmap='Blues', vmin=0, vmax=1)
+    plt.title('Correlation: Score vs Satisfaction')
+    plt.show()
+    ```
+
+    The `corr()` function calculates Pearson correlation. We then use a heatmap to display it:
+    - You will see a 2x2 matrix. Of most interest is the off-diagonal value correlating **Score** and **Satisfaction**.
+    - In our mock data, this might be quite high (for example, around 0.9) because students who scored well also tended to be very satisfied (especially if the GenAI group excels in both aspects).
+    - The heatmap cell will be annotated with the correlation (e.g., "0.92") and shaded dark if close to 1 (perfect positive correlation).
+
+    *Interpretation:* A high correlation confirms that in this sample, **students with higher scores also gave higher satisfaction ratings**. This makes sense – those who performed well felt good about the method. It also could imply the GenAI assistance not only boosted scores but also how students felt about learning.
+
+6. **Visualize qualitative data with a word cloud:** Now let's analyze the text feedback. We have a JSON file with a few interview transcripts (`transcripts.json`). We'll generate a word cloud to see commonly used words.
+
+    ```python
+    import json
+    from wordcloud import WordCloud, STOPWORDS
+    
+    # Load the transcripts from the JSON file
+    with open('transcripts.json', 'r') as f:
+        transcripts = json.load(f)
+    
+    # Combine all transcript texts into one large string
+    all_text = " ".join([entry['text'] for entry in transcripts])
+    
+    # Prepare a list of stopwords (common words like 'the', 'and', 'I' that we exclude)
+    stopwords = set(STOPWORDS)
+    
+    # Create and generate the word cloud
+    wc = WordCloud(width=600, height=400, background_color="white", stopwords=stopwords)
+    wc.generate(all_text)
+    
+    # Display the word cloud
+    plt.figure(figsize=(8,5))
+    plt.imshow(wc, interpolation='bilinear')
+    plt.axis("off")
+    plt.title("Word Cloud of Interview Transcripts")
+    plt.show()
+    ```
+
+    This will produce a word cloud image. Words that appear more frequently across the interviews will be drawn larger.
+
+    *What to look for:* Key terms that stand out in large font. For example, you might see **"AI"** as very large (since it’s mentioned by everyone), and other prominent words like **"time"**, **"helpful"**, **"confusing"**, **"answers"**, **"studying"**, etc. Smaller words are those mentioned less often or only by one person.
+
+    Even without an in-depth analysis, this gives a quick sense of the themes:
+    - Large **"AI"** indicates the central topic (expected).
+    - If **"time"** is large, multiple students talked about time (perhaps saving time or time spent).
+    - Words like **"helpful"** or **"useful"** vs. **"confusing"** or **"hard"** might both appear, showing mixed sentiments.
+    - For instance, in our data one student said the AI saved them time, another said it gave confusing answers – both those aspects ("saved time" and "confusing answers") show up.
+
+7. **Draw conclusions from the visuals:** Now we interpret what we found and tie it back to our theme of GenAI in learning.
+
+    - From the **box plot**, we observe that the **GenAI group’s scores tend to be higher**. Their median test score is higher than the Traditional group’s, and the overall range of scores is slightly higher too (most GenAI scores are in the 75–90 range, whereas Traditional cluster around 60–75).
+    - The **bar chart** shows **GenAI students were more likely to recommend** the method to others. In our sample, 8/10 GenAI users said "Yes" to recommending, compared to only 5/10 of Traditional students. This is a substantial difference, suggesting a more positive reception for the AI-aided learning.
+    - The **correlation heatmap** quantitatively confirmed a strong positive relationship between performance and satisfaction (here about 0.92). This implies that the students who did well (many of whom are in the GenAI group) also felt more satisfied. It makes intuitive sense – success can breed satisfaction – and it aligns with the idea that the GenAI tool might have contributed to both better results and better student morale.
+    - The **word cloud** (qualitative insight) reveals what students talked about. We see prominent words like "AI", "using", "time", "answers", "tutor", and "confusing". This tells us:
+        - Many students mentioned the AI **saving "time"** and being like a **"tutor"** that provides **"answers"** – signs of a positive experience (efficiency and helpful guidance).
+        - The word **"confusing"** also appears large, indicating at least one student talked about confusion caused by the AI. This points out not all feedback was positive – a theme of **trust and accuracy** issues with the AI.
+    - **Overall conclusion:** In this mock experiment, the group of students using the GenAI tool performed better on average and felt more positive about the learning experience. The visualizations support the conclusion that **AI assistance can enhance learning outcomes and student satisfaction**, though we should note some students did face challenges (e.g., confusing AI responses). For a real study, we’d consider statistical significance and investigate the outliers or negative feedback more closely, but these visual tools have given us a clear initial picture: the GenAI-aided method shows promise.
+
+## Example Dataset 1: AB Testing Survey (CSV)
+
+Below is the content of `survey_data.csv`, the mock survey dataset used in this workshop. It contains both quantitative and qualitative fields, with each row representing one student's responses:
+
+```csv
+ParticipantID,Group,Region,Score,Satisfaction,Recommend,Comment
+1,GenAI,Africa,88,5,Yes,The AI tutor made studying much easier.
+2,Traditional,Africa,65,3,No,Studying without AI was a bit challenging.
+3,GenAI,Asia,79,4,Yes,The AI answered my questions quickly.
+4,GenAI,Asia,78,4,Yes,The AI provided clear explanations.
+5,Traditional,Asia,70,4,Yes,Studying on my own worked fine for me.
+6,Traditional,Asia,60,3,No,"It was okay, but I think AI might have helped."
+7,GenAI,Europe,82,4,Yes,Having an AI assistant was extremely helpful.
+8,GenAI,Europe,85,5,Yes,Using the AI tool saved me a lot of time.
+9,Traditional,Europe,68,3,No,"I did all right, but it took a lot of time."
+10,Traditional,Europe,58,2,No,Learning without AI was a good experience.
+11,GenAI,North America,92,5,Yes,ChatGPT was a great help in my studies.
+12,GenAI,North America,81,4,Yes,Using the AI support improved my understanding.
+13,GenAI,North America,66,2,No,The AI's answers were often confusing.
+14,GenAI,North America,74,3,No,The AI was somewhat helpful but not perfect.
+15,Traditional,North America,75,4,Yes,I did well without using any AI.
+16,Traditional,North America,77,4,Yes,I felt confident even without an AI helper.
+17,Traditional,South America,50,1,No,It was really hard without any AI assistance.
+18,Traditional,South America,72,3,No,I struggled a lot to learn by myself.
+19,GenAI,South America,90,5,Yes,I found the AI help very useful for learning.
+20,Traditional,South America,83,5,Yes,I managed to learn everything without AI.
+```
+
+**Data description:**
+
+- **Group:** `"GenAI"` indicates the student had access to a generative AI tool during study, `"Traditional"` means they studied without it.
+- **Region:** Geographic region (e.g., Africa, Asia, Europe, North America, South America). In this mock data, we have a few students from each region to simulate a diverse sample.
+- **Score:** The score the student achieved on a test (out of 100, presumably) after the study period.
+- **Satisfaction:** The student's rating of their satisfaction with the learning method, on a 1–5 scale (5 = very satisfied).
+- **Recommend:** Whether the student would recommend this method to others (Yes/No).
+- **Comment:** The student's brief open-ended comment about their experience. Notice how these comments reflect individual feelings:
+    - GenAI users often mention the AI ("AI tool saved me time", "great help", "confusing answers").
+    - Traditional users mention doing it "on my own" or lack of AI ("hard without any AI assistance", "managed to learn everything without AI").
+    - This textual feedback will be explored with qualitative techniques.
+
+You can copy and save the above data as a CSV file named `survey_data.csv` to use it in the notebook.
+
+## Example Dataset 2: Interview Transcripts (JSON)
+
+Below is a small set of **synthetic interview transcripts** in JSON format (`transcripts.json`). Each entry represents one student's interview about their learning experience with or without GenAI. These provide more detailed qualitative data to analyze:
+
+```json
+[
+  {
+    "id": 1,
+    "text": "I tried using ChatGPT to help me study for my exams. At first I wasn’t sure, but it turned out to be extremely helpful. Whenever I had a question, the AI provided an explanation right away. It felt like having a tutor available 24/7. It saved me so much time because I didn’t have to search for answers on my own. I’m definitely going to keep using such tools for learning."
+  },
+  {
+    "id": 2,
+    "text": "I used an AI chatbot for help in my course, but it wasn’t as great as I expected. Sometimes it gave me answers that were confusing or even wrong. I ended up spending extra time double-checking the information it provided. It was frustrating because I was never sure if I could trust the answers. In the end, I felt like it didn’t improve my learning much, and it might have even hurt my understanding of some topics."
+  },
+  {
+    "id": 3,
+    "text": "I decided not to use any AI or online tutors while studying. I wanted to do everything myself using textbooks and class notes. It was a real challenge and took me a lot longer to get through the material. There were times I got stuck on a concept and had no one to ask for help. I think I learned the material eventually, but I was pretty stressed. After seeing others use AI tools, I’m considering trying it in the future to make studying a bit easier."
+  }
+]
+```
+
+**Notes on these transcripts:**
+
+- The transcripts are **first-person accounts** from three students:
+  1. **Student 1 (GenAI user, positive):** Describes using *ChatGPT* as a tutor, found it *“extremely helpful”*, saved time, and plans to continue using it. This reflects a very positive experience with GenAI.
+  2. **Student 2 (GenAI user, negative/mixed):** Tried an AI chatbot but got *“confusing or wrong”* answers. They spent extra time verifying information and ended up frustrated and doubtful of the AI’s value. This highlights a negative experience where AI might have hindered learning.
+  3. **Student 3 (Traditional method):** Chose *not* to use AI. Describes the experience as *“a real challenge”* – it took longer, they got stuck with no help, felt stressed. By the end, they managed but are now considering using AI next time to make it easier. This shows the perspective of someone who went without AI and found it difficult, suggesting openness to trying it in the future.
+
+- These transcripts allow us to perform **thematic analysis**. We can manually read them to identify themes:
+  - *Theme examples:* “AI as helpful tutor”, “AI saves time”, “AI accuracy issues”, “struggle without AI”, “willingness to adopt AI”.
+  - In the word cloud we generated, you likely saw these themes reflected (e.g., “time”, “helpful”, “confusing”, “no one to ask”, etc.).
+
+- In a real analysis, we might code each transcript for such themes and perhaps count how many students expressed each theme. For this workshop, we used a word cloud to get a quick visual impression of the content. Even with just three interviews, you can already see contrasting experiences:
+  - Some **love the AI** (tutor available anytime, saves time).
+  - Some **struggle with AI** (trust and correctness issues).
+  - Some **struggle without AI** (no immediate help, slow progress).
+
+You can save the above JSON content into a file named `transcripts.json`. In the notebook, we read this file to create the word cloud and illustrate how qualitative data can be visualized.
+
+---
+
+**Using these materials:** The slide deck introduces concepts and sets the stage. The Jupyter notebook allows you to follow along and actually create the visuals with code, reinforcing the concepts by doing. By the end of this workshop, you should be able to: 
+- Identify appropriate visualization types for different data,
+- Create basic plots (box plot, bar chart, heatmap, word cloud) using Python,
+- Interpret those visualizations to draw meaningful conclusions.
+
+Happy visualizing, and remember – *the goal of data visualization is not just to make pretty charts, but to gain **insight** from data!* 📊🤓
