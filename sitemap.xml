@@ -1,63 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://clementinec.github.io/desn2003/DESN2003_L1.html</loc>
-    <lastmod>2025-01-23T03:13:18.304Z</lastmod>
+    <loc>https://clementinec.github.io/desn2003/data/DataVisualization_Notebook.html</loc>
+    <lastmod>2025-04-09T07:49:53.189Z</lastmod>
   </url>
   <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W8.html</loc>
-    <lastmod>2025-03-27T04:02:21.677Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/W10_note.html</loc>
-    <lastmod>2025-04-04T09:27:13.738Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/write.html</loc>
-    <lastmod>2025-04-03T03:14:36.122Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/index.html</loc>
-    <lastmod>2025-04-03T03:11:26.098Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W5.html</loc>
-    <lastmod>2025-03-20T01:58:55.352Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W6.html</loc>
-    <lastmod>2025-03-20T01:59:42.360Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_2_js.html</loc>
-    <lastmod>2025-02-27T02:27:02.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W2.html</loc>
-    <lastmod>2025-02-20T02:25:45.976Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W7.html</loc>
-    <lastmod>2025-03-20T02:07:27.662Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W4.html</loc>
-    <lastmod>2025-02-27T02:27:02.087Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W6_P.html</loc>
-    <lastmod>2025-03-20T02:23:17.235Z</lastmod>
-  </url>
-  <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W10.html</loc>
-    <lastmod>2025-04-04T09:28:36.636Z</lastmod>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W9.html</loc>
+    <lastmod>2025-04-03T03:12:15.876Z</lastmod>
   </url>
   <url>
     <loc>https://clementinec.github.io/desn2003/surveydata.html</loc>
     <lastmod>2025-01-23T03:14:49.520Z</lastmod>
   </url>
   <url>
-    <loc>https://clementinec.github.io/desn2003/desn2003_W9.html</loc>
-    <lastmod>2025-04-03T03:12:15.876Z</lastmod>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W10.html</loc>
+    <lastmod>2025-04-09T07:09:31.299Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W6_P.html</loc>
+    <lastmod>2025-03-20T02:23:17.235Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W4.html</loc>
+    <lastmod>2025-02-27T02:27:02.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W7.html</loc>
+    <lastmod>2025-03-20T02:07:27.662Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W2.html</loc>
+    <lastmod>2025-02-20T02:25:45.976Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_2_js.html</loc>
+    <lastmod>2025-02-27T02:27:02.087Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W6.html</loc>
+    <lastmod>2025-03-20T01:59:42.360Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W5.html</loc>
+    <lastmod>2025-03-20T01:58:55.352Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/index.html</loc>
+    <lastmod>2025-04-09T07:57:02.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/write.html</loc>
+    <lastmod>2025-04-03T03:14:36.122Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/W10_note.html</loc>
+    <lastmod>2025-04-09T07:27:13.619Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/desn2003_W8.html</loc>
+    <lastmod>2025-03-27T04:02:21.677Z</lastmod>
+  </url>
+  <url>
+    <loc>https://clementinec.github.io/desn2003/DESN2003_L1.html</loc>
+    <lastmod>2025-01-23T03:13:18.304Z</lastmod>
   </url>
 </urlset>
