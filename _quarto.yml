@@ -4,16 +4,29 @@ project:
 website:
   title: "DESN2003"
   navbar:
+    background: light
     left:
       - href: index.qmd
         text: Home
+    right:
+      - icon: github
+        href: https://github.com
+        aria-label: GitHub
+  page-footer:
+    center: "DESN2003: Research for Innovation · University of Hong Kong"
 
 format:
   html:
-    theme: United
+    theme:
+      light: flatly
     css: styles.css
     toc: true
+    toc-depth: 2
     page-layout: full
+    fontsize: 1rem
+    linestretch: 1.6
+    grid:
+      body-width: 1000px
   
 
 

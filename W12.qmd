@@ -1,0 +1,33 @@
+---
+title: "Personal Research Presentation"
+format: 
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+
+# Refresher
+
+## Logistics
+
+- Try to stick to within 3min
+- If we don't finish then leftovers gets to virtual session (with votes reopening)
+- Let's try to stick to our schedule
+
+
+## Peer Evaluation Rubric
+
+| # | Peer-vote item | What to listen for (0 – 5) |
+|---|----------------|-----------------------------|
+| 1 | **Sharp problem statement** | Clear, focused research question that matters to designers; no rambling. |
+| 2 | **Evidence integration** | Literature + data stitched together into one persuasive argument. |
+| 3 | **Method & tool fit** | Qual/quant methods and any “SOTA” tools (Zotero, LLM search, etc.) are appropriate **and** briefly justified. |
+| 4 | **Narrative flow & insight** | Follows a logical story arc; key findings and design implications are crystal-clear. |
+| 5 | **Delivery & visuals** | Props/Slides uncluttered; presenter keeps to time, projects confidence, and engages the room. |

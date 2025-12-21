@@ -1,0 +1,21 @@
+﻿ParticipantID,Group,Region,Score,Satisfaction,Recommend,Comment
+1,GenAI,Africa,88,5,Yes,The AI tutor made studying much easier.
+2,Traditional,Africa,65,3,No,Studying without AI was a bit challenging.
+3,GenAI,Asia,79,4,Yes,The AI answered my questions quickly.
+4,GenAI,Asia,78,4,Yes,The AI provided clear explanations.
+5,Traditional,Asia,70,4,Yes,Studying on my own worked fine for me.
+6,Traditional,Asia,60,3,No,"It was okay, but I think AI might have helped."
+7,GenAI,Europe,82,4,Yes,Having an AI assistant was extremely helpful.
+8,GenAI,Europe,85,5,Yes,Using the AI tool saved me a lot of time.
+9,Traditional,Europe,68,3,No,"I did all right, but it took a lot of time."
+10,Traditional,Europe,58,2,No,Learning without AI was a good experience.
+11,GenAI,North America,92,5,Yes,ChatGPT was a great help in my studies.
+12,GenAI,North America,81,4,Yes,Using the AI support improved my understanding.
+13,GenAI,North America,66,2,No,The AI's answers were often confusing.
+14,GenAI,North America,74,3,No,The AI was somewhat helpful but not perfect.
+15,Traditional,North America,75,4,Yes,I did well without using any AI.
+16,Traditional,North America,77,4,Yes,I felt confident even without an AI helper.
+17,Traditional,South America,50,1,No,It was really hard without any AI assistance.
+18,Traditional,South America,72,3,No,I struggled a lot to learn by myself.
+19,GenAI,South America,90,5,Yes,I found the AI help very useful for learning.
+20,Traditional,South America,83,5,Yes,I managed to learn everything without AI.

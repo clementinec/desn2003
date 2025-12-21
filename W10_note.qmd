@@ -7,7 +7,7 @@ format: html
     ```python
     import pandas as pd
     # Load the AB testing survey data
-    df = pd.read_csv('survey_data.csv')
+    df = pd.read_csv('example_data.csv')
     # Preview the first few rows
     print(df.head())
     ```

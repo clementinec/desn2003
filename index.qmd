@@ -1,34 +1,50 @@
 ---
-title: "DESN2003: Reserach for Innovation"
+title: "DESN2003"
+subtitle: "Research for Innovation"
+toc: false
 ---
-
-Welcome to DESN2003: Research for Innovation offered at the University of Hong Kong. This site is meant to host slides and communications that are relevant.
 
 ![](data/DallEWireframe.webp)
 
-## Weekly Lecture Notes
-- [Week 1](DESN2003_L1.qmd)
+A foundational course in research methodology for design practice. We explore how rigorous inquiry informs innovation—from framing questions to gathering evidence and communicating findings.
+
+## Lectures & Materials
+
+- [Week 1: Introduction](DESN2003_L1.qmd)
   - [Survey Data](surveydata.qmd)
-- [Week 2](desn2003_W2.qmd)
-- [Week 3](desn2003_W3.qmd)
-- [Week 4](desn2003_W4.qmd)
-- [Week 5](desn2003_W5.qmd)
+- [Week 2: Research Frameworks](desn2003_W2.qmd)
+- [Week 3: Literature Review](desn2003_W3.qmd)
+- [Week 4: Research Questions](desn2003_W4.qmd)
+- [Week 5: Methods I](desn2003_W5.qmd)
   - [Worksheet](data/worksheet.pdf)
-- [Week 6](desn2003_W6.qmd)
+- [Week 6: Methods II](desn2003_W6.qmd)
   - [Evidence and Narrative](data/11_5_Osman+Abramson_Evidence & Narrative_JSAH 2007.pdf)
   - [Urban Green Space](data/Binley Chen.pdf)
-- [Week 7](desn2003_W6_P.qmd)
-  - [Week 7 (Cont'd)](desn2003_W7.qmd)
-- [Week 8](desn2003_W8.qmd)
-  - [Peer Review](data/TMP.pdf)
-- [Week 9](desn2003_W9.qmd)
+- [Week 7: Analysis](desn2003_W6_P.qmd)
+  - [Continued](desn2003_W7.qmd)
+- [Week 8: Writing](desn2003_W8.qmd)
+  - [Peer Review Guide](data/TMP.pdf)
+- [Week 9: Synthesis](desn2003_W9.qmd)
   - [Example Writeup](write.qmd)
+- [Week 10: Data Visualization](desn2003_W10.qmd)
+  - [Plotting Examples](W10_note.qmd)
+  - [Google Colab](https://drive.google.com/file/d/18ZA2SsFfTibCFGjTkAeFNxzJomOmAVLa/view?usp=sharing)
+  - [Survey Data](data/survey_data.csv)
+  - [Transcripts](data/transcripts.json)
+  - [Tabular Data](data/example_data.csv)
+- [Week 12: Presentations](W12.qmd)
 
+## Course Info
 
-## Time & Location
+::: {.grid}
+::: {.g-col-6}
+**Schedule**
+Thursday, 10:30–12:20
+:::
+::: {.g-col-6}
+**Location**
+CPD 3.21
+:::
+:::
 
-- Time: 
-  - THU, 10:30-12:20
-  - Office Hour by Appointment
-- Location: 
-  - CPD3.21.
+Office hours by appointment.
