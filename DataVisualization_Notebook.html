@@ -131,6 +131,13 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <span class="menu-text">Home</span></a>
   </li>  
 </ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com"> <i class="bi bi-github" role="img" aria-label="GitHub">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
 </div>
@@ -150,8 +157,9 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 
 
 
+<p><a href="https://colab.research.google.com/github/clementinec/desn2003/blob/main/DataVisualization_Notebook.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a></p>
 <p>(Optional) Only when interested in AutoML</p>
-<div id="cell-1" class="cell" data-outputid="a004f279-7813-4e54-cb0a-ced91acefa19" data-execution_count="1">
+<div id="cell-2" class="cell" data-outputid="a004f279-7813-4e54-cb0a-ced91acefa19" data-execution_count="1">
 <div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co">#Install the library that you need.</span></span>
 <span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install pycaret</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
@@ -280,17 +288,17 @@ Requirement already satisfied: websocket-client in /usr/local/lib/python3.11/dis
 Requirement already satisfied: sniffio&gt;=1.1 in /usr/local/lib/python3.11/dist-packages (from anyio&gt;=3.1.0-&gt;jupyter-server&lt;3,&gt;=1.8-&gt;notebook-shim&gt;=0.2.3-&gt;nbclassic&gt;=0.4.7-&gt;notebook&gt;=4.4.1-&gt;widgetsnbextension~=3.6.0-&gt;ipywidgets&gt;=7.6.5-&gt;pycaret) (1.3.1)</code></pre>
 </div>
 </div>
-<div id="cell-2" class="cell" data-execution_count="5">
+<div id="cell-3" class="cell" data-execution_count="5">
 <div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> pycaret.classification <span class="im">import</span> <span class="op">*</span></span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="cell-3" class="cell" data-execution_count="3">
+<div id="cell-4" class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="cell-4" class="cell" data-execution_count="15">
+<div id="cell-5" class="cell" data-execution_count="15">
 <div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>df<span class="op">=</span>pd.read_csv(<span class="st">'example_data.csv'</span>)</span>
 <span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a>df<span class="op">=</span>df[::<span class="dv">5</span>]</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="cell-5" class="cell" data-outputid="b2d96563-5d5a-451e-8410-eb77af761501" data-execution_count="18">
+<div id="cell-6" class="cell" data-outputid="b2d96563-5d5a-451e-8410-eb77af761501" data-execution_count="18">
 <div class="sourceCode cell-code" id="cb6"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a>s<span class="op">=</span>setup(data<span class="op">=</span>df,target<span class="op">=</span><span class="st">'class'</span>,remove_multicollinearity<span class="op">=</span><span class="va">True</span>,multicollinearity_threshold<span class="op">=</span><span class="fl">0.3</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 
@@ -438,7 +446,7 @@ Requirement already satisfied: sniffio&gt;=1.1 in /usr/local/lib/python3.11/dist
 </table>
 </div>
 </div>
-<div id="cell-6" class="cell" data-outputid="26a0363d-f330-4551-baeb-478e9aff41e5" data-execution_count="19">
+<div id="cell-7" class="cell" data-outputid="26a0363d-f330-4551-baeb-478e9aff41e5" data-execution_count="19">
 <div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>compare_models()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 
@@ -1091,7 +1099,7 @@ div.sk-label-container:hover .sk-estimator-doc-link.fitted:hover,
               num_parallel_tree=None, objective='multi:softprob', ...)</pre></div> </div></div></div></div>
 </div>
 </div>
-<div id="cell-7" class="cell" data-outputid="026eeef6-0271-4202-c0b6-f64caa472a0d" data-execution_count="40">
+<div id="cell-8" class="cell" data-outputid="026eeef6-0271-4202-c0b6-f64caa472a0d" data-execution_count="40">
 <div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>xgb<span class="op">=</span>create_model(<span class="st">'xgboost'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display">
 
@@ -1255,7 +1263,7 @@ div.sk-label-container:hover .sk-estimator-doc-link.fitted:hover,
 
 </div>
 </div>
-<div id="cell-8" class="cell" data-outputid="1a09b199-e19c-4c62-90ae-708e38cd481b" data-execution_count="41">
+<div id="cell-9" class="cell" data-outputid="1a09b199-e19c-4c62-90ae-708e38cd481b" data-execution_count="41">
 <div class="sourceCode cell-code" id="cb10"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb10-1"><a href="#cb10-1" aria-hidden="true" tabindex="-1"></a>interpret_model(xgb)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stderr">
 <pre><code>/usr/local/lib/python3.11/dist-packages/pycaret/internal/pycaret_experiment/supervised_experiment.py:4145: FutureWarning: The NumPy global RNG was seeded by calling `np.random.seed`. In a future version this function will no longer use the global RNG. Pass `rng` explicitly to opt-in to the new behaviour and silence this warning.
@@ -1276,11 +1284,11 @@ div.sk-label-container:hover .sk-estimator-doc-link.fitted:hover,
 </div>
 </div>
 </div>
-<div id="cell-9" class="cell" data-execution_count="31">
+<div id="cell-10" class="cell" data-execution_count="31">
 <div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
 <span id="cb13-2"><a href="#cb13-2" aria-hidden="true" tabindex="-1"></a>df<span class="op">=</span>pd.read_csv(<span class="st">'survey_data.csv'</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="cell-10" class="cell" data-outputid="7c21ed4b-8f0f-4c8b-a259-9e02a41baead" data-execution_count="36">
+<div id="cell-11" class="cell" data-outputid="7c21ed4b-8f0f-4c8b-a259-9e02a41baead" data-execution_count="36">
 <div class="sourceCode cell-code" id="cb14"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb14-1"><a href="#cb14-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
 <span id="cb14-2"><a href="#cb14-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
 <span id="cb14-3"><a href="#cb14-3" aria-hidden="true" tabindex="-1"></a><span class="co">#Box chart</span></span>
@@ -1305,7 +1313,7 @@ Passing `palette` without assigning `hue` is deprecated and will be removed in v
 </div>
 </div>
 </div>
-<div id="cell-11" class="cell" data-outputid="d6614284-f444-46cd-c484-349a74709e7b" data-execution_count="35">
+<div id="cell-12" class="cell" data-outputid="d6614284-f444-46cd-c484-349a74709e7b" data-execution_count="35">
 <div class="sourceCode cell-code" id="cb16"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb16-1"><a href="#cb16-1" aria-hidden="true" tabindex="-1"></a><span class="co">#Example of bar chart</span></span>
 <span id="cb16-2"><a href="#cb16-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb16-3"><a href="#cb16-3" aria-hidden="true" tabindex="-1"></a>plt.figure(figsize<span class="op">=</span>(<span class="dv">6</span>,<span class="dv">4</span>))</span>
@@ -1323,7 +1331,7 @@ Passing `palette` without assigning `hue` is deprecated and will be removed in v
 </div>
 </div>
 </div>
-<div id="cell-12" class="cell" data-outputid="4e20166a-9c4e-45c6-cf66-d6a9caa1e0a1" data-execution_count="37">
+<div id="cell-13" class="cell" data-outputid="4e20166a-9c4e-45c6-cf66-d6a9caa1e0a1" data-execution_count="37">
 <div class="sourceCode cell-code" id="cb17"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a><span class="co"># Compute correlation matrix for numeric variables</span></span>
 <span id="cb17-2"><a href="#cb17-2" aria-hidden="true" tabindex="-1"></a>corr_matrix <span class="op">=</span> df[[<span class="st">'Score'</span>,<span class="st">'Satisfaction'</span>]].corr()</span>
 <span id="cb17-3"><a href="#cb17-3" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(corr_matrix)</span>
@@ -1345,7 +1353,7 @@ Satisfaction  0.928236      1.000000</code></pre>
 </div>
 </div>
 </div>
-<div id="cell-13" class="cell" data-outputid="a68dcad7-da97-4bd2-af99-7284eac88813" data-execution_count="38">
+<div id="cell-14" class="cell" data-outputid="a68dcad7-da97-4bd2-af99-7284eac88813" data-execution_count="38">
 <div class="sourceCode cell-code" id="cb19"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install wordcloud</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Requirement already satisfied: wordcloud in /usr/local/lib/python3.11/dist-packages (1.9.4)
@@ -1362,7 +1370,7 @@ Requirement already satisfied: python-dateutil&gt;=2.7 in /usr/local/lib/python3
 Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-packages (from python-dateutil&gt;=2.7-&gt;matplotlib-&gt;wordcloud) (1.17.0)</code></pre>
 </div>
 </div>
-<div id="cell-14" class="cell" data-outputid="aa9a75c1-32ce-484f-ffbe-6c2f775494ad" data-execution_count="39">
+<div id="cell-15" class="cell" data-outputid="aa9a75c1-32ce-484f-ffbe-6c2f775494ad" data-execution_count="39">
 <div class="sourceCode cell-code" id="cb21"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb21-1"><a href="#cb21-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> json</span>
 <span id="cb21-2"><a href="#cb21-2" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> wordcloud <span class="im">import</span> WordCloud, STOPWORDS</span>
 <span id="cb21-3"><a href="#cb21-3" aria-hidden="true" tabindex="-1"></a></span>
@@ -1394,7 +1402,7 @@ Requirement already satisfied: six&gt;=1.5 in /usr/local/lib/python3.11/dist-pac
 </div>
 </div>
 </div>
-<div id="cell-15" class="cell" data-outputid="a88ac5cf-032a-479d-cb98-7c55619b8294" data-execution_count="42">
+<div id="cell-16" class="cell" data-outputid="a88ac5cf-032a-479d-cb98-7c55619b8294" data-execution_count="42">
 <div class="sourceCode cell-code" id="cb22"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb22-1"><a href="#cb22-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install plotly</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Requirement already satisfied: plotly in /usr/local/lib/python3.11/dist-packages (5.24.1)
@@ -1402,10 +1410,10 @@ Requirement already satisfied: tenacity&gt;=6.2.0 in /usr/local/lib/python3.11/d
 Requirement already satisfied: packaging in /usr/local/lib/python3.11/dist-packages (from plotly) (24.2)</code></pre>
 </div>
 </div>
-<div id="cell-16" class="cell" data-execution_count="58">
+<div id="cell-17" class="cell" data-execution_count="58">
 <div class="sourceCode cell-code" id="cb24"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb24-1"><a href="#cb24-1" aria-hidden="true" tabindex="-1"></a>tmp<span class="op">=</span>df.groupby([<span class="st">'Region'</span>])[<span class="st">'Score'</span>].count().reset_index()</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </div>
-<div id="cell-17" class="cell" data-outputid="f1266750-bc13-4d87-8c35-e045e6d0fa88" data-execution_count="59">
+<div id="cell-18" class="cell" data-outputid="f1266750-bc13-4d87-8c35-e045e6d0fa88" data-execution_count="59">
 <div class="sourceCode cell-code" id="cb25"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb25-1"><a href="#cb25-1" aria-hidden="true" tabindex="-1"></a>tmp</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-display" data-execution_count="59">
 
@@ -1656,7 +1664,7 @@ Requirement already satisfied: packaging in /usr/local/lib/python3.11/dist-packa
   </div>
 </div>
 </div>
-<div id="cell-18" class="cell" data-outputid="cbdcb2ac-c554-41d3-d700-bd00a4ab50ab" data-execution_count="45">
+<div id="cell-19" class="cell" data-outputid="cbdcb2ac-c554-41d3-d700-bd00a4ab50ab" data-execution_count="45">
 <div class="sourceCode cell-code" id="cb26"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb26-1"><a href="#cb26-1" aria-hidden="true" tabindex="-1"></a><span class="op">!</span>pip install squarify</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
 <pre><code>Collecting squarify
@@ -1666,7 +1674,7 @@ Installing collected packages: squarify
 Successfully installed squarify-0.4.4</code></pre>
 </div>
 </div>
-<div id="cell-19" class="cell" data-outputid="7a69a662-5d56-4bd7-9d94-fee491f129eb" data-execution_count="60">
+<div id="cell-20" class="cell" data-outputid="7a69a662-5d56-4bd7-9d94-fee491f129eb" data-execution_count="60">
 <div class="sourceCode cell-code" id="cb28"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb28-1"><a href="#cb28-1" aria-hidden="true" tabindex="-1"></a><span class="co">## Tree Map</span></span>
 <span id="cb28-2"><a href="#cb28-2" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb28-3"><a href="#cb28-3" aria-hidden="true" tabindex="-1"></a><span class="co"># import plotly.express as px</span></span>
@@ -2085,6 +2093,19 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+      &nbsp;
+    </div>   
+    <div class="nav-footer-center">
+<p>DESN2003: Research for Innovation · University of Hong Kong</p>
+</div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
 
 
 

@@ -1,1 +1,266 @@
-/* css styles */
+/* DESN2003 Course Website - Architecture School Aesthetic */
+
+:root {
+  --ink: #1a1a1a;
+  --ink-light: #4a4a4a;
+  --accent: #e07b39;
+  --bg-warm: #f7f5f2;
+  --bg-card: #ffffff;
+  --border: #e5e2dd;
+}
+
+/* Base */
+body {
+  background-color: var(--bg-warm);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Remove default quarto container constraints for hero */
+.page-layout-article .page-columns {
+  max-width: 100%;
+}
+
+/* Title block - bold architectural statement */
+#title-block-header {
+  background: #e07b39;
+  color: var(--ink);
+  padding: 4rem 2rem 3rem;
+  margin: 0;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  width: 100vw;
+  text-align: center;
+}
+
+#title-block-header.quarto-title-block {
+  margin-bottom: 0;
+}
+
+#title-block-header .title {
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  margin-bottom: 0.5rem;
+  color: var(--ink);
+}
+
+#title-block-header .subtitle {
+  font-size: 1.1rem;
+  font-weight: 400;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  opacity: 0.8;
+  color: var(--ink);
+}
+
+/* Hero image - full bleed */
+.quarto-figure,
+main > p:first-of-type {
+  margin: 0 -1rem;
+  padding: 0;
+}
+
+main > p:first-of-type img,
+.quarto-figure img {
+  width: 100vw;
+  max-width: none;
+  height: 45vh;
+  object-fit: cover;
+  display: block;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Intro text */
+main > p:nth-of-type(2) {
+  max-width: 720px;
+  margin: 3rem auto;
+  padding: 0 2rem;
+  font-size: 1.25rem;
+  line-height: 1.7;
+  color: var(--ink-light);
+  text-align: center;
+}
+
+/* Content container */
+main {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 2rem 4rem;
+}
+
+/* Section headings */
+h2 {
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--ink);
+  margin-top: 3rem;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--ink);
+}
+
+/* Weekly notes as cards grid */
+main > ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  margin-bottom: 3rem;
+}
+
+main > ul > li {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 1.5rem;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+main > ul > li:hover {
+  border-color: var(--ink);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.08);
+}
+
+main > ul > li > a:first-child {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  display: block;
+  margin-bottom: 0.75rem;
+}
+
+main > ul > li > a:first-child::before {
+  content: "";
+  display: block;
+  width: 24px;
+  height: 3px;
+  background: var(--accent);
+  margin-bottom: 0.75rem;
+}
+
+main > ul > li > a:first-child:hover {
+  color: var(--accent);
+}
+
+/* Nested resources */
+main ul ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+main ul ul li {
+  padding: 0.35rem 0;
+  border-top: 1px solid var(--border);
+}
+
+main ul ul li:first-child {
+  margin-top: 0.5rem;
+  padding-top: 0.75rem;
+}
+
+main ul ul a {
+  font-size: 0.85rem;
+  color: var(--ink-light);
+  text-decoration: none;
+}
+
+main ul ul a:hover {
+  color: var(--accent);
+}
+
+/* Time & Location section */
+main > p:last-of-type,
+main > p:nth-last-of-type(2),
+main > p:nth-last-of-type(3) {
+  font-size: 1rem;
+  color: var(--ink);
+}
+
+main > p strong {
+  font-weight: 600;
+  color: var(--ink);
+}
+
+/* Info block styling */
+#time-location + p,
+#time-location ~ p {
+  background: var(--bg-card);
+  border-left: 3px solid var(--accent);
+  padding: 1rem 1.5rem;
+  margin: 0.5rem 0;
+  max-width: 400px;
+}
+
+/* Navbar - minimal but present */
+.navbar {
+  background: var(--bg-warm) !important;
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 2rem;
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  color: var(--ink) !important;
+}
+
+.nav-link {
+  color: var(--ink-light) !important;
+  font-size: 0.9rem;
+}
+
+.nav-link:hover {
+  color: var(--ink) !important;
+}
+
+/* Footer */
+.nav-footer {
+  background: var(--ink);
+  color: rgba(255,255,255,0.6);
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+/* Hide TOC on homepage for cleaner look */
+#quarto-sidebar,
+#TOC {
+  display: none;
+}
+
+/* Links */
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #title-block-header .title {
+    font-size: 2rem;
+  }
+
+  main > p:first-of-type img,
+  .quarto-figure img {
+    height: 35vh;
+  }
+
+  main > ul {
+    grid-template-columns: 1fr;
+  }
+
+  main {
+    padding: 0 1rem 3rem;
+  }
+}
