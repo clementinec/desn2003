@@ -15,7 +15,8 @@
     "desn2003_W2.html": "707c83d0"
   },
   "desn2003_W3.qmd": {
-    "desn2003_2_js.html": "663e2d02"
+    "desn2003_2_js.html": "663e2d02",
+    "desn2003_W3.html": "96a93a3e"
   },
   "desn2003_W4.qmd": {
     "desn2003_W4.html": "c88880e1"
@@ -62,5 +63,17 @@
   },
   "countdown.qmd": {
     "countdown.html": "7d00fb85"
+  },
+  "assessment.qmd": {
+    "assessment.html": "3d1841a3"
+  },
+  "writingsample.qmd": {
+    "writingsample.html": "60fca194"
+  },
+  "WORK_LOG.md": {
+    "WORK_LOG.html": "a4b9be20"
+  },
+  "desn2003_W1.qmd": {
+    "desn2003_W1.html": "21dd85a5"
   }
 }

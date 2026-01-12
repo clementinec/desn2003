@@ -245,6 +245,204 @@ a:hover {
   text-decoration: underline;
 }
 
+/* ==========================================
+   Article Pages (Assessment, Writing Samples)
+   ========================================== */
+
+/* Add breathing room after header on article pages */
+.page-layout-full #title-block-header.quarto-title-block {
+  margin-bottom: 3rem;
+}
+
+/* Article content container - responsive with max-width */
+.page-layout-full main {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem 4rem;
+  box-sizing: border-box;
+}
+
+/* Article headings - slightly larger for readability */
+.page-layout-full main h2 {
+  font-size: 0.9rem;
+  margin-top: 3.5rem;
+}
+
+.page-layout-full main h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Blockquotes for sample text */
+.page-layout-full blockquote {
+  background: var(--bg-card);
+  border-left: 3px solid var(--accent);
+  margin: 1.5rem 0;
+  padding: 1.5rem 2rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  color: var(--ink-light);
+}
+
+.page-layout-full blockquote h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--ink);
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.page-layout-full blockquote h4:first-child {
+  margin-top: 0;
+}
+
+/* Custom HTML blocks in assessment page */
+.course-info {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.course-info-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 1.25rem 1.5rem;
+  flex: 1 1 140px;
+  min-width: 140px;
+  text-align: center;
+}
+
+.course-info-label {
+  display: block;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-light);
+  margin-bottom: 0.5rem;
+}
+
+.course-info-value {
+  display: block;
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+/* Document progression diagram */
+.doc-progression {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.doc-step {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1.25rem 1.5rem;
+  background: var(--bg-card);
+  border-top: 3px solid var(--accent);
+  min-width: 130px;
+}
+
+.doc-label {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  font-weight: 700;
+  margin-bottom: 0.35rem;
+}
+
+.doc-name {
+  display: block;
+  font-size: 0.875rem;
+  color: var(--ink);
+  font-weight: 500;
+}
+
+.doc-arrow {
+  font-size: 1.5rem;
+  color: var(--ink-light);
+  font-weight: 300;
+}
+
+/* Two-column layout for professional discovery */
+.two-col {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.info-block {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  padding: 1.5rem;
+}
+
+.info-block h3 {
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: var(--ink);
+}
+
+.info-block p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--ink-light);
+  line-height: 1.6;
+}
+
+/* Tables in article pages */
+.page-layout-full table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  font-size: 0.9rem;
+}
+
+.page-layout-full table th,
+.page-layout-full table td {
+  padding: 0.75rem 1rem;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+
+.page-layout-full table th {
+  background: var(--bg-card);
+  font-weight: 600;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink);
+}
+
+.page-layout-full table td {
+  background: var(--bg-warm);
+}
+
+/* Muted text helper */
+.text-muted {
+  color: var(--ink-light);
+  font-size: 0.9rem;
+}
+
+.uppercase {
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   #title-block-header .title {
@@ -262,5 +460,39 @@ a:hover {
 
   main {
     padding: 0 1rem 3rem;
+  }
+
+  /* Article pages responsive */
+  .page-layout-full main {
+    padding: 0 1.25rem 3rem;
+  }
+
+  .page-layout-full #title-block-header.quarto-title-block {
+    margin-bottom: 2rem;
+  }
+
+  .page-layout-full blockquote {
+    padding: 1rem 1.25rem;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .course-info-item {
+    flex: 1 1 100%;
+  }
+
+  .doc-progression {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .doc-step {
+    min-width: 200px;
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .doc-arrow {
+    transform: rotate(90deg);
   }
 }

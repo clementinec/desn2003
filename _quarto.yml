@@ -8,9 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: assessment.qmd
+        text: Assessment
+      - href: writingsample.qmd
+        text: Writing Samples
     right:
       - icon: github
-        href: https://github.com
+        href: https://github.com/clementinec/desn2003
         aria-label: GitHub
   page-footer:
     center: "DESN2003: Research for Innovation · University of Hong Kong"

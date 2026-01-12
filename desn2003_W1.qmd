@@ -1,0 +1,220 @@
+---
+title: "DESN2003: Research for Innovation"
+subtitle: "Week 1: Why and How Research Matters"
+author: "Dr. Hongshan Guo"
+format:
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: false
+    footer: "DESN2003 Research for Innovation"
+---
+
+## Welcome to DESN2003: Research for Innovation
+
+- This course is about understanding how **research drives innovation**.
+- By the end of the course, you’ll learn:
+  - **Why research matters for designers and innovators.**
+  - **How to conduct research effectively.**
+  - **How to apply research to create impactful solutions.**
+
+::: {.notes}
+- Start by welcoming students and setting the tone for the semester.
+- Emphasize that research is not just academic—it’s a tool for solving real-world problems and fueling creativity.
+:::
+
+---
+
+## Why Research?
+
+**Think about this: Great ideas don’t come from inspiration alone.**
+
+- Research helps us:
+  1. **Identify opportunities.**
+  2. **Validate ideas.**
+  3. **Refine designs.**
+
+**Question:** *How do YOU think research might help your work?*
+
+---
+
+## Interactive Poll: Word Clouds
+
+1. **Artists:** "How do you think research can help you as an artist?"
+2. **Entrepreneurs:** "How can research help you as a future entrepreneur?"
+3. **UI/UX Designers:** "How does research shape great user experiences?"
+
+::: {.notes}
+- Use Mentimeter or Poll Everywhere to generate live word clouds.
+- Discuss trends from the word clouds. Example prompts:
+  - "What surprised you about these responses?"
+  - "Did anything match or differ from your expectations?"
+:::
+
+---
+
+## Examples of Research in Action: Artists
+
+**Beyoncé’s Surprise Album Release (2013)**
+
+- Problem: Traditional album marketing strategies weren’t resonating with digital audiences.  
+- Solution: Beyoncé’s team used market research to understand:
+  - How audiences discover new music.
+  - The growing role of streaming platforms.  
+
+- **Outcome:**  
+  - A surprise drop on iTunes redefined music release strategies.
+  - Sold 80,000 copies in 3 hours, setting a record.
+
+**Takeaway:** Research helps artists align creativity with audience behavior and trends.
+
+::: {.notes}
+- Highlight how Beyoncé’s approach leveraged **cultural and market insights** to disrupt traditional practices.
+- Key point: Research allows artists to innovate by understanding their audience’s habits.
+:::
+
+---
+
+## Examples of Research in Action: Entrepreneurs
+
+**Airbnb: Transforming Hospitality**
+
+- Problem: Early Airbnb struggled to attract users.  
+- Research Approach:
+  - Conducted in-depth interviews with hosts and guests.
+  - Identified key pain points: Trust, usability, and photos.  
+
+- **Outcome:**  
+  - Introduced features like verified photos, reviews, and search filters.
+  - Grew from 1,000 to 250,000 listings in 3 years.
+
+**Takeaway:** Research helps entrepreneurs uncover hidden needs and refine their products.
+
+::: {.notes}
+- Highlight the importance of **empathy-driven research** for identifying pain points.
+- Airbnb succeeded by addressing trust issues—critical for a platform based on shared spaces.
+:::
+
+---
+
+## Examples of Research in Action: UI/UX Designers
+
+**Google Maps: User-Centric Design**
+
+- Problem: Early navigation apps were not intuitive or accessible.  
+- Research Approach:
+  - Conducted **ethnographic studies** observing users navigating real-world environments.
+  - Iterative usability testing on features like turn-by-turn directions.
+
+- **Outcome:**  
+  - Introduced key features like offline maps and real-time traffic updates.
+  - Became the most-used navigation tool globally.
+
+**Takeaway:** Research ensures that design solutions are intuitive, inclusive, and impactful.
+
+::: {.notes}
+- Emphasize how **ethnographic research** enables designers to observe real-world behaviors.
+- Google Maps’ success lies in its iterative approach to solving user frustrations.
+:::
+
+---
+
+## Case Study: Dyson Vacuum Innovation
+
+- **Challenge:** How do you make a vacuum that doesn’t lose suction?  
+- **Research Approach:**  
+  - James Dyson’s team conducted over 5,000 prototypes, using feedback to refine designs.
+  - Combined **engineering insights** with user research on cleaning habits.  
+
+- **Outcome:** Revolutionized the vacuum industry with bagless, cyclonic technology.
+
+**Activity:** In groups, analyze Dyson’s research strategy. What made it effective?
+
+::: {.notes}
+- Use this example to illustrate the role of **persistence** and iterative testing in innovation.
+- Prompt students to identify how combining technical and user research led to Dyson’s success.
+:::
+
+---
+
+## Break Time (10 Minutes)
+
+Take a quick break. We’ll dive into research methodologies in the second half of the session.
+
+---
+
+## Research Methodologies for Design
+
+**Key Approaches:**
+
+1. **Primary Research**:
+   - Interviews, observations, and surveys.
+   - Example: Ethnographic studies for UX design.
+2. **Secondary Research**:
+   - Market reports, trend analysis, competitor audits.
+   - Example: Entrepreneurs analyzing market gaps.
+3. **Mixed Methods**:
+   - Combining qualitative and quantitative approaches.
+
+---
+
+## Quick Quiz: Match the Methodology
+
+**Question:** What research method would you use?  
+
+1. Testing a prototype for usability.  
+2. Understanding cultural trends for a new product line.  
+3. Analyzing competitors in the same market.  
+
+::: {.notes}
+- Use tools like Kahoot or Mentimeter for a quick interactive quiz.
+- Reinforce the relevance of methodologies for different design challenges.
+:::
+
+---
+
+## Hands-On Activity: Persona Development
+
+**Scenario:**  
+You’re designing a sustainable food packaging solution for young professionals.  
+
+1. Use the provided mock user data (e.g., survey results).  
+2. Develop **2-3 personas** representing different user types.  
+
+#### Each persona should include:  
+
+  - **Name and Background**  
+  - **Goals**  
+  - **Pain Points**
+
+::: {.notes}
+- This exercise helps students practice translating raw data into actionable insights.
+- Encourage creativity while staying grounded in user needs.
+:::
+
+---
+
+## Wrap-Up and Assignment Introduction
+
+**Today’s Takeaways:**
+
+- Research drives **innovation** by uncovering hidden insights and validating ideas.
+- Different methodologies serve different purposes—learn to apply them effectively.  
+
+**First Assignment:**  
+Research a design problem relevant to your field:
+
+- Identify the problem.
+- Choose research methods to explore it.
+- Propose actionable insights.
+
+::: {.notes}
+- Summarize the importance of aligning research with creative goals.
+- Briefly outline the assignment requirements and provide examples if needed.
+:::

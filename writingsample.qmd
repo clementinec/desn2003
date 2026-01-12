@@ -1,0 +1,233 @@
+---
+title: "Writing Samples"
+subtitle: "DESN2003 | Examples of Student Work"
+toc: false
+---
+
+These samples illustrate what each document component might look like when done well. They're not templates to copy — they're examples of the kind of thinking, structure, and voice we're looking for.
+
+Each sample includes commentary on what works.
+
+---
+
+## Doc 0: Extended Abstract
+
+::: {.callout-note}
+## What we're looking for
+A clear problem statement, genuine curiosity, appropriate scope, and a sense of why this matters — both to you and more broadly. No citations. Plain language. ≤500 words.
+:::
+
+### Sample: "Thermal Comfort in Co-Working Spaces"
+
+> The rise of co-working spaces has fundamentally changed how many people experience the workplace. These spaces promise flexibility and community, but they also introduce a problem that traditional offices don't have: dozens of strangers with different thermal preferences sharing the same air.
+>
+> I became interested in this after spending a summer working from a co-working space in Hong Kong. The air conditioning was always either too cold or too warm, depending on where you sat. Some people wore jackets indoors; others brought personal fans. The space's managers seemed to have no good solution — they just set a single temperature and hoped for the best.
+>
+> This made me wonder: how do co-working spaces actually approach thermal comfort, and does it work? Traditional office buildings have HVAC systems designed for predictable occupancy patterns and relatively stable populations. Co-working spaces are different — people come and go, density varies by the hour, and there's no "average" user whose preferences can be designed for.
+>
+> There's substantial research on thermal comfort in offices, but most of it assumes a conventional employer-employee relationship where complaints go to facilities management. In co-working spaces, that feedback loop is different. Members are customers, not employees. The social dynamics of complaining are different. And the economic model — maximizing desk utilization — may conflict with thermal comfort goals.
+>
+> I want to investigate how co-working space operators in Hong Kong currently manage thermal comfort, and whether their strategies align with what members actually experience. My hunch is that there's a mismatch: operators optimizing for energy costs or a generic "comfortable" setting, while members develop informal coping strategies (moving seats, adjusting clothing, leaving) that never get fed back into the system.
+>
+> This matters because co-working is growing. If we can understand the thermal comfort challenges specific to these spaces, we might develop design guidelines or operational practices that work better than the current "set it and forget it" approach. And beyond co-working, this might tell us something about thermal comfort in any shared space where occupants have weak bargaining power over environmental conditions.
+
+**Why this works:**
+
+- Opens with context that frames the problem (co-working spaces are different)
+- Includes personal experience that motivated the inquiry — authentic, not manufactured
+- Identifies what's different about this context vs. existing research
+- Articulates a specific hypothesis ("my hunch is...")
+- Explains broader relevance without overclaiming
+- Clear, unpretentious prose
+
+---
+
+## Doc 0.1: Literature Review
+
+::: {.callout-note}
+## What we're looking for
+Synthesis, not summary. Show that you understand the landscape, identify patterns and tensions in existing research, and locate the gap your work addresses. Proper citations. Clear organization.
+:::
+
+### Sample Excerpt: "Thermal Comfort in Shared Workspaces"
+
+> #### The Limits of Predicted Mean Vote
+>
+> Most thermal comfort research still relies on Fanger's Predicted Mean Vote (PMV) model, which estimates comfort based on air temperature, humidity, radiant temperature, air velocity, clothing, and metabolic rate (Fanger, 1970). The model has been remarkably durable — it remains the basis for ASHRAE Standard 55 — but it was developed for steady-state conditions with relatively homogeneous populations.
+>
+> The past two decades have seen growing recognition of PMV's limitations. De Dear and Brager's (1998) adaptive comfort model demonstrated that occupants in naturally ventilated buildings tolerate a wider range of temperatures than PMV predicts, because they adapt behaviorally (opening windows, adjusting clothing) and psychologically (expecting variation). This work shifted attention from the building as a controlled environment to the occupant as an active agent.
+>
+> However, adaptive comfort research has focused primarily on the distinction between air-conditioned and naturally ventilated buildings. Less attention has been paid to the social context of adaptation. In a private office, opening a window or adjusting a thermostat is straightforward. In an open-plan office or co-working space, the same actions affect others and require negotiation.
+>
+> #### Thermal Comfort as Social Phenomenon
+>
+> A smaller body of work treats thermal comfort as socially constructed. Chappells and Shove (2005) argue that comfort expectations are shaped by cultural norms and technological systems, not just physiology. What counts as "comfortable" in Hong Kong today is different from what counted as comfortable in Hong Kong in 1970 — not because human bodies changed, but because air conditioning became ubiquitous and expectations shifted accordingly.
+>
+> Recent work by Luo et al. (2022) extends this thinking to workplaces, showing that thermal complaints are not simply expressions of physical discomfort but also assertions of status and control. In their study of open-plan offices in Shanghai, workers who complained about temperature were often those with less organizational power, suggesting that thermal discomfort may be as much about workplace dynamics as about degrees Celsius.
+>
+> This social perspective is largely absent from the co-working literature. Studies of co-working spaces (e.g., Spinuzzi, 2012; Garrett et al., 2017) focus on community, collaboration, and productivity, but rarely mention physical environment. When they do, it's usually in passing — noting that good lighting or comfortable furniture contributes to member satisfaction without analyzing how comfort is negotiated or contested.
+>
+> #### The Gap
+>
+> What's missing is work that connects thermal comfort research — with its attention to physical parameters and occupant adaptation — to the specific social and economic conditions of co-working spaces. These spaces combine high occupant density, heterogeneous users, weak feedback mechanisms, and a service relationship (member as customer) rather than an employment relationship. Each of these factors likely affects how thermal comfort is experienced and managed, but they haven't been studied together.
+
+**Why this works:**
+
+- Organized thematically (PMV and its limits → social dimensions → the gap), not source-by-source
+- Shows evolution of thinking in the field
+- Identifies tensions between bodies of literature
+- Uses sources as evidence for claims, not just things to cite
+- Clear statement of the gap that motivates this research
+- Appropriate citations integrated naturally
+
+---
+
+## Doc 0.2: Collecting Evidence
+
+::: {.callout-note}
+## What we're looking for
+A clear methodology with justification. Explain *why* these methods suit your question, not just *what* you'll do. Acknowledge limitations honestly.
+:::
+
+### Sample Excerpt: "Methods for Studying Co-Working Thermal Comfort"
+
+> #### Research Design
+>
+> This study uses a mixed-methods approach, combining environmental monitoring with semi-structured interviews. The logic is straightforward: environmental data tells us what's happening physically (temperature, humidity, air movement), while interviews tell us what occupants experience and how they make sense of that experience. Neither alone is sufficient.
+>
+> #### Site Selection
+>
+> I've selected three co-working spaces in Hong Kong with different operational models: one large chain (WeWork), one local independent operator, and one housed within a university. This variation is intentional. I expect that thermal comfort management will differ based on organizational resources, member demographics, and management philosophy. By comparing across sites, I can distinguish between findings that are site-specific and those that may generalize.
+>
+> All three spaces use centralized air conditioning, which is typical for Hong Kong. Naturally ventilated co-working spaces would be interesting to study but are rare here.
+>
+> #### Environmental Monitoring
+>
+> I'll deploy portable sensors measuring air temperature, relative humidity, and air velocity at 6 locations within each space over a 2-week period. Locations will include areas near windows, near HVAC vents, in open desk areas, and in enclosed meeting rooms. This captures spatial variation, which I suspect is significant — my pilot observations suggest temperature differences of 3-4°C between the coldest and warmest spots.
+>
+> Sensors will log at 5-minute intervals. This resolution is sufficient to capture daily patterns (morning warm-up, afternoon cooling, evening transition) without generating unmanageable data volumes.
+>
+> #### Interviews
+>
+> I'll conduct semi-structured interviews with two groups: space managers (3 per site) and members (8-10 per site). The questions differ.
+>
+> For managers, I'm interested in:
+>
+> - How they think about thermal comfort (is it even on their radar?)
+> - What complaints they receive and how they respond
+> - What constraints they operate under (lease terms, energy costs, equipment limitations)
+>
+> For members, I'm interested in:
+>
+> - How they experience thermal conditions day-to-day
+> - What coping strategies they use
+> - Whether and how they communicate discomfort
+> - What they think could be improved
+>
+> Interviews will be recorded and transcribed. I'll use thematic analysis following Braun and Clarke (2006), coding iteratively to identify patterns across respondents.
+>
+> #### Limitations
+>
+> This study has several limitations I want to acknowledge upfront.
+>
+> First, two weeks of environmental monitoring won't capture seasonal variation. Hong Kong summers and winters are quite different. I'm conducting fieldwork in October-November, which is relatively mild — findings might differ in August.
+>
+> Second, my member sample will skew toward people willing to talk to a researcher, which may mean more engaged or more dissatisfied members. I'll try to recruit a range of respondents, but this is hard to control.
+>
+> Third, I'm a researcher entering these spaces as an outsider. My presence may affect how people behave or what they're willing to say. I'll try to build rapport and emphasize confidentiality, but I can't eliminate this effect.
+>
+> These limitations don't invalidate the study, but they do mean I should be cautious about generalizing. The goal is to develop insight into how thermal comfort works in co-working spaces, not to produce definitive claims about all co-working spaces everywhere.
+
+**Why this works:**
+
+- Justifies design choices (why mixed methods? why these sites?)
+- Provides enough methodological detail to evaluate rigor
+- Explains logic behind specific decisions (sensor locations, interview questions)
+- Acknowledges limitations honestly and specifically
+- Doesn't overclaim — clear about what findings will and won't show
+
+---
+
+## Doc 1: Research Paper
+
+::: {.callout-note}
+## What we're looking for
+A complete narrative arc: question → literature → methods → findings → discussion. The sections should connect — your findings should respond to your question, and your discussion should relate findings back to the literature. Include reflection on what you learned.
+:::
+
+Doc 1 is too long to reproduce in full. Here's what a strong paper looks like structurally:
+
+| Section | What It Does | Common Mistakes |
+|---------|--------------|-----------------|
+| **Abstract** | Summarizes the entire paper in ~200 words. Written last. | Too vague; doesn't state findings |
+| **Introduction** | Frames the problem, states the research question, previews the argument | Buries the question; too much background |
+| **Literature Review** | Synthesizes existing work, identifies the gap | Summarizes instead of synthesizes |
+| **Methodology** | Explains how you investigated the question | Describes without justifying |
+| **Findings** | Presents what you found, organized thematically | Interprets too much (save for discussion) |
+| **Discussion** | Interprets findings in light of literature; addresses implications | Repeats findings; doesn't connect to literature |
+| **Conclusion** | Summarizes contribution; reflects on limitations and learning | Introduces new material; no reflection |
+
+The difference between a B paper and an A paper is usually in the **Discussion**. Strong discussions don't just say "my findings agree/disagree with X" — they explain *why* findings might differ, what they mean for the field, and what questions remain open.
+
+---
+
+## Professional Discovery
+
+::: {.callout-note}
+## What we're looking for
+Evidence that you prepared thoughtfully, engaged professionally, and extracted genuine insight — not just answers to your questions, but understanding of how practitioners actually think.
+:::
+
+### Sample Excerpt: "Conversations with UX Researchers"
+
+> #### Preparation
+>
+> I reached out to four UX researchers — two at large tech companies (Google, Alibaba), one at a design consultancy, and one freelancer. I chose this mix because I suspected the work might look very different depending on organizational context. I was right.
+>
+> Before each conversation, I reviewed their LinkedIn profiles and any published work I could find. This helped me ask better questions. When I spoke with Sarah at Google, for instance, I could ask specifically about a research method she'd mentioned in a conference talk, rather than generic questions about "what UX research is like."
+>
+> #### Key Insight: Research as Translation
+>
+> The most surprising theme across all four conversations was how much of the job isn't research in the academic sense — it's translation. Every researcher described their work as translating between users and product teams.
+>
+> Michael, the freelancer, put it most directly: "My job is to make the messy reality of users' lives legible to engineers who think in systems." He showed me a research report he'd produced — it wasn't an academic paper. It was more like a magazine article, with pull quotes, photographs, and almost no methodology section. "They don't care how I know. They care what I found and what they should do about it."
+>
+> This challenged my assumption that rigorous methodology would be valued in industry. It is valued — but it's invisible. Practitioners do careful work but present simplified outputs. The skill is in knowing what to leave out.
+>
+> #### What I'd Do Differently
+>
+> I asked mostly about what they do day-to-day. In retrospect, I wish I'd asked more about how they got into the field and what they wish they'd known earlier. The practitioners seemed to enjoy reflecting on their career paths — those digressions were often more insightful than my prepared questions.
+
+**Why this works:**
+
+- Shows preparation (researched interviewees beforehand)
+- Identifies a genuine insight, not just a summary of what was said
+- Reflects on assumptions that were challenged
+- Honest about what could have been better
+- Treats practitioners as real people, not just data sources
+
+---
+
+## Common Pitfalls
+
+Across all document types, these issues appear repeatedly:
+
+1. **Generic framing.** "This topic is important because it is relevant to society." — This tells us nothing. Be specific about *what* matters and *to whom*.
+
+2. **Summarizing instead of synthesizing.** A literature review that goes "Author A said X. Author B said Y. Author C said Z." is a list, not a review. Tell us what the conversation in the field looks like.
+
+3. **Unsupported claims.** "It is widely known that..." — If it's widely known, cite something. If you can't, reconsider whether it's true.
+
+4. **Methods without justification.** "I will use interviews." — Why interviews? Why not surveys or observation? What can interviews reveal that other methods can't?
+
+5. **Overclaiming.** "This study will solve the problem of X." — It won't. Research contributes to understanding; it rarely "solves" anything definitively.
+
+6. **No reflection.** The best papers acknowledge what the researcher learned, what surprised them, and what they'd do differently. This isn't weakness — it's intellectual honesty.
+
+---
+
+```{=html}
+<p class="text-muted uppercase" style="margin-top: 3rem;">
+  These samples are illustrative, not prescriptive. Your voice and your questions are your own.
+</p>
+```

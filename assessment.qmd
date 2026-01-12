@@ -1,0 +1,260 @@
+---
+title: "Assessment"
+subtitle: "DESN2003 | Research for Innovation"
+toc: false
+---
+
+## Overview
+
+This course assesses your ability to conduct independent research, synthesize knowledge, and communicate findings effectively. The assessment is **cumulative** — each document builds on the previous one, culminating in a complete research paper.
+
+```{=html}
+<div class="course-info">
+  <div class="course-info-item">
+    <span class="course-info-label">Individual Research</span>
+    <span class="course-info-value">40%</span>
+  </div>
+  <div class="course-info-item">
+    <span class="course-info-label">Professional Discovery</span>
+    <span class="course-info-value">30%</span>
+  </div>
+  <div class="course-info-item">
+    <span class="course-info-label">Peer Evaluation</span>
+    <span class="course-info-value">20%</span>
+  </div>
+  <div class="course-info-item">
+    <span class="course-info-label">Class Participation</span>
+    <span class="course-info-value">10%</span>
+  </div>
+</div>
+```
+
+---
+
+## Before You Begin
+
+You might feel like you don't know enough to do research. That's normal — and it's also backwards.
+
+Research isn't a demonstration of what you already know. It's the practice of *building* knowledge in directions you're curious about. You start from where you are, not from where you think you should be. The whole point is to end up somewhere new.
+
+Every researcher — including your instructors, including published scholars — began by not knowing. The difference isn't innate ability; it's the willingness to sit with uncertainty and work through it systematically. That's what this course teaches.
+
+::: {.callout-tip}
+## You are building your own curriculum
+Research is one of the few spaces where you set the agenda. You choose the question. You decide what matters. You develop expertise in a direction *you* find meaningful — not one handed to you. That's uncomfortable at first, but it's also where the real learning happens.
+:::
+
+Don't wait until you feel "ready." You become ready by doing the work.
+
+If you hit a wall — you know *what* you want to investigate but not *how* to get there — that's exactly what office hours are for. Bring your confusion. Bring your half-formed ideas. That's not a sign of failure; it's the normal state of research in progress. AI tools can help too, but sometimes a conversation cuts through faster.
+
+---
+
+## Choosing Your Topic
+
+::: {.callout-note}
+## This is your research.
+You have full agency in selecting a topic that genuinely interests you. The best research comes from authentic curiosity — not from trying to guess what the instructor wants.
+:::
+
+Follow your curiosity. What problems, questions, or phenomena do you find yourself thinking about? What would you want to understand better even if it weren't for a grade?
+
+Your topic should be **narrow enough** to investigate meaningfully in one semester, but **broad enough** to find existing literature and evidence. It should connect to design, innovation, or the built environment — though this can be interpreted broadly.
+
+Embrace uncertainty. You don't need all the answers at the start. Research is a process of discovery, and your understanding will evolve. There is no "correct" topic. What matters is how rigorously you investigate it.
+
+---
+
+## Document Progression
+
+Your individual research develops through four sequential documents, each worth **10%** of your final grade. Think of these as checkpoints in a larger journey — each one builds on what came before.
+
+```{=html}
+<div class="doc-progression">
+  <div class="doc-step">
+    <span class="doc-label">Doc 0</span>
+    <span class="doc-name">Extended Abstract</span>
+  </div>
+  <div class="doc-arrow">→</div>
+  <div class="doc-step">
+    <span class="doc-label">Doc 0.1</span>
+    <span class="doc-name">Literature Review</span>
+  </div>
+  <div class="doc-arrow">→</div>
+  <div class="doc-step">
+    <span class="doc-label">Doc 0.2</span>
+    <span class="doc-name">Collecting Evidence</span>
+  </div>
+  <div class="doc-arrow">→</div>
+  <div class="doc-step">
+    <span class="doc-label">Doc 1</span>
+    <span class="doc-name">Research Paper</span>
+  </div>
+</div>
+```
+
+---
+
+### Document 0: Extended Abstract
+
+Your initial research scope and direction. This is where you stake out your territory — articulating the problem you want to investigate and why it matters.
+
+Write clearly and concisely (≤500 words). State the problem, explain its significance (both personally and broadly), and sketch your initial approach. If relevant, connect to sustainability or design implications.
+
+::: {.callout-warning}
+## Common pitfalls
+Abstracts should be **plain text** — no citations. Avoid being too broad ("I want to study sustainability") or too narrow to find literature. Don't just describe *what* you'll study; explain *why it matters*.
+:::
+
+**Success looks like:** A clearly articulated, appropriately scoped problem. Genuine engagement with the topic. Logical connection between the problem and its significance.
+
+---
+
+### Document 0.1: Literature Review
+
+A synthesis of existing research relevant to your topic. This is not a list of summaries — it's an argument about the state of knowledge in your area.
+
+Identify key sources (academic papers, books, reports). Summarize and critically evaluate each. Then synthesize: How do these sources relate to each other? Where do they agree or disagree? What patterns emerge? Most importantly — what's missing? The gap you identify may be where your research contributes.
+
+::: {.callout-tip}
+## What makes a strong literature review
+Organization matters. Structure your review thematically, chronologically, or methodologically — not just source-by-source. Show that you understand the landscape, not just individual papers.
+:::
+
+**Success looks like:** Relevant, credible, diverse sources. Demonstration of understanding, not just summary. Clear organizational logic. Identification of gaps. Proper citations.
+
+---
+
+### Document 0.2: Collecting Evidence
+
+Your plan for gathering and analyzing data. Here you move from "what others have said" to "what I will find out."
+
+Describe your methodology — qualitative, quantitative, or mixed. Specify your methods: interviews, surveys, observations, archival research, experiments. Justify why these methods suit your research question. If you have preliminary data or pilot results, include them.
+
+Be honest about limitations. Every method has trade-offs. Acknowledging them shows sophistication, not weakness.
+
+::: {.callout-warning}
+## Common pitfalls
+Don't choose methods because they're easy — choose them because they're appropriate. Vague analysis plans ("I will analyze the data") don't demonstrate understanding. Address ethical considerations where relevant.
+:::
+
+**Success looks like:** Methods appropriate for the question. Clear understanding of strengths and limitations. Concrete plan for collection and analysis. Honest engagement with potential biases.
+
+---
+
+### Document 1: Research Paper Draft
+
+A near-complete research paper integrating all previous work. This is the culmination of your semester-long investigation.
+
+Your paper should have a clear narrative arc: Introduction → Literature Review → Methodology → Findings → Discussion → Conclusion. Each section should build on and connect to the others. Include personal reflection on what you learned through the process.
+
+> **The goal is not to have all the answers.** Research often raises more questions than it answers. What matters is the rigor of your thinking and the honesty of your engagement with complexity.
+
+**Success looks like:** Clear narrative from question to conclusion. Strong integration of literature, methods, and findings. Quality writing and presentation. Thoughtful reflection on limitations and lessons learned.
+
+---
+
+## Professional Discovery (30%)
+
+*Previously called "Group/Interview Project" or "Informational Interviews" — same thing, better name.*
+
+In addition to individual research, you will conduct **conversations with practitioners** — designers, project managers, and other professionals working in areas relevant to your interests. This is research in action: reaching out to real people with real expertise, learning how the field actually works.
+
+```{=html}
+<div class="two-col">
+  <div class="info-block">
+    <h3>In-Class Presentation (15%)</h3>
+    <p>Present your findings to the class. Demonstrate techniques learned throughout the semester — critical thinking, storytelling, clear communication of insights.</p>
+  </div>
+  <div class="info-block">
+    <h3>Documentation (15%)</h3>
+    <p>Showcase your process and findings. Include interview materials and synthesize insights across conversations.</p>
+  </div>
+</div>
+```
+
+::: {.callout-tip}
+## Keep it clear, not long
+Neither component requires extensive writing. Focus on **clear organization** and **clarity in reporting** — not word count. A well-structured slide deck or a concise document with strong visuals often works better than pages of prose.
+:::
+
+This can be done individually or in groups. Groups allow you to reach more people and expand your professional network, but require coordination and shared accountability.
+
+::: {.callout-note}
+## Recognize your positionality
+You bring biases and assumptions to every interview. That's not a flaw — it's human. The goal is to recognize and account for your positionality, not pretend it doesn't exist.
+:::
+
+---
+
+## Peer Evaluation (20%)
+
+At the end of the semester, you will present your **Individual Research** to the class. Your peers will evaluate these presentations — and you will evaluate theirs. This component accounts for **20%** of your grade.
+
+This serves two purposes. First, you learn from exposure to diverse research topics and approaches. Second, you develop critical judgment — the ability to evaluate research quality, which is itself a core research skill.
+
+Your evaluations should be **constructive**, **specific**, and **fair**. Saying "this was good" or "this was confusing" isn't helpful. Explain *what* worked and *why*, or *what* was unclear and *how* it might be improved.
+
+---
+
+## Class Participation (10%)
+
+**10%** of your grade reflects your presence and engagement.
+
+Research is collaborative. Your contributions to class discussions, activities, and critiques benefit everyone — including yourself. Showing up matters. Engaging matters more.
+
+---
+
+## Submission Guidelines
+
+| Item | Details |
+|------|---------|
+| **Deadline** | EOD Wednesday before the relevant class |
+| **Format** | Submit via Moodle/Turnitin |
+
+### On Using AI
+
+AI tools are **not prohibited** — in fact, they're welcome. Use them to enhance the quality of your writing, clarify your thinking, or get unstuck.
+
+That said: if your submission reads like AI output without evident critical thinking — generic structure, surface-level analysis, no personal engagement with the material — the instructor may reach out to check whether you need additional support.
+
+The goal is for AI to help *you* write better, not to write *for* you. You should be able to explain and stand behind everything in your submission — that's how you know it's still yours.
+
+### Late Policy
+
+::: {.callout-tip}
+## One free extension — no questions asked
+Life happens. Every student gets **one 7-day extension** to use during the semester. No documentation required, no explanation needed. Just let the instructor know before the original deadline. Use it wisely.
+:::
+
+**Just missed the deadline?** If your submission is late but within **1 hour** of the deadline, you may submit via Slack with a timestamp as proof. This receipt allows you to work with the instructor to update your Moodle record. Beyond 1 hour, standard late penalties apply.
+
+**Late penalties:** Every **48 hours late** = one sub-letter grade deduction (e.g., A → A-, then A- → B+, and so on). Exceptions beyond your free extension require a valid doctor's note or equivalent documentation.
+
+::: {.callout-warning}
+## Confirm your submission record
+Your Moodle submission record must accurately reflect your work **by the last day of teaching**. Double-check that files are uploaded correctly and receipts are confirmed. Anything missing or incorrectly uploaded by that date will be treated as a non-submission — there won't be an opportunity to fix it after the fact.
+:::
+
+---
+
+## A Note on Grades
+
+::: {.callout-important}
+## Grades reflect process, not "correctness"
+Research rarely produces definitive answers. Grades reflect the quality of your inquiry — not whether you arrived at a predetermined conclusion.
+:::
+
+**High grades** go to work that demonstrates genuine intellectual engagement, rigorous and appropriate methods, clear writing, honest acknowledgment of limitations, and evidence of growth over the semester.
+
+**The goal is not perfection.** The goal is to develop as a researcher — to learn how to ask good questions, find and evaluate evidence, and communicate your thinking clearly.
+
+If you engage seriously with that process, the grades will follow.
+
+---
+
+```{=html}
+<p class="text-muted uppercase" style="margin-top: 3rem;">
+  Questions? Reach out during office hours or by appointment.
+</p>
+```

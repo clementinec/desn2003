@@ -1,18 +1,16 @@
 ---
 title: "DESN2003: Research for Innovation"
 subtitle: "Week 3: Research Paper Examples & Literature Review"
-author: "Hongshan Guo"
-
-format: 
+author: "Dr. Hongshan Guo"
+format:
   revealjs:
     slide-number: c/t
     width: 1600
     height: 1200
-    theme: dark
-    footer: DESN2003 Research For Innovation, Session Two
+    theme: simple
+    footer: "DESN2003 Research for Innovation"
     center: true
-    output-file: desn2003_2_js.html
-
+    embed-resources: true
 incremental: true
 ---
 

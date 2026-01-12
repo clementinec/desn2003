@@ -8,9 +8,14 @@ toc: false
 
 A foundational course in research methodology for design practice. We explore how rigorous inquiry informs innovation—from framing questions to gathering evidence and communicating findings.
 
+## Key Resources
+
+- [Assessment Guide](assessment.qmd) — Grading breakdown, document progression, submission guidelines
+- [Writing Samples](writingsample.qmd) — Examples of strong student work
+
 ## Lectures & Materials
 
-- [Week 1: Introduction](DESN2003_L1.qmd)
+- [Week 1: Introduction](desn2003_W1.qmd)
   - [Survey Data](surveydata.qmd)
 - [Week 2: Research Frameworks](desn2003_W2.qmd)
 - [Week 3: Literature Review](desn2003_W3.qmd)
