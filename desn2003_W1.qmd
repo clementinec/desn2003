@@ -1,6 +1,6 @@
 ---
 title: "DESN2003: Research for Innovation"
-subtitle: "Week 1: Why and How Research Matters"
+subtitle: "Week 1: Why Research Matters (And Why You Can't Skip It)"
 author: "Dr. Hongshan Guo"
 format:
   revealjs:
@@ -12,209 +12,707 @@ format:
     height: 1200
     preview-links: auto
     embed-resources: true
-    incremental: false
+    incremental: true
     footer: "DESN2003 Research for Innovation"
 ---
 
-## Welcome to DESN2003: Research for Innovation
+# 💥 Design Disasters {background-color="#FF6B6B"}
 
-- This course is about understanding how **research drives innovation**.
-- By the end of the course, you’ll learn:
-  - **Why research matters for designers and innovators.**
-  - **How to conduct research effectively.**
-  - **How to apply research to create impactful solutions.**
+## Guess What Went Wrong?
+
+::: {.nonincremental}
+- **[Snapchat's 2018 Redesign](https://www.bbc.com/news/technology-43740284):** Lost $1.3 billion in market value in one day
+- **[Instagram's 2022 TikTok Clone](https://techcrunch.com/2022/07/28/instagram-walks-back-recent-changes-after-kim-kardashian-kylie-jenner-condemn-the-apps-tiktok-like-pivots/):** Adam Mosseri had to publicly apologize and rollback
+- **[Twitter → X Rebrand (2023)](https://www.bbc.com/news/business-66305869):** Confusion, backlash, brand value erosion
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## What Do These Have in Common?
+
+<span style="font-size: 1.5em; color: #E63946;">**They ignored user research.**</span>
+:::
 
 ::: {.notes}
-- Start by welcoming students and setting the tone for the semester.
-- Emphasize that research is not just academic—it’s a tool for solving real-world problems and fueling creativity.
+- Start with failures to grab attention
+- Students love seeing big companies mess up
+- Sets up the stakes: research isn't optional, it's survival
 :::
 
 ---
 
-## Why Research?
+## Today's Roadmap 🗺️
 
-**Think about this: Great ideas don’t come from inspiration alone.**
-
-- Research helps us:
-  1. **Identify opportunities.**
-  2. **Validate ideas.**
-  3. **Refine designs.**
-
-**Question:** *How do YOU think research might help your work?*
-
----
-
-## Interactive Poll: Word Clouds
-
-1. **Artists:** "How do you think research can help you as an artist?"
-2. **Entrepreneurs:** "How can research help you as a future entrepreneur?"
-3. **UI/UX Designers:** "How does research shape great user experiences?"
+::: {.nonincremental}
+1. 🎯 **Why Research?** Real examples from apps you actually use
+2. 💡 **Success Stories** vs **Epic Fails**
+3. ⚡ **Interactive Activities** Your turn to analyze
+4. 🎭 **Hands-On Practice** Reverse engineering personas
+5. 🚀 **Your First Assignment** Start your research journey
+:::
 
 ::: {.notes}
-- Use Mentimeter or Poll Everywhere to generate live word clouds.
-- Discuss trends from the word clouds. Example prompts:
-  - "What surprised you about these responses?"
-  - "Did anything match or differ from your expectations?"
+- Clear overview so students know what's coming
+- Mix of learning and doing
 :::
 
 ---
 
-## Examples of Research in Action: Artists
+## What You'll Learn in This Course 🎓
 
-**Beyoncé’s Surprise Album Release (2013)**
+::: {.callout-note icon=false}
+## The Academic Foundation
 
-- Problem: Traditional album marketing strategies weren’t resonating with digital audiences.  
-- Solution: Beyoncé’s team used market research to understand:
-  - How audiences discover new music.
-  - The growing role of streaming platforms.  
+This course teaches **academic research methods and thinking**—the rigorous, systematic approaches used in scholarly research.
 
-- **Outcome:**  
-  - A surprise drop on iTunes redefined music release strategies.
-  - Sold 80,000 copies in 3 hours, setting a record.
+**Why learn the academic way?**
 
-**Takeaway:** Research helps artists align creativity with audience behavior and trends.
+- Academic research provides the **foundational tools and frameworks**
+- These methods ensure **validity, reliability, and rigor**
+- Product teams adapt these same principles for real-world design research
+:::
+
+. . .
+
+::: {.columns}
+::: {.column width="50%"}
+**Academic Research:**
+
+- Systematic literature reviews
+- Rigorous methodology
+- Peer review standards
+- Theoretical frameworks
+:::
+
+::: {.column width="50%"}
+**↓ Translates to Product Research:**
+
+- Competitive analysis
+- User testing protocols
+- Design critique
+- Research-driven decisions
+:::
+:::
 
 ::: {.notes}
-- Highlight how Beyoncé’s approach leveraged **cultural and market insights** to disrupt traditional practices.
-- Key point: Research allows artists to innovate by understanding their audience’s habits.
+- Set expectations: This is academically rigorous
+- But show the connection to practice
+- Academic thinking = better product research
+:::
+
+# 🎯 Part 1: Why Research Exists {background-color="#4ECDC4"}
+
+## The Brutal Truth
+
+::: {.r-fit-text}
+Your assumptions are probably wrong.
+:::
+
+. . .
+
+**Research helps you:**
+
+::: {.incremental}
+- <span style="color: #F77F00;">**Identify opportunities**</span> you didn't know existed
+- <span style="color: #06A77D;">**Validate ideas**</span> before wasting months building
+- <span style="color: #9B59B6;">**Refine designs**</span> based on actual human behavior
 :::
 
 ---
 
-## Examples of Research in Action: Entrepreneurs
+## 📊 Quick Poll: What's Your Design Superpower?
 
-**Airbnb: Transforming Hospitality**
+**Open Mentimeter/Poll Everywhere now**
 
-- Problem: Early Airbnb struggled to attract users.  
-- Research Approach:
-  - Conducted in-depth interviews with hosts and guests.
-  - Identified key pain points: Trust, usability, and photos.  
+::: {.nonincremental}
+1. "What type of designer are you aiming to be?"
+   - UI/UX Designer
+   - Product Designer
+   - Service Designer
+   - Creative Technologist
+   - Still exploring!
 
-- **Outcome:**  
-  - Introduced features like verified photos, reviews, and search filters.
-  - Grew from 1,000 to 250,000 listings in 3 years.
-
-**Takeaway:** Research helps entrepreneurs uncover hidden needs and refine their products.
+2. "In one word: What does 'research' mean to you?"
+:::
 
 ::: {.notes}
-- Highlight the importance of **empathy-driven research** for identifying pain points.
-- Airbnb succeeded by addressing trust issues—critical for a platform based on shared spaces.
+- Use Mentimeter for live word cloud
+- Revisit the word cloud at the end to see if perceptions changed
+- Connect examples to what students picked
+:::
+
+# 💡 Research Success Stories {background-color="#FFE66D"}
+
+## Spotify Wrapped: Research-Driven Virality 🎵
+
+**[Behind the design of Wrapped →](https://newsroom.spotify.com/2021-12-01/the-wait-is-over-your-spotify-2021-wrapped-is-here/)**
+
+::: {.columns}
+::: {.column width="60%"}
+**The Strategy:**
+
+- **User Behavior Analysis:** People love sharing personal data when it's beautifully visualized
+- **Social Psychology Research:** FOMO + identity expression = virality
+- **A/B Testing:** Cards vs. stories vs. videos (tested 50+ formats)
+
+**The Result:**
+
+- <span style="color: #1DB954; font-weight: bold;">120M+ shares</span> annually
+- Became a **cultural moment** (memes, TikTok trends, news coverage)
+- Competitors scrambled to copy it (Apple Music Replay, YouTube Recap)
+:::
+
+::: {.column width="40%"}
+::: {.callout-tip icon=false}
+## 🎨 Designer Takeaway
+
+Research revealed: Users don't just want to consume music—they want to **perform their taste** publicly.
+
+This insight drove every design decision.
+:::
+:::
+:::
+
+::: {.notes}
+- Students use Spotify daily—they know Wrapped
+- Connect design decisions to research insights
+- Show actual Wrapped examples if possible
 :::
 
 ---
 
-## Examples of Research in Action: UI/UX Designers
+## TikTok: The Algorithm That Knows You Too Well 📱
 
-**Google Maps: User-Centric Design**
+::: {.columns}
+::: {.column width="50%"}
+**The Research:**
 
-- Problem: Early navigation apps were not intuitive or accessible.  
-- Research Approach:
-  - Conducted **ethnographic studies** observing users navigating real-world environments.
-  - Iterative usability testing on features like turn-by-turn directions.
+- Tracks: watch time, re-watches, completion rate, shares, comments, profile visits
+- A/B tests **EVERYTHING**: video length, sound, thumbnails, posting time
+- Ethnographic insight: Gen Z consumes content differently than Millennials (no patience for intros)
 
-- **Outcome:**  
-  - Introduced key features like offline maps and real-time traffic updates.
-  - Became the most-used navigation tool globally.
+**The Impact:**
 
-**Takeaway:** Research ensures that design solutions are intuitive, inclusive, and impactful.
+- Most engaging feed in social media history
+- Average user: <span style="font-size: 1.3em; color: #FE2C55;">**95 minutes/day**</span>
+- Changed how ALL platforms design feeds (Instagram Reels, YouTube Shorts)
+:::
+
+::: {.column width="50%"}
+::: {.callout-warning icon=false}
+## ⚠️ Ethical Question
+
+TikTok's research made their product **TOO** engaging. Where's the line between good UX and manipulation?
+
+*We'll discuss research ethics throughout the semester.*
+:::
+:::
+:::
 
 ::: {.notes}
-- Emphasize how **ethnographic research** enables designers to observe real-world behaviors.
-- Google Maps’ success lies in its iterative approach to solving user frustrations.
+- Students are on TikTok—they FEEL the algorithm
+- Introduce ethics early: research has consequences
+- Micro-interactions matter more than demographics
 :::
 
 ---
 
-## Case Study: Dyson Vacuum Innovation
+## Airbnb: The $8,000 Photo That Changed Everything 📸
 
-- **Challenge:** How do you make a vacuum that doesn’t lose suction?  
-- **Research Approach:**  
-  - James Dyson’s team conducted over 5,000 prototypes, using feedback to refine designs.
-  - Combined **engineering insights** with user research on cleaning habits.  
+[Read the full story →](https://www.fastcompany.com/3026472/the-airbnb-founders-on-the-1000-project-that-saved-their-company)
 
-- **Outcome:** Revolutionized the vacuum industry with bagless, cyclonic technology.
+::: {.columns}
+::: {.column width="50%"}
+**The Problem (2009):**
 
-**Activity:** In groups, analyze Dyson’s research strategy. What made it effective?
+- Beautiful website
+- Zero bookings
+- About to shut down
 
-::: {.notes}
-- Use this example to illustrate the role of **persistence** and iterative testing in innovation.
-- Prompt students to identify how combining technical and user research led to Dyson’s success.
+**The Research:**
+
+- Founders flew to New York, knocked on doors
+- Interviewed hosts in person
+- **Key observation:** All listing photos were terrible (blurry, dark, weird angles)
+:::
+
+::: {.column width="50%"}
+**The Experiment:**
+
+- Borrowed a $5,000 camera
+- Spent $3,000 on a weekend trip
+- Took professional photos themselves
+- Revenue in NYC <span style="color: #FF5A5F; font-weight: bold;">doubled overnight</span>
+
+**The Scale:**
+
+- Now: Professional photography service in 6,000+ cities
+- One research insight → Core business strategy
+:::
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## 💡 The Lesson
+Sometimes the research finding is **obvious**... after you bother to look.
 :::
 
 ---
 
-## Break Time (10 Minutes)
+## Figma: Research That Killed Sketch 🎨
 
-Take a quick break. We’ll dive into research methodologies in the second half of the session.
+[Dylan Field's story on how Figma started →](https://www.figma.com/blog/design-on-a-deadline-how-figma-built-a-product-design-team/)
 
----
+**The Gap They Found (2016):**
 
-## Research Methodologies for Design
+::: {.incremental}
+- Interviewed 100+ designers about workflow pain points
+- **Universal complaint:** "I email design files back and forth all day"
+- Insight: Design tools needed to work like **Google Docs**, not Photoshop
+:::
 
-**Key Approaches:**
+. . .
 
-1. **Primary Research**:
-   - Interviews, observations, and surveys.
-   - Example: Ethnographic studies for UX design.
-2. **Secondary Research**:
-   - Market reports, trend analysis, competitor audits.
-   - Example: Entrepreneurs analyzing market gaps.
-3. **Mixed Methods**:
-   - Combining qualitative and quantitative approaches.
+**Research-Driven Decisions:**
 
----
+::: {.columns}
+::: {.column width="50%"}
+✅ Browser-based (controversial!)
+✅ Real-time collaboration
+✅ Free tier for network effects
+✅ Comments directly on designs
+:::
 
-## Quick Quiz: Match the Methodology
+::: {.column width="50%"}
+❌ Native app (slower to build)
+❌ Paid-only (limits growth)
+❌ Traditional licensing
+:::
+:::
 
-**Question:** What research method would you use?  
+. . .
 
-1. Testing a prototype for usability.  
-2. Understanding cultural trends for a new product line.  
-3. Analyzing competitors in the same market.  
+**The Outcome:** 0 → Industry standard in 6 years | <span style="color: #0ACF83; font-weight: bold;">$20B Adobe acquisition</span>
 
 ::: {.notes}
-- Use tools like Kahoot or Mentimeter for a quick interactive quiz.
-- Reinforce the relevance of methodologies for different design challenges.
+- Students use Figma—they get it
+- They didn't build a better design tool, they researched the design PROCESS
+- Show how research challenges assumptions (browser vs native)
+:::
+
+# 💥 Epic Research Fails {background-color="#FF6B6B"}
+
+## When Designers Skip Research...
+
+::: {.fragment}
+### Juicero: The $120 Million Juice Mistake 🧃
+
+**[Watch the infamous Bloomberg video →](https://www.youtube.com/watch?v=_Cp-BGQfpHQ)** | **[Full story →](https://www.theguardian.com/technology/2017/sep/01/juicero-silicon-valley-shutting-down)**
+
+::: {.columns}
+::: {.column width="60%"}
+**The Product:**
+
+- $400 WiFi-connected juicer
+- Sleek design, beautiful branding
+- VC funding: $120 million
+
+**The Research They Skipped:**
+
+- "Do people want this?"
+- "Is a $400 juicer solving a real problem?"
+- "Can users just... squeeze the packets by hand?"
+:::
+
+::: {.column width="40%"}
+**The Reality:**
+
+Bloomberg tested it: Yes, you can squeeze the packets by hand. Same juice.
+
+**The Outcome:**
+
+- Company shut down 16 months later
+- Became a Silicon Valley punchline
+:::
+:::
+:::
+
+::: {.notes}
+- Show the Bloomberg video (30 seconds) - it's hilarious
+- Students find this memorable—failure is entertaining
+- Lesson: Research isn't just "make it pretty"
 :::
 
 ---
 
-## Hands-On Activity: Persona Development
+## More Fails You Can Learn From
 
-**Scenario:**  
-You’re designing a sustainable food packaging solution for young professionals.  
+::: {.columns}
+::: {.column width="50%"}
+**[Theranos: Design Without Function →](https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901)**
 
-1. Use the provided mock user data (e.g., survey results).  
-2. Develop **2-3 personas** representing different user types.  
+- Sleek design, great branding
+- Problem: Product didn't work
+- Research fabrication → fraud → collapse
+- **Lesson:** Research ≠ making it look good
+:::
 
-#### Each persona should include:  
+::: {.column width="50%"}
+**[Zoom Fatigue (2020) →](https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/)**
 
-  - **Name and Background**  
-  - **Goals**  
-  - **Pain Points**
+- Initial design: Great for 1-hour meetings
+- Didn't anticipate: 8-hour Zoom days
+- Had to retrofit: Virtual backgrounds, touch-up appearance, "hide self-view"
+- **Lesson:** Test edge cases and extreme usage
+:::
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## The Pattern
+All of these teams had **designers**. What they lacked was **research**.
+:::
+
+# ⚡ Interactive Time {background-color="#A8DADC"}
+
+## 🎮 Activity: Reverse Engineer Your Favorite Apps
+
+**Pick ONE app you use daily. Discuss in pairs (3 minutes):**
+
+::: {.nonincremental}
+1. What problem does it solve?
+2. What user need did they discover through research?
+3. What's ONE design decision that clearly came from user testing?
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Examples to Consider
+**Notion** (flexibility research) | **BeReal** (authenticity fatigue) | **Duolingo** (habit loop gamification) | **Discord** (community vs. chat)
+:::
 
 ::: {.notes}
-- This exercise helps students practice translating raw data into actionable insights.
-- Encourage creativity while staying grounded in user needs.
+- Students share out after 3 minutes
+- Validate their observations
+- Show how research is everywhere once you look for it
 :::
 
 ---
 
-## Wrap-Up and Assignment Introduction
+## ⚡ Lightning Round: Spot the Research
 
-**Today’s Takeaways:**
+**What was researched to create these features?**
 
-- Research drives **innovation** by uncovering hidden insights and validating ideas.
-- Different methodologies serve different purposes—learn to apply them effectively.  
+::: {.incremental}
+1. **Instagram's Double-Tap to Like**
+   - *Answer: Thumb reach zones, one-handed phone use*
 
-**First Assignment:**  
-Research a design problem relevant to your field:
+2. **Spotify's "Made For You" Playlists**
+   - *Answer: Music discovery is stressful, users want curation*
 
-- Identify the problem.
-- Choose research methods to explore it.
-- Propose actionable insights.
+3. **Dark Mode (iOS, Twitter, Apps)**
+   - *Answer: Eye strain studies, battery life data, user preference surveys*
+
+4. **TikTok's Infinite Scroll (vs. "Are You Still Watching?")**
+   - *Answer: Deliberate friction reduces engagement (they researched both!)*
+:::
+
+. . .
+
+**Takeaway:** <span style="color: #E63946; font-weight: bold;">Every pixel can be a research decision.</span>
+
+# 🛑 Break Time (10 Minutes) {background-color="#457B9D"}
+
+Take a break! Stretch, check your phone, grab water.
+
+We'll do hands-on activities when you return.
+
+---
+
+## Bridging Academic & Practice 🌉
+
+**You might be thinking:** *"Why learn academic research methods when I want to design products?"*
+
+::: {.columns}
+::: {.column width="50%"}
+### The Academic Toolkit
+
+- **Systematic thinking:** How to frame research questions
+- **Methodology selection:** Choosing the right approach
+- **Analysis frameworks:** Making sense of data
+- **Critical evaluation:** Assessing quality and bias
+- **Clear communication:** Writing and presenting findings
+:::
+
+::: {.column width="50%"}
+### Applied in the Real World
+
+When Airbnb flew to New York, they used **ethnographic methods** (academic)
+
+When Figma interviewed 100 designers, they did **qualitative research** (academic)
+
+When Spotify A/B tests Wrapped, they use **experimental design** (academic)
+
+**The difference?** Speed and scope—not the underlying thinking.
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## 💡 Bottom Line
+Learn the rigorous academic approach, adapt it for the fast-paced product world. The thinking stays the same.
+:::
+
+# 🎭 Part 2: Types of Research {background-color="#4ECDC4"}
+
+## Three Main Approaches
+
+::: {.columns}
+::: {.column width="33%"}
+### 🔍 Primary Research
+
+**You gather the data**
+
+- Interviews
+- Observations
+- Surveys
+- Usability tests
+- Ethnography
+
+<span style="color: #06A77D;">**Best for:** Specific product questions</span>
+:::
+
+::: {.column width="33%"}
+### 📚 Secondary Research
+
+**Others gathered the data**
+
+- Market reports
+- Competitor analysis
+- Trend studies
+- Academic papers
+- User reviews
+
+<span style="color: #F77F00;">**Best for:** Understanding landscape</span>
+:::
+
+::: {.column width="33%"}
+### 🔀 Mixed Methods
+
+**Combine both**
+
+- Surveys + Interviews
+- Analytics + User testing
+- Quantitative + Qualitative
+
+<span style="color: #9B59B6;">**Best for:** Complex problems</span>
+:::
+:::
 
 ::: {.notes}
-- Summarize the importance of aligning research with creative goals.
-- Briefly outline the assignment requirements and provide examples if needed.
+- Week 2 will dive deeper into methodologies
+- Today: Just know they exist and serve different purposes
+:::
+
+---
+
+## Real Designers Use Research
+
+::: {.columns}
+::: {.column width="50%"}
+**Jake Knapp (Google Ventures)**
+
+- Created the "Design Sprint" method
+- Research insight: Teams waste months debating
+- Solution: Compress research + design + testing into 5 days
+- **Used by:** Slack, Airbnb, LEGO, Uber
+
+<span style="color: #4285F4;">Learn it: "Sprint" by Jake Knapp</span>
+:::
+
+::: {.column width="50%"}
+**Julie Zhuo (Meta/Facebook)**
+
+- Teen user research: "Parents on Facebook = uncool"
+- Led to: Separate features, stricter privacy controls
+- **Design principle:** "Design for the user you want, not the one you have"
+
+<span style="color: #1877F2;">Learn it: "The Making of a Manager" by Julie Zhuo</span>
+:::
+:::
+
+::: {.notes}
+- Show that research is a career skill, not just academic
+- These are people they could work with/for
+- Give them resources to learn more
+:::
+
+# 🎭 Hands-On Activity {background-color="#FFE66D"}
+
+## Reverse Engineer a Persona
+
+**Scenario:** You're redesigning Instagram for 2026
+
+::: {.nonincremental}
+**Step 1** (5 min): Pick a real person you know
+
+- How do they ACTUALLY use Instagram right now?
+- What do they complain about?
+- What keeps them scrolling?
+
+**Step 2** (5 min): Create a "Love/Hate" persona
+
+- 3 things they **hate** about current Instagram
+- 3 things they **can't live without**
+- 1 feature they **wish existed**
+
+**Step 3** (5 min): Share & find patterns
+
+- What's common across personas?
+- What surprised you?
+- What would you need to research to validate these insights?
+:::
+
+::: {.notes}
+- Use real people, not imaginary users
+- Focus on behaviors, not demographics
+- Look for patterns = research insights
+- What do we NOT know? = research gaps
+:::
+
+---
+
+## Debrief: What Did You Learn?
+
+**Discussion questions:**
+
+::: {.incremental}
+- What assumptions did you have that turned out wrong?
+- What would you research first to validate your persona?
+- How would this change your design approach?
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## 🎯 The Meta-Lesson
+
+You just did **primary research** (interviewing someone) and **synthesis** (finding patterns). That's the core research loop.
+:::
+
+# 🤔 The Big Question {background-color="#F1FAEE"}
+
+## Can Research Kill Creativity?
+
+::: {.r-fit-text}
+"If I'd asked people what they wanted, they'd say faster horses."
+
+— Often attributed to Henry Ford
+:::
+
+. . .
+
+::: {.columns}
+::: {.column width="50%"}
+### ❌ The Myth
+
+Ford ignored users and invented cars through genius alone
+:::
+
+::: {.column width="50%"}
+### ✅ The Reality
+
+Ford DID extensive research:
+
+- Road conditions
+- Driver behavior
+- Manufacturing workflows
+- Competitor teardowns
+:::
+:::
+
+---
+
+## The Research-Creativity Balance
+
+::: {.callout-important icon=false}
+## Here's The Truth
+
+- **Research** tells you the **problems**
+- **Design** solves them **creatively**
+- **Research** validates if you **actually solved it**
+:::
+
+. . .
+
+**Research doesn't kill creativity—it focuses it.**
+
+::: {.incremental}
+- Bad research: "What color should this button be?"
+- Good research: "Why aren't users completing checkout?"
+- Great research: "What's the emotional journey of buying online?"
+:::
+
+::: {.notes}
+- Address the common fear: "Research will make everything boring"
+- Research + creativity are partners, not enemies
+- Next week we'll learn HOW to do good research
+:::
+
+# 🚀 Wrap-Up & Assignment {background-color="#457B9D"}
+
+## Today's Key Takeaways
+
+::: {.nonincremental}
+1. 💡 **Research drives innovation** by uncovering insights you'd never guess
+2. 💥 **Skipping research is expensive** (Juicero, Snapchat, Theranos)
+3. 🎯 **Every successful product** started with understanding users
+4. 🎨 **Research ≠ boring**—it makes design more creative and effective
+5. ⚡ **You already do research**—now you'll learn to do it systematically
+:::
+
+---
+
+## Next Week: Research Classification & Methods 🗺️
+
+**We'll dive into:**
+
+::: {.incremental}
+- **Classification of Research:** Applied vs. Fundamental, Quantitative vs. Qualitative
+- **Research Methodologies:** Specific methods for different types of questions
+- **A/B Testing Deep Dive:** The scientific approach to design decisions
+- **Research Gaps:** How to identify what hasn't been studied yet
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## 📚 Optional Reading
+- "Sprint" by Jake Knapp (Design Sprints)
+- "The Mom Test" by Rob Fitzpatrick (Customer interviews)
+- "Just Enough Research" by Erika Hall (Research for designers)
+:::
+
+---
+
+## Questions? 🙋
+
+::: {.r-fit-text}
+Let's discuss!
+:::
+
+**Office hours:** By appointment
+
+**Resources:** Check the course website for all links and materials
+
+::: {.notes}
+- Open floor for questions
+- Encourage them to reach out during the week
+- Remind them about the assignment
+- Build excitement for next week
 :::
