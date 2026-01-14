@@ -917,88 +917,165 @@
     "text": "Presentation Countdown\n\n\n\n00:00\n\n  Start Timer   Reset Timer"
   },
   {
-    "objectID": "desn2003_W1.html#welcome-to-desn2003-research-for-innovation",
-    "href": "desn2003_W1.html#welcome-to-desn2003-research-for-innovation",
+    "objectID": "desn2003_W1.html#guess-what-went-wrong",
+    "href": "desn2003_W1.html#guess-what-went-wrong",
     "title": "DESN2003: Research for Innovation",
-    "section": "Welcome to DESN2003: Research for Innovation",
-    "text": "Welcome to DESN2003: Research for Innovation\n\nThis course is about understanding how research drives innovation.\nBy the end of the course, you’ll learn:\n\nWhy research matters for designers and innovators.\nHow to conduct research effectively.\nHow to apply research to create impactful solutions.\n\n\n\n\nStart by welcoming students and setting the tone for the semester.\nEmphasize that research is not just academic—it’s a tool for solving real-world problems and fueling creativity."
+    "section": "Guess What Went Wrong?",
+    "text": "Guess What Went Wrong?\n\n\nSnapchat’s 2018 Redesign: Lost $1.3 billion in market value in one day\nInstagram’s 2022 TikTok Clone: Adam Mosseri had to publicly apologize and rollback\nTwitter → X Rebrand (2023): Confusion, backlash, brand value erosion\n\n\n\n\n\n\nWhat Do These Have in Common?\n\n\nThey ignored user research.\n\n\n\n\n\nStart with failures to grab attention\nStudents love seeing big companies mess up\nSets up the stakes: research isn’t optional, it’s survival"
   },
   {
-    "objectID": "desn2003_W1.html#why-research",
-    "href": "desn2003_W1.html#why-research",
+    "objectID": "desn2003_W1.html#todays-roadmap",
+    "href": "desn2003_W1.html#todays-roadmap",
     "title": "DESN2003: Research for Innovation",
-    "section": "Why Research?",
-    "text": "Why Research?\nThink about this: Great ideas don’t come from inspiration alone.\n\nResearch helps us:\n\nIdentify opportunities.\nValidate ideas.\nRefine designs.\n\n\nQuestion: How do YOU think research might help your work?"
+    "section": "Today’s Roadmap 🗺️",
+    "text": "Today’s Roadmap 🗺️\n\n\n🎯 Why Research? Real examples from apps you actually use\n💡 Success Stories vs Epic Fails\n⚡ Interactive Activities Your turn to analyze\n🎭 Hands-On Practice Reverse engineering personas\n🚀 Your First Assignment Start your research journey\n\n\n\n\nClear overview so students know what’s coming\nMix of learning and doing"
   },
   {
-    "objectID": "desn2003_W1.html#interactive-poll-word-clouds",
-    "href": "desn2003_W1.html#interactive-poll-word-clouds",
+    "objectID": "desn2003_W1.html#what-youll-learn-in-this-course",
+    "href": "desn2003_W1.html#what-youll-learn-in-this-course",
     "title": "DESN2003: Research for Innovation",
-    "section": "Interactive Poll: Word Clouds",
-    "text": "Interactive Poll: Word Clouds\n\nArtists: “How do you think research can help you as an artist?”\nEntrepreneurs: “How can research help you as a future entrepreneur?”\nUI/UX Designers: “How does research shape great user experiences?”\n\n\n\nUse Mentimeter or Poll Everywhere to generate live word clouds.\nDiscuss trends from the word clouds. Example prompts:\n\n“What surprised you about these responses?”\n“Did anything match or differ from your expectations?”"
+    "section": "What You’ll Learn in This Course 🎓",
+    "text": "What You’ll Learn in This Course 🎓\n\n\n\nThe Academic Foundation\n\n\nThis course teaches academic research methods and thinking—the rigorous, systematic approaches used in scholarly research.\nWhy learn the academic way?\n\nAcademic research provides the foundational tools and frameworks\nThese methods ensure validity, reliability, and rigor\nProduct teams adapt these same principles for real-world design research\n\n\n\n\n\n\n\nAcademic Research:\n\nSystematic literature reviews\nRigorous methodology\nPeer review standards\nTheoretical frameworks\n\n\n↓ Translates to Product Research:\n\nCompetitive analysis\nUser testing protocols\nDesign critique\nResearch-driven decisions\n\n\n\n\n\nSet expectations: This is academically rigorous\nBut show the connection to practice\nAcademic thinking = better product research"
   },
   {
-    "objectID": "desn2003_W1.html#examples-of-research-in-action-artists",
-    "href": "desn2003_W1.html#examples-of-research-in-action-artists",
+    "objectID": "desn2003_W1.html#the-brutal-truth",
+    "href": "desn2003_W1.html#the-brutal-truth",
     "title": "DESN2003: Research for Innovation",
-    "section": "Examples of Research in Action: Artists",
-    "text": "Examples of Research in Action: Artists\nBeyoncé’s Surprise Album Release (2013)\n\nProblem: Traditional album marketing strategies weren’t resonating with digital audiences.\n\nSolution: Beyoncé’s team used market research to understand:\n\nHow audiences discover new music.\nThe growing role of streaming platforms.\n\nOutcome:\n\nA surprise drop on iTunes redefined music release strategies.\nSold 80,000 copies in 3 hours, setting a record.\n\n\nTakeaway: Research helps artists align creativity with audience behavior and trends.\n\n\nHighlight how Beyoncé’s approach leveraged cultural and market insights to disrupt traditional practices.\nKey point: Research allows artists to innovate by understanding their audience’s habits."
+    "section": "The Brutal Truth",
+    "text": "The Brutal Truth\n\nYour assumptions are probably wrong.\n\n\nResearch helps you:\n\n\nIdentify opportunities you didn’t know existed\nValidate ideas before wasting months building\nRefine designs based on actual human behavior"
   },
   {
-    "objectID": "desn2003_W1.html#examples-of-research-in-action-entrepreneurs",
-    "href": "desn2003_W1.html#examples-of-research-in-action-entrepreneurs",
+    "objectID": "desn2003_W1.html#quick-poll-whats-your-design-superpower",
+    "href": "desn2003_W1.html#quick-poll-whats-your-design-superpower",
     "title": "DESN2003: Research for Innovation",
-    "section": "Examples of Research in Action: Entrepreneurs",
-    "text": "Examples of Research in Action: Entrepreneurs\nAirbnb: Transforming Hospitality\n\nProblem: Early Airbnb struggled to attract users.\n\nResearch Approach:\n\nConducted in-depth interviews with hosts and guests.\nIdentified key pain points: Trust, usability, and photos.\n\nOutcome:\n\nIntroduced features like verified photos, reviews, and search filters.\nGrew from 1,000 to 250,000 listings in 3 years.\n\n\nTakeaway: Research helps entrepreneurs uncover hidden needs and refine their products.\n\n\nHighlight the importance of empathy-driven research for identifying pain points.\nAirbnb succeeded by addressing trust issues—critical for a platform based on shared spaces."
+    "section": "📊 Quick Poll: What’s Your Design Superpower?",
+    "text": "📊 Quick Poll: What’s Your Design Superpower?\nOpen Mentimeter/Poll Everywhere now\n\n\n“What type of designer are you aiming to be?”\n\nUI/UX Designer\nProduct Designer\nService Designer\nCreative Technologist\nStill exploring!\n\n“In one word: What does ‘research’ mean to you?”\n\n\n\n\nUse Mentimeter for live word cloud\nRevisit the word cloud at the end to see if perceptions changed\nConnect examples to what students picked"
   },
   {
-    "objectID": "desn2003_W1.html#examples-of-research-in-action-uiux-designers",
-    "href": "desn2003_W1.html#examples-of-research-in-action-uiux-designers",
+    "objectID": "desn2003_W1.html#spotify-wrapped-research-driven-virality",
+    "href": "desn2003_W1.html#spotify-wrapped-research-driven-virality",
     "title": "DESN2003: Research for Innovation",
-    "section": "Examples of Research in Action: UI/UX Designers",
-    "text": "Examples of Research in Action: UI/UX Designers\nGoogle Maps: User-Centric Design\n\nProblem: Early navigation apps were not intuitive or accessible.\n\nResearch Approach:\n\nConducted ethnographic studies observing users navigating real-world environments.\nIterative usability testing on features like turn-by-turn directions.\n\nOutcome:\n\nIntroduced key features like offline maps and real-time traffic updates.\nBecame the most-used navigation tool globally.\n\n\nTakeaway: Research ensures that design solutions are intuitive, inclusive, and impactful.\n\n\nEmphasize how ethnographic research enables designers to observe real-world behaviors.\nGoogle Maps’ success lies in its iterative approach to solving user frustrations."
+    "section": "Spotify Wrapped: Research-Driven Virality 🎵",
+    "text": "Spotify Wrapped: Research-Driven Virality 🎵\nBehind the design of Wrapped →\n\n\nThe Strategy:\n\nUser Behavior Analysis: People love sharing personal data when it’s beautifully visualized\nSocial Psychology Research: FOMO + identity expression = virality\nA/B Testing: Cards vs. stories vs. videos (tested 50+ formats)\n\nThe Result:\n\n120M+ shares annually\nBecame a cultural moment (memes, TikTok trends, news coverage)\nCompetitors scrambled to copy it (Apple Music Replay, YouTube Recap)\n\n\n\n\n\n🎨 Designer Takeaway\n\n\nResearch revealed: Users don’t just want to consume music—they want to perform their taste publicly.\nThis insight drove every design decision.\n\n\n\n\n\n\n\nStudents use Spotify daily—they know Wrapped\nConnect design decisions to research insights\nShow actual Wrapped examples if possible"
   },
   {
-    "objectID": "desn2003_W1.html#case-study-dyson-vacuum-innovation",
-    "href": "desn2003_W1.html#case-study-dyson-vacuum-innovation",
+    "objectID": "desn2003_W1.html#tiktok-the-algorithm-that-knows-you-too-well",
+    "href": "desn2003_W1.html#tiktok-the-algorithm-that-knows-you-too-well",
     "title": "DESN2003: Research for Innovation",
-    "section": "Case Study: Dyson Vacuum Innovation",
-    "text": "Case Study: Dyson Vacuum Innovation\n\nChallenge: How do you make a vacuum that doesn’t lose suction?\n\nResearch Approach:\n\nJames Dyson’s team conducted over 5,000 prototypes, using feedback to refine designs.\nCombined engineering insights with user research on cleaning habits.\n\nOutcome: Revolutionized the vacuum industry with bagless, cyclonic technology.\n\nActivity: In groups, analyze Dyson’s research strategy. What made it effective?\n\n\nUse this example to illustrate the role of persistence and iterative testing in innovation.\nPrompt students to identify how combining technical and user research led to Dyson’s success."
+    "section": "TikTok: The Algorithm That Knows You Too Well 📱",
+    "text": "TikTok: The Algorithm That Knows You Too Well 📱\n\n\nThe Research:\n\nTracks: watch time, re-watches, completion rate, shares, comments, profile visits\nA/B tests EVERYTHING: video length, sound, thumbnails, posting time\nEthnographic insight: Gen Z consumes content differently than Millennials (no patience for intros)\n\nThe Impact:\n\nMost engaging feed in social media history\nAverage user: 95 minutes/day\nChanged how ALL platforms design feeds (Instagram Reels, YouTube Shorts)\n\n\n\n\n\n⚠️ Ethical Question\n\n\nTikTok’s research made their product TOO engaging. Where’s the line between good UX and manipulation?\nWe’ll discuss research ethics throughout the semester.\n\n\n\n\n\n\n\nStudents are on TikTok—they FEEL the algorithm\nIntroduce ethics early: research has consequences\nMicro-interactions matter more than demographics"
   },
   {
-    "objectID": "desn2003_W1.html#break-time-10-minutes",
-    "href": "desn2003_W1.html#break-time-10-minutes",
+    "objectID": "desn2003_W1.html#airbnb-the-8000-photo-that-changed-everything",
+    "href": "desn2003_W1.html#airbnb-the-8000-photo-that-changed-everything",
     "title": "DESN2003: Research for Innovation",
-    "section": "Break Time (10 Minutes)",
-    "text": "Break Time (10 Minutes)\nTake a quick break. We’ll dive into research methodologies in the second half of the session."
+    "section": "Airbnb: The $8,000 Photo That Changed Everything 📸",
+    "text": "Airbnb: The $8,000 Photo That Changed Everything 📸\nRead the full story →\n\n\nThe Problem (2009):\n\nBeautiful website\nZero bookings\nAbout to shut down\n\nThe Research:\n\nFounders flew to New York, knocked on doors\nInterviewed hosts in person\nKey observation: All listing photos were terrible (blurry, dark, weird angles)\n\n\nThe Experiment:\n\nBorrowed a $5,000 camera\nSpent $3,000 on a weekend trip\nTook professional photos themselves\nRevenue in NYC doubled overnight\n\nThe Scale:\n\nNow: Professional photography service in 6,000+ cities\nOne research insight → Core business strategy\n\n\n\n\n\n\n\n💡 The Lesson\n\n\nSometimes the research finding is obvious… after you bother to look."
   },
   {
-    "objectID": "desn2003_W1.html#research-methodologies-for-design",
-    "href": "desn2003_W1.html#research-methodologies-for-design",
+    "objectID": "desn2003_W1.html#figma-research-that-killed-sketch",
+    "href": "desn2003_W1.html#figma-research-that-killed-sketch",
     "title": "DESN2003: Research for Innovation",
-    "section": "Research Methodologies for Design",
-    "text": "Research Methodologies for Design\nKey Approaches:\n\nPrimary Research:\n\nInterviews, observations, and surveys.\nExample: Ethnographic studies for UX design.\n\nSecondary Research:\n\nMarket reports, trend analysis, competitor audits.\nExample: Entrepreneurs analyzing market gaps.\n\nMixed Methods:\n\nCombining qualitative and quantitative approaches."
+    "section": "Figma: Research That Killed Sketch 🎨",
+    "text": "Figma: Research That Killed Sketch 🎨\nDylan Field’s story on how Figma started →\nThe Gap They Found (2016):\n\n\nInterviewed 100+ designers about workflow pain points\nUniversal complaint: “I email design files back and forth all day”\nInsight: Design tools needed to work like Google Docs, not Photoshop\n\n\n\nResearch-Driven Decisions:\n\n\n✅ Browser-based (controversial!) ✅ Real-time collaboration ✅ Free tier for network effects ✅ Comments directly on designs\n\n❌ Native app (slower to build) ❌ Paid-only (limits growth) ❌ Traditional licensing\n\n\n\n\nThe Outcome: 0 → Industry standard in 6 years | $20B Adobe acquisition\n\n\nStudents use Figma—they get it\nThey didn’t build a better design tool, they researched the design PROCESS\nShow how research challenges assumptions (browser vs native)"
   },
   {
-    "objectID": "desn2003_W1.html#quick-quiz-match-the-methodology",
-    "href": "desn2003_W1.html#quick-quiz-match-the-methodology",
+    "objectID": "desn2003_W1.html#when-designers-skip-research",
+    "href": "desn2003_W1.html#when-designers-skip-research",
     "title": "DESN2003: Research for Innovation",
-    "section": "Quick Quiz: Match the Methodology",
-    "text": "Quick Quiz: Match the Methodology\nQuestion: What research method would you use?\n\nTesting a prototype for usability.\n\nUnderstanding cultural trends for a new product line.\n\nAnalyzing competitors in the same market.\n\n\n\nUse tools like Kahoot or Mentimeter for a quick interactive quiz.\nReinforce the relevance of methodologies for different design challenges."
+    "section": "When Designers Skip Research…",
+    "text": "When Designers Skip Research…\n\n\nJuicero: The $120 Million Juice Mistake 🧃\nWatch the infamous Bloomberg video → | Full story →\n\n\nThe Product:\n\n$400 WiFi-connected juicer\nSleek design, beautiful branding\nVC funding: $120 million\n\nThe Research They Skipped:\n\n“Do people want this?”\n“Is a $400 juicer solving a real problem?”\n“Can users just… squeeze the packets by hand?”\n\n\nThe Reality:\nBloomberg tested it: Yes, you can squeeze the packets by hand. Same juice.\nThe Outcome:\n\nCompany shut down 16 months later\nBecame a Silicon Valley punchline\n\n\n\n\n\n\nShow the Bloomberg video (30 seconds) - it’s hilarious\nStudents find this memorable—failure is entertaining\nLesson: Research isn’t just “make it pretty”"
   },
   {
-    "objectID": "desn2003_W1.html#hands-on-activity-persona-development",
-    "href": "desn2003_W1.html#hands-on-activity-persona-development",
+    "objectID": "desn2003_W1.html#more-fails-you-can-learn-from",
+    "href": "desn2003_W1.html#more-fails-you-can-learn-from",
     "title": "DESN2003: Research for Innovation",
-    "section": "Hands-On Activity: Persona Development",
-    "text": "Hands-On Activity: Persona Development\nScenario:\nYou’re designing a sustainable food packaging solution for young professionals.\n\nUse the provided mock user data (e.g., survey results).\n\nDevelop 2-3 personas representing different user types.\n\nEach persona should include:\n\nName and Background\n\nGoals\n\nPain Points\n\n\n\nThis exercise helps students practice translating raw data into actionable insights.\nEncourage creativity while staying grounded in user needs."
+    "section": "More Fails You Can Learn From",
+    "text": "More Fails You Can Learn From\n\n\nTheranos: Design Without Function →\n\nSleek design, great branding\nProblem: Product didn’t work\nResearch fabrication → fraud → collapse\nLesson: Research ≠ making it look good\n\n\nZoom Fatigue (2020) →\n\nInitial design: Great for 1-hour meetings\nDidn’t anticipate: 8-hour Zoom days\nHad to retrofit: Virtual backgrounds, touch-up appearance, “hide self-view”\nLesson: Test edge cases and extreme usage\n\n\n\n\n\n\n\nThe Pattern\n\n\nAll of these teams had designers. What they lacked was research."
   },
   {
-    "objectID": "desn2003_W1.html#wrap-up-and-assignment-introduction",
-    "href": "desn2003_W1.html#wrap-up-and-assignment-introduction",
+    "objectID": "desn2003_W1.html#activity-reverse-engineer-your-favorite-apps",
+    "href": "desn2003_W1.html#activity-reverse-engineer-your-favorite-apps",
     "title": "DESN2003: Research for Innovation",
-    "section": "Wrap-Up and Assignment Introduction",
-    "text": "Wrap-Up and Assignment Introduction\nToday’s Takeaways:\n\nResearch drives innovation by uncovering hidden insights and validating ideas.\nDifferent methodologies serve different purposes—learn to apply them effectively.\n\nFirst Assignment:\nResearch a design problem relevant to your field:\n\nIdentify the problem.\nChoose research methods to explore it.\nPropose actionable insights.\n\n\n\nSummarize the importance of aligning research with creative goals.\nBriefly outline the assignment requirements and provide examples if needed.\n\n\n\n\n\nDESN2003 Research for Innovation"
+    "section": "🎮 Activity: Reverse Engineer Your Favorite Apps",
+    "text": "🎮 Activity: Reverse Engineer Your Favorite Apps\nPick ONE app you use daily. Discuss in pairs (3 minutes):\n\n\nWhat problem does it solve?\nWhat user need did they discover through research?\nWhat’s ONE design decision that clearly came from user testing?\n\n\n\n\n\n\nExamples to Consider\n\n\nNotion (flexibility research) | BeReal (authenticity fatigue) | Duolingo (habit loop gamification) | Discord (community vs. chat)\n\n\n\n\n\nStudents share out after 3 minutes\nValidate their observations\nShow how research is everywhere once you look for it"
+  },
+  {
+    "objectID": "desn2003_W1.html#lightning-round-spot-the-research",
+    "href": "desn2003_W1.html#lightning-round-spot-the-research",
+    "title": "DESN2003: Research for Innovation",
+    "section": "⚡ Lightning Round: Spot the Research",
+    "text": "⚡ Lightning Round: Spot the Research\nWhat was researched to create these features?\n\n\nInstagram’s Double-Tap to Like\n\nAnswer: Thumb reach zones, one-handed phone use\n\nSpotify’s “Made For You” Playlists\n\nAnswer: Music discovery is stressful, users want curation\n\nDark Mode (iOS, Twitter, Apps)\n\nAnswer: Eye strain studies, battery life data, user preference surveys\n\nTikTok’s Infinite Scroll (vs. “Are You Still Watching?”)\n\nAnswer: Deliberate friction reduces engagement (they researched both!)\n\n\n\n\nTakeaway: Every pixel can be a research decision."
+  },
+  {
+    "objectID": "desn2003_W1.html#bridging-academic-practice",
+    "href": "desn2003_W1.html#bridging-academic-practice",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Bridging Academic & Practice 🌉",
+    "text": "Bridging Academic & Practice 🌉\nYou might be thinking: “Why learn academic research methods when I want to design products?”\n\n\nThe Academic Toolkit\n\nSystematic thinking: How to frame research questions\nMethodology selection: Choosing the right approach\nAnalysis frameworks: Making sense of data\nCritical evaluation: Assessing quality and bias\nClear communication: Writing and presenting findings\n\n\nApplied in the Real World\nWhen Airbnb flew to New York, they used ethnographic methods (academic)\nWhen Figma interviewed 100 designers, they did qualitative research (academic)\nWhen Spotify A/B tests Wrapped, they use experimental design (academic)\nThe difference? Speed and scope—not the underlying thinking.\n\n\n\n\n\n\n💡 Bottom Line\n\n\nLearn the rigorous academic approach, adapt it for the fast-paced product world. The thinking stays the same."
+  },
+  {
+    "objectID": "desn2003_W1.html#three-main-approaches",
+    "href": "desn2003_W1.html#three-main-approaches",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Three Main Approaches",
+    "text": "Three Main Approaches\n\n\n🔍 Primary Research\nYou gather the data\n\nInterviews\nObservations\nSurveys\nUsability tests\nEthnography\n\nBest for: Specific product questions\n\n📚 Secondary Research\nOthers gathered the data\n\nMarket reports\nCompetitor analysis\nTrend studies\nAcademic papers\nUser reviews\n\nBest for: Understanding landscape\n\n🔀 Mixed Methods\nCombine both\n\nSurveys + Interviews\nAnalytics + User testing\nQuantitative + Qualitative\n\nBest for: Complex problems\n\n\n\n\nWeek 2 will dive deeper into methodologies\nToday: Just know they exist and serve different purposes"
+  },
+  {
+    "objectID": "desn2003_W1.html#real-designers-use-research",
+    "href": "desn2003_W1.html#real-designers-use-research",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Designers Use Research",
+    "text": "Real Designers Use Research\n\n\nJake Knapp (Google Ventures)\n\nCreated the “Design Sprint” method\nResearch insight: Teams waste months debating\nSolution: Compress research + design + testing into 5 days\nUsed by: Slack, Airbnb, LEGO, Uber\n\nLearn it: “Sprint” by Jake Knapp\n\nJulie Zhuo (Meta/Facebook)\n\nTeen user research: “Parents on Facebook = uncool”\nLed to: Separate features, stricter privacy controls\nDesign principle: “Design for the user you want, not the one you have”\n\nLearn it: “The Making of a Manager” by Julie Zhuo\n\n\n\n\nShow that research is a career skill, not just academic\nThese are people they could work with/for\nGive them resources to learn more"
+  },
+  {
+    "objectID": "desn2003_W1.html#reverse-engineer-a-persona",
+    "href": "desn2003_W1.html#reverse-engineer-a-persona",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Reverse Engineer a Persona",
+    "text": "Reverse Engineer a Persona\nScenario: You’re redesigning Instagram for 2026\n\nStep 1 (5 min): Pick a real person you know\n\nHow do they ACTUALLY use Instagram right now?\nWhat do they complain about?\nWhat keeps them scrolling?\n\nStep 2 (5 min): Create a “Love/Hate” persona\n\n3 things they hate about current Instagram\n3 things they can’t live without\n1 feature they wish existed\n\nStep 3 (5 min): Share & find patterns\n\nWhat’s common across personas?\nWhat surprised you?\nWhat would you need to research to validate these insights?\n\n\n\n\nUse real people, not imaginary users\nFocus on behaviors, not demographics\nLook for patterns = research insights\nWhat do we NOT know? = research gaps"
+  },
+  {
+    "objectID": "desn2003_W1.html#debrief-what-did-you-learn",
+    "href": "desn2003_W1.html#debrief-what-did-you-learn",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Debrief: What Did You Learn?",
+    "text": "Debrief: What Did You Learn?\nDiscussion questions:\n\n\nWhat assumptions did you have that turned out wrong?\nWhat would you research first to validate your persona?\nHow would this change your design approach?\n\n\n\n\n\n\n🎯 The Meta-Lesson\n\n\nYou just did primary research (interviewing someone) and synthesis (finding patterns). That’s the core research loop."
+  },
+  {
+    "objectID": "desn2003_W1.html#can-research-kill-creativity",
+    "href": "desn2003_W1.html#can-research-kill-creativity",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Can Research Kill Creativity?",
+    "text": "Can Research Kill Creativity?\n\n“If I’d asked people what they wanted, they’d say faster horses.”\n— Often attributed to Henry Ford\n\n\n\n\n❌ The Myth\nFord ignored users and invented cars through genius alone\n\n✅ The Reality\nFord DID extensive research:\n\nRoad conditions\nDriver behavior\nManufacturing workflows\nCompetitor teardowns"
+  },
+  {
+    "objectID": "desn2003_W1.html#the-research-creativity-balance",
+    "href": "desn2003_W1.html#the-research-creativity-balance",
+    "title": "DESN2003: Research for Innovation",
+    "section": "The Research-Creativity Balance",
+    "text": "The Research-Creativity Balance\n\n\n\nHere’s The Truth\n\n\n\nResearch tells you the problems\nDesign solves them creatively\nResearch validates if you actually solved it\n\n\n\n\n\nResearch doesn’t kill creativity—it focuses it.\n\n\nBad research: “What color should this button be?”\nGood research: “Why aren’t users completing checkout?”\nGreat research: “What’s the emotional journey of buying online?”\n\n\n\n\nAddress the common fear: “Research will make everything boring”\nResearch + creativity are partners, not enemies\nNext week we’ll learn HOW to do good research"
+  },
+  {
+    "objectID": "desn2003_W1.html#todays-key-takeaways",
+    "href": "desn2003_W1.html#todays-key-takeaways",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Today’s Key Takeaways",
+    "text": "Today’s Key Takeaways\n\n\n💡 Research drives innovation by uncovering insights you’d never guess\n💥 Skipping research is expensive (Juicero, Snapchat, Theranos)\n🎯 Every successful product started with understanding users\n🎨 Research ≠ boring—it makes design more creative and effective\n⚡ You already do research—now you’ll learn to do it systematically"
+  },
+  {
+    "objectID": "desn2003_W1.html#next-week-research-classification-methods",
+    "href": "desn2003_W1.html#next-week-research-classification-methods",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Next Week: Research Classification & Methods 🗺️",
+    "text": "Next Week: Research Classification & Methods 🗺️\nWe’ll dive into:\n\n\nClassification of Research: Applied vs. Fundamental, Quantitative vs. Qualitative\nResearch Methodologies: Specific methods for different types of questions\nA/B Testing Deep Dive: The scientific approach to design decisions\nResearch Gaps: How to identify what hasn’t been studied yet\n\n\n\n\n\n\n📚 Optional Reading\n\n\n\n“Sprint” by Jake Knapp (Design Sprints)\n“The Mom Test” by Rob Fitzpatrick (Customer interviews)\n“Just Enough Research” by Erika Hall (Research for designers)"
+  },
+  {
+    "objectID": "desn2003_W1.html#questions",
+    "href": "desn2003_W1.html#questions",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Questions? 🙋",
+    "text": "Questions? 🙋\n\nLet’s discuss!\n\nOffice hours: By appointment\nResources: Check the course website for all links and materials\n\n\nOpen floor for questions\nEncourage them to reach out during the week\nRemind them about the assignment\nBuild excitement for next week\n\n\n\n\n\nDESN2003 Research for Innovation"
   },
   {
     "objectID": "desn2003_W3.html#submit-your-document-0-next-week",
@@ -1481,7 +1558,7 @@
     "href": "index.html#course-info",
     "title": "DESN2003",
     "section": "Course Info",
-    "text": "Course Info\n\n\nSchedule Thursday, 10:30–12:20\n\n\nLocation CPD 3.21\n\n\nOffice hours by appointment."
+    "text": "Course Info\n\n\nSchedule Tuesday, 1:00–2:50 PM\n\n\nLocation KKLG101\n\n\nOffice hours by appointment."
   },
   {
     "objectID": "write.html",
