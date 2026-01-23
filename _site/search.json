@@ -63,6 +63,13 @@
     "text": "Common Quantitative Methods\n\n\n\n\n\n\n\n\nMethod\nWhat It Does\nBest For\n\n\n\n\nSurvey/Questionnaire\nCollects self-reported data from many people\nMeasuring attitudes, behaviors, demographics at scale\n\n\nExperiment\nManipulates variables to test causation\nTesting if an intervention causes an effect\n\n\nA/B Test\nCompares two versions with random assignment\nTesting design changes in real products\n\n\nAnalytics/Log Analysis\nExamines behavioral data from systems\nUnderstanding actual usage patterns\n\n\nCorrelation Study\nMeasures relationships between variables\nIdentifying what goes together (not causation)"
   },
   {
+    "objectID": "desn2003_W6_draft.html#real-paper-example-survey-research",
+    "href": "desn2003_W6_draft.html#real-paper-example-survey-research",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Paper Example: Survey Research",
+    "text": "Real Paper Example: Survey Research\n\n\n\nExploring the Impact of Publicness of Public Space in Hong Kong\n\n\nPaper: Exploring the Impact of the Publicness of Public Space in Hong Kong: A Structural Equation Modelling Approach (Land, 2025)\nMethod: Two questionnaire surveys (n=305) measuring five impact dimensions: effectiveness, fairness, sense of ease, meaningfulness, friendliness\nWhat makes it work: - Clear conceptual framework (publicness → impacts) - Rigorous statistical analysis (SEM) - Specific context (HK public spaces) - Actionable findings for urban designers\n\n\n\nSurvey research can be publishable — but you need clear constructs and proper analysis."
+  },
+  {
     "objectID": "desn2003_W6_draft.html#quantitative-data-types",
     "href": "desn2003_W6_draft.html#quantitative-data-types",
     "title": "DESN2003: Research for Innovation",
@@ -166,6 +173,13 @@
     "title": "DESN2003: Research for Innovation",
     "section": "Mixed Methods in Action",
     "text": "Mixed Methods in Action\n\n\n\nExample: Studying AI Tool Adoption\n\n\nPhase 1 (Qualitative): Interview 10 students about their AI tool experiences → Identify themes: “time-saving,” “uncertainty about accuracy,” “guilt about using it”\nPhase 2 (Quantitative): Survey 200 students using questions based on themes → Find: 65% report time-saving, 78% express accuracy concerns, 45% report guilt\nResult: Rich understanding (Phase 1) + Prevalence data (Phase 2)"
+  },
+  {
+    "objectID": "desn2003_W6_draft.html#real-paper-example-computational-qualitative",
+    "href": "desn2003_W6_draft.html#real-paper-example-computational-qualitative",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Paper Example: Computational + Qualitative",
+    "text": "Real Paper Example: Computational + Qualitative\n\n\n\nVoice From the City: Public Sentiments Across Urban Open Spaces\n\n\nPaper: Voice From the City: Public Sentiments Across Different Types of Urban Open Spaces in Hong Kong (SSRN, 2025)\nMethod: - Quantitative: Sentiment analysis and NLP on public comments - Qualitative: Thematic analysis of comment content - Spatial: GIS mapping of sentiment across space types\nWhat makes it work: - Novel data source (public sentiment data) - Mixed methods triangulation - Connects computational analysis to design implications - Specific to HK context\n\n\n\nComputational methods + qualitative interpretation = publishable research."
   },
   {
     "objectID": "desn2003_W6_draft.html#choosing-your-approach",
@@ -1561,6 +1575,13 @@
     "text": "Why Interviews?\nInterviews let you:\n\n\nAccess inner experiences — thoughts, feelings, motivations\nExplore complexity — follow-up questions, probing\nHear authentic voices — quotes, stories, language\nDiscover the unexpected — things you didn’t know to ask\n\n\n\n\n\n\nThe Power of Interviews\n\n\nSurveys tell you what people do. Interviews help you understand why."
   },
   {
+    "objectID": "desn2003_W5_draft.html#real-paper-example-interview-based-research",
+    "href": "desn2003_W5_draft.html#real-paper-example-interview-based-research",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Paper Example: Interview-Based Research",
+    "text": "Real Paper Example: Interview-Based Research\n\n\n\nThe Boundaries of Public Space: Hong Kong’s MTR\n\n\nPaper: The Boundaries of Public Space: A Case Study of Hong Kong’s Mass Transit Railway (International Journal of Design)\nMethod: Interviews with policymakers, designers, managers, and users about how they perceive and react to boundaries in MTR stations\nWhat makes it work: - Multiple stakeholder perspectives (not just users) - Specific context (HK MTR) - Observational data triangulated with interviews - Clear design implications\n\n\n\nThis is the kind of qualitative research that gets published."
+  },
+  {
     "objectID": "desn2003_W5_draft.html#types-of-interviews",
     "href": "desn2003_W5_draft.html#types-of-interviews",
     "title": "DESN2003: Research for Innovation",
@@ -1615,6 +1636,13 @@
     "title": "DESN2003: Research for Innovation",
     "section": "Observation in Practice",
     "text": "Observation in Practice\nWhat to observe:\n\n\nActions: What are people doing physically?\nInteractions: How do they communicate? With whom?\nEnvironment: What’s the space like? What tools are present?\nTime: How long do activities take? What sequences occur?\nBreakdowns: Where do things go wrong? Workarounds?\n\n\n\n\n\n\nField Notes\n\n\nWrite detailed notes as soon as possible after observing. Memory fades fast. Include:\n\nWhat happened (descriptive)\nYour interpretations (analytical)\nQuestions to explore further"
+  },
+  {
+    "objectID": "desn2003_W5_draft.html#real-paper-example-observational-research",
+    "href": "desn2003_W5_draft.html#real-paper-example-observational-research",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Paper Example: Observational Research",
+    "text": "Real Paper Example: Observational Research\n\n\n\n“Cosmopolitan Canopy” in Hong Kong’s Hidden City\n\n\nPaper: “Cosmopolitan Canopy” in Hong Kong’s Hidden City: Urban design and social life in underground transit hub (Tunnelling and Underground Space Technology, 2024)\nMethod: Participant observation protocols in Central Station and Hong Kong Station (250,000+ passengers daily)\nWhat makes it work: - Systematic observation protocol (not just “hanging out”) - Massive real-world context - Connects spatial design to social behavior - Clear theoretical framing (“cosmopolitan canopy”)\n\n\n\nObservation research requires rigor — but it gets published in serious journals."
   },
   {
     "objectID": "desn2003_W5_draft.html#ethnography-extended-immersion",
@@ -2527,11 +2555,39 @@
     "text": "Good vs. Bad Research Questions\n\n\nWeak Questions\n\n“What is sustainable design?”\n\nToo broad, definitional\n\n“Is Instagram bad for mental health?”\n\nToo binary, too broad\n\n“Why don’t people recycle?”\n\nToo vague, no focus\n\n“Will my app be successful?”\n\nNot researchable\n\n\n\nStrong Questions\n\n“How do material choices affect user perception of sustainability in product packaging?”\n\nSpecific, testable\n\n“What design features correlate with reduced self-reported anxiety in social media apps?”\n\nFocused, measurable\n\n“What barriers do HK residents cite for recycling participation?”\n\nBounded, answerable\n\n“How do users perceive the usefulness of [specific feature] in [context]?”\n\nEvaluable"
   },
   {
+    "objectID": "desn2003_W4_draft.html#real-papers-real-questions-what-gets-published",
+    "href": "desn2003_W4_draft.html#real-papers-real-questions-what-gets-published",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Papers, Real Questions: What Gets Published?",
+    "text": "Real Papers, Real Questions: What Gets Published?\nLet’s look at actual research questions from published papers:\n\n\n\nExample 1: Urban Design + User Behavior\n\n\nPaper: Influence of Rules on User Behavior in Public Open Space of Hong Kong\nRQ: “What is the relation between explicit rules and observed behaviors in Hong Kong’s public open spaces?”\nWhy it works: Specific context (HK), clear variables (rules vs. behaviors), observable outcomes"
+  },
+  {
+    "objectID": "desn2003_W4_draft.html#real-papers-real-questions-contd",
+    "href": "desn2003_W4_draft.html#real-papers-real-questions-contd",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Real Papers, Real Questions (Cont’d)",
+    "text": "Real Papers, Real Questions (Cont’d)\n\n\n\nExample 2: AI + Cultural Heritage\n\n\nPaper: Artificial Intelligence for Dunhuang Cultural Heritage Protection (International Journal of Computer Vision)\nRQ: “Can deep learning networks automatically restore deteriorated Dunhuang murals to quality comparable with manual restoration by archaeologists?”\nWhy it works: Specific artifact (Dunhuang murals), clear method (deep learning), measurable outcome (comparable quality)\n\n\n\n\n\n\n\nExample 3: Sustainable Materials + Perception\n\n\nPaper: Sustainable materials: a linking bridge between material perception, affordance, and aesthetics\nRQ: “How does material perception influence sustainable behavior decisions and design choices?”\nWhy it works: Connects perception to behavior, interdisciplinary (psychology + design), practical implications"
+  },
+  {
+    "objectID": "desn2003_W4_draft.html#what-do-these-have-in-common",
+    "href": "desn2003_W4_draft.html#what-do-these-have-in-common",
+    "title": "DESN2003: Research for Innovation",
+    "section": "What Do These Have in Common?",
+    "text": "What Do These Have in Common?\n\n\nSpecific context — not “public space” but “HK public open space”\nClear variables — what’s being examined, what’s being measured\nBounded scope — answerable within the study’s constraints\nSo-what factor — why should anyone care about the answer?\nMethod-ready — you can imagine how to study it\n\n\n\n\n\n\nThe Publication Test\n\n\nIf a reviewer can’t immediately see how you’d answer the question, it’s too vague. If they think “so what?”, it’s too trivial."
+  },
+  {
     "objectID": "desn2003_W4_draft.html#the-question-formulation-framework",
     "href": "desn2003_W4_draft.html#the-question-formulation-framework",
     "title": "DESN2003: Research for Innovation",
     "section": "The Question Formulation Framework",
     "text": "The Question Formulation Framework\nStart with your gap, then build the question:\n\n\nWho is the population? (e.g., “young adult Instagram users”)\nWhat is the phenomenon? (e.g., “intentional friction features”)\nWhere is the context? (e.g., “in daily social media use”)\nWhen is the timeframe? (e.g., “over a two-week period”)\nHow/What is the inquiry? (e.g., “affect reported anxiety levels”)\n\n\n\nTemplate:\n\n“How does [phenomenon] affect/influence/relate to [outcome] among [population] in [context]?”\n\n\n“What [factors/features/experiences] contribute to [outcome] for [population]?”"
+  },
+  {
+    "objectID": "desn2003_W4_draft.html#diverse-research-is-valid-research",
+    "href": "desn2003_W4_draft.html#diverse-research-is-valid-research",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Diverse Research is Valid Research",
+    "text": "Diverse Research is Valid Research\nYour question doesn’t have to be about apps or products. Design research spans:\n\n\nProduct/UX: - User behavior in digital interfaces - Feature adoption and perception - Interaction patterns\nUrban/Architecture: - Public space usage in HK - Pedestrian behavior and wayfinding - Built environment and wellbeing\n\nComputational/Cultural: - AI for heritage restoration - Computer vision for art analysis - Digital humanities applications\nSustainability/Materials: - Material perception and behavior - Sustainable design choices - Circular economy in design\n\n\n\nAll of these are publishable — if the question is clear and the method is rigorous."
   },
   {
     "objectID": "desn2003_W4_draft.html#three-main-types",
@@ -2590,6 +2646,27 @@
     "text": "Debrief: Let’s Hear Some Questions\n\n\nWhat questions did you come up with?\nWhat was hardest about formulating the question?\nHow did peer feedback help?\n\n\n\n\n\n\nRemember\n\n\nYour research question will evolve. The literature review (Doc 0.1) often reveals that your question needs adjusting. That’s normal and expected."
   },
   {
+    "objectID": "desn2003_W4_draft.html#writing-for-publication-the-reality",
+    "href": "desn2003_W4_draft.html#writing-for-publication-the-reality",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Writing for Publication: The Reality",
+    "text": "Writing for Publication: The Reality\n\n\n\nRequired Reading\n\n\nHow to Write a CHI Paper (Asking for a Friend) — Actual advice from CHI authors on what works and what doesn’t.\n\n\n\n\nKey insight from the paper:\n\n“Papers succeed through clarity and conciseness, explicit contribution statements, and adherence to expected structure.”"
+  },
+  {
+    "objectID": "desn2003_W4_draft.html#what-gets-papers-desk-rejected",
+    "href": "desn2003_W4_draft.html#what-gets-papers-desk-rejected",
+    "title": "DESN2003: Research for Innovation",
+    "section": "What Gets Papers Desk-Rejected?",
+    "text": "What Gets Papers Desk-Rejected?\nBased on reviewer feedback patterns:\n\n\nMethodological Issues\n\nVague research questions\nNo clear method to answer the question\nOverclaiming results\nInadequate sample or evidence\n\n\nStructural Issues\n\nMissing literature context\nNo explicit contribution statement\nPoor organization/signposting\nIgnoring limitations\n\n\n\n\n\n\n\nThe Hard Truth\n\n\nA great idea with sloppy execution gets rejected. A solid question with rigorous methods gets published — even if the findings are modest."
+  },
+  {
+    "objectID": "desn2003_W4_draft.html#your-research-question-is-your-foundation",
+    "href": "desn2003_W4_draft.html#your-research-question-is-your-foundation",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Your Research Question Is Your Foundation",
+    "text": "Your Research Question Is Your Foundation\n\n\n\nEverything Flows from the RQ\n\n\nClear RQ → Clear method → Clear findings → Clear contribution\nVague RQ → Confused method → Scattered findings → “So what?” from reviewers\n\n\n\n\nThis is why we’re spending a whole session on this.\nThe time you invest in sharpening your question now saves you from rejection later."
+  },
+  {
     "objectID": "desn2003_W4_draft.html#from-question-to-method",
     "href": "desn2003_W4_draft.html#from-question-to-method",
     "title": "DESN2003: Research for Innovation",
@@ -2615,7 +2692,7 @@
     "href": "desn2003_W4_draft.html#what-we-learned-today",
     "title": "DESN2003: Research for Innovation",
     "section": "What We Learned Today",
-    "text": "What We Learned Today\n\n\nTopic ≠ Gap ≠ Question — A research question is specific and answerable, not just an area of interest\nGood questions are FINER — Feasible, Interesting, Novel, Ethical, Relevant\nThree types of questions — Descriptive (what?), Relational (what correlates?), Causal (what causes?)\nScope matters — Not too broad (can’t answer), not too narrow (doesn’t matter)\nYour question shapes everything — It determines your methods, data, and what counts as an answer\nQuestions evolve — It’s okay to refine as you learn more from the literature"
+    "text": "What We Learned Today\n\n\nTopic ≠ Gap ≠ Question — A research question is specific and answerable, not just an area of interest\nGood questions are FINER — Feasible, Interesting, Novel, Ethical, Relevant\nThree types of questions — Descriptive (what?), Relational (what correlates?), Causal (what causes?)\nScope matters — Not too broad (can’t answer), not too narrow (doesn’t matter)\nYour question shapes everything — It determines your methods, data, and what counts as an answer\nDiverse research is valid — Product, urban, computational, cultural — all publishable with clear questions\nThis is how you avoid rejection — Reviewers reject vague questions; they accept rigorous ones"
   },
   {
     "objectID": "desn2003_W4_draft.html#the-bridge-where-were-going",

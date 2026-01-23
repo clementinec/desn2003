@@ -1,6 +1,6 @@
 ---
 title: "DESN2003: Research for Innovation"
-subtitle: "Week 3: Research Paper Examples & Literature Review"
+subtitle: "Week 3: Mapping the Landscape (Competitive Analysis & Literature Review)"
 author: "Dr. Hongshan Guo"
 format:
   revealjs:
@@ -11,7 +11,7 @@ format:
     footer: "DESN2003 Research for Innovation"
     center: true
     embed-resources: true
-incremental: true
+    incremental: true
 ---
 
 ## Submit Your Document 0 next week!
@@ -26,263 +26,661 @@ Style: Extended Abstract
   - Should contain what you normally see in normal abstracts
   - Can contain additional bullet points and outlines on what do you propose to do next or potential outcomes
 
+::: {.callout-tip icon=false}
+## Hint
+Your Instagram feature idea could be the seed for this—but you'll need to know what's already out there first.
+:::
 
-## Let's start by looking at some research paper examples
+# The Question We Left Open {background-color="#FF6B6B"}
 
-As seen on Moodle
+## How Thorough Was Your Search?
 
-  1. [Hong Kong Compression](./data/compressing_construction_durations_lessonslearnt_HK.pdf)
-  2. [Fashion, Sustainability, Innovations and Energy](./data/InnoFashion.pdf) + __interview-heavy__
+Last week, you checked if your Instagram feature exists in competitor apps.
 
-## Literature Review, an Overview
+. . .
 
-### Objectives:
+**But did you really know the landscape?**
 
-At end of this session being able to:
+::: {.incremental}
+- Did you check *all* competitors, or just the ones you use?
+- Did you find out if Instagram tried this before and killed it?
+- Do you know *why* similar features succeeded or failed elsewhere?
+- Is there research on this type of feature?
+:::
 
-- __explain what__ the review of literature is;
-- __identify__ and __describe__ the objectives and sources of the review of literature;
-- __explain the function__ of literature review serves;
-- know where to start to __conduct the review of literature__ and 
-- __aware__ of precautions a researcher should take into consideration in library use;
-- getting warmed up on various __literature review formats__
- 
+. . .
 
-## On literature review
+::: {.callout-warning icon=false}
+## The Risk
+If you don't map what exists, you might "innovate" something that already failed—or reinvent what already works.
+:::
 
-Literature + Review:
+---
 
-- <span style="color:red">literature</span>: language, knowledge of an area of investigation of **any** discipline on its investigations of 
-  - theoretical
-  - pratical
-  - any relevant reserach studies
-- <span style="color:yellow">review</span>: knowledge organised, show why current study might be an addition to the field:
-  - often seen at graduate level
-  - considered creative and tedious at the same time
-  - synthesizing available knowledge in **unique way** as to
-  - provide <span style="color:magenta">value-add</span> on top of the existing research 
+## Today's Goal: Learn to Map the Landscape
 
-## Two phases of literature review
+::: {.columns}
+::: {.column width="50%"}
+### Industry Approach
+**Competitive Analysis**
 
-Phase One: Catch-them-all
+- What do competitors offer?
+- What's the feature history?
+- What do users say about existing solutions?
+- What have companies tried and abandoned?
+:::
 
-  - ID all relevant publications within your problem space
-  - Read/Skim through more relevant ones and broaden your understanding
-  - Critique on how/why some of them is (not) adequate in what they claim
+::: {.column width="50%"}
+### Academic Approach
+**Literature Review**
 
-Phase Two:  Write on Relevance
-  
-  - Synthesize your findings on the literature into writings
-  - Present **your own evaluation** of the literature that you found relevant, _both good and bad_
-  - Your background, reader's roadmap of how your arguments are paved
+- What does research say?
+- What theories explain user behavior?
+- What methods have been tested?
+- What gaps remain unstudied?
+:::
+:::
 
-## Why do we need literature review?
+. . .
 
-- To understand the research landscape
-- To avoid repetitive work
-- To ascertain innovation and research excellence (if any)
-- **To identify additional research gap (if any)**
+::: {.callout-note icon=false}
+## Both Serve the Same Goal
+Know what exists before claiming your idea is new.
+:::
 
-## Realistically, Literature Review Provides us a stock of:
+# Part 1: Competitive Analysis {background-color="#4ECDC4"}
 
-- Theories, ideas, explanations or hypotheses;
-- Record to check against for repetition;
-- Possible method, procedure, sources of data suitable to even a new problem;
-- Relevant conclusions drawn in the related studies;
+## What Is Competitive Analysis?
+
+A systematic examination of similar products/features to understand:
+
+::: {.incremental}
+- **What exists:** Features, approaches, solutions already in market
+- **What works:** Successful implementations and why
+- **What failed:** Abandoned features, pivots, user backlash
+- **What's missing:** Gaps that remain unfilled
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## For Your Instagram Feature
+Before proposing a "new" feature, you need to know: Has this been tried? Does it exist elsewhere? Why or why not?
+:::
+
+---
+
+## The Competitive Landscape for Social Media
+
+**Direct Competitors:**
+
+::: {.nonincremental}
+- TikTok, Snapchat, BeReal, YouTube Shorts, X/Twitter, Threads, WeChat, LINE
+:::
+
+**Adjacent Products:**
+
+::: {.nonincremental}
+- Pinterest (visual discovery), Discord (community), WhatsApp (messaging), Notion (sharing)
+:::
+
+**Historical Context:**
+
+::: {.nonincremental}
+- Vine (dead), Google+ (dead), Clubhouse (declined), Periscope (absorbed)
+:::
+
+. . .
+
+::: {.callout-warning icon=false}
+## The Graveyard Matters
+Failed products and killed features tell you what *didn't* work—often more valuable than successes.
+:::
+
+---
+
+## Sources for Competitive Analysis
+
+::: {.columns}
+::: {.column width="50%"}
+**Product Intelligence:**
+
+- App Store / Play Store (features, reviews, update history)
+- Product Hunt (launch announcements)
+- TechCrunch, The Verge, Wired (feature coverage)
+- Company blogs and newsrooms
+- Wayback Machine (historical snapshots)
+:::
+
+::: {.column width="50%"}
+**User Sentiment:**
+
+- App reviews (1-star reviews are gold)
+- Reddit communities (r/Instagram, r/socialmedia)
+- Twitter/X complaints and wishlists
+- YouTube reviews and comparisons
+- Designer/developer forums
+:::
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## Pro Tip
+Search "[feature name] + failed" or "[app name] + removed feature" to find the graveyard.
+:::
+
+---
+
+## Competitive Analysis Framework
+
+For each competitor/feature, document:
+
+| Question | What to Look For |
+|----------|------------------|
+| **What is it?** | Feature name, how it works, when launched |
+| **Who uses it?** | Target users, use cases |
+| **How well does it work?** | User reception, ratings, complaints |
+| **What's the trajectory?** | Growing? Stagnant? Killed? |
+| **Why does it matter for your idea?** | Validates gap? Invalidates it? Inspires iteration? |
+
+. . .
+
+This becomes your **competitive landscape map**—the foundation for knowing if your gap is real.
+
+---
+
+## Quick Exercise: Map Your Feature's Landscape (10 min)
+
+**In pairs, for your Instagram feature idea:**
+
+::: {.nonincremental}
+1. List 3 competitors that might have something similar
+2. Do a quick search: Does this feature (or something close) exist?
+3. If yes: How is it implemented? What do users say?
+4. If no: Why might that be? (Technical? Strategic? No demand?)
+5. What did you learn that changes your thinking?
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Share Out
+Be ready to report: Did your gap survive the competitive check?
+:::
+
+::: {.notes}
+- Circulate and help with search strategies
+- Push them to look beyond obvious competitors
+- Note interesting findings for class discussion
+:::
+
+---
+
+## Debrief: What Did the Landscape Reveal?
+
+::: {.incremental}
+- Did anyone discover their feature already exists?
+- Did anyone find a failed attempt at something similar?
+- Did anyone's gap get *stronger* after seeing what competitors lack?
+- What surprised you?
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## The Insight
+Competitive analysis doesn't kill ideas—it **refines** them. Now you know what to differentiate from.
+:::
+
+# Part 2: From Industry to Academy {background-color="#FFE66D"}
+
+## Competitive Analysis Is Not Enough
+
+You've mapped the product landscape. But there's more:
+
+::: {.incremental}
+- **Why** do certain features succeed psychologically?
+- **What theories** explain user behavior in this space?
+- **What research methods** have been used to study this?
+- **What do experts know** that practitioners haven't applied yet?
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## The Gap Between Industry and Academy
+Companies move fast and often don't read research. Academics study deeply but publish slowly. **Your advantage:** You can bridge both.
+:::
+
+---
+
+## Literature Review: The Academic Landscape Map
+
+::: {.columns}
+::: {.column width="50%"}
+### Literature =
+The body of knowledge in any discipline:
+
+- Theoretical frameworks
+- Empirical studies
+- Practical applications
+- Relevant investigations
+:::
+
+::: {.column width="50%"}
+### Review =
+Knowledge organized to show:
+
+- What's known
+- What's debated
+- What's missing
+- Why YOUR study adds value
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Think of It This Way
+Competitive analysis maps **products**. Literature review maps **knowledge**.
+:::
+
+---
+
+## Why Literature Review Matters
+
+::: {.incremental}
+- **Understand the research landscape**—what's been studied, what hasn't
+- **Avoid repetitive work**—don't "discover" what's already known
+- **Build on existing theory**—your work stands on others' shoulders
+- **Identify research gaps**—where can YOU contribute?
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## Connection to Your Feature Idea
+Maybe your feature addresses a gap that researchers have *already identified* but industry hasn't solved yet. Literature review helps you find that.
+:::
+
+---
+
+## Two Phases of Literature Review
+
+**Phase One: Catch-them-all**
+
+::: {.nonincremental}
+- Identify all relevant publications within your problem space
+- Read/skim through and broaden your understanding
+- Critique how/why some are (not) adequate in what they claim
+:::
+
+. . .
+
+**Phase Two: Write on Relevance**
+
+::: {.nonincremental}
+- Synthesize findings into coherent writing
+- Present **your own evaluation**—both strengths and weaknesses
+- Create a roadmap showing how your work fits in
+:::
+
+---
+
+## What Literature Review Provides
+
+A stock of:
+
+::: {.incremental}
+- **Theories, ideas, explanations** that frame your thinking
+- **Record to check against** for repetition
+- **Methods, procedures, data sources** suitable for your problem
+- **Conclusions** drawn in related studies
+:::
+
+. . .
+
+These become the building blocks for your own research design.
+
+---
 
 ## Common Sources of Literature
 
-- Books; 
-- (Academic) Journals;
-- Abstracts;
-- Encyclopaedias;
-- Handbooks and Guides;
-- Special Dictionaries;
-- Dissertations and Theses;
-- Anything off the search Engine.
+::: {.columns}
+::: {.column width="50%"}
+**Academic Sources:**
 
-## Functions of Literatures
+- Peer-reviewed journals
+- Conference proceedings (CHI, DIS, CSCW for HCI/design)
+- Books and book chapters
+- Dissertations and theses
+- Systematic reviews
+:::
 
-1. Provides conceptual frame of refrence for contemplated research
-2. Helps generate an understanding of status of current field
-3. Points to possible choice of research methodology, instrumentation & data needed for analysis
-4. Demonstrate why proposed research is needed and provides roadmap to success;
+::: {.column width="50%"}
+**Professional Sources:**
 
-## Expanding on Phase One of Literature Review
+- Industry reports (Nielsen Norman, Forrester)
+- White papers
+- Design case studies
+- Standards documents
+- Expert blogs (with caution)
+:::
+:::
 
-Repeat this on each of the sources that you came across
+. . .
 
-1. RELEVANCE? Gain general impression of what the selected source is
-  - what is it trying to answer aka research question 
-  - how is the source structured
-  - whether the problem identified was tackled and how
-  - any relevant questions put forward
-
-2. HOW MIGHT IT HELP YOU? Consider how the source would help you
-  - Does it answer (a part) of your research question?
-  - Where are the answers/evidence located in the source
----
-
-3. HOW DOES IT HELP? Read more on the source and at depth to understand
-
-  - How well does the source answer your question
-  - What are its limitations (if there are any)
-4. WRITE YOUR NOTES DOWN.
-
-  - Who wrote this and when and where (citation manager like Zotero)  
-  - Why did you find it relevant and how does it help your case
-
-## Precautions
-
-- Avoid intellectual dishonesty: Write and think on your own
-- Practice critical thinking: Do it on your own standing
-- Liteature review is not relisting previous studies
-- Always helpful to arrange studies in chronological order before categorizing them on fields/relevance
-
-
-# Literature Scavenger Hunt & Annotated Bibliography
-
-- Focus on UI/UX, HCI & Architectural Design  
-- Hands-on research practice
+::: {.callout-tip icon=false}
+## Key Databases for Design Research
+Google Scholar, ACM Digital Library, IEEE Xplore, JSTOR, Web of Science
+:::
 
 ---
 
-# Session Objectives
+## Reading for Relevance: The Process
 
-- Identify diverse literature sources  
-- Evaluate & annotate sources  
-- Build a foundation for a literature review
+For each source you find:
 
----
+**1. RELEVANCE?** Gain general impression
 
-# Today's Research Topic
+::: {.nonincremental}
+- What research question does it address?
+- How is it structured?
+- Was the problem tackled adequately?
+:::
 
-**"How do AI-driven personalization and immersive mixed reality experiences reshape user trust and engagement in digital and physical spaces?"**
+**2. HOW MIGHT IT HELP?** Consider utility
 
-- Explore cutting-edge UI/UX & HCI trends  
-- Investigate the impact of AI and AR/VR on user behavior  
-- Understand the interplay between technology, design, and trust
----
-
-# Session Outline
-
-- **Introduction (5 min):** Overview & key concepts  
-- **Scavenger Hunt (20 min):** Find 3+ sources  
-- **Annotated Bibliography (20 min):** Analyze & annotate sources  
-- **Wrap-Up (5 min):** Share & discuss
+::: {.nonincremental}
+- Does it answer part of YOUR question?
+- Where are the key findings?
+:::
 
 ---
 
-# What is a Literature Review?
+## Reading for Relevance (Cont'd)
 
-- **Overview:**  
-  - Summarizes existing research  
-  - Identifies gaps and informs new studies  
-- **In Design:**  
-  - Grounds your project in current thinking  
-  - Guides design decisions with evidence
+**3. HOW DOES IT HELP?** Read in depth
+
+::: {.nonincremental}
+- How well does it answer your question?
+- What are its limitations?
+:::
+
+**4. WRITE NOTES**
+
+::: {.nonincremental}
+- Citation info (use Zotero, Mendeley)
+- Why it's relevant to YOUR work
+- Key quotes or findings to reference
+:::
+
+. . .
+
+::: {.callout-warning icon=false}
+## Precaution
+Literature review is NOT relisting previous studies. It's **synthesizing** them into YOUR argument.
+:::
+
+# Let's Look at Examples {background-color="#A8DADC"}
+
+## Research Paper Examples
+
+As seen on Moodle:
+
+::: {.nonincremental}
+1. [Hong Kong Construction Compression](./data/compressing_construction_durations_lessonslearnt_HK.pdf) — quantitative focus
+2. [Fashion, Sustainability & Innovation](./data/InnoFashion.pdf) — interview-heavy, qualitative
+:::
+
+. . .
+
+**As you skim these, notice:**
+
+::: {.incremental}
+- How do they frame what's already known?
+- Where do they identify gaps?
+- How do they position their contribution?
+:::
 
 ---
 
-# What is an Annotated Bibliography?
+## What is an Annotated Bibliography?
 
-- **Definition:**  
-  - A list of sources with summaries and evaluations
-- **Components:**  
-  - **Citation:** Standard reference  
-  - **Summary:** Main ideas/findings  
-  - **Evaluation:** Strengths & limitations  
-  - **Relevance:** How it informs your topic
+A **bridge** between finding sources and writing the review:
+
+::: {.columns}
+::: {.column width="50%"}
+**Components:**
+
+- **Citation:** Standard reference
+- **Summary:** Main ideas/findings
+- **Evaluation:** Strengths & limitations
+- **Relevance:** How it informs YOUR topic
+:::
+
+::: {.column width="50%"}
+**Purpose:**
+
+- Forces you to actually read (not just collect)
+- Helps you see patterns across sources
+- Becomes raw material for lit review writing
+:::
+:::
 
 ---
 
-# Example Annotation
+## Example Annotation
 
-**Citation:**  
+**Citation:**
 Smith, J. (2020). *Designing Trust: UI Elements and User Experience*. Journal of HCI.
 
-**Annotation:**  
-This study examines how minimalist UI designs impact user trust through A/B testing. It finds that simplified layouts reduce cognitive load and increase user confidence. 
+**Annotation:**
+This study examines how minimalist UI designs impact user trust through A/B testing. It finds that simplified layouts reduce cognitive load and increase user confidence.
 
-- **Strengths:** Robust methodology and clear data analysis. 
-- **Limitations:** Focuses solely on e-commerce, limiting broader applicability. 
-- **Relevance:** Offers empirical support for design decisions in UI/UX, aligning with our research question.
+- **Strengths:** Robust methodology and clear data analysis.
+- **Limitations:** Focuses solely on e-commerce, limiting broader applicability.
+- **Relevance:** Offers empirical support for design decisions in UI/UX, aligning with our research question on trust-building features.
 
----
+# Scavenger Hunt: Your Feature's Literature {background-color="#4ECDC4"}
 
-# Online Libraries & Digital Tools
+## Your Mission (20 minutes)
 
-- **Libraries & Databases:**  
-  - Google Scholar, JSTOR  
-  - ACM Digital Library, IEEE Xplore
-- **Digital Tools:**  
-  - Zotero/Mendeley for citations  
-  - Google Docs for collaborative notes  
-  - Mind mapping tools (Miro, Coggle)
+**Search for academic/professional sources related to YOUR Instagram feature idea.**
 
-:::{.notes}
+::: {.nonincremental}
+**In groups of 3-4:**
 
+1. Define search terms based on your feature (e.g., "social media content curation," "user-generated playlists," "algorithmic transparency")
+2. Use Google Scholar, ACM DL, or industry sources
+3. Find **3+ diverse sources** (mix of academic and professional)
+4. For each: Record title, author, year, source type
+5. Note briefly: Why might this be relevant?
 :::
----
 
-# Group Instructions
+. . .
 
-- **Form Groups:** 3-4 members
-- **Task:**  
-  - Use online libraries & digital tools to find **3+ diverse sources**  
-  - Record: Title, Author, Year, Source Type  
-  - Jot down a brief note on why each source is relevant  
-- **Focus:** Keep the lens on UI/UX, HCI, and architecture
+::: {.callout-tip icon=false}
+## Stuck?
+Think about the *underlying problem* your feature solves, not the feature itself. What's the user need? The behavior? The frustration?
+:::
 
 ---
 
-# Scavenger Hunt Tips
+## Search Strategy Tips
 
-- Search for varied sources:  
-  - Academic articles, book chapters, industry reports  
-- Use targeted keywords:  
-  - "UI design", "user experience", "HCI", "architectural design"  
-- Verify source credibility and publication date
+::: {.columns}
+::: {.column width="50%"}
+**Keyword Strategies:**
 
----
+- Start broad, then narrow
+- Use synonyms (engagement, retention, stickiness)
+- Combine terms: "social media" + "user trust"
+- Try problem-focused: "doom scrolling" + "design intervention"
+:::
 
-# Annotated Bibliography Task
+::: {.column width="50%"}
+**Source Strategies:**
 
-- For each source, write a **100-150 word annotation** including:
-  - **Summary:** What does the source say?  
-  - **Evaluation:** How reliable and useful is it?  
-  - **Relevance:** How does it connect to your research question?
-
----
-
-# How It All Works Together
-
-1. **Scavenger Hunt:**  
-   - Gather a variety of credible sources on your topic  
-2. **Annotated Bibliography:**  
-   - Analyze and synthesize your findings  
-   - Create a critical framework for your literature review
+- Check "cited by" for newer work
+- Check references for foundational work
+- Look for survey/review papers (cover lots of ground)
+- Search author names who publish in your area
+:::
+:::
 
 ---
 
-# Wrap-Up & Sharing
+## Annotated Bibliography Task
 
-- **Sharing:**  
-  - Each group presents one annotated entry  
-  - Discuss insights and any challenges encountered
-- **Q&A:** Open the floor for questions and reflections
+**For your best 2 sources, write a 100-150 word annotation:**
+
+::: {.nonincremental}
+- **Summary:** What does the source say?
+- **Evaluation:** How reliable and useful is it?
+- **Relevance:** How does it connect to YOUR feature idea?
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## The Payoff
+This becomes the start of your Document 0's literature foundation.
+:::
+
+# Synthesis: Is Your Gap Still a Gap? {background-color="#FF6B6B"}
+
+## The Landscape Check
+
+You've now explored:
+
+::: {.nonincremental}
+- **Week 2:** Is the gap real? Does it exist in competitors?
+- **Week 3:** What does research say? What's been studied?
+:::
+
+. . .
+
+**Reflection questions:**
+
+::: {.incremental}
+- Has your understanding of the "gap" changed?
+- Did you find research that supports your instinct?
+- Did you find something that challenges it?
+- Has your feature idea evolved?
+:::
 
 ---
 
-# Reflection
+## The Three Outcomes
 
-- How do these exercises mirror real-world research?  
-- What next steps would you take in building your literature review?
+::: {.columns}
+::: {.column width="33%"}
+### Gap Confirmed ✓
+
+- Neither competitors nor research have addressed this
+- You found supporting evidence for the underlying problem
+- **Next:** Design your research to fill it
+:::
+
+::: {.column width="33%"}
+### Gap Refined ↻
+
+- Similar things exist, but with important differences
+- Research exists, but not in this context
+- **Next:** Sharpen what makes yours unique
+:::
+
+::: {.column width="33%"}
+### Gap Invalidated ✗
+
+- This already exists or has been studied extensively
+- **Next:** Pivot to a new angle, or go deeper than existing work
+:::
+:::
+
+. . .
+
+**All three outcomes are valuable.** Research isn't about being "right"—it's about knowing the truth.
 
 ---
 
-# Thank You!
+## Wrap-Up: Share & Discuss
 
-- Keep refining your research skills  
-- Questions? Let’s discuss!
+**Each group presents:**
 
+::: {.nonincremental}
+- One annotated source you found
+- How it changed (or confirmed) your thinking about your feature idea
+:::
+
+. . .
+
+**Discussion:**
+
+- What surprised you in the literature?
+- How does this connect to competitive analysis?
+- What next steps would you take?
+
+---
+
+## Key Takeaways
+
+::: {.nonincremental}
+1. **Competitive analysis** maps the product landscape—what exists, what failed, what's missing
+2. **Literature review** maps the knowledge landscape—what's studied, what's theorized, what's unknown
+3. **Both serve innovation**—you can't claim "new" without knowing what's old
+4. **Your gap evolves**—research refines instinct into insight
+5. **This is iterative**—you'll return to the literature throughout your project
+:::
+
+---
+
+## Next Week: Research Questions
+
+::: {.callout-note icon=false}
+## The Journey So Far
+
+- **Week 1:** You had an instinct (feature idea)
+- **Week 2:** You learned to validate gaps (is it real?)
+- **Week 3:** You mapped the landscape (what exists?)
+- **Week 4:** How do you turn this into a **researchable question**?
+:::
+
+. . .
+
+Your gap is becoming clearer. Now we need to make it **specific, focused, and answerable**.
+
+---
+
+## Reminder: Document 0 Due Next Week
+
+::: {.nonincremental}
+- ≤ 500 words extended abstract
+- Include: Problem, gap, proposed approach, potential outcomes
+- Use what you learned today to ground it in the landscape
+:::
+
+::: {.callout-tip icon=false}
+## Pro Tip
+Reference at least 2-3 sources from your scavenger hunt. Show you've done the landscape work.
+:::
+
+---
+
+## Questions?
+
+::: {.r-fit-text}
+Let's discuss!
+:::
+
+**Office hours:** By appointment
+
+**Next week:** Research Questions—making your gap researchable
+
+::: {.notes}
+- Encourage questions about search strategies
+- Remind them to keep building their annotated bibliography
+- Connect today's work to Document 0
+:::
