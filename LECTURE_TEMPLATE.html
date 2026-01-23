@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -89,7 +123,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -118,105 +152,267 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul class="collapse">
+  <li><a href="#desn2003-lecture-template-checklist" id="toc-desn2003-lecture-template-checklist" class="nav-link active" data-scroll-target="#desn2003-lecture-template-checklist">DESN2003 Lecture Template &amp; Checklist</a>
+  <ul class="collapse">
+  <li><a href="#required-elements-for-each-week" id="toc-required-elements-for-each-week" class="nav-link" data-scroll-target="#required-elements-for-each-week">Required Elements for Each Week</a></li>
+  <li><a href="#visual-consistency-standards" id="toc-visual-consistency-standards" class="nav-link" data-scroll-target="#visual-consistency-standards">Visual Consistency Standards</a></li>
+  <li><a href="#throughline-the-student-research-journey" id="toc-throughline-the-student-research-journey" class="nav-link" data-scroll-target="#throughline-the-student-research-journey">Throughline: The Student Research Journey</a></li>
+  <li><a href="#quality-checklist-before-finalizing" id="toc-quality-checklist-before-finalizing" class="nav-link" data-scroll-target="#quality-checklist-before-finalizing">Quality Checklist (Before Finalizing)</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">DESN2003</h1>
-<p class="subtitle lead">Research for Innovation</p>
-</div>
+<main class="content column-page-left" id="quarto-document-content">
 
 
 
-<div class="quarto-title-meta column-page">
 
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<p><img src="data/DallEWireframe.webp" class="img-fluid"></p>
-<p>A foundational course in research methodology for design practice. We explore how rigorous inquiry informs innovation—from framing questions to gathering evidence and communicating findings.</p>
-<section id="key-resources" class="level2">
-<h2 class="anchored" data-anchor-id="key-resources">Key Resources</h2>
+<section id="desn2003-lecture-template-checklist" class="level1">
+<h1>DESN2003 Lecture Template &amp; Checklist</h1>
+<p>A consistent structure for all weekly lectures to ensure students feel they’re learning solid, connected content.</p>
+<hr>
+<section id="required-elements-for-each-week" class="level2">
+<h2 class="anchored" data-anchor-id="required-elements-for-each-week">Required Elements for Each Week</h2>
+<section id="opening-first-3-5-slides" class="level3">
+<h3 class="anchored" data-anchor-id="opening-first-3-5-slides">1. Opening (First 3-5 slides)</h3>
+<ul class="task-list">
+<li><label><input type="checkbox"><strong>Title slide</strong> with week number, topic title, and subtitle that hints at the “why”</label></li>
+<li><label><input type="checkbox"><strong>Callback/Connection</strong> to previous week (1 slide)</label>
 <ul>
-<li><a href="./assessment.html">Assessment Guide</a> — Grading breakdown, document progression, submission guidelines</li>
-<li><a href="./writingsample.html">Writing Samples</a> — Examples of strong student work</li>
+<li>“Last week we learned X. Today we build on that by…”</li>
+<li>Reinforces the throughline</li>
+</ul></li>
+<li><label><input type="checkbox"><strong>Today’s Roadmap</strong> (1 slide)</label>
+<ul>
+<li>3-5 bullet points of what will be covered</li>
+<li>Non-incremental so students see the full agenda</li>
+</ul></li>
+<li><label><input type="checkbox"><strong>Learning Objectives</strong> (can combine with roadmap or separate)</label>
+<ul>
+<li>“By the end of this session, you will be able to…”</li>
+<li>3-4 concrete, actionable objectives</li>
+</ul></li>
 </ul>
 </section>
-<section id="lectures-materials" class="level2">
-<h2 class="anchored" data-anchor-id="lectures-materials">Lectures &amp; Materials</h2>
+<section id="content-sections" class="level3">
+<h3 class="anchored" data-anchor-id="content-sections">2. Content Sections</h3>
+<ul class="task-list">
+<li><label><input type="checkbox"><strong>Colored section headers</strong> (<code>{background-color="#HEXCODE"}</code>) to visually segment major topics</label></li>
+<li><label><input type="checkbox"><strong>Callout boxes</strong> for key concepts:</label>
 <ul>
-<li><a href="./desn2003_W1.html">Week 1: Introduction</a>
-<ul>
-<li><a href="./surveydata.html">Survey Data</a></li>
+<li><code>.callout-note</code> for definitions/information</li>
+<li><code>.callout-tip</code> for practical advice</li>
+<li><code>.callout-warning</code> for common pitfalls</li>
+<li><code>.callout-important</code> for critical points</li>
 </ul></li>
-<li><a href="./desn2003_W2.html">Week 2: Research Frameworks</a>
-<ul>
-<li><a href="./desn2003_W2_draft.html">Draft: Research Frameworks (Revised)</a></li>
-</ul></li>
-<li><a href="./desn2003_W3.html">Week 3: Literature Review</a>
-<ul>
-<li><a href="./desn2003_W3_draft.html">Draft: Mapping the Landscape (Revised)</a></li>
-</ul></li>
-<li><a href="./desn2003_W4.html">Week 4: Research Questions</a>
-<ul>
-<li><a href="./desn2003_W4_draft.html">Draft: From Gap to Inquiry (Revised)</a></li>
-</ul></li>
-<li><a href="./desn2003_W5.html">Week 5: Methods I</a>
-<ul>
-<li><a href="./desn2003_W5_draft.html">Draft: Qualitative Research (Revised)</a></li>
-<li><a href="data/worksheet.pdf">Worksheet</a></li>
-</ul></li>
-<li><a href="./desn2003_W6.html">Week 6: Methods II</a>
-<ul>
-<li><a href="./desn2003_W6_draft.html">Draft: Quantitative &amp; Mixed Methods (Revised)</a></li>
-<li><a href="data/11_5_Osman+Abramson_Evidence &amp; Narrative_JSAH 2007.pdf">Evidence and Narrative</a></li>
-<li><a href="data/Binley Chen.pdf">Urban Green Space</a></li>
-</ul></li>
-<li><a href="./desn2003_W6_P.html">Week 7: Analysis</a>
-<ul>
-<li><a href="./desn2003_W7.html">Continued</a></li>
-</ul></li>
-<li><a href="./desn2003_W8.html">Week 8: Writing</a>
-<ul>
-<li><a href="data/TMP.pdf">Peer Review Guide</a></li>
-</ul></li>
-<li><a href="./desn2003_W9.html">Week 9: Synthesis</a>
-<ul>
-<li><a href="./write.html">Example Writeup</a></li>
-</ul></li>
-<li><a href="./desn2003_W10.html">Week 10: Data Visualization</a>
-<ul>
-<li><a href="./W10_note.html">Plotting Examples</a></li>
-<li><a href="https://drive.google.com/file/d/18ZA2SsFfTibCFGjTkAeFNxzJomOmAVLa/view?usp=sharing">Google Colab</a></li>
-<li><a href="data/survey_data.csv">Survey Data</a></li>
-<li><a href="data/transcripts.json">Transcripts</a></li>
-<li><a href="data/example_data.csv">Tabular Data</a></li>
-</ul></li>
-<li><a href="./W12.html">Week 12: Presentations</a></li>
+<li><label><input type="checkbox"><strong>Two-column layouts</strong> (<code>::: {.columns}</code>) for comparisons, parallel concepts</label></li>
+<li><label><input type="checkbox"><strong>Concrete examples</strong> tied to student context (design, Instagram throughline, their own research)</label></li>
+<li><label><input type="checkbox"><strong>Visuals/diagrams</strong> where appropriate (not just text)</label></li>
 </ul>
 </section>
-<section id="course-info" class="level2">
-<h2 class="anchored" data-anchor-id="course-info">Course Info</h2>
-<div class="grid">
-<div class="g-col-6">
-<p><strong>Schedule</strong> Tuesday, 1:00–2:50 PM</p>
-</div>
-<div class="g-col-6">
-<p><strong>Location</strong> KKLG101</p>
-</div>
-</div>
-<p>Office hours by appointment.</p>
+<section id="activities-at-least-one-per-session" class="level3">
+<h3 class="anchored" data-anchor-id="activities-at-least-one-per-session">3. Activities (At least one per session)</h3>
+<ul class="task-list">
+<li><label><input type="checkbox"><strong>Clear instructions</strong> with time allocation</label></li>
+<li><label><input type="checkbox"><strong>Connection to concepts</strong> just taught</label></li>
+<li><label><input type="checkbox"><strong>Deliverable</strong> - what should students produce or discuss?</label></li>
+<li><label><input type="checkbox"><strong>Debrief slide</strong> - what did we learn from this activity?</label></li>
+</ul>
+</section>
+<section id="throughline-connections" class="level3">
+<h3 class="anchored" data-anchor-id="throughline-connections">4. Throughline Connections</h3>
+<ul class="task-list">
+<li><label><input type="checkbox">Reference <strong>student’s own research project</strong> at least once</label>
+<ul>
+<li>“How does this apply to YOUR research question?”</li>
+<li>“Think about your Doc X submission…”</li>
+</ul></li>
+<li><label><input type="checkbox"><strong>Instagram example</strong> or equivalent running case study where relevant</label></li>
+<li><label><input type="checkbox">Connect abstract concepts to <strong>practical application</strong></label></li>
+</ul>
+</section>
+<section id="assessment-connection" class="level3">
+<h3 class="anchored" data-anchor-id="assessment-connection">5. Assessment Connection</h3>
+<ul class="task-list">
+<li><label><input type="checkbox"><strong>Reminder of upcoming deadlines</strong> (if within 2 weeks)</label></li>
+<li><label><input type="checkbox"><strong>How today’s content helps</strong> with that assessment</label></li>
+<li><label><input type="checkbox">Clear <strong>“What to do next”</strong> for their project</label></li>
+</ul>
+</section>
+<section id="closing-final-3-5-slides" class="level3">
+<h3 class="anchored" data-anchor-id="closing-final-3-5-slides">6. Closing (Final 3-5 slides)</h3>
+<ul class="task-list">
+<li><label><input type="checkbox"><strong>Key Takeaways</strong> (1 slide)</label>
+<ul>
+<li>4-6 numbered points summarizing what they learned</li>
+<li>Non-incremental so they see the full list</li>
+</ul></li>
+<li><label><input type="checkbox"><strong>The Bridge</strong> (1 slide)</label>
+<ul>
+<li>“Today we learned X → Next week we’ll learn Y”</li>
+<li>Shows how content connects forward</li>
+</ul></li>
+<li><label><input type="checkbox"><strong>Questions slide</strong></label></li>
+<li><label><input type="checkbox"><strong>Optional: Preview of next week’s topic</strong></label></li>
+</ul>
+<hr>
+</section>
+</section>
+<section id="visual-consistency-standards" class="level2">
+<h2 class="anchored" data-anchor-id="visual-consistency-standards">Visual Consistency Standards</h2>
+<section id="color-palette-for-section-headers" class="level3">
+<h3 class="anchored" data-anchor-id="color-palette-for-section-headers">Color Palette for Section Headers</h3>
+<pre><code>Primary sections:    #4ECDC4 (teal)
+Activities:          #FFE66D (yellow)
+Warnings/Challenges: #FF6B6B (coral)
+Wrap-up/Synthesis:   #457B9D (slate blue)
+Examples/Cases:      #A8DADC (light blue)</code></pre>
+</section>
+<section id="callout-usage" class="level3">
+<h3 class="anchored" data-anchor-id="callout-usage">Callout Usage</h3>
+<div class="sourceCode" id="cb2"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>::: {.callout-note icon=false}</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a><span class="fu">## Title Here</span></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>Content for definitions, neutral information</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>::: {.callout-tip icon=false}</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="fu">## Pro Tip / Hint</span></span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>Practical advice, helpful strategies</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>::: {.callout-warning icon=false}</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a><span class="fu">## Watch Out / Common Pitfall</span></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a>Things to avoid, mistakes students make</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a>::: {.callout-important icon=false}</span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a><span class="fu">## Key Point / Critical</span></span>
+<span id="cb2-18"><a href="#cb2-18" aria-hidden="true" tabindex="-1"></a>Must-know information, central concepts</span>
+<span id="cb2-19"><a href="#cb2-19" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</section>
+<section id="two-column-layout" class="level3">
+<h3 class="anchored" data-anchor-id="two-column-layout">Two-Column Layout</h3>
+<div class="sourceCode" id="cb3"><pre class="sourceCode markdown code-with-copy"><code class="sourceCode markdown"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>::: {.columns}</span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a>::: {.column width="50%"}</span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a>**Left side content**</span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb3-6"><a href="#cb3-6" aria-hidden="true" tabindex="-1"></a>::: {.column width="50%"}</span>
+<span id="cb3-7"><a href="#cb3-7" aria-hidden="true" tabindex="-1"></a>**Right side content**</span>
+<span id="cb3-8"><a href="#cb3-8" aria-hidden="true" tabindex="-1"></a>:::</span>
+<span id="cb3-9"><a href="#cb3-9" aria-hidden="true" tabindex="-1"></a>:::</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<hr>
+</section>
+</section>
+<section id="throughline-the-student-research-journey" class="level2">
+<h2 class="anchored" data-anchor-id="throughline-the-student-research-journey">Throughline: The Student Research Journey</h2>
+<p>Each week should connect to where students are in their research journey:</p>
+<table class="table">
+<thead>
+<tr class="header">
+<th>Week</th>
+<th>Topic</th>
+<th>Student Journey Stage</th>
+<th>Assessment Connection</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>Why Research Matters</td>
+<td>Spark curiosity, propose ideas</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>Research Frameworks</td>
+<td>Validate the gap</td>
+<td>Doc 0 intro</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>Literature Review</td>
+<td>Map the landscape</td>
+<td>Doc 0 due Week 4</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>Research Questions</td>
+<td>Frame the question</td>
+<td>Doc 0 feedback</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>Methods I</td>
+<td>Plan data collection</td>
+<td>Doc 0.1 prep</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>Methods II</td>
+<td>Refine methodology</td>
+<td>Doc 0.1 due Week 6</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>Analysis</td>
+<td>Prepare for evidence</td>
+<td>—</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>Writing</td>
+<td>Prof Discovery Presentations</td>
+<td>Presentations</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>Synthesis</td>
+<td>Prof Discovery cont’d</td>
+<td>Prof Discovery Docs</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>Data Visualization</td>
+<td>Finalize evidence</td>
+<td>Doc 0.2 due</td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>Workshop</td>
+<td>Final integration</td>
+<td>Doc 1 due</td>
+</tr>
+<tr class="even">
+<td>12</td>
+<td>Presentations</td>
+<td>Present &amp; evaluate</td>
+<td>Peer Evaluation</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="quality-checklist-before-finalizing" class="level2">
+<h2 class="anchored" data-anchor-id="quality-checklist-before-finalizing">Quality Checklist (Before Finalizing)</h2>
+<ul class="task-list">
+<li><label><input type="checkbox">Does the week have a clear “one big idea”?</label></li>
+<li><label><input type="checkbox">Can a student articulate what they learned in one sentence?</label></li>
+<li><label><input type="checkbox">Is there at least one hands-on activity?</label></li>
+<li><label><input type="checkbox">Are there explicit connections to their own research?</label></li>
+<li><label><input type="checkbox">Do the takeaways match the stated objectives?</label></li>
+<li><label><input type="checkbox">Is the visual structure consistent with other weeks?</label></li>
+<li><label><input type="checkbox">Is the assessment connection clear (if applicable)?</label></li>
+</ul>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->
