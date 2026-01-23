@@ -230,6 +230,26 @@ Surveys tell you *what* people do. Interviews help you understand *why*.
 
 ---
 
+## Real Paper Example: Interview-Based Research
+
+::: {.callout-note icon=false}
+## The Boundaries of Public Space: Hong Kong's MTR
+
+**Paper:** [The Boundaries of Public Space: A Case Study of Hong Kong's Mass Transit Railway](https://www.ijdesign.org/index.php/IJDesign/article/view/1487/629) (International Journal of Design)
+
+**Method:** Interviews with policymakers, designers, managers, and users about how they perceive and react to boundaries in MTR stations
+
+**What makes it work:**
+- Multiple stakeholder perspectives (not just users)
+- Specific context (HK MTR)
+- Observational data triangulated with interviews
+- Clear design implications
+:::
+
+This is the kind of qualitative research that gets published.
+
+---
+
 ## Types of Interviews
 
 ::: {.columns}
@@ -442,6 +462,26 @@ Write detailed notes **as soon as possible** after observing. Memory fades fast.
 - Your interpretations (analytical)
 - Questions to explore further
 :::
+
+---
+
+## Real Paper Example: Observational Research
+
+::: {.callout-note icon=false}
+## "Cosmopolitan Canopy" in Hong Kong's Hidden City
+
+**Paper:** ["Cosmopolitan Canopy" in Hong Kong's Hidden City: Urban design and social life in underground transit hub](https://www.sciencedirect.com/science/article/abs/pii/S0886779824005236) (Tunnelling and Underground Space Technology, 2024)
+
+**Method:** Participant observation protocols in Central Station and Hong Kong Station (250,000+ passengers daily)
+
+**What makes it work:**
+- Systematic observation protocol (not just "hanging out")
+- Massive real-world context
+- Connects spatial design to social behavior
+- Clear theoretical framing ("cosmopolitan canopy")
+:::
+
+Observation research requires rigor — but it gets published in serious journals.
 
 ---
 

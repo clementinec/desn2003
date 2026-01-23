@@ -259,6 +259,67 @@ A strong research question is:
 
 ---
 
+## Real Papers, Real Questions: What Gets Published?
+
+Let's look at actual research questions from published papers:
+
+::: {.callout-note icon=false}
+## Example 1: Urban Design + User Behavior
+
+**Paper:** [Influence of Rules on User Behavior in Public Open Space of Hong Kong](http://article.sapub.org/10.5923.j.arch.20201004.02.html)
+
+**RQ:** "What is the relation between explicit rules and observed behaviors in Hong Kong's public open spaces?"
+
+*Why it works:* Specific context (HK), clear variables (rules vs. behaviors), observable outcomes
+:::
+
+---
+
+## Real Papers, Real Questions (Cont'd)
+
+::: {.callout-note icon=false}
+## Example 2: AI + Cultural Heritage
+
+**Paper:** [Artificial Intelligence for Dunhuang Cultural Heritage Protection](https://link.springer.com/article/10.1007/s11263-022-01665-x) (International Journal of Computer Vision)
+
+**RQ:** "Can deep learning networks automatically restore deteriorated Dunhuang murals to quality comparable with manual restoration by archaeologists?"
+
+*Why it works:* Specific artifact (Dunhuang murals), clear method (deep learning), measurable outcome (comparable quality)
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## Example 3: Sustainable Materials + Perception
+
+**Paper:** [Sustainable materials: a linking bridge between material perception, affordance, and aesthetics](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1307467/full)
+
+**RQ:** "How does material perception influence sustainable behavior decisions and design choices?"
+
+*Why it works:* Connects perception to behavior, interdisciplinary (psychology + design), practical implications
+:::
+
+---
+
+## What Do These Have in Common?
+
+::: {.incremental}
+1. **Specific context** — not "public space" but "HK public open space"
+2. **Clear variables** — what's being examined, what's being measured
+3. **Bounded scope** — answerable within the study's constraints
+4. **So-what factor** — why should anyone care about the answer?
+5. **Method-ready** — you can imagine how to study it
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## The Publication Test
+If a reviewer can't immediately see how you'd answer the question, it's too vague. If they think "so what?", it's too trivial.
+:::
+
+---
+
 ## The Question Formulation Framework
 
 **Start with your gap, then build the question:**
@@ -278,6 +339,42 @@ A strong research question is:
 > "How does [phenomenon] affect/influence/relate to [outcome] among [population] in [context]?"
 
 > "What [factors/features/experiences] contribute to [outcome] for [population]?"
+
+---
+
+## Diverse Research is Valid Research
+
+Your question doesn't have to be about apps or products. Design research spans:
+
+::: {.columns}
+::: {.column width="50%"}
+**Product/UX:**
+- User behavior in digital interfaces
+- Feature adoption and perception
+- Interaction patterns
+
+**Urban/Architecture:**
+- [Public space usage in HK](https://cityterritoryarchitecture.springeropen.com/articles/10.1186/s40410-023-00194-5)
+- Pedestrian behavior and wayfinding
+- Built environment and wellbeing
+:::
+
+::: {.column width="50%"}
+**Computational/Cultural:**
+- [AI for heritage restoration](https://link.springer.com/article/10.1007/s11263-022-01665-x)
+- Computer vision for art analysis
+- Digital humanities applications
+
+**Sustainability/Materials:**
+- [Material perception and behavior](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1307467/full)
+- Sustainable design choices
+- Circular economy in design
+:::
+:::
+
+. . .
+
+**All of these are publishable** — if the question is clear and the method is rigorous.
 
 # Types of Research Questions {background-color="#4ECDC4"}
 
@@ -495,6 +592,73 @@ If you can't imagine how you'd collect data to answer it, it's probably too broa
 Your research question will evolve. The literature review (Doc 0.1) often reveals that your question needs adjusting. That's normal and expected.
 :::
 
+# What Gets Papers Accepted (or Rejected) {background-color="#FF6B6B"}
+
+## Writing for Publication: The Reality
+
+::: {.callout-important icon=false}
+## Required Reading
+
+[How to Write a CHI Paper (Asking for a Friend)](https://arxiv.org/html/2401.05818v1) — Actual advice from CHI authors on what works and what doesn't.
+:::
+
+. . .
+
+**Key insight from the paper:**
+
+> "Papers succeed through clarity and conciseness, explicit contribution statements, and adherence to expected structure."
+
+---
+
+## What Gets Papers Desk-Rejected?
+
+Based on reviewer feedback patterns:
+
+::: {.columns}
+::: {.column width="50%"}
+### Methodological Issues
+
+- Vague research questions
+- No clear method to answer the question
+- Overclaiming results
+- Inadequate sample or evidence
+:::
+
+::: {.column width="50%"}
+### Structural Issues
+
+- Missing literature context
+- No explicit contribution statement
+- Poor organization/signposting
+- Ignoring limitations
+:::
+:::
+
+. . .
+
+::: {.callout-warning icon=false}
+## The Hard Truth
+A great idea with sloppy execution gets rejected. A solid question with rigorous methods gets published — even if the findings are modest.
+:::
+
+---
+
+## Your Research Question Is Your Foundation
+
+::: {.callout-note icon=false}
+## Everything Flows from the RQ
+
+**Clear RQ** → Clear method → Clear findings → Clear contribution
+
+**Vague RQ** → Confused method → Scattered findings → "So what?" from reviewers
+:::
+
+. . .
+
+**This is why we're spending a whole session on this.**
+
+The time you invest in sharpening your question now saves you from rejection later.
+
 # Looking Ahead {background-color="#457B9D"}
 
 ## From Question to Method
@@ -580,7 +744,9 @@ We'll cover qualitative research methods—interviews, observations, ethnography
 
 5. **Your question shapes everything** — It determines your methods, data, and what counts as an answer
 
-6. **Questions evolve** — It's okay to refine as you learn more from the literature
+6. **Diverse research is valid** — Product, urban, computational, cultural — all publishable with clear questions
+
+7. **This is how you avoid rejection** — Reviewers reject vague questions; they accept rigorous ones
 :::
 
 ---

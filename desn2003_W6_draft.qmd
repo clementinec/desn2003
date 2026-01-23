@@ -127,6 +127,26 @@ Quantitative research is appropriate when you need to:
 
 ---
 
+## Real Paper Example: Survey Research
+
+::: {.callout-note icon=false}
+## Exploring the Impact of Publicness of Public Space in Hong Kong
+
+**Paper:** [Exploring the Impact of the Publicness of Public Space in Hong Kong: A Structural Equation Modelling Approach](https://www.mdpi.com/2073-445X/14/1/91) (Land, 2025)
+
+**Method:** Two questionnaire surveys (n=305) measuring five impact dimensions: effectiveness, fairness, sense of ease, meaningfulness, friendliness
+
+**What makes it work:**
+- Clear conceptual framework (publicness → impacts)
+- Rigorous statistical analysis (SEM)
+- Specific context (HK public spaces)
+- Actionable findings for urban designers
+:::
+
+Survey research can be publishable — but you need clear constructs and proper analysis.
+
+---
+
 ## Quantitative Data Types
 
 ::: {.columns}
@@ -517,6 +537,29 @@ Survey 200 students using questions based on themes → Find: 65% report time-sa
 **Result:**
 Rich understanding (Phase 1) + Prevalence data (Phase 2)
 :::
+
+---
+
+## Real Paper Example: Computational + Qualitative
+
+::: {.callout-note icon=false}
+## Voice From the City: Public Sentiments Across Urban Open Spaces
+
+**Paper:** [Voice From the City: Public Sentiments Across Different Types of Urban Open Spaces in Hong Kong](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5554296) (SSRN, 2025)
+
+**Method:**
+- **Quantitative:** Sentiment analysis and NLP on public comments
+- **Qualitative:** Thematic analysis of comment content
+- **Spatial:** GIS mapping of sentiment across space types
+
+**What makes it work:**
+- Novel data source (public sentiment data)
+- Mixed methods triangulation
+- Connects computational analysis to design implications
+- Specific to HK context
+:::
+
+Computational methods + qualitative interpretation = publishable research.
 
 ---
 
