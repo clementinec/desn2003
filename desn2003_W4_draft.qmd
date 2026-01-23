@@ -1,0 +1,634 @@
+---
+title: "DESN2003: Research for Innovation"
+subtitle: "Week 4: Research Questions (From Gap to Inquiry)"
+author: "Dr. Hongshan Guo"
+format:
+  revealjs:
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    embed-resources: true
+    incremental: true
+    center: true
+    footer: "DESN2003 Research for Innovation"
+---
+
+# Let's Start with a Problem {background-color="#FF6B6B"}
+
+## Two Students Walk Into Office Hours...
+
+::: {.columns}
+::: {.column width="50%"}
+**Student A:**
+
+*"I want to research sustainability in design."*
+
+. . .
+
+- What about sustainability?
+- What about design?
+- What would you even measure?
+- Where would you start?
+
+**This isn't a research project. It's a topic.**
+:::
+
+::: {.column width="50%"}
+**Student B:**
+
+*"I want to understand how material choices in packaging affect Hong Kong consumers' perception of product sustainability."*
+
+. . .
+
+- Specific phenomenon (material choices)
+- Defined population (HK consumers)
+- Clear outcome (perception)
+- You can imagine how to study this
+
+**This is a research question.**
+:::
+:::
+
+---
+
+## The Difference Is Everything
+
+::: {.callout-important icon=false}
+## Today's Core Challenge
+
+You've identified a gap. You've mapped the landscape. You submitted Doc 0 this morning.
+
+But **"there's a gap"** still isn't a research project.
+
+The question is: **Can you turn your gap into something you can actually answer?**
+:::
+
+. . .
+
+That's what separates students who spin their wheels from students who make progress.
+
+---
+
+## Where We've Been (Quick Recap)
+
+::: {.columns}
+::: {.column width="33%"}
+**Week 1-2**
+
+Instinct → Validation
+
+*"I think there's a problem here"*
+:::
+
+::: {.column width="33%"}
+**Week 3**
+
+Landscape mapping
+
+*"Here's what already exists"*
+:::
+
+::: {.column width="33%"}
+**Week 4 (Today)**
+
+Gap → Question
+
+*"Here's what I'll actually investigate"*
+:::
+:::
+
+---
+
+## Today's Roadmap
+
+::: {.nonincremental}
+1. **Doc 0 Reflection** — Common patterns and feedback
+2. **What Makes a Research Question?** — Anatomy of a good RQ
+3. **Types of Research Questions** — Descriptive, relational, causal
+4. **Scoping Your Question** — Not too broad, not too narrow
+5. **Activity: Refine YOUR Research Question**
+6. **Looking Ahead** — From question to method (Doc 0.1)
+:::
+
+---
+
+## Learning Objectives
+
+By the end of this session, you will be able to:
+
+::: {.incremental}
+1. **Articulate** the difference between a topic, a gap, and a research question
+2. **Formulate** a clear, focused research question from your identified gap
+3. **Evaluate** whether a research question is answerable within your constraints
+4. **Scope** a question appropriately (not too broad, not too narrow)
+:::
+
+# From Topic to Question {background-color="#A8DADC"}
+
+## Doc 0: You Just Submitted — Now What?
+
+::: {.callout-note icon=false}
+## Submitted Before Class?
+
+Good. Feedback will come within the week.
+
+Today's session will help you **refine your thinking** — so when you get feedback, you'll know how to act on it.
+:::
+
+. . .
+
+**Common patterns we'll address today:**
+
+::: {.incremental}
+- **Topic ≠ Question** — Many abstracts describe an area but don't ask something specific
+- **Gap ≠ Question** — "This hasn't been studied" isn't the same as "What happens when...?"
+- **Scope issues** — Too broad ("sustainability in design") or too narrow (trivial)
+:::
+
+---
+
+## The Progression: Topic → Gap → Question
+
+::: {.columns}
+::: {.column width="33%"}
+### Topic
+*An area of interest*
+
+"Social media and mental health"
+
+- Too broad to research
+- Could go anywhere
+- Not actionable
+:::
+
+::: {.column width="33%"}
+### Gap
+*Something missing in the landscape*
+
+"Little research on how design interventions reduce Instagram-related anxiety"
+
+- More focused
+- Shows what's missing
+- But still not a question
+:::
+
+::: {.column width="33%"}
+### Research Question
+*A specific, answerable inquiry*
+
+"How do intentional friction features (like scroll limits) affect reported anxiety levels in young adult Instagram users?"
+
+- Specific
+- Answerable
+- Testable
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Your Task Today
+Move from gap → question. Make it specific enough to answer.
+:::
+
+# What Makes a Research Question? {background-color="#FFE66D"}
+
+## Anatomy of a Good Research Question
+
+A strong research question is:
+
+::: {.columns}
+::: {.column width="50%"}
+**FINER Criteria**
+
+- **F**easible — Can you actually do this?
+- **I**nteresting — Do you (and others) care?
+- **N**ovel — Does it add something new?
+- **E**thical — Can it be done responsibly?
+- **R**elevant — Does it matter to the field?
+:::
+
+::: {.column width="50%"}
+**Practical Checks**
+
+- Can you answer it in one semester?
+- Do you have access to the data/people needed?
+- Is it specific enough to guide your methods?
+- Is it open enough to allow discovery?
+:::
+:::
+
+---
+
+## Good vs. Bad Research Questions
+
+::: {.columns}
+::: {.column width="50%"}
+### Weak Questions
+
+- "What is sustainable design?"
+  - *Too broad, definitional*
+
+- "Is Instagram bad for mental health?"
+  - *Too binary, too broad*
+
+- "Why don't people recycle?"
+  - *Too vague, no focus*
+
+- "Will my app be successful?"
+  - *Not researchable*
+:::
+
+::: {.column width="50%"}
+### Strong Questions
+
+- "How do material choices affect user perception of sustainability in product packaging?"
+  - *Specific, testable*
+
+- "What design features correlate with reduced self-reported anxiety in social media apps?"
+  - *Focused, measurable*
+
+- "What barriers do HK residents cite for recycling participation?"
+  - *Bounded, answerable*
+
+- "How do users perceive the usefulness of [specific feature] in [context]?"
+  - *Evaluable*
+:::
+:::
+
+---
+
+## The Question Formulation Framework
+
+**Start with your gap, then build the question:**
+
+::: {.nonincremental}
+1. **Who** is the population? (e.g., "young adult Instagram users")
+2. **What** is the phenomenon? (e.g., "intentional friction features")
+3. **Where** is the context? (e.g., "in daily social media use")
+4. **When** is the timeframe? (e.g., "over a two-week period")
+5. **How/What** is the inquiry? (e.g., "affect reported anxiety levels")
+:::
+
+. . .
+
+**Template:**
+
+> "How does [phenomenon] affect/influence/relate to [outcome] among [population] in [context]?"
+
+> "What [factors/features/experiences] contribute to [outcome] for [population]?"
+
+# Types of Research Questions {background-color="#4ECDC4"}
+
+## Three Main Types
+
+::: {.columns}
+::: {.column width="33%"}
+### Descriptive
+
+*What is happening?*
+
+- Maps a phenomenon
+- Documents experiences
+- Establishes baseline
+
+**Example:**
+"What are the main frustrations HK design students report when using AI tools for coursework?"
+
+**Methods:** Surveys, interviews, observation
+:::
+
+::: {.column width="33%"}
+### Relational
+
+*What goes with what?*
+
+- Explores associations
+- Identifies patterns
+- Doesn't prove causation
+
+**Example:**
+"Is there a relationship between time spent on Instagram and self-reported productivity among students?"
+
+**Methods:** Correlational surveys, analytics
+:::
+
+::: {.column width="33%"}
+### Causal
+
+*Does X cause Y?*
+
+- Tests interventions
+- Requires control
+- Strongest claims
+
+**Example:**
+"Does implementing a 'slow feed' feature reduce anxiety compared to standard feed?"
+
+**Methods:** Experiments, A/B tests
+:::
+:::
+
+---
+
+## Matching Question Type to Your Project
+
+::: {.callout-note icon=false}
+## For a One-Semester Project
+
+**Descriptive and relational questions** are usually most feasible.
+
+Causal questions require controlled experiments, which may be difficult to set up in your timeframe. But you can do exploratory work that *suggests* causal relationships.
+:::
+
+. . .
+
+**Think about your Doc 0 topic:**
+
+::: {.incremental}
+- What type of question are you asking?
+- Is it descriptive (what's happening)?
+- Is it relational (what correlates)?
+- Is it causal (what causes what)?
+- Is the question type realistic for your resources?
+:::
+
+# Scoping Your Question {background-color="#FF6B6B"}
+
+## The Goldilocks Problem
+
+::: {.columns}
+::: {.column width="33%"}
+### Too Broad
+
+"How does technology affect design?"
+
+- Can't answer in a lifetime
+- No clear method
+- No clear outcome
+
+**Result:** Paralysis
+:::
+
+::: {.column width="33%"}
+### Too Narrow
+
+"Does the color blue on this specific button increase clicks by 3% on Tuesdays?"
+
+- Trivial findings
+- Limited contribution
+- Who cares?
+
+**Result:** So what?
+:::
+
+::: {.column width="33%"}
+### Just Right
+
+"How do color choices in CTA buttons affect conversion rates in e-commerce checkout flows?"
+
+- Specific enough to study
+- Broad enough to matter
+- Clear path to method
+
+**Result:** Actionable insight
+:::
+:::
+
+---
+
+## Scoping Dimensions
+
+Use these to narrow or broaden your question:
+
+| Dimension | Broader | Narrower |
+|-----------|---------|----------|
+| **Population** | "Users" | "HK university students aged 18-24" |
+| **Context** | "Social media" | "Instagram Stories feature" |
+| **Timeframe** | "Over time" | "During a 2-week study period" |
+| **Geography** | "Globally" | "In Hong Kong" |
+| **Phenomenon** | "User engagement" | "Double-tap behavior on posts" |
+
+. . .
+
+::: {.callout-tip icon=false}
+## Rule of Thumb
+If you can't imagine how you'd collect data to answer it, it's probably too broad. If the answer seems obvious or trivial, it's probably too narrow.
+:::
+
+---
+
+## Exercise: Scope Check
+
+**Which of these is better scoped? Why?**
+
+::: {.incremental}
+1. "How does social media affect teenagers?"
+   - *Too broad: which platform? which teens? affect what?*
+
+2. "How does Instagram's Explore algorithm affect content discovery satisfaction among HK university students?"
+   - *Better: specific platform, specific population, specific outcome*
+
+3. "Does the third post in Instagram Explore get more engagement than the fourth post?"
+   - *Too narrow: trivial, limited insight*
+:::
+
+# Activity: Refine Your Research Question {background-color="#FFE66D"}
+
+## Your Task (20 minutes)
+
+**Working individually or in pairs:**
+
+::: {.nonincremental}
+1. **Start with your Doc 0 topic/gap** (or the idea you're considering)
+
+2. **Draft a research question** using this format:
+   - "How does [X] affect/relate to [Y] among [population] in [context]?"
+   - OR "What [factors] contribute to [outcome] for [population]?"
+
+3. **Check your question against:**
+   - Is it specific enough? (Can you imagine collecting data?)
+   - Is it broad enough? (Does the answer matter?)
+   - Is it feasible? (Can you do this in one semester?)
+   - What type is it? (Descriptive/Relational/Causal)
+
+4. **Prepare to share:** Your question + one concern you have about it
+:::
+
+---
+
+## Peer Feedback (10 minutes)
+
+**Share your question with a neighbor. Give feedback:**
+
+::: {.nonincremental}
+- Can you understand the question on first reading?
+- Is it too broad or too narrow?
+- What method might answer this? (If you can't imagine one, it may be too vague)
+- What's one way to make it sharper?
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Feedback Frames
+- "I think the question is clear, but I'm not sure how you'd measure [X]..."
+- "Could you narrow the population to make it more feasible?"
+- "What if you focused on [specific aspect] instead of [broad area]?"
+:::
+
+---
+
+## Debrief: Let's Hear Some Questions
+
+::: {.incremental}
+- What questions did you come up with?
+- What was hardest about formulating the question?
+- How did peer feedback help?
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## Remember
+Your research question will evolve. The literature review (Doc 0.1) often reveals that your question needs adjusting. That's normal and expected.
+:::
+
+# Looking Ahead {background-color="#457B9D"}
+
+## From Question to Method
+
+Once you have a clear research question, you can ask:
+
+::: {.incremental}
+- **What data would answer this?** (numbers? words? observations?)
+- **Who has this data?** (users? databases? you need to collect it?)
+- **How would you get it?** (surveys? interviews? experiments?)
+- **What would "an answer" look like?** (statistics? themes? comparison?)
+:::
+
+. . .
+
+This is exactly what **Doc 0.1 (Literature Review)** prepares you for—and what **Doc 0.2 (Collecting Evidence)** will execute.
+
+---
+
+## The Research Question Cascade
+
+::: {.callout-note icon=false}
+## Your Question Shapes Everything
+
+**Research Question** ↓
+
+**Literature Review** — What's already known about this question?
+
+**Methodology** — How will I answer this question?
+
+**Data Collection** — What evidence addresses this question?
+
+**Analysis** — What does the evidence say?
+
+**Conclusion** — Did I answer the question?
+:::
+
+A well-formed question makes every subsequent step clearer.
+
+---
+
+## Upcoming Assessments
+
+::: {.columns}
+::: {.column width="50%"}
+### Just Submitted
+**Doc 0: Extended Abstract**
+
+- Feedback will be released soon
+- Use it to refine your question
+- Don't panic if you need to adjust
+:::
+
+::: {.column width="50%"}
+### Coming Up
+**Doc 0.1: Literature Review**
+
+- Due: Week 6 (Mar 3)
+- Now that you have a question, search for what's already known
+- Your lit review should help you refine the question further
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Next Week: Methods I
+We'll cover qualitative research methods—interviews, observations, ethnography. Start thinking: **What method fits YOUR question?**
+:::
+
+# Key Takeaways {background-color="#457B9D"}
+
+## What We Learned Today
+
+::: {.nonincremental}
+1. **Topic ≠ Gap ≠ Question** — A research question is specific and answerable, not just an area of interest
+
+2. **Good questions are FINER** — Feasible, Interesting, Novel, Ethical, Relevant
+
+3. **Three types of questions** — Descriptive (what?), Relational (what correlates?), Causal (what causes?)
+
+4. **Scope matters** — Not too broad (can't answer), not too narrow (doesn't matter)
+
+5. **Your question shapes everything** — It determines your methods, data, and what counts as an answer
+
+6. **Questions evolve** — It's okay to refine as you learn more from the literature
+:::
+
+---
+
+## The Bridge: Where We're Going
+
+::: {.columns}
+::: {.column width="50%"}
+**Today (Week 4)**
+
+You learned to formulate a research question
+
+- From gap to inquiry
+- Specific and answerable
+- Guides your methodology
+:::
+
+::: {.column width="50%"}
+**Next Week (Week 5)**
+
+You'll learn qualitative methods
+
+- Interviews, observations, ethnography
+- How to collect rich, descriptive data
+- Which method fits your question?
+:::
+:::
+
+. . .
+
+**The semester arc continues:**
+
+Instinct → Gap → Landscape → **Question** → Methods → Evidence → Analysis → Paper
+
+---
+
+## Questions?
+
+::: {.r-fit-text}
+Let's discuss!
+:::
+
+**Office hours:** By appointment
+
+**Next week:** Methods I — Qualitative Research
+
+::: {.notes}
+- Encourage questions about formulating RQs
+- Remind them Doc 0.1 builds on today's work
+- The question they formulate today guides their lit review search
+:::

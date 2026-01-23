@@ -8,6 +8,32 @@ toc: false
 
 This course assesses your ability to conduct independent research, synthesize knowledge, and communicate findings effectively. The assessment is **cumulative** — each document builds on the previous one, culminating in a complete research paper.
 
+---
+
+## Key Deadlines (Spring 2026)
+
+All written submissions are due **Tuesday before class** (by 12:00 PM noon) — no midnight scrambling.
+
+| Week | Date | Assessment Due |
+|------|------|----------------|
+| 4 | Feb 10 | **Doc 0** — Extended Abstract |
+| 6 | Mar 3 | **Doc 0.1** — Literature Review |
+| 8–9 | Mar 17 & 24 | **Professional Discovery Presentations** (in-class) |
+| 10 | Mar 31 | **Doc 0.2** — Collecting Evidence |
+| 10 | Mar 31 | **Professional Discovery Documentation** |
+| 11 | Apr 7 | **Doc 1** — Research Paper Draft |
+| 12 | Apr 14 | **Final Presentations & Peer Evaluation** (in-class) |
+
+::: {.callout-note}
+## Spring Festival Break
+No class on Feb 17. Teaching resumes Week 5 (Feb 24).
+:::
+
+::: {.callout-tip}
+## About Doc 1
+This is the most substantial submission. If you need extra time, talk to the instructor before the deadline — we can work something out. Don't wait until you're stuck.
+:::
+
 ```{=html}
 <div class="course-info">
   <div class="course-info-item">
@@ -160,6 +186,11 @@ Your paper should have a clear narrative arc: Introduction → Literature Review
 
 In addition to individual research, you will conduct **conversations with practitioners** — designers, project managers, and other professionals working in areas relevant to your interests. This is research in action: reaching out to real people with real expertise, learning how the field actually works.
 
+::: {.callout-note}
+## Presentations: Weeks 8 & 9
+We dedicate class time in both Week 8 (Mar 17) and Week 9 (Mar 24) for Professional Discovery presentations. This gives every group adequate time to present without rushing. Documentation is due Week 10.
+:::
+
 ```{=html}
 <div class="two-col">
   <div class="info-block">
@@ -209,8 +240,13 @@ Research is collaborative. Your contributions to class discussions, activities, 
 
 | Item | Details |
 |------|---------|
-| **Deadline** | EOD Wednesday before the relevant class |
+| **Deadline** | Tuesday 12:00 PM (noon), before class |
 | **Format** | Submit via Moodle/Turnitin |
+
+::: {.callout-important}
+## No midnight deadlines
+All submissions are due **Tuesday noon** — before class, not after. This gives you the evening before to finalize, not scramble at 11:59 PM. Plan accordingly.
+:::
 
 ### On Using AI
 
@@ -227,7 +263,7 @@ The goal is for AI to help *you* write better, not to write *for* you. You shoul
 Life happens. Every student gets **one 7-day extension** to use during the semester. No documentation required, no explanation needed. Just let the instructor know before the original deadline. Use it wisely.
 :::
 
-**Just missed the deadline?** If your submission is late but within **1 hour** of the deadline, you may submit via Slack with a timestamp as proof. This receipt allows you to work with the instructor to update your Moodle record. Beyond 1 hour, standard late penalties apply.
+**Just missed the deadline?** If your submission is late but within **1 hour** of the noon deadline, you may submit via Slack with a timestamp as proof. This receipt allows you to work with the instructor to update your Moodle record. Beyond 1 hour (i.e., after 1:00 PM), standard late penalties apply.
 
 **Late penalties:** Every **48 hours late** = one sub-letter grade deduction (e.g., A → A-, then A- → B+, and so on). Exceptions beyond your free extension require a valid doctor's note or equivalent documentation.
 

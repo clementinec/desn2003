@@ -1,0 +1,773 @@
+---
+title: "DESN2003: Research for Innovation"
+subtitle: "Week 5: Methods I — Qualitative Research"
+author: "Dr. Hongshan Guo"
+format:
+  revealjs:
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    embed-resources: true
+    incremental: true
+    center: true
+    footer: "DESN2003 Research for Innovation"
+---
+
+# Doc 0 Feedback {background-color="#A8DADC"}
+
+## Your Extended Abstracts: What We Saw
+
+**The Good:**
+
+::: {.incremental}
+- Genuine curiosity about topics that matter to you
+- Clear problem identification in many cases
+- Personal connection to the research area
+:::
+
+. . .
+
+**Patterns to work on:**
+
+::: {.incremental}
+- **Streamline your narratives** — Some were scattered; tighten the through-line
+- **Topic vs. Question** — Several described an area without a specific inquiry
+- **Scope calibration** — Some too ambitious, some too narrow for one semester
+- **Theoretical framing** — Connect your problem to existing frameworks
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Feedback Released on Moodle
+Check your comments. If you need clarification, come to office hours.
+:::
+
+---
+
+# The Story So Far {background-color="#4ECDC4"}
+
+## Your Research Journey
+
+::: {.columns}
+::: {.column width="25%"}
+**Week 1-2**
+
+Identified a gap
+
+*"Something is missing"*
+:::
+
+::: {.column width="25%"}
+**Week 3**
+
+Mapped the landscape
+
+*"Here's what exists"*
+:::
+
+::: {.column width="25%"}
+**Week 4**
+
+Formed a question
+
+*"How does X affect Y?"*
+:::
+
+::: {.column width="25%"}
+**Week 5 (Today)**
+
+Choose a method
+
+*"How will I find out?"*
+:::
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## Today's Challenge
+
+You have a research question. Now: **How will you answer it?**
+
+Today we focus on **qualitative methods** — research that explores the "why" and "how" through rich, descriptive data.
+:::
+
+---
+
+## Today's Roadmap
+
+::: {.nonincremental}
+1. **Qualitative vs. Quantitative** — When to use which
+2. **Interviews** — Types, design, and best practices
+3. **Observations & Ethnography** — Watching behavior in context
+4. **Case Studies** — Deep dives into specific instances
+5. **Activity: Design Your Approach**
+6. **Looking Ahead** — Doc 0.1 and connecting methods to your question
+:::
+
+---
+
+## Learning Objectives
+
+By the end of this session, you will be able to:
+
+::: {.incremental}
+1. **Distinguish** qualitative from quantitative approaches and when each is appropriate
+2. **Design** an interview protocol suited to your research question
+3. **Plan** observational research with clear categories and ethical considerations
+4. **Select** the qualitative method(s) most appropriate for YOUR research
+:::
+
+# Qualitative vs. Quantitative {background-color="#A8DADC"}
+
+## Two Ways of Knowing
+
+::: {.columns}
+::: {.column width="50%"}
+### Qualitative
+
+**"Why?" and "How?"**
+
+- Explores experiences, meanings, perceptions
+- Rich, descriptive data (words, images, observations)
+- Smaller samples, deeper insight
+- Generates hypotheses and understanding
+
+**Typical outputs:** Themes, quotes, narratives, patterns
+:::
+
+::: {.column width="50%"}
+### Quantitative
+
+**"How many?" and "How much?"**
+
+- Measures frequency, magnitude, relationships
+- Numerical data (counts, ratings, metrics)
+- Larger samples, statistical power
+- Tests hypotheses and generalizes
+
+**Typical outputs:** Statistics, charts, percentages, correlations
+:::
+:::
+
+---
+
+## When to Use Which?
+
+| Use Qualitative When... | Use Quantitative When... |
+|------------------------|-------------------------|
+| Exploring a new phenomenon | Testing a specific hypothesis |
+| Understanding "why" behind behavior | Measuring "how much" or "how often" |
+| Generating theory or hypotheses | Validating theory across populations |
+| Studying complex, contextual experiences | Comparing groups or conditions |
+| Sample access is limited but deep | Large sample access is available |
+
+. . .
+
+::: {.callout-tip icon=false}
+## For Your Research Question
+Ask yourself: Do I need to **understand depth** (qualitative) or **measure breadth** (quantitative)?
+
+Many projects use **both** — qualitative to explore, then quantitative to validate.
+:::
+
+---
+
+## Match the Method to the Question
+
+::: {.columns}
+::: {.column width="50%"}
+**Qualitative Fits:**
+
+- "How do users experience...?"
+- "What are the barriers to...?"
+- "Why do designers choose...?"
+- "What meanings do people attach to...?"
+
+*Explores, describes, understands*
+:::
+
+::: {.column width="50%"}
+**Quantitative Fits:**
+
+- "How many users prefer X over Y?"
+- "Is there a correlation between...?"
+- "Does intervention X increase outcome Y?"
+- "What percentage of users report...?"
+
+*Counts, compares, tests*
+:::
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## Think About Your Doc 0 Question
+Which type of data would help you answer it? Or do you need both?
+:::
+
+# Interviews {background-color="#FFE66D"}
+
+## Why Interviews?
+
+Interviews let you:
+
+::: {.incremental}
+- **Access inner experiences** — thoughts, feelings, motivations
+- **Explore complexity** — follow-up questions, probing
+- **Hear authentic voices** — quotes, stories, language
+- **Discover the unexpected** — things you didn't know to ask
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## The Power of Interviews
+Surveys tell you *what* people do. Interviews help you understand *why*.
+:::
+
+---
+
+## Types of Interviews
+
+::: {.columns}
+::: {.column width="33%"}
+### Structured
+
+- Fixed questions in fixed order
+- Same for every participant
+- Easier to compare responses
+- Less flexibility
+
+*Best for:* Systematic comparison, when you know exactly what to ask
+:::
+
+::: {.column width="33%"}
+### Semi-Structured
+
+- Prepared questions as guide
+- Flexibility to probe deeper
+- Can follow interesting threads
+- Balance of consistency and depth
+
+*Best for:* Most research — structured enough to compare, flexible enough to explore
+:::
+
+::: {.column width="33%"}
+### Unstructured
+
+- Topics but no fixed questions
+- Conversational flow
+- Maximum flexibility
+- Harder to analyze systematically
+
+*Best for:* Early exploration, when you don't know what to ask yet
+:::
+:::
+
+---
+
+## Designing Interview Questions
+
+::: {.columns}
+::: {.column width="50%"}
+**Do:**
+
+- Start with easy, rapport-building questions
+- Use open-ended questions ("Tell me about...")
+- Ask about specific experiences and examples
+- Follow up: "Can you say more about that?"
+- End with: "Is there anything else?"
+:::
+
+::: {.column width="50%"}
+**Don't:**
+
+- Ask leading questions ("Don't you think...?")
+- Ask double-barreled questions (two questions in one)
+- Ask yes/no questions (unless following up)
+- Assume you know the answer
+- Interrupt or rush
+:::
+:::
+
+---
+
+## Interview Question Examples
+
+**Topic:** How students use AI tools for coursework
+
+::: {.columns}
+::: {.column width="50%"}
+### Weak Questions
+
+- "Do you like using AI?" *(yes/no)*
+- "Don't you think AI is helpful?" *(leading)*
+- "How do you use AI and what do you think about the ethics?" *(double-barreled)*
+:::
+
+::: {.column width="50%"}
+### Strong Questions
+
+- "Tell me about a recent time you used an AI tool for coursework."
+- "Walk me through what happened."
+- "What was that experience like for you?"
+- "What worked well? What didn't?"
+- "How did you decide when to use it or not?"
+:::
+:::
+
+---
+
+## Interview Protocol Template
+
+::: {.callout-note icon=false}
+## A Basic Structure
+
+**Opening (2 min)**
+- Introduce yourself and the study
+- Explain confidentiality, recording consent
+- Any questions before we start?
+
+**Warm-up (3 min)**
+- Easy, non-threatening questions about background
+
+**Core Questions (20-30 min)**
+- 5-8 main questions with follow-up probes
+- Move from general to specific
+
+**Closing (2 min)**
+- "Is there anything else you'd like to add?"
+- Thank participant, explain next steps
+:::
+
+---
+
+## Practical Considerations
+
+::: {.columns}
+::: {.column width="50%"}
+### Logistics
+
+- **Duration:** 30-60 min typical
+- **Recording:** Ask permission, use reliable device
+- **Location:** Quiet, comfortable, neutral
+- **Remote:** Zoom works, test tech first
+- **Notes:** Take brief notes even if recording
+:::
+
+::: {.column width="50%"}
+### Ethics
+
+- **Informed consent:** Explain purpose, voluntary participation
+- **Confidentiality:** How will you protect identity?
+- **Sensitive topics:** Plan for discomfort, provide opt-out
+- **Power dynamics:** Be aware of your position
+- **Data storage:** Keep recordings secure
+:::
+:::
+
+# Observations & Ethnography {background-color="#4ECDC4"}
+
+## Why Observe?
+
+::: {.callout-important icon=false}
+## The Gap Between Say and Do
+People often can't articulate what they do, or they report what they *think* they do rather than what they *actually* do.
+
+Observation captures **real behavior in real contexts**.
+:::
+
+. . .
+
+**Classic example:** Users say they read privacy policies. Observation shows they click "accept" in 2 seconds.
+
+---
+
+## Types of Observation
+
+::: {.columns}
+::: {.column width="50%"}
+### By Participation Level
+
+**Participant observation**
+- Researcher joins the activity
+- Rich insider perspective
+- May influence what you observe
+
+**Non-participant observation**
+- Researcher watches from outside
+- Less intrusive
+- May miss insider meanings
+:::
+
+::: {.column width="50%"}
+### By Structure
+
+**Structured observation**
+- Predetermined categories
+- Counting/timing behaviors
+- Systematic, comparable
+
+**Unstructured observation**
+- Open field notes
+- Capturing everything relevant
+- Exploratory, flexible
+:::
+:::
+
+---
+
+## Observation in Practice
+
+**What to observe:**
+
+::: {.incremental}
+- **Actions:** What are people doing physically?
+- **Interactions:** How do they communicate? With whom?
+- **Environment:** What's the space like? What tools are present?
+- **Time:** How long do activities take? What sequences occur?
+- **Breakdowns:** Where do things go wrong? Workarounds?
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Field Notes
+Write detailed notes **as soon as possible** after observing. Memory fades fast. Include:
+
+- What happened (descriptive)
+- Your interpretations (analytical)
+- Questions to explore further
+:::
+
+---
+
+## Ethnography: Extended Immersion
+
+**Ethnography** = Extended observation in a cultural or social setting
+
+::: {.columns}
+::: {.column width="50%"}
+**What makes it ethnographic:**
+
+- Prolonged engagement (weeks, months)
+- Multiple methods (observe + interview + artifacts)
+- Holistic understanding of context
+- Researcher reflexivity
+:::
+
+::: {.column width="50%"}
+**In design research:**
+
+- Spending days with users in their environment
+- Understanding workflows, not just tasks
+- Uncovering unspoken rules and values
+- Finding design opportunities others miss
+:::
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## Realistic for Your Project?
+Full ethnography takes time. But **mini-ethnographies** — a few days of observation + interviews — can still yield rich insights.
+:::
+
+# Case Studies {background-color="#A8DADC"}
+
+## What Is a Case Study?
+
+A **case study** is an in-depth investigation of a single instance:
+
+::: {.incremental}
+- A person, group, organization, event, or phenomenon
+- Uses multiple data sources (interviews, documents, observation)
+- Aims for rich, contextual understanding
+- Bounded in time and space
+:::
+
+. . .
+
+**Examples:**
+
+- How one design team adopted a new AI tool
+- The redesign process of a specific app feature
+- How a particular community uses a public space
+
+---
+
+## When to Use Case Studies
+
+::: {.columns}
+::: {.column width="50%"}
+**Case studies are good for:**
+
+- Exploring "how" and "why" questions
+- Understanding complex, real-world phenomena
+- When you can't separate the phenomenon from its context
+- Generating rich descriptions and theories
+:::
+
+::: {.column width="50%"}
+**Limitations:**
+
+- Limited generalizability (one case ≠ all cases)
+- Time-intensive
+- Researcher bias in interpretation
+- Difficulty defining case boundaries
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## For Your Project
+A case study approach might work if you're investigating **one specific context deeply** rather than comparing across many.
+:::
+
+---
+
+## Case Study Data Sources
+
+A strong case study triangulates multiple sources:
+
+| Source Type | Examples |
+|-------------|----------|
+| **Interviews** | Key informants, stakeholders, users |
+| **Documents** | Reports, emails, meeting notes, design specs |
+| **Observations** | Watching processes, attending meetings |
+| **Artifacts** | Products, prototypes, physical evidence |
+| **Archival records** | Usage logs, historical data |
+
+. . .
+
+::: {.callout-note icon=false}
+## Triangulation
+Using multiple sources increases credibility. If interviews, documents, and observations all point to the same finding, you can be more confident it's real.
+:::
+
+# Activity: Design Your Approach {background-color="#FFE66D"}
+
+## Your Task (20 minutes)
+
+**Based on your research question from Week 4:**
+
+::: {.nonincremental}
+1. **Decide:** Would qualitative methods help answer your question? Why?
+
+2. **Choose:** Which method(s) seem most appropriate?
+   - Interviews? What type? Who would you interview?
+   - Observations? Where? What would you look for?
+   - Case study? What's the case?
+
+3. **Draft:** Create ONE of the following:
+   - 3-5 interview questions you might ask
+   - An observation plan (where, what to look for)
+   - A case definition (what's the bounded case?)
+
+4. **Consider:** What are the limitations of your chosen approach?
+:::
+
+---
+
+## Discuss in Pairs (10 minutes)
+
+**Share with a neighbor:**
+
+::: {.nonincremental}
+- What method did you choose and why?
+- What did you draft?
+- What concerns or challenges do you anticipate?
+:::
+
+. . .
+
+**Give feedback:**
+
+::: {.nonincremental}
+- Does the method seem to fit the question?
+- Are the interview questions open-ended enough?
+- Is the observation plan specific enough to be actionable?
+:::
+
+---
+
+## Debrief
+
+::: {.incremental}
+- Who chose interviews? What made that seem right for your question?
+- Who chose observation? What would you observe?
+- Who's considering a case study approach?
+- What challenges came up in designing your approach?
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## Remember
+Your method choice isn't final yet. Doc 0.1 (Literature Review) will help you see what methods others have used for similar questions — which might refine your approach.
+:::
+
+# Looking Ahead {background-color="#457B9D"}
+
+## Next Week: Methods II — Quantitative & Mixed
+
+::: {.columns}
+::: {.column width="50%"}
+**We'll cover:**
+
+- Survey design
+- Experimental methods
+- A/B testing (deeper dive)
+- Mixed methods: qual + quant
+:::
+
+::: {.column width="50%"}
+**You'll learn:**
+
+- When to use quantitative approaches
+- How to design effective surveys
+- How to combine methods strategically
+:::
+:::
+
+. . .
+
+::: {.callout-note icon=false}
+## Think Ahead
+Could your research benefit from **both** qualitative and quantitative data? How might they complement each other?
+:::
+
+---
+
+## Upcoming Assessments
+
+::: {.columns}
+::: {.column width="50%"}
+### Doc 0.1: Literature Review
+**Due: Week 6 (Mar 3)**
+
+- What methods have others used?
+- What did they find?
+- How does this inform YOUR approach?
+:::
+
+::: {.column width="50%"}
+### Your Task Now
+
+- Search for studies on your topic
+- Note the methods they used
+- Build your annotated bibliography
+- Let the literature guide your method choice
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Connection
+Today's methods knowledge helps you **read literature critically**. When you find a relevant paper, ask: What method did they use? Why? What were the limitations?
+:::
+
+---
+
+## Connecting Methods to Your Research
+
+::: {.callout-note icon=false}
+## The Logic Chain
+
+**Research Question** ↓
+
+"How do HK design students experience AI tools in coursework?"
+
+**Method Choice** ↓
+
+Interviews (semi-structured) — to understand experiences in depth
+
+**Data You'll Get** ↓
+
+Transcripts with quotes, stories, descriptions
+
+**Analysis Approach** ↓
+
+Thematic analysis — identify patterns across interviews
+
+**Expected Output** ↓
+
+Themes about student experiences, with supporting quotes
+:::
+
+# Key Takeaways {background-color="#457B9D"}
+
+## What We Learned Today
+
+::: {.nonincremental}
+1. **Qualitative research** explores the "why" and "how" through rich, descriptive data — complementing quantitative "how much"
+
+2. **Interviews** access inner experiences; semi-structured interviews balance consistency with flexibility
+
+3. **Observations** capture real behavior in context — what people do, not just what they say
+
+4. **Case studies** provide deep understanding of bounded instances using multiple data sources
+
+5. **Method choice follows question** — let your research question guide which approach fits best
+
+6. **Triangulation strengthens findings** — multiple sources pointing to the same conclusion increases credibility
+:::
+
+---
+
+## The Bridge
+
+::: {.columns}
+::: {.column width="50%"}
+**Today (Week 5)**
+
+Qualitative methods
+
+- Interviews
+- Observations
+- Case studies
+- When depth matters
+:::
+
+::: {.column width="50%"}
+**Next Week (Week 6)**
+
+Quantitative & Mixed methods
+
+- Surveys
+- Experiments
+- Combining approaches
+- When breadth matters
+:::
+:::
+
+. . .
+
+**Your research journey:**
+
+Instinct → Gap → Landscape → Question → **Methods** → Evidence → Analysis → Paper
+
+---
+
+## Questions?
+
+::: {.r-fit-text}
+Let's discuss!
+:::
+
+**Office hours:** By appointment
+
+**Next week:** Methods II — Quantitative & Mixed Methods
+
+**Doc 0.1 due:** Week 6 (Mar 3)
+
+::: {.notes}
+- Encourage questions about method selection
+- Remind them to think about methods as they do their lit review
+- The methods they see in papers can inspire their own approach
+:::
