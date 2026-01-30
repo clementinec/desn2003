@@ -2,42 +2,77 @@
 title: "DESN2003"
 subtitle: "Research for Innovation"
 toc: false
+page-layout: full
+format:
+  html:
+    grid:
+      body-width: 1800px
+      sidebar-width: 0px
+      margin-width: 0px
 ---
 
 ![](data/DallEWireframe.webp)
 
 A foundational course in research methodology for design practice. We explore how rigorous inquiry informs innovation—from framing questions to gathering evidence and communicating findings.
 
-## Key Resources
+::: {.callout-note icon=false}
+## The Course's Core Question
+Can you distinguish **incremental improvement** from **genuine innovation**? Research methodology gives you the tools to tell the difference — and to pursue whichever path you choose deliberately.
+:::
 
-- [Assessment Guide](assessment.qmd) — Grading breakdown, document progression, submission guidelines
-- [Writing Samples](writingsample.qmd) — Examples of strong student work
+**Two Tracks, One Methodology:**
+
+| **Frontier Research (Technologist)** | **Applied Research (Builder-Maker)** |
+|:--|:--|
+| For students who want to push the frontier: research questions at the edge of design, science, or engineering, written in peer-review style with rigorous methods and clear contributions. | For students who want to turn research into something buildable: evidence → insight → recommendation → validation plan. Same rigor, different audience. |
+
+Choose based on your interests. Same methodology. Same skills. Different framing. See the [Assessment Guide](assessment.qmd) for how each document applies to your track.
 
 ## Lectures & Materials
 
 - [Week 1: Introduction](desn2003_W1.qmd)
-  - [Survey Data](surveydata.qmd)
 - [Week 2: Research Frameworks](desn2003_W2.qmd)
-- [Week 3: Literature Review](desn2003_W3.qmd)
+- [Week 3: Landscape Intelligence](desn2003_W3.qmd)
 - [Week 4: Research Questions](desn2003_W4.qmd)
 - [Week 5: Methods I](desn2003_W5.qmd)
-  - [Worksheet](data/worksheet.pdf)
 - [Week 6: Methods II](desn2003_W6.qmd)
-  - [Evidence and Narrative](data/11_5_Osman+Abramson_Evidence & Narrative_JSAH 2007.pdf)
-  - [Urban Green Space](data/Binley Chen.pdf)
-- [Week 7: Analysis](desn2003_W6_P.qmd)
-  - [Continued](desn2003_W7.qmd)
-- [Week 8: Writing](desn2003_W8.qmd)
-  - [Peer Review Guide](data/TMP.pdf)
-- [Week 9: Synthesis](desn2003_W9.qmd)
-  - [Example Writeup](write.qmd)
+- [Week 7: Data Collection & Analysis](desn2003_W6_P.qmd)
+  - [Part 1: Collection Methods](desn2003_W6_P.qmd)
+  - [Part 2: KYC & Analysis](desn2003_W7.qmd)
+- [Week 8: Research Paradigms & Methods](desn2003_W8.qmd)
+- [Week 9: Writing & Synthesis](desn2003_W9.qmd)
 - [Week 10: Data Visualization](desn2003_W10.qmd)
-  - [Plotting Examples](W10_note.qmd)
-  - [Google Colab](https://drive.google.com/file/d/18ZA2SsFfTibCFGjTkAeFNxzJomOmAVLa/view?usp=sharing)
-  - [Survey Data](data/survey_data.csv)
-  - [Transcripts](data/transcripts.json)
-  - [Tabular Data](data/example_data.csv)
 - [Week 12: Presentations](W12.qmd)
+
+---
+
+## Resources
+
+### Grab-and-Go Artifacts
+
+Printable PDF toolkits — each includes a blank template on page 1 and a worked example on page 2.
+
+| Week | Toolkit | Description |
+|:-----|:--------|:------------|
+| 3 | [Landscape Intelligence Canvas](data/landscape_canvas.pdf) | Competitive + academic research synthesis |
+| 4 | [Research Question Builder](data/research_question_builder.pdf) | FINER criteria, scope check, question types |
+| 5 | [Interview Protocol Template](data/interview_protocol_template.pdf) | Opening script, probes, anti-patterns |
+| 6 | [Survey Design Checklist](data/survey_design_checklist.pdf) | Bias checks, Likert scales, sample size guide |
+| 9 | [Synthesis Canvas](data/synthesis_canvas.pdf) | Qual→themes, quant patterns, triangulation |
+| 9 | [Research to Decision Canvas](data/research_to_decision_canvas.pdf) | For Applied Research: evidence → recommendation |
+
+### Course Materials
+
+- [Assessment Guide](assessment.qmd) — Grading breakdown, document progression, submission guidelines
+- [Writing Samples](writingsample.qmd) — Examples of strong student work
+- [Worksheet: Qualitative Methods](data/worksheet.pdf) — Quick-reference interview guide
+- [Example Writeup](write.qmd) — Sample research writeup
+- [Peer Review Guide](data/TMP.pdf) — Evaluation criteria for peer feedback
+
+**Week 10 Data Files:**
+
+- [Plotting Examples](W10_note.qmd) | [Google Colab](https://drive.google.com/file/d/18ZA2SsFfTibCFGjTkAeFNxzJomOmAVLa/view?usp=sharing)
+- [Survey Data](data/survey_data.csv) | [Transcripts](data/transcripts.json) | [Tabular Data](data/example_data.csv)
 
 ## Course Info
 

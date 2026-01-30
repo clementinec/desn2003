@@ -1,0 +1,193 @@
+---
+title: "Research Question Builder"
+subtitle: "DESN2003: Research for Innovation"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.75in
+    fontsize: 10pt
+    linestretch: 1.1
+---
+
+\newpage
+
+# Research Question Builder — Blank Template
+
+**Your Name:** ________________________________ **Date:** ____________
+
+---
+
+## 1. Start With Your Gap
+
+What's the gap you identified from your Landscape Intelligence?
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+---
+
+## 2. Question Type — Pick One
+
+| Type | Template | Check |
+|:-----|:---------|:-----:|
+| **Descriptive** | "What is happening with [phenomenon] among [population]?" | [ ] |
+| **Relational** | "What is the relationship between [X] and [Y] in [context]?" | [ ] |
+| **Causal** | "Does [intervention] cause [outcome] in [population]?" | [ ] |
+
+---
+
+## 3. Build Your Question — Fill In The Blanks
+
+| Component | Your Answer |
+|:----------|:------------|
+| **WHO** (population) | _________________________________________________ |
+| **WHAT** (phenomenon/intervention) | _________________________________________________ |
+| **WHERE** (context) | _________________________________________________ |
+| **OUTCOME** (what you're measuring) | _________________________________________________ |
+
+**Draft Question:**
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+---
+
+## 4. FINER Criteria Check
+
+| Criterion | Question to Ask Yourself | Pass? |
+|:----------|:-------------------------|:-----:|
+| **F**easible | Can I actually do this in one semester with my resources? | [ ] |
+| **I**nteresting | Do I genuinely care? Would others care? | [ ] |
+| **N**ovel | Does this add something new (not already answered)? | [ ] |
+| **E**thical | Can this be done without harming participants? | [ ] |
+| **R**elevant | Does answering this matter to the field/industry? | [ ] |
+
+**If any box is unchecked, revise your question before proceeding.**
+
+---
+
+## 5. Scope Check — The Goldilocks Test
+
+| Too Broad | Just Right | Too Narrow |
+|:----------|:-----------|:-----------|
+| Can't answer in a lifetime | Answerable in one semester | Answer is trivial/obvious |
+| "How does technology affect society?" | Your question here | "Is button A 2% better than B?" |
+
+**Is your question "just right"?** [ ] Yes [ ] No — needs scoping
+
+**If too broad, narrow by:** ________________________________________________
+
+**If too narrow, broaden by:** ________________________________________________
+
+---
+
+## 6. Method Reality Check
+
+Based on your question type, what method would you likely use?
+
+| Question Type | Typical Methods |
+|:--------------|:----------------|
+| Descriptive | Surveys, interviews, observation |
+| Relational | Correlational surveys, analytics |
+| Causal | Experiments, A/B tests |
+
+**My likely method:** ________________________________________________
+
+**Can I access the data/people I need?** [ ] Yes [ ] No [ ] Need to figure out
+
+---
+
+## 7. Final Research Question
+
+Write your refined, final research question:
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+**Credibility Check:** Could a stranger understand exactly what you're studying, who you're studying, and why it matters? [ ] Yes [ ] No
+
+\newpage
+
+# Research Question Builder — Worked Example
+
+**Your Name:** Alex Chen **Date:** Week 4
+
+---
+
+## 1. Start With Your Gap
+
+What's the gap you identified from your Landscape Intelligence?
+
+**Instagram tested hiding likes in 2019, and research shows social comparison causes anxiety, but no study has measured whether hiding likes actually reduces anxiety — especially not in Asian contexts where social pressure dynamics differ.**
+
+---
+
+## 2. Question Type — Pick One
+
+| Type | Template | Check |
+|:-----|:---------|:-----:|
+| **Descriptive** | "What is happening with [phenomenon] among [population]?" | [ ] |
+| **Relational** | "What is the relationship between [X] and [Y] in [context]?" | [x] |
+| **Causal** | "Does [intervention] cause [outcome] in [population]?" | [ ] |
+
+*Note: I chose Relational because I can't run a true experiment (can't actually hide likes on Instagram). I can study the relationship between like-checking behavior and anxiety levels.*
+
+---
+
+## 3. Build Your Question — Fill In The Blanks
+
+| Component | Your Answer |
+|:----------|:------------|
+| **WHO** (population) | HKU undergraduate students aged 18-24 who use Instagram daily |
+| **WHAT** (phenomenon/intervention) | Frequency of checking like counts on own posts |
+| **WHERE** (context) | Daily Instagram use over a 2-week period |
+| **OUTCOME** (what you're measuring) | Self-reported anxiety levels (using validated GAD-7 scale) |
+
+**Draft Question:**
+
+**"What is the relationship between frequency of checking Instagram like counts and self-reported anxiety levels among HKU undergraduate students during daily use?"**
+
+---
+
+## 4. FINER Criteria Check
+
+| Criterion | Question to Ask Yourself | Pass? |
+|:----------|:-------------------------|:-----:|
+| **F**easible | Can I recruit 50+ HKU students? Yes. Can I run a 2-week diary study? Yes. | [x] |
+| **I**nteresting | I use Instagram daily and feel this anxiety. My classmates talk about it. | [x] |
+| **N**ovel | Existing research is Western-focused; HK/Asian context understudied. | [x] |
+| **E**thical | Observational only, no manipulation, participants can withdraw anytime. | [x] |
+| **R**elevant | Mental health + social media is a major concern; designers need this data. | [x] |
+
+---
+
+## 5. Scope Check — The Goldilocks Test
+
+| Too Broad | Just Right | Too Narrow |
+|:----------|:-----------|:-----------|
+| "How does Instagram affect mental health?" | "Relationship between like-checking frequency and anxiety in HKU students" | "Do students check likes more on Tuesdays?" |
+
+**Is your question "just right"?** [x] Yes [ ] No
+
+---
+
+## 6. Method Reality Check
+
+**My likely method:** Mixed methods — diary study (quantitative: daily anxiety ratings + like-checking frequency) + exit interviews (qualitative: why do you check?)
+
+**Can I access the data/people I need?** [x] Yes — I can recruit through HKU student groups and my own network
+
+---
+
+## 7. Final Research Question
+
+**"What is the relationship between Instagram like-checking frequency and daily anxiety levels among HKU undergraduate students (aged 18-24), and what motivations drive this checking behavior?"**
+
+**Credibility Check:** [x] Yes — A stranger knows: who (HKU undergrads), what (like-checking vs anxiety), and why it matters (mental health + design implications)
+

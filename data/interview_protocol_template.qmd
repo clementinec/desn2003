@@ -1,0 +1,222 @@
+---
+title: "Interview Protocol Template"
+subtitle: "DESN2003: Research for Innovation"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.75in
+    fontsize: 10pt
+    linestretch: 1.1
+---
+
+\newpage
+
+# Interview Protocol Template — Blank Template
+
+**Your Name:** ________________________________ **Date:** ____________
+
+**Research Question:** _______________________________________________________________
+
+---
+
+## Pre-Interview Checklist
+
+| Item | Done? |
+|:-----|:-----:|
+| Research question clearly defined | [ ] |
+| Interview type chosen: [ ] Structured [ ] Semi-structured [ ] Unstructured | |
+| Recording device tested | [ ] |
+| Consent form prepared | [ ] |
+| Quiet location confirmed | [ ] |
+| Backup note-taking ready | [ ] |
+
+---
+
+## Part 1: Opening Script (2-3 min)
+
+*Read this verbatim to ensure consistency:*
+
+> "Thank you for taking the time to speak with me today. My name is __________ and I'm conducting research on __________.
+>
+> This interview will take approximately ____ minutes. I'd like to record our conversation so I can focus on listening rather than note-taking. The recording will only be used for research purposes and your identity will remain confidential.
+>
+> Your participation is completely voluntary. You can skip any question or stop the interview at any time.
+>
+> Do you have any questions before we begin? Do I have your permission to record?"
+
+**Consent given?** [ ] Yes (verbal) [ ] Yes (written) [ ] No — do not proceed
+
+---
+
+## Part 2: Warm-Up Questions (3-5 min)
+
+*Easy, non-threatening questions to build rapport:*
+
+1. ___________________________________________________________________________
+
+2. ___________________________________________________________________________
+
+---
+
+## Part 3: Core Questions (20-30 min)
+
+*Your main research questions with follow-up probes:*
+
+**Question 1:** ___________________________________________________________________
+
+- Probe: "Can you tell me more about that?"
+- Probe: "Can you give me a specific example?"
+- Probe: _______________________________________________________________
+
+**Question 2:** ___________________________________________________________________
+
+- Probe: "What do you mean by __________?"
+- Probe: "How did that make you feel?"
+- Probe: _______________________________________________________________
+
+**Question 3:** ___________________________________________________________________
+
+- Probe: "Why do you think that is?"
+- Probe: "What happened next?"
+- Probe: _______________________________________________________________
+
+**Question 4:** ___________________________________________________________________
+
+- Probe: _______________________________________________________________
+- Probe: _______________________________________________________________
+
+**Question 5:** ___________________________________________________________________
+
+- Probe: _______________________________________________________________
+- Probe: _______________________________________________________________
+
+---
+
+## Part 4: Closing (2-3 min)
+
+> "We're coming to the end of our time. Is there anything else you'd like to add that we haven't covered?"
+
+*Listen and note any additional points:* ________________________________________________
+
+> "Thank you so much for your time. Your insights are really valuable for this research. If you have any questions later, feel free to contact me at __________."
+
+---
+
+## Post-Interview Checklist
+
+| Item | Done? |
+|:-----|:-----:|
+| Recording saved and backed up | [ ] |
+| Field notes written within 24 hours | [ ] |
+| Key quotes flagged | [ ] |
+| Surprising findings noted | [ ] |
+| Follow-up questions for next interview identified | [ ] |
+
+---
+
+## Anti-Pattern Checklist — Did You Avoid These?
+
+| Mistake | Avoided? |
+|:--------|:--------:|
+| Leading questions ("Don't you think...?") | [ ] |
+| Double-barreled questions (two questions in one) | [ ] |
+| Yes/No questions without follow-up | [ ] |
+| Interrupting the participant | [ ] |
+| Showing approval/disapproval of answers | [ ] |
+| Asking hypotheticals ("Would you use...?") | [ ] |
+
+\newpage
+
+# Interview Protocol Template — Worked Example
+
+**Your Name:** Alex Chen **Date:** Week 5
+
+**Research Question:** What is the relationship between Instagram like-checking frequency and anxiety, and what motivations drive this behavior?
+
+---
+
+## Pre-Interview Checklist
+
+| Item | Done? |
+|:-----|:-----:|
+| Research question clearly defined | [x] |
+| Interview type chosen: [ ] Structured [x] Semi-structured [ ] Unstructured | |
+| Recording device tested | [x] |
+| Consent form prepared | [x] |
+| Quiet location confirmed | [x] |
+| Backup note-taking ready | [x] |
+
+---
+
+## Part 1: Opening Script (2-3 min)
+
+> "Thank you for taking the time to speak with me today. My name is **Alex** and I'm conducting research on **how HKU students experience Instagram, particularly around engagement metrics like likes**.
+>
+> This interview will take approximately **30** minutes. I'd like to record our conversation so I can focus on listening rather than note-taking. The recording will only be used for research purposes and your identity will remain confidential — I'll use a pseudonym in any write-up.
+>
+> Your participation is completely voluntary. You can skip any question or stop the interview at any time.
+>
+> Do you have any questions before we begin? Do I have your permission to record?"
+
+---
+
+## Part 2: Warm-Up Questions (3-5 min)
+
+1. **Can you tell me a bit about how you typically use Instagram?** (Frequency, what you do, who you follow)
+
+2. **What do you enjoy most about using Instagram?**
+
+---
+
+## Part 3: Core Questions (20-30 min)
+
+**Question 1:** **Walk me through what happens after you post something on Instagram.**
+
+- Probe: "Can you tell me more about that?"
+- Probe: "How soon after posting do you usually check back?"
+- Probe: "What are you looking for when you check?"
+
+**Question 2:** **Tell me about a time when a post got fewer likes than you expected.**
+
+- Probe: "What do you mean by 'fewer than expected'?"
+- Probe: "How did that make you feel?"
+- Probe: "What did you do after that?"
+
+**Question 3:** **How do you decide whether to keep a post up or delete it?**
+
+- Probe: "Why do you think likes matter in that decision?"
+- Probe: "Has this changed over time?"
+- Probe: "What would need to change for likes to matter less?"
+
+**Question 4:** **If Instagram hid like counts tomorrow, how would that affect your experience?**
+
+- Probe: "What would you miss?"
+- Probe: "What might improve?"
+
+**Question 5:** **Is there anything about your Instagram experience that affects how you feel day-to-day?**
+
+- Probe: "Can you give me a specific example from the last week?"
+- Probe: "How do you manage that?"
+
+---
+
+## Part 4: Closing (2-3 min)
+
+> "We're coming to the end of our time. Is there anything else you'd like to add about your experience with Instagram and likes that we haven't covered?"
+
+> "Thank you so much for your time. Your insights are really valuable for this research. If you have any questions later, feel free to contact me at alex.chen@hku.hk."
+
+---
+
+## Anti-Pattern Checklist — Did You Avoid These?
+
+| Mistake | Avoided? |
+|:--------|:--------:|
+| Leading questions ("Don't you think...?") | [x] — Asked "How would that affect you?" not "Wouldn't that be better?" |
+| Double-barreled questions (two questions in one) | [x] — Split questions about keeping/deleting posts |
+| Yes/No questions without follow-up | [x] — All questions are open-ended |
+| Interrupting the participant | [x] — Let them finish, then probe |
+| Showing approval/disapproval of answers | [x] — Neutral responses only |
+| Asking hypotheticals ("Would you use...?") | [x] — Asked about past behavior, not hypothetical future |
+

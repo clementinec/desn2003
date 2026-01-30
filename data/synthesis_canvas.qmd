@@ -1,0 +1,238 @@
+---
+title: "Synthesis Canvas"
+subtitle: "DESN2003: Research for Innovation"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.75in
+    fontsize: 10pt
+    linestretch: 1.1
+---
+
+\newpage
+
+# Synthesis Canvas — Blank Template
+
+**Your Name:** ________________________________ **Date:** ____________
+
+**Research Question:** _______________________________________________________________
+
+---
+
+## 1. What Data Do You Have?
+
+| Data Type | Source | Volume |
+|:----------|:-------|:-------|
+| **Qualitative** | _________________________ | ___ interviews / ___ pages of notes |
+| **Quantitative** | _________________________ | n = ___ responses |
+| **Other** | _________________________ | _________________________ |
+
+---
+
+## 2. Qualitative Synthesis: From Quotes to Themes
+
+**Step 1: Pull Key Quotes** (List 5-10 powerful quotes from your data)
+
+| Quote | Who Said It | Initial Code |
+|:------|:------------|:-------------|
+| "_________________________________" | P__ | _____________ |
+| "_________________________________" | P__ | _____________ |
+| "_________________________________" | P__ | _____________ |
+| "_________________________________" | P__ | _____________ |
+| "_________________________________" | P__ | _____________ |
+
+**Step 2: Group Into Themes** (Cluster similar codes)
+
+| Theme | Codes Included | # of Participants |
+|:------|:---------------|:------------------|
+| Theme 1: _________________ | _____________, _____________ | ___/___  |
+| Theme 2: _________________ | _____________, _____________ | ___/___ |
+| Theme 3: _________________ | _____________, _____________ | ___/___ |
+
+---
+
+## 3. Quantitative Synthesis: From Numbers to Patterns
+
+**Descriptive Statistics:**
+
+| Variable | Mean | SD | Range |
+|:---------|:-----|:---|:------|
+| _________________________ | _____ | _____ | _____ to _____ |
+| _________________________ | _____ | _____ | _____ to _____ |
+
+**Key Comparisons/Correlations:**
+
+| Finding | Statistic | Significant? |
+|:--------|:----------|:------------:|
+| _________________________ | r = ___ / p = ___ | [ ] Yes [ ] No |
+| _________________________ | r = ___ / p = ___ | [ ] Yes [ ] No |
+
+---
+
+## 4. Triangulation: Do Qual and Quant Agree?
+
+| Finding | Qual Evidence | Quant Evidence | Agreement? |
+|:--------|:--------------|:---------------|:----------:|
+| _________________ | _________________ | _________________ | [ ] Yes [ ] No [ ] Partial |
+| _________________ | _________________ | _________________ | [ ] Yes [ ] No [ ] Partial |
+| _________________ | _________________ | _________________ | [ ] Yes [ ] No [ ] Partial |
+
+**Where they disagree:** ___________________________________________________________
+
+**What might explain the disagreement:** ____________________________________________
+
+---
+
+## 5. The "So What?" Test
+
+For each finding, answer: **Why should anyone care?**
+
+| Finding | So What? (Implication) |
+|:--------|:-----------------------|
+| _________________________ | _________________________ |
+| _________________________ | _________________________ |
+| _________________________ | _________________________ |
+
+---
+
+## 6. Limitations — Be Honest
+
+| Limitation | How It Affects Your Findings |
+|:-----------|:-----------------------------|
+| Sample: _________________ | _________________________ |
+| Method: _________________ | _________________________ |
+| Context: _________________ | _________________________ |
+
+---
+
+## 7. From Findings to Recommendations
+
+| Finding | Design/Research Recommendation |
+|:--------|:-------------------------------|
+| _________________________ | _________________________ |
+| _________________________ | _________________________ |
+| _________________________ | _________________________ |
+
+---
+
+## 8. One-Sentence Summary
+
+**My research found that** ___________________________________________________________
+
+**which matters because** ___________________________________________________________
+
+**and suggests that** _______________________________________________________________
+
+\newpage
+
+# Synthesis Canvas — Worked Example
+
+**Your Name:** Alex Chen **Date:** Week 9
+
+**Research Question:** What is the relationship between Instagram like-checking frequency and daily anxiety levels among HKU undergraduate students?
+
+---
+
+## 1. What Data Do You Have?
+
+| Data Type | Source | Volume |
+|:----------|:-------|:-------|
+| **Qualitative** | Semi-structured interviews | 12 interviews / 45 pages of transcripts |
+| **Quantitative** | Online survey (Qualtrics) | n = 127 valid responses |
+| **Other** | Diary entries (subset) | 8 participants x 14 days |
+
+---
+
+## 2. Qualitative Synthesis: From Quotes to Themes
+
+**Step 1: Pull Key Quotes**
+
+| Quote | Who Said It | Initial Code |
+|:------|:------------|:-------------|
+| "I check within 10 minutes of posting. I can't help it." | P03 | Compulsive checking |
+| "If it doesn't hit 100 likes, I feel like a failure." | P07 | Threshold anxiety |
+| "I deleted a post because it only got 30 likes. That's embarrassing." | P11 | Deletion behavior |
+| "I know it's stupid, but I compare my likes to my friends' likes." | P05 | Social comparison |
+| "When I get a lot of likes, I feel good for maybe an hour. Then it fades." | P02 | Temporary validation |
+
+**Step 2: Group Into Themes**
+
+| Theme | Codes Included | # of Participants |
+|:------|:---------------|:------------------|
+| Theme 1: **Compulsive checking loop** | Compulsive checking, can't resist, habitual | 10/12 |
+| Theme 2: **Like thresholds as self-worth** | Threshold anxiety, deletion behavior, embarrassment | 8/12 |
+| Theme 3: **Social comparison with peers** | Social comparison, competitive feelings | 9/12 |
+
+---
+
+## 3. Quantitative Synthesis: From Numbers to Patterns
+
+**Descriptive Statistics:**
+
+| Variable | Mean | SD | Range |
+|:---------|:-----|:---|:------|
+| Daily like-checking frequency | 4.2 times | 2.8 | 0 to 15 |
+| GAD-7 anxiety score | 8.4 | 4.1 | 0 to 21 |
+
+**Key Comparisons/Correlations:**
+
+| Finding | Statistic | Significant? |
+|:--------|:----------|:------------:|
+| Like-checking frequency ↔ GAD-7 score | r = 0.42, p < .001 | [x] Yes [ ] No |
+| High-checkers (5+/day) vs low-checkers (<2/day) anxiety | t = 3.2, p = .002 | [x] Yes [ ] No |
+
+---
+
+## 4. Triangulation: Do Qual and Quant Agree?
+
+| Finding | Qual Evidence | Quant Evidence | Agreement? |
+|:--------|:--------------|:---------------|:----------:|
+| More checking = more anxiety | 10/12 described anxiety around checking | r = 0.42 correlation | [x] Yes [ ] No [ ] Partial |
+| Social comparison drives checking | 9/12 mentioned comparing to friends | 67% selected "comparing to others" as motivation | [x] Yes [ ] No [ ] Partial |
+| Likes tied to self-worth | "I feel like a failure" (P07) | Not directly measured | [ ] Yes [ ] No [x] Partial |
+
+**Where they disagree:** Qualitative data suggests checking causes anxiety; quantitative data only shows correlation (can't prove direction).
+
+**What might explain the disagreement:** Cross-sectional survey can't establish causality. Some participants may be anxious people who also happen to check more (reverse causation).
+
+---
+
+## 5. The "So What?" Test
+
+| Finding | So What? (Implication) |
+|:--------|:-----------------------|
+| r = 0.42 correlation between checking and anxiety | Moderate relationship — not deterministic, but meaningful signal for designers |
+| 67% check to compare with others | Hiding like counts might reduce comparison triggers |
+| 10/12 describe compulsive checking | Design interventions (friction, delays) might help break the loop |
+
+---
+
+## 6. Limitations — Be Honest
+
+| Limitation | How It Affects Your Findings |
+|:-----------|:-----------------------------|
+| Sample: HKU students only | May not generalize to other populations or cultures |
+| Method: Self-report data | Actual checking frequency may differ; social desirability bias |
+| Context: Correlational design | Cannot prove that checking *causes* anxiety |
+
+---
+
+## 7. From Findings to Recommendations
+
+| Finding | Design/Research Recommendation |
+|:--------|:-------------------------------|
+| Compulsive checking loop | Test "check later" nudges that add friction after posting |
+| Social comparison drives behavior | Hide like counts by default; show only to poster |
+| Temporary validation effect | Research whether delayed like visibility reduces anxiety |
+
+---
+
+## 8. One-Sentence Summary
+
+**My research found that** Instagram like-checking frequency is moderately correlated with anxiety (r=0.42) among HKU students, driven primarily by social comparison,
+
+**which matters because** it provides evidence that engagement metrics affect mental health in Asian university populations (previously understudied),
+
+**and suggests that** design interventions like hidden likes or checking friction could reduce comparison-driven anxiety — but longitudinal research is needed to establish causality.
+

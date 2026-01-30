@@ -62,15 +62,19 @@ format:
 ## What You'll Learn in This Course 🎓
 
 ::: {.callout-note icon=false}
-## The Academic Foundation
+## One Goal, Two Paths
 
-This course teaches **academic research methods and thinking**—the rigorous, systematic approaches used in scholarly research.
+**The Course's Goal:** Learn to distinguish incremental changes from genuine innovation — using research methodology.
 
-**Why learn the academic way?**
+**Two paths to get there:**
 
-- Academic research provides the **foundational tools and frameworks**
-- These methods ensure **validity, reliability, and rigor**
-- Product teams adapt these same principles for real-world design research
+| **Research/Technologist Track** | **Product Designer Track** |
+|---|---|
+| Shape the field with new knowledge | Ship research-backed features |
+| Academic rigor → publications | Industry rigor → portfolio pieces |
+| "What should the world know?" | "What should we build?" |
+
+**Same methodology. Same rigor. Different outputs.**
 :::
 
 . . .
@@ -653,10 +657,33 @@ Ford DID extensive research:
 **Research doesn't kill creativity—it focuses it.**
 
 ::: {.incremental}
-- Bad research: "What color should this button be?"
-- Good research: "Why aren't users completing checkout?"
-- Great research: "What's the emotional journey of buying online?"
+- Bad research: "What color should this button be?" *(incremental)*
+- Good research: "Why aren't users completing checkout?" *(validation)*
+- Great research: "What's the emotional journey of buying online?" *(discovery)*
 :::
+
+---
+
+## Innovation vs. Incremental: The Course's Core Theme
+
+::: {.callout-note icon=false}
+## What This Course Teaches You
+
+**Not just how to do research — but how to use research to distinguish:**
+
+| Incremental | Innovation |
+|-------------|------------|
+| 10% better | 10x different |
+| Optimize existing | Create new category |
+| A/B test button colors | Discover unmet need |
+| Iteration | Invention |
+:::
+
+. . .
+
+Both are valuable. But **knowing which you're doing** is the mark of a sophisticated designer/researcher.
+
+Throughout this semester, we'll return to this question: **Is what you're working on incremental improvement or genuine innovation?**
 
 ::: {.notes}
 - Address the common fear: "Research will make everything boring"
@@ -669,16 +696,35 @@ Ford DID extensive research:
 ## Today's Key Takeaways
 
 ::: {.nonincremental}
-1. 💡 **Research drives innovation** by uncovering insights you'd never guess
-2. 💥 **Skipping research is expensive** (Juicero, Snapchat, Theranos)
-3. 🎯 **Every successful product** started with understanding users
-4. 🎨 **Research ≠ boring**—it makes design more creative and effective
-5. ⚡ **You already do research**—now you'll learn to do it systematically
+1. **Research drives innovation** by uncovering insights you'd never guess
+2. **Skipping research is expensive** (Juicero lost $120M, Snapchat lost $1.3B)
+3. **Every successful product** started with understanding users
+4. **Research ≠ boring** — it makes design more creative and effective
+5. **You already do research** — now you'll learn to do it systematically
+6. **Innovation ≠ Incremental** — this course teaches you to tell the difference
 :::
 
 ---
 
-## Next Week: Research Classification & Methods 🗺️
+## The Slide to Screenshot
+
+::: {.r-fit-text}
+**Juicero had designers.**
+
+**Theranos had designers.**
+
+**Snapchat had designers.**
+
+**What they didn't have was research.**
+:::
+
+. . .
+
+Don't be them.
+
+---
+
+## Next Week: Research Classification & Methods
 
 **We'll dive into:**
 
@@ -692,11 +738,30 @@ Ford DID extensive research:
 . . .
 
 ::: {.callout-note icon=false}
-## 📚 Optional Reading
+## Optional Reading
 - "Sprint" by Jake Knapp (Design Sprints)
 - "The Mom Test" by Rob Fitzpatrick (Customer interviews)
 - "Just Enough Research" by Erika Hall (Research for designers)
 :::
+
+---
+
+## Try This Tonight (5 minutes)
+
+::: {.callout-tip icon=false}
+## Your First Research Micro-Exercise
+
+1. Open the App Store
+2. Find an app you use daily
+3. Read the **10 most recent 1-star reviews**
+4. Write down: What are users actually complaining about?
+
+**What you'll discover:** Real user pain points, in their own words, that no survey would capture. This is primary research. You just did it in 5 minutes.
+
+**Bring to next class:** One insight from your 1-star review mining.
+:::
+
+This is the beginning. By Week 12, you'll be dangerous.
 
 ---
 

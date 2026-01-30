@@ -1,0 +1,226 @@
+---
+title: "Research to Decision Canvas"
+subtitle: "DESN2003: Research for Innovation"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.75in
+    fontsize: 10pt
+    linestretch: 1.1
+---
+
+\newpage
+
+# Research to Decision Canvas — Blank Template
+
+**Your Name:** ________________________________ **Date:** ____________
+
+**Product/Feature Idea:** _______________________________________________________________
+
+---
+
+## 1. Scientific Foundation
+
+What does behavioral science / existing research say about this problem?
+
+| Source | Key Finding | Mechanism |
+|:-------|:------------|:----------|
+| _________________________ | _________________________ | _________________________ |
+| _________________________ | _________________________ | _________________________ |
+| _________________________ | _________________________ | _________________________ |
+
+**One-sentence summary:** Research suggests that _________________________________________________
+
+---
+
+## 2. Your Primary Data
+
+What did your own research (interviews, surveys, observations) reveal?
+
+| Method | Key Finding | Strength of Evidence |
+|:-------|:------------|:---------------------|
+| _________________________ | _________________________ | [ ] Strong [ ] Moderate [ ] Weak |
+| _________________________ | _________________________ | [ ] Strong [ ] Moderate [ ] Weak |
+
+**Pattern summary:** Our data shows that _________________________________________________
+
+---
+
+## 3. Product Hypothesis
+
+Fill in the blanks:
+
+**If we build** _______________________________________________________________
+
+**then** _______________________________________________________________
+
+**because** _______________________________________________________________
+
+---
+
+## 4. Expected Effect
+
+| Metric | Current Baseline | Target After Launch |
+|:-------|:-----------------|:--------------------|
+| _________________________ | _________________________ | _________________________ |
+| _________________________ | _________________________ | _________________________ |
+
+**How confident are you?** [ ] High (strong evidence) [ ] Medium (directional evidence) [ ] Low (hypothesis only)
+
+---
+
+## 5. Success Metrics
+
+| Metric Type | What You'll Measure | How You'll Measure It |
+|:------------|:--------------------|:----------------------|
+| **Primary** | _________________________ | _________________________ |
+| **Secondary** | _________________________ | _________________________ |
+| **Qualitative** | _________________________ | _________________________ |
+
+---
+
+## 6. Risk Assessment
+
+**If our hypothesis is wrong, what happens?**
+
+| Risk | Likelihood | Impact | Mitigation |
+|:-----|:-----------|:-------|:-----------|
+| _________________________ | [ ] High [ ] Med [ ] Low | [ ] High [ ] Med [ ] Low | _________________________ |
+| _________________________ | [ ] High [ ] Med [ ] Low | [ ] High [ ] Med [ ] Low | _________________________ |
+
+---
+
+## 7. Validation Plan
+
+Before full launch, how will you test?
+
+| Phase | Method | Sample Size | Duration | Decision Criteria |
+|:------|:-------|:------------|:---------|:------------------|
+| _________________________ | _________________________ | _____ | _____ | _________________________ |
+| _________________________ | _________________________ | _____ | _____ | _________________________ |
+
+---
+
+## 8. Recommendation
+
+Based on your research, what should the team do?
+
+[ ] **Build it** — Strong evidence supports the hypothesis
+
+[ ] **Test first** — Promising but needs validation before full investment
+
+[ ] **Don't build** — Research suggests this won't work (document why)
+
+[ ] **Pivot** — Research revealed a better opportunity: _________________________
+
+**One-paragraph justification:**
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+\newpage
+
+# Research to Decision Canvas — Worked Example
+
+**Your Name:** Alex Chen **Date:** Week 9
+
+**Product/Feature Idea:** Hide Instagram like counts from public view (users can still see their own)
+
+---
+
+## 1. Scientific Foundation
+
+| Source | Key Finding | Mechanism |
+|:-------|:------------|:----------|
+| Festinger (1954) | Social comparison theory — people evaluate themselves by comparing to others | Visible likes enable comparison → comparison triggers anxiety |
+| Vogel et al. (2014) | Facebook social comparison linked to lower self-esteem | Upward comparison (to "better" performers) is particularly harmful |
+| Verduyn et al. (2017) | Passive social media use (scrolling, comparing) → negative well-being | Active use (posting, commenting) is less harmful than passive comparison |
+
+**One-sentence summary:** Research suggests that visible engagement metrics enable social comparison, which drives anxiety and lower self-esteem, particularly among young users.
+
+---
+
+## 2. Your Primary Data
+
+| Method | Key Finding | Strength of Evidence |
+|:-------|:------------|:---------------------|
+| 12 interviews | 9/12 participants explicitly mentioned comparing likes to friends; described as "automatic" | [x] Strong [ ] Moderate [ ] Weak |
+| 127 survey responses | 67% selected "comparing to others" as motivation for checking likes | [x] Strong [ ] Moderate [ ] Weak |
+| Diary study (8 participants) | Comparison behavior highest immediately after posting | [ ] Strong [x] Moderate [ ] Weak |
+
+**Pattern summary:** Our data shows that comparison is a primary driver of like-checking behavior, and users are aware this comparison harms them but feel unable to stop.
+
+---
+
+## 3. Product Hypothesis
+
+**If we build** a feature that hides like counts from viewers (only the poster sees their own counts)
+
+**then** users will experience less comparison-driven anxiety and report higher well-being
+
+**because** removing visible metrics eliminates the primary trigger for social comparison (you can't compare if you can't see)
+
+---
+
+## 4. Expected Effect
+
+| Metric | Current Baseline | Target After Launch |
+|:-------|:-----------------|:--------------------|
+| % reporting "I check to compare" | 67% | <40% |
+| Average GAD-7 anxiety score | 8.4 (moderate) | <7.0 (mild) |
+| Like-checking frequency | 4.2x/day | <3.0x/day |
+
+**How confident are you?** [ ] High [x] Medium (directional evidence) [ ] Low
+
+---
+
+## 5. Success Metrics
+
+| Metric Type | What You'll Measure | How You'll Measure It |
+|:------------|:--------------------|:----------------------|
+| **Primary** | Self-reported comparison frequency | Pre/post survey question |
+| **Secondary** | Anxiety levels (GAD-7) | Validated scale at baseline and 4 weeks |
+| **Qualitative** | User sentiment about the change | 10 exit interviews |
+
+---
+
+## 6. Risk Assessment
+
+| Risk | Likelihood | Impact | Mitigation |
+|:-----|:-----------|:-------|:-----------|
+| Users feel less validated, post less | [x] High [ ] Med [ ] Low | [ ] High [x] Med [ ] Low | Users still see their own likes; focus messaging on privacy |
+| Creators/influencers revolt (need public validation) | [x] High [ ] Med [ ] Low | [x] High [ ] Med [ ] Low | Optional toggle for creator accounts |
+| Engagement metrics drop, affecting ad revenue | [ ] High [x] Med [ ] Low | [x] High [ ] Med [ ] Low | Monitor closely; prepare rollback plan |
+
+---
+
+## 7. Validation Plan
+
+| Phase | Method | Sample Size | Duration | Decision Criteria |
+|:------|:-------|:------------|:---------|:------------------|
+| Phase 1 | A/B test (hidden vs. visible) | 10,000 users | 4 weeks | Comparison reports <50% AND engagement doesn't drop >10% |
+| Phase 2 | Expand to 25% of users | ~50M users | 8 weeks | No major creator backlash; anxiety metrics improve |
+| Phase 3 | Full rollout with opt-out | All users | Ongoing | Monitor long-term retention and sentiment |
+
+---
+
+## 8. Recommendation
+
+Based on your research, what should the team do?
+
+[ ] **Build it**
+
+[x] **Test first** — Promising but needs validation before full investment
+
+[ ] **Don't build**
+
+[ ] **Pivot**
+
+**One-paragraph justification:**
+
+The behavioral science literature strongly supports the hypothesis that hiding likes will reduce comparison-driven anxiety. Our qualitative and quantitative data confirms that HKU students experience this comparison-anxiety loop. However, the risks (creator backlash, engagement drop) are significant enough that a phased A/B test is warranted before full commitment. Instagram's own 2019 hidden-likes test in Canada provides a precedent, but their results weren't publicly conclusive. We recommend a 4-week A/B test with 10,000 users, measuring both well-being outcomes (our goal) and engagement metrics (business risk). If comparison reports drop below 50% without engagement dropping more than 10%, proceed to broader rollout.
+

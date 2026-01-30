@@ -1,6 +1,6 @@
 ---
-title: "Data, Data, Data, Collection Methodologies and Quantitative vs. Qualitative"
-subtitle: "DESN2003: Research for Innovation, Week Seven (Part 1)"
+title: "Data Collection Methods"
+subtitle: "DESN2003: Research for Innovation, Week 7 Part 1"
 author: Hongshan Guo
 format: 
   revealjs:
@@ -15,7 +15,34 @@ format:
     incremental: true
 ---
 
-# Introducting Data before its Collection
+# Week 7 Part 1: Data Collection Methods
+
+## Learning Objectives
+
+By the end of this session, you will be able to:
+
+1. **Distinguish** primary vs. secondary data sources and when to use each
+2. **Design** effective questionnaires and survey instruments
+3. **Select** appropriate data collection methods for your research question
+4. **Apply** observation techniques to a real-world scenario
+
+---
+
+## Artifact Output: What You Leave With
+
+::: {.callout-note icon=false}
+## Today's Deliverable
+
+By end of class, you'll have completed the **Observation Design Exercise** (jay-walking study):
+
+- Observation method selection with justification
+- Behavior categories defined
+- Reliability strategy outlined
+
+This directly prepares you for Doc 0.2 (Methodology).
+:::
+
+# Introducing Data before its Collection
 
 ## Types of Research Data Collection (Source)
 
@@ -46,12 +73,12 @@ format:
   - Databases
   - Books
   - General websites
-  - Unpulibhsed personal records
+  - Unpublished personal records
   - Census data/population statistics
 
-## Primary Data Collection Methods: Desining Questionnaires
-- a set of questions and secure answers from respondants
-- often analyzed by statsitical methods
+## Primary Data Collection Methods: Designing Questionnaires
+- a set of questions and secure answers from respondents
+- often analyzed by statistical methods
 - consistency in questionnaires make cross-sectional analysis easy
 
 ### Types of questions designed to measure variables in survey:
@@ -59,9 +86,9 @@ format:
   1. Two-option aka dichotomous scales
   2. More than two options: Nominal-polychromous
   3. Ordinal-Polytomous scale
-  4. Continous or bounded types
+  4. Continuous or bounded types
 - Open-end questions
-  - setence completion
+  - sentence completion
   - open-ended questions with free text responses
 
 ## Polytomous Variables, aka Options for Multiple Choice Questions
@@ -72,7 +99,7 @@ Statistical term that refers to a **categorical** variable with more than two po
 ### Characteristics:
 - Categorical data: limited/distinct values or categories that are **mutually exclusive**
 - Always more than two options(binary)
-- Ordered and unordered (natural hiearchy)
+- Ordered and unordered (natural hierarchy)
 - Statistical analyses: e.g. logistic regression, cluster analysis for patterns and trends
 - Convertable to binary variables
 
@@ -97,7 +124,7 @@ Statistical term that refers to a **categorical** variable with more than two po
 - **response bias** 
 - small **sample sizes**
   - calculating the appropriate size of population needed
-  - amount of respondants needed to reach statistical significance (reject null hypothesis, not covered by current class, leverage sample size calculator online)
+  - amount of respondents needed to reach statistical significance (reject null hypothesis, not covered by current class, leverage sample size calculator online)
 
 ## Primary Data Collection: Designing Questionnaires
 
@@ -122,7 +149,7 @@ Face-to-face, paper-and-pencil or remote, make sure your data collected is:
 
 - use more than one question (double-barreled) in one item
 - make assumptions for the respondents
-- lead the respondant to answers with clues, suggestions and hints
+- lead the respondent to answers with clues, suggestions and hints
 
 ## Steps involved in designing a questionnaire
 
@@ -179,7 +206,7 @@ Good for complex or sensitive concepts and need detailed and high-status informa
 
 
 ## Good & Bad Survey Questions: Let's try out how to conduct surveys
-Context: Surveying respondants on their religious beliefs and life styles
+Context: Surveying respondents on their religious beliefs and life styles
 
 1. How religious are you?
   - vague, not sure what is being asked
@@ -253,7 +280,7 @@ Context: Surveying respondants on their religious beliefs and life styles
     - very low reproducibility
 
 
-## Secondary dcata collection methods
+## Secondary data collection methods
 
 **Data gathered from published sources.**
 
@@ -266,7 +293,7 @@ Context: Surveying respondants on their religious beliefs and life styles
     - neutral location
     - participants to feel free to provide their responses
 
-2. Literacy of Participants and Langauge of Questions
+2. Literacy of Participants and Language of Questions
 
     - Design of questions is appropriate for the literacy level of participants
     - may require pilot tests to confirm (added costs)
@@ -281,50 +308,50 @@ Context: Surveying respondants on their religious beliefs and life styles
     - Privacy of the Participants (Unique identifier)
     - Protecting personal information through promises and icebreakers and examples
 
-## Data Visualization: Introducing [Pygwalker](https://docs.kanaries.net/pygwalker/quick-start)
+# Activity: Observation Design Exercise {background-color="#FFE66D"}
 
-::: {.panel-tabset}
+## Ethics in Observation Studies
 
-### Jupyter
+::: {.callout-warning icon=false}
+## Before You Observe: Ethics Checklist
 
-```{pyodide}
-# In Jupyter:
-import pandas as pd
-df=pd.read_csv('data/tcdatasample.csv')
+1. **Public vs. Private Space** — Observing in truly public spaces (streets, plazas) generally doesn't require consent. Private spaces always do.
 
-!pip install pygwalker
-import pygwalker as pyg
-pyg.walk(df)
-```
+2. **Reasonable Expectation of Privacy** — Even in public, some behaviors have privacy expectations (e.g., conversations, personal moments).
 
-### Streamlit App
+3. **Recording** — Photos/video raise the bar. In HK, recording in public is legal but publishing identifiable images may require consent.
 
-```{pyodide}
-#Set up as a separate datasample.py file. Run with `streamlit run datasample.py`
-from pygwalker.api.streamlit import StreamlitRenderer
-import pandas as pd
-import streamlit as st
- 
-# Adjust the width of the Streamlit page
-st.set_page_config(
-    page_title="Use Pygwalker In Streamlit",
-    layout="wide"
-)
-# Import your data
-df = pd.read_csv("/Users/guo/tprojs/desn2003/data/tcdatasample.csv")
- 
-pyg_app = StreamlitRenderer(df)
- 
-pyg_app.explorer()
-```
+4. **Vulnerable Populations** — Extra care with children, elderly, people in distress.
+
+5. **No Intervention** — Observation means watching, not influencing. Don't create situations to observe.
+
+6. **Data Protection** — If you record identifiable data, you have obligations under PDPO (Personal Data Privacy Ordinance).
 :::
 
-[Data Download](data/tcdatasample.csv)
+**When in doubt:** Describe your observation plan to your instructor before starting.
 
-## Let's practice data collection/design concepts
+---
+
+## Architecture/Urban Example: Observing Public Space Use
+
+**Research question:** How do people use seating in Hong Kong's privately-owned public spaces (POPS)?
+
+| Design Element | Observation Approach |
+|:---------------|:---------------------|
+| **Location** | 3 POPS in Central (Exchange Square, Cheung Kong Center, IFC) |
+| **Behavior categories** | Sitting, standing, eating, phone use, socializing, transiting |
+| **Time sampling** | 15-min observation blocks, 3x daily (morning, lunch, evening) |
+| **Recording** | Tally sheet + behavioral mapping on floor plan |
+| **Ethics** | Public space, no recording of faces, aggregate data only |
+
+This type of study informs urban design guidelines and policy.
+
+---
+
+## Let's Practice: Designing an Observation Study
 
 
->_Several years ago, a group of students at University of Central Arkansas conducted a study in which they observed the rate at which cars failed to stop at a campus stop sign and recorded whether the car had a student parking decal or a faculty/staff parking decal._ This is obviously not fitting for Hong Kong context. Let's perhaps picture a study of the **rate of jay-walking at a traffic light** instead - and record whether the pedestrian who crossed is a student/staff/tourist/local resident. 
+>_Several years ago, a group of students at University of Central Arkansas conducted a study in which they observed the rate at which cars failed to stop at a campus stop sign and recorded whether the car had a student parking decal or a faculty/staff parking decal._ This is obviously not fitting for Hong Kong context. Let's perhaps picture a study of the **rate of jay-walking at a traffic light** instead - and record whether the pedestrian who crossed is a student/staff/tourist/local resident.
 >Use what we have covered today to answer questions 1-7:
 
 

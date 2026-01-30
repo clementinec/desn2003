@@ -389,6 +389,36 @@ This is the kind of qualitative research that gets published.
 :::
 :::
 
+---
+
+## Anti-Patterns: How Interviews Go Wrong
+
+::: {.columns}
+::: {.column width="50%"}
+### Question Design Mistakes
+
+- **Leading questions:** "Don't you think the feature is confusing?" → "Describe your experience with the feature"
+- **Double-barreled:** "How do you feel about the speed and design?" → Ask separately
+- **Hypotheticals:** "Would you use this?" (people can't predict) → "Tell me about a time you..."
+:::
+
+::: {.column width="50%"}
+### Execution Mistakes
+
+- **Confirmation bias:** Only hearing what supports your hypothesis
+- **Interviewing friends:** They tell you what you want to hear
+- **Rushing to solutions:** "Would this fix it?" → "What would need to change?"
+- **Not following up:** "Interesting" vs. "Can you tell me more about that?"
+:::
+:::
+
+. . .
+
+::: {.callout-warning icon=false}
+## The Worst Anti-Pattern
+**5 interviews with people who think like you ≠ research.** Seek diversity of perspective.
+:::
+
 # Observations & Ethnography {background-color="#4ECDC4"}
 
 ## Why Observe?
@@ -791,6 +821,24 @@ Quantitative & Mixed methods
 **Your research journey:**
 
 Instinct → Gap → Landscape → Question → **Methods** → Evidence → Analysis → Paper
+
+---
+
+---
+
+## The Slide to Screenshot
+
+::: {.r-fit-text}
+**Surveys tell you WHAT.**
+
+**Interviews tell you WHY.**
+
+**Observation shows you REALITY.**
+:::
+
+. . .
+
+Choose based on what you need to know, not what seems easiest.
 
 ---
 

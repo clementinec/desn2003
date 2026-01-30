@@ -15,23 +15,36 @@ format:
     incremental: true
 ---
 
+## Learning Objectives
+
+By the end of this session, you will be able to:
+
+1. **Prepare** for informational interviews through professional research
+2. **Craft** effective outreach messages for professional networking
+3. **Apply** thematic analysis to qualitative data (codes → themes)
+4. **Articulate** the "so what?" of your findings
+
+---
+
 # Reflecting on Literature Review Submissions
 
-## How did we do with the literature reivew (Doc 0.1) submissions
-  - Basic stats:
-    - Median word counts: 1611
-    - Median # of citations: 12
-    - Avg. paragraph: 5
-  - The Goods
-    - Well articulated
-  - The Not-so-greats
-    - Lacks synergies with literature reviews in relevant fields
-      - formatting
-      - lengths
-      - contains conclusions
-    - Limited theoretical framework/backing
+## Common Patterns in Doc 0.1 Submissions
 
- <!-- Take architectural history as an example? -->
+**What typically works well:**
+
+- Clear articulation of research focus
+- Adequate number of sources
+
+**Common areas for improvement:**
+
+- Formatting doesn't match discipline conventions
+- Synthesis missing — reads as summary, not analysis
+- Theoretical framework underdeveloped
+- Conclusions included (lit reviews don't conclude — they set up your contribution)
+
+::: {.notes}
+Update with cohort-specific stats each semester if desired.
+:::
 
 ## Quick flash back on Document 1 submission
 
@@ -63,7 +76,7 @@ format:
   - Learn and build connections
   - Experience informational interview as a long-term investment 
   - Start building/expanding professional network
-  - The group project is a teaser of what you will likely experience going further into your career (irregardless of disciplines)
+  - The group project is a teaser of what you will likely experience going further into your career (regardless of discipline)
 
 ## Quick Q&A on Information interviews
   - Do you think you have a better idea of what these are by now?
@@ -91,11 +104,11 @@ format:
 ### Key Components:
 
   1. Subject Line: Clear and engaging subject line that conveys the purpose of the message.
-  2. Personalized Greetings: Use the receipient's name and personalized remark/compliment on recent accomplishments;
+  2. Personalized Greetings: Use the recipient's name and personalized remark/compliment on recent accomplishments;
   3. Introduction and Purpose: brief but effective.
   4. Purpose Statement: seek advice, insights, experiences related to field of interest;
-  5. Make Connection: highlight commonalities shared with receipient
-  6. Experss Genuine Intersts
+  5. Make Connection: highlight commonalities shared with recipient
+  6. Express Genuine Interest
   7. Specific Request: Call to Action with Flexibility
   8. Politeness and Conciseness
   9. Closing and Signature
@@ -163,13 +176,13 @@ Do your homework so that you do not make mistakes.
 
 #### Research Basics
   
-  - Background Check: reviewing linkedin profile, professional biographies, recent publications, news mentions.
-    - social engineering （Searching, 2018)
+  - Background Check: reviewing LinkedIn profile, professional biographies, recent publications, news mentions.
+    - Thorough professional research before outreach
   - Understanding their work: 
     - familiarize with the professional's role/projects/contributions
     - understanding the context and significance of their work
 
-#### Contextual Undersatnding
+#### Contextual Understanding
   - Know the Industry: major trends, challenges and opportunities
   - Company Culture: culture and values of where they work/associate with for talking points
 
@@ -184,8 +197,8 @@ Do your homework so that you do not make mistakes.
   - Set an agenda: what will happen if you don't have one?
 
 
-## Take 10min to social-engineer a professional
-  - do research on a potential interviewee that you might be interested in investigating
+## Activity: Research a Professional (10 min)
+  - Do background research on a potential interviewee you might be interested in reaching out to
   - you should cover at least the following:
     - their professional role
     - list out companies they worked for
@@ -313,11 +326,13 @@ Do your homework so that you do not make mistakes.
 ## Revisiting Report Submission
 
 - Document 0: Research Statement (Extended Abstract)
-- Document 0.1: Literature Review 
-- Document 0.2: Methodology & Data Needed/Collected: Due <span style="color:red">Mar 23rd</span>
-- Document 1: Research Proposal(Paper-like): Due <span style="color:green">Apr. 23rd</span>
+- Document 0.1: Literature Review
+- Document 0.2: Methodology & Data Needed/Collected
+- Document 1: Research Proposal (Paper-like)
 
-## Resaerch Process in Flow Chart
+*Check Moodle for current due dates.*
+
+## Research Process in Flow Chart
 
 ![](data/ReProc_FlowChart.png)
 
@@ -338,7 +353,7 @@ Do your homework so that you do not make mistakes.
 - **Hypothesis Formulation (Doc 0.2)**:
   - Developed clear, testable hypotheses predicting innovation outcomes.
 - **Research Design Formulation (Doc 0.2)**:
-  - Outlined approapriate research methodologies/technologies to be used.
+  - Outlined appropriate research methodologies/technologies to be used.
   - Discussed feasibility and potential impact of proposed research design.
 
 ## Research Progress Check
@@ -369,17 +384,199 @@ Do your homework so that you do not make mistakes.
   - Speculated on future research directions to further the innovation.
 
 
-# Data Visualization
+# From Data to Insights
 
-## Minard's plot
-![Napoleon Invasion of Russia](https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png)
+## The Analysis Gap
 
-## Instruments to help people reason about quantitative information.
-Above all else show the data.
+You've collected data. Now what?
 
-## Topics that we could cover:
-- Scales of data 
-- Omission and inclusion of data that speaks
-- Different quantitative plots thereof
-- Woring with the temporal dimensions
-- Goods and bads of 3D plot
+- **Interviews completed** → pile of transcripts
+- **Survey closed** → spreadsheet of responses
+- **Observations done** → pages of field notes
+
+**The hard part isn't collecting data. It's making sense of it.**
+
+This section bridges that gap.
+
+## Thematic Analysis: The 5-Step Process
+
+The most common approach for qualitative data:
+
+| Step | What You Do | Output |
+|:-----|:------------|:-------|
+| 1. **Familiarize** | Read everything twice. Note first impressions. | Margin notes |
+| 2. **Code** | Label meaningful chunks (phrases, sentences) | Code list |
+| 3. **Search for themes** | Group related codes together | Theme candidates |
+| 4. **Review themes** | Check if themes hold up across data | Refined themes |
+| 5. **Define & name** | Write 1-sentence definition for each theme | Final themes |
+
+## Step 1: Familiarize — Read Without Agenda
+
+**First pass:** Read everything without highlighting. Just absorb.
+
+**Second pass:** Note anything that:
+- Surprises you
+- Repeats across participants
+- Contradicts what you expected
+- Feels emotionally charged
+
+**Anti-pattern:** Jumping straight to coding. You'll miss the forest for the trees.
+
+## Step 2: Code — Label Meaningful Chunks
+
+A **code** = short label for a piece of data
+
+::: {.columns}
+::: {.column width="60%"}
+**Quote:**
+> "I check my likes within 10 minutes of posting. I literally can't help it. It's like my thumb just goes there."
+
+**Possible codes:**
+- Compulsive checking
+- Loss of control
+- Automatic behavior
+:::
+::: {.column width="40%"}
+**Code types:**
+
+- **Descriptive:** What's happening
+- **In-vivo:** Participant's own words
+- **Process:** Actions/verbs
+- **Emotion:** Feelings expressed
+:::
+:::
+
+## Step 3: Search for Themes — Cluster Codes
+
+Spread your codes out (physically or digitally). Look for patterns.
+
+| Code Cluster | Potential Theme |
+|:-------------|:----------------|
+| Compulsive checking, can't stop, automatic | **Checking as habit loop** |
+| Feel bad, anxious, disappointed | **Emotional cost of low engagement** |
+| Compare to friends, feel behind, jealous | **Social comparison trap** |
+| Delete posts, edit captions, time posts | **Performance management strategies** |
+
+**A theme is not a code.** A theme is a pattern that says something meaningful about your research question.
+
+## Step 4: Review Themes — Stress Test
+
+For each candidate theme, ask:
+
+- [ ] Does it appear across multiple participants (not just one)?
+- [ ] Does the data actually support it, or am I projecting?
+- [ ] Is it distinct from other themes, or should they merge?
+- [ ] Does it matter for my research question?
+
+**Kill themes that don't hold up.** 3-5 strong themes > 10 weak ones.
+
+## Step 5: Define & Name — Make It Stick
+
+Each final theme needs:
+
+1. **A clear name** (not jargon, not vague)
+2. **A 1-sentence definition**
+3. **Representative quotes** (2-3 per theme)
+
+| Theme | Definition |
+|:------|:-----------|
+| **Compulsive checking loop** | Participants describe checking likes as automatic, habitual behavior they feel unable to control. |
+| **Like thresholds as self-worth** | Participants set mental benchmarks for "acceptable" like counts; falling short triggers negative self-evaluation. |
+| **Performance management** | Participants actively curate posting behavior (timing, deletion, editing) to optimize engagement metrics. |
+
+## Worked Example: From 12 Interviews to 4 Themes
+
+**Research question:** How do HKU students experience Instagram like-checking?
+
+**Raw data:** 12 interviews, 45 pages of transcripts
+
+**Coding:** 47 initial codes identified
+
+**Final themes:**
+
+1. **Compulsive checking loop** (10/12 participants)
+2. **Like thresholds as self-worth** (8/12 participants)
+3. **Social comparison with peers** (9/12 participants)
+4. **Temporary validation effect** (7/12 participants)
+
+Each theme has 2-3 supporting quotes and a clear definition.
+
+---
+
+## Architecture/Urban Example: Analyzing Interviews About Public Space
+
+**Research question:** How do Hong Kong residents perceive rule enforcement in privately-owned public spaces?
+
+**Raw data:** 8 interviews with regular users of POPS in Central
+
+**Sample codes:**
+- "Security told me to move" → *enforcement encounter*
+- "I didn't know I couldn't sit there" → *unclear rules*
+- "It doesn't feel like public space" → *ownership ambiguity*
+- "I just avoid those places now" → *behavioral adaptation*
+
+**Emerging themes:**
+
+| Theme | Definition | Prevalence |
+|:------|:-----------|:-----------|
+| **Invisible boundaries** | Users discover rules only through enforcement, not signage | 6/8 |
+| **Chilling effect** | Negative encounters lead to avoidance of space entirely | 5/8 |
+| **Public-private confusion** | Users unsure who controls space and what rights they have | 7/8 |
+
+**So what?** Designers should consider how rule communication affects perceived publicness.
+
+## For Quantitative Data: From Numbers to Patterns
+
+| What You Have | What You Do | What It Tells You |
+|:--------------|:------------|:------------------|
+| Survey responses (Likert) | Calculate means, SD | Central tendency & spread |
+| Two groups to compare | t-test or Mann-Whitney | Whether difference is real |
+| Two variables | Correlation (Pearson/Spearman) | Whether they move together |
+| Multiple predictors | Regression | Which factors matter most |
+
+**Key question:** Is the pattern real, or just noise?
+
+- p < 0.05 → statistically significant (probably not random)
+- Effect size → practically significant (big enough to matter)
+
+## Triangulation: When Qual and Quant Meet
+
+| Finding | Qual Evidence | Quant Evidence | Agreement? |
+|:--------|:--------------|:---------------|:-----------|
+| Checking frequency → anxiety | "I feel anxious when I check" (10/12) | r = 0.42, p < .001 | ✓ Converge |
+| Likes = self-worth | "I feel like a failure" (8/12) | Not directly measured | Partial |
+| Hiding likes would help | "I'd feel relieved" (6/12) | 45% selected "would reduce stress" | ✓ Converge |
+
+**When they disagree:** That's interesting data, not a problem. Ask why.
+
+## The "So What?" Test
+
+For every finding, ask: **Why should anyone care?**
+
+| Finding | So What? |
+|:--------|:---------|
+| r = 0.42 correlation between checking and anxiety | Moderate effect — not everyone, but meaningful signal for intervention design |
+| 10/12 describe compulsive checking | Design friction (delays, nudges) might break the automatic loop |
+| Social comparison drives checking | Hiding like counts removes the comparison trigger |
+
+If you can't answer "so what?" — the finding isn't ready.
+
+---
+
+## Artifact Output: What You Leave With
+
+::: {.callout-note icon=false}
+## Today's Deliverables
+
+**From Part 1 (KYC/Informational Interviews):**
+
+- Professional research profile for 1 potential interviewee
+- 2 informed questions ready to ask
+
+**From Part 2 (Analysis):**
+
+- Understanding of the 5-step thematic analysis process
+- Ability to distinguish codes from themes
+
+**Take-home thinking:** Start coding any interview/observation data you've collected. Bring your draft codebook to Week 8.
+:::

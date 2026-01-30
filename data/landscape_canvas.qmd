@@ -1,0 +1,168 @@
+---
+title: "Landscape Intelligence Canvas"
+subtitle: "DESN2003: Research for Innovation"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=1in
+    fontsize: 11pt
+    linestretch: 1.15
+---
+
+\newpage
+
+# Landscape Intelligence Canvas — Blank Template
+
+**Your Name:** ________________________________ **Date:** ____________
+
+---
+
+## 1. My Research Topic
+
+_________________________________________________________________________
+
+_________________________________________________________________________
+
+---
+
+## 2. Competitive Intelligence (5 min)
+
+| Competitor | Similar Feature? | Status | User Sentiment |
+|:-----------|:-----------------|:-------|:---------------|
+| **Direct:** _________________ | Yes / No / Partial | Live / Killed / Never tried | Positive / Mixed / Negative |
+| **Direct:** _________________ | Yes / No / Partial | Live / Killed / Never tried | Positive / Mixed / Negative |
+| **Adjacent:** _________________ | Yes / No / Partial | Live / Killed / Never tried | Positive / Mixed / Negative |
+
+---
+
+## 3. 5-Minute Stack Results
+
+| Technique | Search Term / URL | Key Finding |
+|:----------|:------------------|:------------|
+| **Reddit Mining** | _________________________ | _________________________ |
+| **App Store Reviews** | _________________________ | _________________________ |
+| **Google Trends** | _________________________ | Growing / Stable / Declining since ____ |
+| **Wayback Machine** | _________________________ | _________________________ |
+
+---
+
+## 4. Academic Intelligence (10 min)
+
+| Paper/Source | Key Finding | Method Used | Limitation |
+|:-------------|:------------|:------------|:-----------|
+| _________________________ | _________________________ | _________________________ | _________________________ |
+| _________________________ | _________________________ | _________________________ | _________________________ |
+| _________________________ | _________________________ | _________________________ | _________________________ |
+
+---
+
+## 5. Gap Verdict
+
+Check one:
+
+- [ ] **Gap Confirmed** — Nothing addresses this
+- [ ] **Gap Refined** — Similar exists, but mine is different because: _________________________
+- [ ] **Gap Invalidated** — This exists; I need to pivot to: _________________________
+
+---
+
+## 6. Innovation Score
+
+Circle one:
+
+| 1 | 2 | 3 | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+| Exists everywhere | Poor execution elsewhere | Exists in other domain | Research exists, no product | Completely unstudied |
+| *Iteration only* | *Incremental improvement* | *Transfer opportunity* | *Applied innovation* | *Discovery research* |
+
+---
+
+## 7. Next Steps
+
+Based on my landscape intelligence, I will:
+
+1. _________________________________________________________________________
+
+2. _________________________________________________________________________
+
+3. _________________________________________________________________________
+
+\newpage
+
+# Landscape Intelligence Canvas — Worked Example
+
+**Your Name:** Alex Chen **Date:** Week 3
+
+---
+
+## 1. My Research Topic
+
+**Reducing user anxiety through hidden like counts on Instagram — investigating whether removing visible engagement metrics decreases social comparison and improves mental wellbeing among HKU students aged 18-24.**
+
+---
+
+## 2. Competitive Intelligence (5 min)
+
+| Competitor | Similar Feature? | Status | User Sentiment |
+|:-----------|:-----------------|:-------|:---------------|
+| **Direct:** Instagram | Yes (2019 test in Canada/Australia) | Partial rollout, then stalled | Mixed — users liked it, creators hated it |
+| **Direct:** BeReal | Yes (no likes at all, only reactions) | Live | Positive but niche audience |
+| **Adjacent:** TikTok | Partial (can hide like counts) | Live | Feature exists but rarely promoted |
+
+---
+
+## 3. 5-Minute Stack Results
+
+| Technique | Search Term / URL | Key Finding |
+|:----------|:------------------|:------------|
+| **Reddit Mining** | "hide likes instagram" site:reddit.com | 50+ threads; r/instagram users strongly want this; r/InstagramMarketing creators oppose it |
+| **App Store Reviews** | Instagram 1-star reviews, filtered "Recent" | Anxiety not in top 10 complaints; algorithm/Reels dominance is #1 complaint |
+| **Google Trends** | "instagram likes anxiety" vs "instagram algorithm" | "Likes anxiety" up 200% since 2020; "algorithm" searches 5x higher |
+| **Wayback Machine** | instagram.com 2018 vs 2023 | Like counts were prominent in 2018; now de-emphasized but still visible |
+
+---
+
+## 4. Academic Intelligence (10 min)
+
+| Paper/Source | Key Finding | Method Used | Limitation |
+|:-------------|:------------|:------------|:-----------|
+| Vogel et al. (2014) "Social comparison on social networking sites" | Social comparison on Facebook → lower self-esteem | Survey, n=145 college students | Facebook-specific; pre-Instagram era |
+| Tiggemann & Zaccardo (2018) "Fitspiration on Instagram" | Exposure to fitspiration → body dissatisfaction | Experiment, n=130 women | Only fitness content; didn't test hiding metrics |
+| Royal Society (2017) "#StatusOfMind" | Instagram ranked worst for mental health among social platforms | Survey, n=1,479 UK youth | Self-report; correlation not causation |
+
+---
+
+## 5. Gap Verdict
+
+Check one:
+
+- [ ] **Gap Confirmed** — Nothing addresses this
+- [x] **Gap Refined** — Similar exists, but mine is different because: **Research shows social comparison → anxiety, and Instagram tested hiding likes, but no study combines both: measuring anxiety outcomes specifically when likes are hidden, especially in Asian/HK context where social pressure dynamics differ.**
+- [ ] **Gap Invalidated** — This exists; I need to pivot to: _________________________
+
+---
+
+## 6. Innovation Score
+
+Circle one:
+
+| 1 | 2 | **3** | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+| Exists everywhere | Poor execution elsewhere | **Exists in other domain** | Research exists, no product | Completely unstudied |
+| *Iteration only* | *Incremental improvement* | ***Transfer opportunity*** | *Applied innovation* | *Discovery research* |
+
+**Rationale:** The feature exists (Instagram tested it), research on the underlying psychology exists (social comparison theory), but no one has connected them in HK context or measured anxiety as the specific outcome variable.
+
+---
+
+## 7. Next Steps
+
+Based on my landscape intelligence, I will:
+
+1. **Refine my research question** to: "How does hiding Instagram like counts affect self-reported anxiety levels among HKU students over a 2-week period?"
+
+2. **Design a mixed-methods study:** Diary study tracking daily anxiety + exit interviews to understand the "why"
+
+3. **Search for Asia-specific social comparison research** to see if cultural factors (face culture, collectivism) change the dynamics
+

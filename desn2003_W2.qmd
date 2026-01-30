@@ -275,6 +275,49 @@ If you want to validate your Instagram feature:
 
 # Research Gap: The Heart of Innovation {background-color="#FFE66D"}
 
+## Three Types of Research: A Preview
+
+::: {.columns}
+::: {.column width="33%"}
+### Discovery Research
+
+**"What's the real problem?"**
+
+- Before any solution exists
+- Exploring unknown territory
+- Output: Insights, opportunities
+:::
+
+::: {.column width="33%"}
+### Validation Research
+
+**"Does this solution work?"**
+
+- After prototyping
+- Testing specific hypotheses
+- Output: Go/no-go decisions
+:::
+
+::: {.column width="33%"}
+### Innovation Research
+
+**"What doesn't exist yet?"**
+
+- Seeking 10x, not 10%
+- Combining domains
+- Output: New categories
+:::
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## This Course's Core Question
+Can you distinguish **incremental improvement** (better button color) from **genuine innovation** (new category of interaction)? Research methodology gives you that power.
+:::
+
+---
+
 ## What Is a Research Gap?
 
 A research gap is an area where **no or little information is available**
@@ -325,6 +368,40 @@ When you proposed your feature, you were essentially saying:
 . . .
 
 **Research helps you answer:** Is this gap real, significant, and addressable?
+
+---
+
+## Gap Validation: A Concrete Example
+
+::: {.columns}
+::: {.column width="50%"}
+### The Hypothesis
+
+*"Instagram needs a 'close friends only' feed so users see less influencer content"*
+
+**Sounds reasonable. But let's validate:**
+
+1. **Does it exist?** → Instagram has "Close Friends" for Stories (2018). Why not feed?
+2. **Was it tried?** → Twitter had "Lists" for years. Low adoption.
+3. **What do users say?** → Reddit: "I want chronological, not filtered"
+4. **What does research say?** → Paradox of choice literature suggests more options ≠ more satisfaction
+:::
+
+::: {.column width="50%"}
+### The Verdict
+
+**Gap refined:** Users want *control*, not necessarily *close friends*. The real gap might be: "Why doesn't Instagram let me choose my algorithm?"
+
+**This is what validation looks like:**
+
+- Your original instinct: partially right
+- Reality: more nuanced
+- New direction: more innovative
+
+**Time spent:** 30 minutes of searching
+**Value:** Didn't waste a semester on wrong question
+:::
+:::
 
 ---
 
@@ -436,6 +513,41 @@ Clicks/Views * 100
 ::: {.callout-note icon=false}
 ## Your Feature Idea
 How would you A/B test it? What would "success" look like in metrics?
+:::
+
+---
+
+## The Research That Shipped: Spotify Wrapped
+
+**Reverse-engineering the methodology behind a viral feature:**
+
+::: {.columns}
+::: {.column width="50%"}
+**What They Researched (Discovery):**
+
+- User behavior analysis: People share personal data when it's beautiful
+- Social psychology literature: FOMO + identity expression = virality
+- Competitive gap: No one else was doing year-end summaries
+
+**Method used:** Behavioral analytics + psychology literature + A/B testing
+:::
+
+::: {.column width="50%"}
+**The Research Questions Behind It:**
+
+1. "What data do users find personally meaningful?" (Discovery)
+2. "What format maximizes sharing?" (Validation via A/B)
+3. "What emotional triggers drive virality?" (Literature)
+
+**Result:** 120M+ shares annually, cultural phenomenon
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## The Pattern
+**Discover** (what do users value?) → **Validate** (which format works?) → **Innovate** (create a new category: year-end data stories)
 :::
 
 # Research Methodologies: A Toolkit {background-color="#A8DADC"}
@@ -637,6 +749,29 @@ When you checked "does this exist in a competitor app?"—how thorough was that 
 
 # Doc 0: Your Extended Abstract {background-color="#457B9D"}
 
+## Two Tracks: Choose Your Path
+
+::: {.callout-note icon=false}
+## Your Work Can Take Two Forms
+
+Throughout this course, you can frame your deliverables through **either lens**:
+
+| | **Frontier Research (Technologist)** | **Applied Research (Builder-Maker)** |
+|---|---|---|
+| **Doc 0** | Extended Abstract | Product Research Brief |
+| **Doc 0.1** | Literature Review | Landscape Intelligence Report |
+| **Doc 0.2** | Methodology Section | Research Playbook |
+| **Doc 1** | Research Paper | Design Case Study |
+
+**Same rigor. Same skills. Different audience.**
+:::
+
+. . .
+
+Choose based on your interests: Are you drawn to being a **technologist/researcher** who shapes the field with new knowledge? Or a **product designer** who ships research-backed features? Both are valuable. Both use the same methodology.
+
+---
+
 ## What Is an Extended Abstract?
 
 An extended abstract is **not** a summary of a paper you haven't written yet.
@@ -717,17 +852,39 @@ A movie trailer for your research. You're convincing someone it's worth watching
 
 ---
 
-## Example: From Instagram Feature to Extended Abstract
+## Example: Good vs Bad Extended Abstract
 
-::: {.callout-tip icon=false}
-## Your Instagram idea could become Doc 0
+::: {.columns}
+::: {.column width="50%"}
+### Bad Abstract
 
-**Feature idea:** "A 'slow feed' mode that limits scrolling to reduce anxiety"
+*"I want to study Instagram and mental health. Social media is bad for people. I will interview some users and see what they think. This is important because many people use Instagram."*
 
-**Extended abstract seed:**
+**What's wrong:**
 
-*Social media platforms optimize for engagement, often at the expense of user wellbeing. Instagram users report feeling anxious after extended scrolling sessions, yet the app provides no built-in tools to moderate consumption. This creates a gap between user needs (mindful usage) and platform design (maximized engagement). I propose to investigate how design interventions—specifically, intentional friction like scroll limits or "slow feed" modes—might reduce user anxiety without eliminating engagement entirely. Through user interviews and prototype testing, this research could contribute design principles for ethical engagement features...*
+- No specific research question
+- "Social media is bad" — assumption, not finding
+- "Interview some users" — no methodology thinking
+- "Many people use Instagram" — so what?
 :::
+
+::: {.column width="50%"}
+### Good Abstract
+
+*"Social media platforms optimize for engagement, often at the expense of user wellbeing (Vogel et al., 2014). Instagram users report feeling anxious after extended scrolling sessions, yet the app provides no built-in tools to moderate consumption. This creates a gap between user needs (mindful usage) and platform design (maximized engagement). I propose to investigate how design interventions—specifically, intentional friction like scroll limits—might reduce user anxiety without eliminating engagement entirely. Through semi-structured interviews (n=12) and diary studies, this research could contribute design principles for ethical engagement features applicable to social platforms broadly."*
+
+**What's right:**
+
+- Cites existing research
+- Specific gap identified
+- Clear methodology
+- Stated contribution
+:::
+:::
+
+. . .
+
+**Credibility check:** Could a stranger understand exactly what you're studying and why it matters? If not, revise.
 
 ---
 

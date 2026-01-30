@@ -1,6 +1,6 @@
 ---
 title: "DESN2003: Research for Innovation"
-subtitle: "Week 3: Mapping the Landscape (Competitive Analysis & Literature Review)"
+subtitle: "Week 3: Landscape Intelligence (Know What Exists Before You Build)"
 author: "Dr. Hongshan Guo"
 format:
   revealjs:
@@ -12,6 +12,71 @@ format:
     center: true
     embed-resources: true
     incremental: true
+---
+
+# Three Types of Research: A Framework {background-color="#457B9D"}
+
+## Not All Research Is The Same
+
+Before we dive in, let's establish a framework you'll use all semester:
+
+::: {.columns}
+::: {.column width="33%"}
+### Discovery Research
+
+**"What's the real problem?"**
+
+- Before any solution exists
+- Exploring unknown territory
+- Output: Insights, opportunities
+
+*This is where innovation lives*
+:::
+
+::: {.column width="33%"}
+### Validation Research
+
+**"Does this solution work?"**
+
+- After prototyping
+- Testing specific hypotheses
+- Output: Go/no-go decisions
+
+*This is iteration territory*
+:::
+
+::: {.column width="33%"}
+### Innovation Research
+
+**"What doesn't exist yet?"**
+
+- Seeking 10x, not 10%
+- Combining insights from multiple domains
+- Output: New categories, paradigms
+
+*This is breakthrough territory*
+:::
+:::
+
+---
+
+## Why This Framework Matters
+
+::: {.callout-important icon=false}
+## The Course's Core Question
+
+Can you tell the difference between:
+
+- **Incremental change** (better button color) and
+- **Genuine innovation** (new category of interaction)?
+
+Research methodology helps you make this distinction systematically.
+:::
+
+. . .
+
+**Today's session is primarily Discovery + Innovation research** — we're mapping what exists so you can see where genuine gaps live.
+
 ---
 
 ## Submit Your Document 0 next week!
@@ -30,6 +95,57 @@ Style: Extended Abstract
 ## Hint
 Your Instagram feature idea could be the seed for this—but you'll need to know what's already out there first.
 :::
+
+---
+
+## Two Tracks: Choose Your Adventure
+
+::: {.callout-note icon=false}
+## Your Doc 0 Can Take Two Forms
+
+Throughout this course, you can frame your work through **either lens**:
+
+| | **Frontier Research (Technologist)** | **Applied Research (Builder-Maker)** |
+|---|---|---|
+| **Doc 0** | Extended Abstract | Product Research Brief |
+| **Doc 0.1** | Literature Review | Landscape Intelligence Report |
+| **Doc 0.2** | Methodology Section | Research Playbook |
+| **Doc 1** | Research Paper | Design Case Study |
+
+**Same rigor. Same skills. Different framing.**
+:::
+
+. . .
+
+Choose based on your interests: Are you more drawn to being a **technologist/researcher** who shapes the field? Or a **product designer** who ships research-backed features?
+
+---
+
+## Side-by-Side: What Each Track Looks Like
+
+::: {.columns}
+::: {.column width="50%"}
+### Frontier Research: Extended Abstract
+
+> *"Social comparison on Instagram has been linked to decreased wellbeing among young adults (Vogel et al., 2014), yet platform-level interventions remain understudied. This research investigates how design friction—specifically, hiding like counts—affects self-reported anxiety in university students aged 18-24. Using a mixed-methods approach combining surveys (n=200) and semi-structured interviews (n=15), we aim to identify whether reduced social comparison metrics correlate with improved mental health outcomes..."*
+
+**Reads like:** Academic paper intro
+**Audience:** Researchers, reviewers, professors
+:::
+
+::: {.column width="50%"}
+### Applied Research: Research Brief
+
+> *"**Problem:** Users report feeling anxious after scrolling Instagram, but engagement metrics show they can't stop. **Opportunity:** Hidden likes (tested in Canada 2019) showed promise but was never fully rolled out. **Research Question:** What happens to user anxiety AND engagement when we hide likes for 2 weeks? **Method:** Diary study + exit interviews with 20 HKU students. **Success metric:** Anxiety decreases without engagement dropping >10%..."*
+
+**Reads like:** Slack message to your PM
+**Audience:** Product team, stakeholders, yourself
+:::
+:::
+
+. . .
+
+**Same research. Same rigor. Different packaging.** Choose yours.
 
 # The Question We Left Open {background-color="#FF6B6B"}
 
@@ -57,11 +173,29 @@ If you don't map what exists, you might "innovate" something that already failed
 
 ---
 
-## Today's Goal: Learn to Map the Landscape
+## The Uncomfortable Truth
+
+::: {.r-fit-text}
+"I couldn't find anything"
+
+usually means
+
+"I didn't look hard enough"
+:::
+
+. . .
+
+Today we fix that.
+
+---
+
+## Today's Goal: Landscape Intelligence
+
+**Landscape Intelligence** = Systematically understanding what exists before you build
 
 ::: {.columns}
 ::: {.column width="50%"}
-### Industry Approach
+### Industry Intelligence
 **Competitive Analysis**
 
 - What do competitors offer?
@@ -71,7 +205,7 @@ If you don't map what exists, you might "innovate" something that already failed
 :::
 
 ::: {.column width="50%"}
-### Academic Approach
+### Academic Intelligence
 **Literature Review**
 
 - What does research say?
@@ -83,9 +217,13 @@ If you don't map what exists, you might "innovate" something that already failed
 
 . . .
 
-::: {.callout-note icon=false}
-## Both Serve the Same Goal
-Know what exists before claiming your idea is new.
+::: {.callout-important icon=false}
+## The Innovation Test
+**Incremental:** "Our button is 10% better than theirs"
+
+**Innovation:** "We found something in the research that no product has applied yet"
+
+Landscape intelligence helps you tell the difference.
 :::
 
 # Part 1: Competitive Analysis {background-color="#4ECDC4"}
@@ -139,7 +277,7 @@ Failed products and killed features tell you what *didn't* work—often more val
 
 ---
 
-## Sources for Competitive Analysis
+## Sources for Landscape Intelligence
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -150,16 +288,19 @@ Failed products and killed features tell you what *didn't* work—often more val
 - TechCrunch, The Verge, Wired (feature coverage)
 - Company blogs and newsrooms
 - Wayback Machine (historical snapshots)
+- **Patent searches** (Google Patents — see what's being protected)
+- **Industry reports** (Forrester, Nielsen Norman, Gartner)
 :::
 
 ::: {.column width="50%"}
-**User Sentiment:**
+**User Sentiment Intelligence:**
 
-- App reviews (1-star reviews are gold)
-- Reddit communities (r/Instagram, r/socialmedia)
+- App reviews (**1-star reviews are gold** — real pain points)
+- Reddit communities (r/Instagram, r/socialmedia, r/UXDesign)
 - Twitter/X complaints and wishlists
 - YouTube reviews and comparisons
-- Designer/developer forums
+- Designer/developer forums (Hacker News, Designer News)
+- **Discord servers** (product-specific communities)
 :::
 :::
 
@@ -167,8 +308,145 @@ Failed products and killed features tell you what *didn't* work—often more val
 
 ::: {.callout-note icon=false}
 ## Pro Tip
-Search "[feature name] + failed" or "[app name] + removed feature" to find the graveyard.
+Search "[feature name] + failed" or "[app name] + removed feature" to find the graveyard. The graveyard tells you what **didn't** work — often more valuable than successes.
 :::
+
+# 5-Minute Research Wins {background-color="#FF6B6B"}
+
+## Research Doesn't Have to Take Forever
+
+Before you spend weeks on a literature review, try these **5-minute techniques** that can redirect your entire project:
+
+---
+
+## 5-Min Win #1: Reddit Sentiment Mining
+
+**The technique:** Search `[your topic] site:reddit.com` on Google
+
+**Example:** `"Instagram anxiety" site:reddit.com`
+
+**What you'll find in 5 minutes:**
+
+- r/socialanxiety: *"I deleted Instagram for 2 weeks and my anxiety dropped immediately"* (4.2k upvotes)
+- r/instagram: *"The new 'take a break' feature is useless, I just click through it"* (890 upvotes)
+- r/UXDesign: *"We tested hiding likes internally and engagement dropped 23%"*
+
+**Credibility check:** Reddit is anecdotal, not research. But 4.2k upvotes = signal worth investigating. Use this to *generate* hypotheses, not *prove* them.
+
+---
+
+## 5-Min Win #2: App Store Review Mining
+
+**The technique:** Go to App Store → Read 1-star reviews → Search for patterns
+
+**Example:** Instagram 1-star reviews, filtered to "Recent"
+
+**What you'll find in 5 minutes:**
+
+- *"Algorithm shows me content that makes me feel bad about myself"* (repeated 50+ times)
+- *"Why can't I see posts in chronological order anymore"* (repeated 100+ times)
+- *"Reels are taking over my feed and I hate it"* (repeated 200+ times)
+
+**Credibility check:** These are real users with real frustrations. Apple verifies purchases. This is primary data.
+
+---
+
+## 5-Min Win #3: Google Trends Validation
+
+**The technique:** [trends.google.com](https://trends.google.com) → Compare search terms
+
+**Example:** Compare "Instagram anxiety" vs "TikTok anxiety" vs "social media detox"
+
+**What you'll learn in 5 minutes:**
+
+- "Social media detox" searches spike every January (New Year's resolutions)
+- "Instagram anxiety" has grown 300% since 2019
+- Regional differences: Higher in US/UK than Asia
+
+**Credibility check:** This is behavioral data (what people actually search), not self-report. More reliable than surveys for some questions.
+
+---
+
+## 5-Min Win #4: Wayback Machine Autopsy
+
+**The technique:** [web.archive.org](https://web.archive.org) → Enter competitor URL → See historical snapshots
+
+**Example:** Look at Instagram.com in 2015 vs 2020 vs today
+
+**What you'll learn in 5 minutes:**
+
+- Features that existed and disappeared (chronological feed toggle)
+- UI patterns that were tested and abandoned
+- The exact moment they pivoted to Reels-first
+
+**Credibility check:** This is primary historical evidence. Screenshots don't lie.
+
+---
+
+## The 5-Minute Stack
+
+::: {.callout-important icon=false}
+## Before You Write Anything, Spend 20 Minutes:
+
+| 5 min | Reddit sentiment mining | → Real user language, pain points |
+|-------|------------------------|-----------------------------------|
+| 5 min | App Store 1-star reviews | → Verified user frustrations |
+| 5 min | Google Trends | → Is this problem growing or shrinking? |
+| 5 min | Wayback Machine | → Has this been tried before? |
+
+**Total: 20 minutes. Outcome: You either validate your direction or pivot before wasting weeks.**
+:::
+
+This is what product researchers at real companies do first. Now you know too.
+
+---
+
+## The Research That Shipped: Airbnb's Photography
+
+**Let's reverse-engineer what landscape intelligence they missed — and then found.**
+
+::: {.columns}
+::: {.column width="50%"}
+**What They Missed Initially (2009):**
+
+- Beautiful website, zero bookings
+- They built the product, not the intelligence
+- **No competitive analysis** of why Craigslist listings (their competition) looked terrible
+- **No user research** on what actually blocked booking decisions
+:::
+
+::: {.column width="50%"}
+**What Landscape Intelligence Would Have Revealed:**
+
+- Academic research on e-commerce photography existed
+- Competitor analysis: every listing had bad photos
+- User sentiment: "I can't tell what I'm booking"
+- **The gap was obvious — if they'd looked**
+:::
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## The Lesson
+They spent months building the wrong thing. One weekend of landscape intelligence would have saved them.
+:::
+
+---
+
+## Screenshot This
+
+::: {.r-fit-text}
+**The best founders**
+
+**read the research**
+
+**that their competitors ignore.**
+:::
+
+. . .
+
+Airbnb's competitors had MBAs. Airbnb had ethnography.
 
 ---
 
@@ -190,23 +468,62 @@ This becomes your **competitive landscape map**—the foundation for knowing if 
 
 ---
 
-## Quick Exercise: Map Your Feature's Landscape (10 min)
+## Activity: Landscape Intelligence Canvas (20 min)
 
-**In pairs, for your Instagram feature idea:**
+**Download and fill out the canvas for YOUR research topic.**
 
-::: {.nonincremental}
-1. List 3 competitors that might have something similar
-2. Do a quick search: Does this feature (or something close) exist?
-3. If yes: How is it implemented? What do users say?
-4. If no: Why might that be? (Technical? Strategic? No demand?)
-5. What did you learn that changes your thinking?
+::: {.callout-note icon=false}
+## Download the Canvas
+
+**[Landscape Intelligence Canvas (PDF)](./data/landscape_canvas.pdf)**
+
+- **Page 1:** Blank template — print or fill digitally
+- **Page 2:** Worked example (hidden likes on Instagram)
+:::
+
+The canvas walks you through:
+
+1. **Competitive Intelligence** — 3 competitors (direct + adjacent)
+2. **5-Minute Stack** — Reddit, App Store, Trends, Wayback results
+3. **Academic Intelligence** — 3 papers with findings, methods, limitations
+4. **Gap Verdict** — Confirmed / Refined / Invalidated
+5. **Innovation Score** — 1-5 scale
+6. **Next Steps** — What you'll do based on findings
+
+---
+
+## Canvas Preview: Key Sections
+
+::: {.columns}
+::: {.column width="50%"}
+**What you'll fill out:**
+
+1. Research topic (specific statement)
+2. 3 competitors with status & sentiment
+3. 5-minute stack findings
+4. 3 academic sources with methods & limitations
+5. Gap verdict (Confirmed / Refined / Invalidated)
+6. Innovation score (1-5)
+7. Concrete next steps
+:::
+
+::: {.column width="50%"}
+**The worked example covers:**
+
+- Topic: Hidden like counts & anxiety
+- Competitors: Instagram, BeReal, TikTok
+- 5-min stack: Reddit, App Store, Trends, Wayback
+- Papers: Vogel 2014, Tiggemann 2018, Royal Society 2017
+- Verdict: **Gap Refined** (score: 3)
+- Next: Mixed-methods diary study
+:::
 :::
 
 . . .
 
 ::: {.callout-tip icon=false}
-## Share Out
-Be ready to report: Did your gap survive the competitive check?
+## Download Now
+**[Landscape Intelligence Canvas (PDF)](./data/landscape_canvas.pdf)** — Page 1 is blank, Page 2 is the worked example. Bring your filled canvas to next week.
 :::
 
 ::: {.notes}
@@ -255,7 +572,17 @@ Companies move fast and often don't read research. Academics study deeply but pu
 
 ---
 
-## Literature Review: The Academic Landscape Map
+## Literature Review: Stealing From the Smartest People
+
+::: {.callout-important icon=false}
+## Reframe: Why Read Papers?
+
+**Old framing:** "Academic requirement"
+
+**New framing:** "Smartest people in the world spent years thinking about your problem. You can steal their insights in an afternoon."
+:::
+
+. . .
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -275,16 +602,73 @@ Knowledge organized to show:
 - What's known
 - What's debated
 - What's missing
-- Why YOUR study adds value
+- Why YOUR work adds value
 :::
 :::
 
 . . .
 
 ::: {.callout-tip icon=false}
-## Think of It This Way
-Competitive analysis maps **products**. Literature review maps **knowledge**.
+## The Technologist Advantage
+With GenAI tools (Semantic Scholar, Elicit, Connected Papers), you can now survey a field's knowledge in hours, not months. **Research is democratized.** The question is: will you use it?
 :::
+
+---
+
+## GenAI Research Toolkit: Copy-Paste Prompts
+
+::: {.callout-note icon=false}
+## Prompt 1: Literature Survey (use with Claude, ChatGPT, or Perplexity)
+
+```
+I'm researching [YOUR TOPIC, e.g., "how hiding social media metrics
+affects user anxiety"].
+
+Give me:
+1. The 5 most-cited academic papers on this topic (with real citations
+   I can verify on Google Scholar)
+2. Key findings from each
+3. What methodology each used
+4. What gap remains unstudied
+
+Be specific. If you're uncertain about a citation, say so.
+```
+:::
+
+**Credibility check:** Always verify citations exist on Google Scholar. LLMs hallucinate papers. Trust but verify.
+
+---
+
+## GenAI Toolkit (Continued)
+
+::: {.callout-note icon=false}
+## Prompt 2: Competitive Landscape (use with Perplexity for web access)
+
+```
+I'm designing a feature for [APP] that [DOES X].
+
+Research and tell me:
+1. Which competitor apps have tried something similar?
+2. What happened? (Still live? Killed? Pivoted?)
+3. What do users say about these features in reviews/Reddit?
+4. Link me to sources so I can verify.
+```
+:::
+
+::: {.callout-note icon=false}
+## Prompt 3: Gap Validation
+
+```
+I believe there's a gap: [YOUR GAP STATEMENT].
+
+Challenge this. Tell me:
+1. Has this actually been studied? Find counter-evidence.
+2. Has a product tried this and failed?
+3. What's the strongest argument AGAINST this being a real gap?
+```
+:::
+
+**Why Prompt 3 matters:** You want the AI to argue against you. Confirmation bias is your enemy.
 
 ---
 
@@ -374,6 +758,98 @@ These become the building blocks for your own research design.
 ::: {.callout-tip icon=false}
 ## Key Databases for Design Research
 Google Scholar, ACM Digital Library, IEEE Xplore, JSTOR, Web of Science
+
+**AI-Powered Tools:** Semantic Scholar, Elicit, Connected Papers, Research Rabbit — these help you find connections you'd miss manually.
+:::
+
+---
+
+## Anti-Patterns: How Landscape Intelligence Goes Wrong
+
+::: {.columns}
+::: {.column width="50%"}
+### Competitive Analysis Anti-Patterns
+
+- **Only checking direct competitors** — adjacent products matter too
+- **Ignoring the graveyard** — dead products teach more than living ones
+- **Surface-level feature lists** — you need to understand *why* features exist
+- **Recency bias** — "It doesn't exist" vs. "It existed and was killed"
+:::
+
+::: {.column width="50%"}
+### Literature Review Anti-Patterns
+
+- **Summarizing without synthesizing** — a list isn't a review
+- **Cherry-picking** — only citing papers that support your view
+- **Ignoring methodology** — if a study has 5 participants, that matters
+- **Assuming "no papers" = "gap"** — maybe you searched wrong
+:::
+:::
+
+. . .
+
+::: {.callout-warning icon=false}
+## The Worst Anti-Pattern
+**"I couldn't find anything, so it must be a gap."**
+
+Before claiming a gap, ask: Did I search with the right terms? In the right databases? Did I check adjacent fields?
+:::
+
+---
+
+## Anti-Pattern Autopsy: Real Examples
+
+::: {.columns}
+::: {.column width="50%"}
+### Bad: Surface-Level Competitive Analysis
+
+*"TikTok has short videos. Instagram has Reels. YouTube has Shorts. They're all the same."*
+
+**What's wrong:** Misses that TikTok's algorithm, creator incentives, and content culture are fundamentally different. Reels copied the format, not the innovation.
+
+**Credibility check:** Can you explain *why* TikTok succeeded where Vine failed? If not, you haven't gone deep enough.
+:::
+
+::: {.column width="50%"}
+### Bad: Citation Without Synthesis
+
+*"Smith (2019) studied social media anxiety. Jones (2020) also studied social media anxiety. Lee (2021) found similar results."*
+
+**What's wrong:** This is a list, not a synthesis. What do these papers *together* tell us? Where do they disagree? What's the gap between them?
+
+**Credibility check:** After reading your lit review, can someone understand the *state of the field* — not just which papers exist?
+:::
+:::
+
+---
+
+## Anti-Pattern Autopsy: The Methodology Trap
+
+::: {.callout-warning icon=false}
+## This Paper Sounds Impressive, But...
+
+*"Our study found that 90% of users prefer the new design."*
+
+**Red flags to check:**
+
+- **Sample size:** n=10 users (your friend group isn't research)
+- **Selection bias:** "Users who opted into our beta" (already favorable)
+- **Measurement:** "Prefer" = asked directly, not observed behavior
+- **Generalization:** Study done in Sweden, you're designing for HK
+
+**Your job:** Don't just cite papers. **Evaluate** them.
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## Credibility Checklist for Any Source
+
+1. **Who:** Peer-reviewed? Industry report? Random blog?
+2. **When:** Is 2015 data still relevant for 2026 TikTok behavior?
+3. **How many:** n=500 is different from n=12
+4. **Where:** Western samples may not apply to Asian contexts
+5. **How:** Survey ≠ behavior. What people say ≠ what they do.
 :::
 
 ---
@@ -427,11 +903,9 @@ Literature review is NOT relisting previous studies. It's **synthesizing** them 
 
 ## Research Paper Examples
 
-As seen on Moodle:
-
 ::: {.nonincremental}
-1. [Hong Kong Construction Compression](./data/compressing_construction_durations_lessonslearnt_HK.pdf) — quantitative focus
-2. [Fashion, Sustainability & Innovation](./data/InnoFashion.pdf) — interview-heavy, qualitative
+1. [Compressing Construction Durations: Lessons from Hong Kong](https://www.sciencedirect.com/science/article/abs/pii/S0263786300000326) — quantitative regression model, industry surveys
+2. [Can Fashion Be Sustainable? Trajectories of Change](https://www.tandfonline.com/doi/full/10.1080/15487733.2024.2312682) — qualitative framework, organizational + socio-cultural analysis (open access)
 :::
 
 . . .
@@ -471,17 +945,43 @@ A **bridge** between finding sources and writing the review:
 
 ---
 
-## Example Annotation
+## Example Annotation: Bad vs Good
 
-**Citation:**
-Smith, J. (2020). *Designing Trust: UI Elements and User Experience*. Journal of HCI.
+::: {.columns}
+::: {.column width="50%"}
+### Bad Annotation
 
-**Annotation:**
-This study examines how minimalist UI designs impact user trust through A/B testing. It finds that simplified layouts reduce cognitive load and increase user confidence.
+**Citation:** Smith, J. (2020). *Designing Trust*. Journal of HCI.
 
-- **Strengths:** Robust methodology and clear data analysis.
-- **Limitations:** Focuses solely on e-commerce, limiting broader applicability.
-- **Relevance:** Offers empirical support for design decisions in UI/UX, aligning with our research question on trust-building features.
+*"This paper is about trust in UI design. It found that simple designs are better. This is relevant to my research because I'm also studying design."*
+
+**What's wrong:**
+
+- No specific findings
+- No methodology mentioned
+- "Relevant because I'm studying design" — meaningless
+- Could be written without reading the paper
+:::
+
+::: {.column width="50%"}
+### Good Annotation
+
+**Citation:** Smith, J. (2020). *Designing Trust: UI Elements and User Experience*. Journal of HCI.
+
+*"A/B test (n=2,400) comparing minimalist vs. feature-rich checkout UIs. Found 23% higher completion rates for minimalist design, attributed to reduced cognitive load (measured via eye-tracking). **Limitation:** E-commerce only, Western sample. **Gap:** Doesn't address social media contexts. **For my research:** Provides methodology template for measuring trust via completion behaviors, but I'll need to adapt for Instagram context."*
+
+**What's right:**
+
+- Specific numbers
+- Method identified
+- Limitations acknowledged
+- Clear connection to YOUR work
+:::
+:::
+
+. . .
+
+**Credibility check:** Could you write this annotation without reading the paper? If yes, it's too vague.
 
 # Scavenger Hunt: Your Feature's Literature {background-color="#4ECDC4"}
 
@@ -606,6 +1106,44 @@ You've now explored:
 
 ---
 
+## The Innovation Spectrum: Where Does Your Gap Land?
+
+::: {.callout-note icon=false}
+## Rate Your Gap
+
+After your landscape intelligence, ask yourself:
+
+| Score | Description | What It Means |
+|-------|-------------|---------------|
+| **1** | "This exists everywhere" | No gap — iteration only |
+| **2** | "This exists, but poorly executed" | Incremental improvement opportunity |
+| **3** | "This exists in one domain, not mine" | Transfer innovation opportunity |
+| **4** | "Research describes this, no product applies it" | **Applied innovation opportunity** |
+| **5** | "Neither research nor products address this" | **Discovery research territory** |
+:::
+
+. . .
+
+**Scores 4-5 are where genuine innovation lives.** Scores 1-2 are optimization. Both are valid — but know which you're doing.
+
+---
+
+## The Question That Changes Everything
+
+::: {.r-fit-text}
+**"Has anyone smart**
+
+**already thought about this?"**
+:::
+
+. . .
+
+If yes → steal their insights.
+
+If no → you might be onto something. Or you searched wrong. Check again.
+
+---
+
 ## Wrap-Up: Share & Discuss
 
 **Each group presents:**
@@ -628,11 +1166,12 @@ You've now explored:
 ## Key Takeaways
 
 ::: {.nonincremental}
-1. **Competitive analysis** maps the product landscape—what exists, what failed, what's missing
-2. **Literature review** maps the knowledge landscape—what's studied, what's theorized, what's unknown
-3. **Both serve innovation**—you can't claim "new" without knowing what's old
-4. **Your gap evolves**—research refines instinct into insight
-5. **This is iterative**—you'll return to the literature throughout your project
+1. **Landscape Intelligence** = Competitive analysis + Literature review — both are required
+2. **Three research types:** Discovery (what's the problem?), Validation (does this work?), Innovation (what doesn't exist?)
+3. **Literature is leverage** — steal insights from people who spent years on your problem
+4. **Anti-patterns are everywhere** — summarizing isn't synthesizing, direct competitors aren't the only competitors
+5. **The innovation spectrum** — know whether you're doing incremental improvement (fine!) or genuine innovation (different approach)
+6. **GenAI democratizes research** — you can now survey a field in hours. Will you?
 :::
 
 ---
@@ -657,15 +1196,33 @@ Your gap is becoming clearer. Now we need to make it **specific, focused, and an
 ## Reminder: Document 0 Due Next Week
 
 ::: {.nonincremental}
-- ≤ 500 words extended abstract
+- ≤ 500 words (Extended Abstract OR Product Research Brief — your choice)
 - Include: Problem, gap, proposed approach, potential outcomes
 - Use what you learned today to ground it in the landscape
 :::
 
 ::: {.callout-tip icon=false}
 ## Pro Tip
-Reference at least 2-3 sources from your scavenger hunt. Show you've done the landscape work.
+Reference at least 2-3 sources from your canvas. Show you've done the landscape work.
+
+**Even better:** Include one insight from the 5-minute stack (Reddit, App Store, Trends) — shows you're doing real-world intelligence, not just academic citation.
 :::
+
+---
+
+## The Slide to Screenshot
+
+::: {.r-fit-text}
+**20 minutes of landscape intelligence**
+
+**can save you 20 weeks**
+
+**of building the wrong thing.**
+:::
+
+. . .
+
+Airbnb. Spotify. Figma. They all did the homework. Now you know how.
 
 ---
 

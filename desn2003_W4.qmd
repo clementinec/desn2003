@@ -219,6 +219,19 @@ A strong research question is:
 :::
 :::
 
+. . .
+
+::: {.callout-important icon=false}
+## The Innovation Check
+
+**Also ask:** Does answering this question lead to **incremental improvement** or **genuine innovation**?
+
+- Incremental: "Which color button works better?" (optimization)
+- Innovation: "Why do users abandon this entire flow?" (discovery)
+
+Both are valid — but know which you're doing.
+:::
+
 ---
 
 ## Good vs. Bad Research Questions
@@ -531,7 +544,180 @@ If you can't imagine how you'd collect data to answer it, it's probably too broa
    - *Too narrow: trivial, limited insight*
 :::
 
-# Activity: Refine Your Research Question {background-color="#FFE66D"}
+# Activity Part 1: Deepen the Landscape {background-color="#FFE66D"}
+
+## From Quick Signals to Academic Grounding (30-40 min)
+
+**Last week you did the 5-Minute Research Stack:**
+
+- Reddit threads, App Store reviews, Google Trends, Wayback Machine
+- Quick signals about what people care about, what's been tried, what failed
+
+**That was shallow reconnaissance. Now go deeper.**
+
+---
+
+## The Exercise: Deepen 2 Items
+
+::: {.nonincremental}
+1. **Pick 2 signals** from your Week 3 5-minute stack
+   - A Reddit thread that revealed a pain point
+   - An app review pattern you noticed
+   - A Google Trends spike that seemed meaningful
+
+2. **For each signal, find 2 academic sources** that study the same phenomenon
+   - Use Google Scholar, Semantic Scholar, or Connected Papers
+   - Look for studies that explain *why* the pattern exists
+:::
+
+---
+
+## For Each Academic Source, Document:
+
+| Component | What to Write |
+|:----------|:--------------|
+| **Citation** | Author (Year). Title. Journal. |
+| **Method** | How did they study this? (Survey? Experiment? Interviews?) |
+| **Key Finding** | One sentence: What did they discover? |
+| **Limitation** | One sentence: What couldn't they answer? What's still unknown? |
+| **Source Quality** | Why trust this? (Peer-reviewed? Citation count? Reputable journal?) |
+
+**This forces rigor.** You can't just grab the first Google Scholar hit. You have to evaluate *why* this source is credible and acknowledge *gaps*.
+
+::: {.callout-tip icon=false}
+## Use Your Toolkit
+This activity maps directly to **Sections 3–4 of the Landscape Intelligence Canvas**. Use the canvas as your working document — it's designed for exactly this progression.
+:::
+
+---
+
+## Example 1: App/Product — From Reddit to Research
+
+::: {.columns}
+::: {.column width="40%"}
+**Week 3 Signal:**
+
+Reddit r/socialanxiety thread: "I check my likes 20+ times after posting and feel terrible every time"
+
+*Quick insight: compulsive checking exists and causes distress*
+:::
+
+::: {.column width="60%"}
+**Week 4 Deepening:**
+
+**Source 1:** Vogel et al. (2014). Social comparison, social media, and self-esteem. *Psychology of Popular Media Culture.*
+
+- **Method:** Survey of 145 college students
+- **Finding:** Upward social comparison on Facebook linked to lower self-esteem
+- **Limitation:** Cross-sectional; can't prove causality
+- **Quality:** 1,400+ citations; peer-reviewed; foundational paper in the field
+
+**Source 2:** Verduyn et al. (2017). Passive social media use undermines affective well-being. *Journal of Experimental Psychology.*
+
+- **Method:** Experience sampling over 2 weeks (N=89)
+- **Finding:** Passive use (scrolling, comparing) → negative affect
+- **Limitation:** Small sample; Facebook only, not Instagram
+- **Quality:** APA journal; rigorous ESM methodology
+:::
+:::
+
+---
+
+## Example 2: Built Environment — From Observation to Research
+
+::: {.columns}
+::: {.column width="40%"}
+**Week 3 Signal:**
+
+Google Maps reviews of HK public spaces: recurring complaints about "too many rules," "security guards told us to leave," "can't sit on the grass"
+
+*Quick insight: rule enforcement affects how people use public space*
+:::
+
+::: {.column width="60%"}
+**Week 4 Deepening:**
+
+**Source 1:** Xue et al. (2019). Influence of rules on user behavior in public open space of Hong Kong. *American Journal of Civil Engineering and Architecture.*
+
+- **Method:** Observation + behavioral mapping in 4 HK plazas
+- **Finding:** Explicit rules (signs, barriers) significantly reduced dwelling time and social activities
+- **Limitation:** Only studied privately-owned public spaces (POPS)
+- **Quality:** Peer-reviewed; HK-specific context; cited in urban design lit
+
+**Source 2:** Low (2000). On the Plaza: The Politics of Public Space and Culture. *University of Texas Press.*
+
+- **Method:** Ethnography across multiple US plazas
+- **Finding:** Design and management decisions encode social control and exclusion
+- **Limitation:** US context; may not transfer to HK cultural norms
+- **Quality:** Seminal text in public space studies; 2,000+ citations
+:::
+:::
+
+---
+
+## Your Deliverable
+
+**By end of class:**
+
+::: {.nonincremental}
+1. **1 signal** from your 5-minute stack (named and described)
+2. **2 academic sources** with method, finding, limitation, and source quality
+3. **Draft gap statement:** What's still unknown based on what you've read?
+:::
+
+**Take-home thinking (optional but recommended):**
+
+::: {.nonincremental}
+4. Second signal + 2 more sources (same format)
+5. Refined gap statement incorporating both signals
+6. Research question that emerges from the landscape
+7. Method fit: What approach would let you address this question?
+:::
+
+**If you continue outside class, bring your working Canvas (Sections 3-4) to Week 5 — it'll feed directly into your Doc 0.1.**
+
+---
+
+## Why This Matters
+
+::: {.callout-important icon=false}
+## The Credibility Bridge
+
+**Shallow signals** tell you what to look for.
+
+**Academic sources** tell you whether your instinct has scientific grounding.
+
+**The combination** = a research question that's both relevant (people care) AND rigorous (literature supports it).
+
+This is exactly what product builders need: behavioral science backing for their intuition.
+:::
+
+---
+
+## Work Time: Start Here, Continue Later
+
+::: {.callout-note icon=false}
+## Realistic Pacing
+
+**In class (25-30 min):** Complete **1 signal + 2 sources** fully documented.
+
+**Take-home thinking:** Continue with your **second signal + 2 sources** at your own pace.
+
+This gives you time to actually read abstracts and evaluate quality — not just grab the first hit.
+:::
+
+::: {.callout-tip icon=false}
+## Tools to Use
+
+- **Google Scholar** — broad search, citation counts
+- **Semantic Scholar** — AI-powered relevance ranking
+- **Connected Papers** — visual mapping of related work
+- **Elicit** — AI research assistant (use to verify, not replace)
+
+**Pro tip:** If your 5-minute signal doesn't have academic coverage, that itself is a gap worth noting — and potentially a research opportunity.
+:::
+
+# Activity Part 2: Refine Your Research Question {background-color="#4ECDC4"}
 
 ## Your Task (20 minutes)
 
@@ -780,6 +966,26 @@ You'll learn qualitative methods
 **The semester arc continues:**
 
 Instinct → Gap → Landscape → **Question** → Methods → Evidence → Analysis → Paper
+
+---
+
+---
+
+## The Slide to Screenshot
+
+::: {.r-fit-text}
+**A vague question**
+
+**leads to a vague answer**
+
+**leads to a vague contribution**
+
+**leads to rejection.**
+:::
+
+. . .
+
+Sharpen your question. Everything else gets easier.
 
 ---
 

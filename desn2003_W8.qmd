@@ -14,7 +14,32 @@ format:
     embed-resources: true
     incremental: true
 ---
-## 
+## Learning Objectives
+
+By the end of this session, you will be able to:
+
+1. **Identify** research paradigms (positivist, constructivist, pragmatic) in real studies
+2. **Select** appropriate qualitative/quantitative methods for your research question
+3. **Design** a mixed-methods approach when needed
+4. **Articulate** a method justification for Doc 0.2
+
+---
+
+## Artifact Output: What You Leave With
+
+::: {.callout-note icon=false}
+## Today's Deliverable
+
+By end of class, complete the **Method Justification Paragraph**:
+
+"My research question is [X]. I will use [method] because [paradigm rationale]. This method is appropriate because [fit to question]. The main limitation is [honest acknowledgment]."
+
+This paragraph goes directly into your Doc 0.2 methodology section.
+:::
+
+---
+
+##
 
 **Exploring Paradigms & Methods** – An academically grounded lecture on how to research for design innovation and emerging tech.
 
@@ -296,7 +321,8 @@ Feel free to note questions for discussion at end or during activities.
 - **Combine Data Science & UX:** Developing AI products benefits from a hybrid research approach. One case study suggests using data science techniques (to analyze system behavior or user data) alongside UX tactics to make AI systems more **explainable and controllable** for users ([User Research for Machine Learning Systems: A Case Study Walkthrough](https://dscout.com/people-nerds/user-research-for-machine-learning#:~:text=This%20case%20study%20outlines%20my,can%20better%20control%20their%20experience)). In practice, this means:
   - Analyze model output data to identify patterns or errors (quantitative).
   - Also conduct user studies to see how people react to those outputs and whether they understand them (qualitative).
-- **Example – AI Design Assistant:** Imagine testing a Figma plugin powered by GPT that suggests design improvements. You’d measure **usage data** (e.g., how often do designers accept suggestions? which suggestions are ignored?) *and* gather **feedback** (do designers feel it boosts creativity or do they find it annoying?). This mixed approach uncovers both performance metrics and user sentiment.
+- **Example – AI Design Assistant (Product):** Imagine testing a Figma plugin powered by GPT that suggests design improvements. You'd measure **usage data** (e.g., how often do designers accept suggestions? which suggestions are ignored?) *and* gather **feedback** (do designers feel it boosts creativity or do they find it annoying?). This mixed approach uncovers both performance metrics and user sentiment.
+- **Example – AI in Built Environment:** Consider an AI tool that generates floorplan options for architects. Research questions might include: Do architects trust AI-generated layouts? How do they modify vs. accept suggestions? Does AI assistance change the design process (faster? more homogeneous?)? Methods would combine analytics (which layouts get modified most) with interviews (how do architects feel about AI "co-designing"?).
 - **Focus on Trust & Ethics:** Because GenAI can produce wrong or biased results, user research should probe trust (e.g., do users verify AI outputs?), transparency (do they understand why the AI suggested something?), and broader impacts. Methods like think-aloud usability tests, longitudinal studies (observing usage over time), and even surveys on user comfort can be vital to ensure the AI feature is adopted and used responsibly.
 
 ::: {.notes}
@@ -348,6 +374,94 @@ Feel free to note questions for discussion at end or during activities.
 - Use their sharing to highlight good mixes: e.g., “Group A will do interviews then usage analytics – great mix of qual and quant. Group B wants to run a wizard-of-oz test with a fake AI – that’s a fantastic idea to get early feedback,” etc.
 - Connect back to lecture content explicitly: They are basically doing what we learned – identifying questions, choosing qual/quant, considering iterative design (DBR style), etc., and even ethics (maybe someone will mention checking if AI suggestions are biased or not useful for certain styles).
 :::
+
+# Writing for Two Audiences
+
+## Academic vs. Product Research Writing
+
+| Dimension | Academic Writing | Product Writing |
+|:----------|:-----------------|:----------------|
+| **Goal** | Contribute to knowledge | Inform a decision |
+| **Audience** | Peer reviewers, scholars | PMs, engineers, executives |
+| **Length** | 5,000-10,000 words | 2-3 pages + appendix |
+| **Tone** | Formal, hedged ("may suggest") | Direct, confident ("we should") |
+| **Structure** | Abstract → Lit Review → Method → Results → Discussion | Opportunity → Findings → Hypothesis → Recommendation |
+| **Evidence standard** | Statistical significance, replicability | "Good enough" to de-risk the decision |
+
+Both require rigor. Different outputs.
+
+## Product Writing: The 1-Page Brief
+
+When stakeholders have 5 minutes, give them this:
+
+::: {.callout-note}
+## Template: Research Brief (1 Page)
+
+**Opportunity:** [1-2 sentences: What problem are we solving? For whom?]
+
+**What We Learned:**
+- [Key finding 1 — supported by X interviews / Y survey responses]
+- [Key finding 2 — aligned with [Theory Name] in literature]
+- [Key finding 3 — contradicts assumption Z]
+
+**Our Hypothesis:** If we build [feature], then [outcome], because [mechanism].
+
+**Recommendation:** [Build / Test first / Don't build]
+
+**Next Step:** [Specific action with timeline]
+:::
+
+## Academic Writing: The Findings Section
+
+When writing for academic readers:
+
+::: {.callout-note}
+## Template: Findings Section Structure
+
+**Theme 1: [Name]** (n/N participants)
+
+[Definition of the theme in 1-2 sentences]
+
+[Representative quote with attribution (P##)]
+
+[Analysis: What does this mean? How does it connect to literature?]
+
+**Theme 2: [Name]** (n/N participants)
+
+[Same structure...]
+
+**Quantitative Findings:**
+
+[Descriptive statistics: M, SD, range]
+
+[Inferential statistics: correlation/t-test/etc. with effect size]
+
+[Interpretation: What do these numbers mean in context?]
+:::
+
+## Common Writing Anti-Patterns
+
+| Anti-Pattern | Example | Fix |
+|:-------------|:--------|:----|
+| **Quote dumping** | "P3 said X. P7 said Y. P9 said Z." (no analysis) | Add interpretation after each quote |
+| **Stats without meaning** | "r = 0.42, p < .001" (so what?) | "This moderate correlation suggests..." |
+| **Vague hedging** | "This might possibly suggest..." | Be confident: "This indicates..." |
+| **Burying the lead** | Insight on page 5 | Put the most important finding first |
+| **Method-heavy, insight-light** | 2 pages on method, 1 paragraph on findings | Flip the ratio |
+
+## The "Peer Review" Test
+
+Before submitting, ask:
+
+**For academic writing:**
+- Would a skeptical reviewer find the claims supported by evidence?
+- Is every quote analyzed, not just presented?
+- Are limitations acknowledged honestly?
+
+**For product writing:**
+- Could a PM make a decision after reading this?
+- Is the recommendation clear and justified?
+- Are the next steps actionable?
 
 ## Key Takeaways
 

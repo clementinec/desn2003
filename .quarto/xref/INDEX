@@ -96,5 +96,23 @@
   },
   "desn2003_W6_draft.qmd": {
     "desn2003_W6_draft.html": "dd069d02"
+  },
+  "data/landscape_canvas.qmd": {
+    "landscape_canvas.tex": "5fc7934d"
+  },
+  "data/research_question_builder.qmd": {
+    "research_question_builder.tex": "f65ce016"
+  },
+  "data/interview_protocol_template.qmd": {
+    "interview_protocol_template.tex": "bb3cccfd"
+  },
+  "data/survey_design_checklist.qmd": {
+    "survey_design_checklist.tex": "5e5ee858"
+  },
+  "data/synthesis_canvas.qmd": {
+    "synthesis_canvas.tex": "e0359d8e"
+  },
+  "data/research_to_decision_canvas.qmd": {
+    "research_to_decision_canvas.tex": "9ded28e5"
   }
 }

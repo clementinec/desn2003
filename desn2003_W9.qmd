@@ -35,30 +35,23 @@ format:
     - demonstrates how you have leveraged techniques learnt in this class to investigate problems at hand
   - Let's take a quick look -->
 
-# Interview Project
+## Learning Objectives
 
-## Why there's a Group/Individual (interview-based) Project
-  - Practicing **Research** in non-academic setting
-  - Reaching out to people with some predetermined agenda
-  - Attempt on additional insight by taking in first-hand primary data through interviews
-  - Something that wasn't possible with existing framework on your more 'academic' research
-  - Opportunity to collect data and synthesize insights
-  - Recognize and celebrate the <span style='color: orange'>inherent bias</span> that you bring in
+By the end of this session, you will be able to:
 
-## Pros and Cons: Working as a Group vs. Individual
-  - Working as a group, you will:
-    - Get a chance to reach more people thus expanding your professional network
-    - Write a smaller portion of the overall report on findings, however in the meantime
-    - _losing control over showflow and_
-    - _unable to push the conversation in desired directions, potentially leaving questions unanswered._
-  - Working as an individual, you will:
-    - Reach more people (unlike previously which was per-person level) and expand professional network further
-    - have more control over how the conversation goes and ask questions that resonates more with you,
-    - free to manipulate the formation of your final group report to be more consistent with your vision yet
-    - _less likely to get more positive answer to do a sit-down interview, even a zoom-based one and_
-    - _write the full report on one's own and coming up with all questions that you'll want to ask_
+1. **Distinguish** descriptive from analytical writing in your own drafts
+2. **Apply** reverse outlining to identify structural gaps
+3. **Synthesize** qualitative and quantitative findings using the Synthesis Canvas
+4. **Translate** research findings into product hypotheses (Applied Research)
 
-#### Make your pick according to your liking.
+---
+
+## Today's Session Structure
+
+1. **Writing Workshop** (40 min) — Descriptive vs. analytical writing + peer review
+2. **Synthesis Activity** (25 min) — Working with the Synthesis Canvas
+3. **Research → Decision** (20 min) — Applied Research framework
+4. **Logistics** (5 min) — Interview project reminder
 <!-- 
 ## From previous class, we have five (six) centralized group:
   
@@ -354,47 +347,257 @@ Feel free to share your reflections with the class. This discussion will help yo
 
 ## Double-check your submission to make sure that it can be considered a followable instruction manual by the domain experts.
 
-# Data Visualization
+# Synthesis Activity {background-color="#FFE66D"}
 
-## Question received last week
+## Using the Synthesis Canvas (25 min)
 
-- How to use coding to do data visualization?
-  - By programming language:
-    - Python, R, Javascript (Processing/Arduino)
-  - By type of programming:
-    - (Text-based) Programming
-    - Graphical/Visual/Block-based programming: Grasshopper
-- How does data visualization differ in commercial vs. academic/research settings
-  - Commercial:
-    - Goal: Support decision-making
-    - Designed to deliver messages
-  - Academic:
-    - Goal: Present evidence and analysis alongside findings
-    - Designed to present evidence
+**The challenge:** You have findings from multiple sources. How do you bring them together?
 
-## Visualizing Quantitative Data
+- Qualitative themes from interviews
+- Quantitative patterns from surveys
+- Insights from literature
 
-- How do you usually work with them?
-- What do you think are your biggest strength in treating them? Color Pallete and aethetics plus readability
-- Types of data that can be visualized:
-  - Numerical
-  - Categorical
-  - Text (Free text)
-  - _Tabular_: multi-dimensional combined as above
+**The tool:** [Synthesis Canvas (PDF)](data/synthesis_canvas.pdf)
 
-## Time Series Data
-  - Adding one more dimension
-  - Time-stamped information, usually numerical
-  - Scale of time series often important, similar to (potentially necessary) smoothing
-  ![Time Series Data with Weather data](https://images.ctfassets.net/uklh5xrq1p2j/5rT7o8AHq2HIlOHRSD2jgB/65db7b5c0cc2104228e4d3ca518fbc59/whatcaused2.png)
+---
 
-## Alternative Time Series Visualization
+## Activity: Complete Your Synthesis Canvas
 
-![](https://images.ctfassets.net/uklh5xrq1p2j/3f9hvirynb0nXNLivEYvmY/e81d7e23b0308229a430b2752cf77a21/facetsNotColor__6_.png)
-## Sankey Diagram
-  - Inflow/Outflow
-  - Numerical Data that traces back to the source
-  - Programmable yet messy in execution
-  ![Sankey Diagram off X](https://pbs.twimg.com/media/FDbIQ32X0AEqGRk.jpg)
+**Step 1: What Data Do You Have?** (3 min)
 
+Fill in Section 1 of the canvas:
+- What qualitative data? (interviews, observations, open-ended responses)
+- What quantitative data? (survey scores, analytics, measurements)
+- How much of each?
 
+---
+
+## Activity: Qualitative Synthesis (10 min)
+
+**Step 2: Pull Key Quotes**
+
+From your interviews/observations, identify 3-5 powerful quotes that capture key insights.
+
+**Step 3: Group Into Themes**
+
+Cluster related quotes. Name each theme. Note how many participants expressed it.
+
+| Theme | Codes Included | # of Participants |
+|:------|:---------------|:------------------|
+| Theme 1: _________ | _________ | ___/___ |
+| Theme 2: _________ | _________ | ___/___ |
+
+---
+
+## Activity: Triangulation Check (7 min)
+
+**Step 4: Do Qual and Quant Agree?**
+
+For each finding, check:
+
+| Finding | Qual Evidence | Quant Evidence | Agreement? |
+|:--------|:--------------|:---------------|:-----------|
+| _________ | _________ | _________ | Yes / No / Partial |
+
+**If they disagree:** That's interesting data. Write down why they might differ.
+
+---
+
+## Activity: The "So What?" (5 min)
+
+**Step 5: Why Should Anyone Care?**
+
+For your top 2-3 findings, write one sentence explaining the implication:
+
+| Finding | So What? |
+|:--------|:---------|
+| _________ | This means... / This suggests... / Designers should consider... |
+
+**If you can't answer "so what?" — the finding isn't ready for Doc 1.**
+
+---
+
+## Architecture/Urban Example: Synthesizing Mixed Methods Data
+
+**Research question:** Does greenery in Hong Kong's elevated walkways affect pedestrian stress levels?
+
+| Data Type | Source | Key Finding |
+|:----------|:-------|:------------|
+| **Qualitative** | 10 walking interviews | "The plants make it feel less like a tunnel" (7/10) |
+| **Quantitative** | Heart rate variability (N=45) | 12% lower stress markers in green sections vs. bare sections |
+| **Observation** | Pedestrian counts | 23% more people paused/lingered in green sections |
+
+**Triangulation:** All three methods converge — greenery correlates with lower stress and changed behavior.
+
+**So what?** Urban designers should prioritize vegetation in elevated walkway design; the effect is measurable, not just aesthetic preference.
+
+# Research → Decision Framework {background-color="#4ECDC4"}
+
+::: {.callout-note icon=false}
+## Applied Research (Builder-Maker) Focus
+
+This section is specifically for students on the **Applied Research track** who are building design case studies or product recommendations. If you're on the Frontier Research track, this framework shows how industry applies research — useful context even if your output is a traditional paper.
+:::
+
+## The Product Builder's Challenge
+
+You've done your research. You found the behavioral science. Now what?
+
+**Academic output:** "Our findings suggest that social comparison mediates the relationship between like-checking frequency and anxiety (β = 0.38, p < .001)."
+
+**Product question:** "Should we hide like counts? Will it actually help? How will we know?"
+
+This section bridges that gap.
+
+## The Translation Problem
+
+| What Research Gives You | What Product Needs |
+|:------------------------|:-------------------|
+| Correlations & themes | Causal hypotheses |
+| General principles | Specific feature specs |
+| "This is happening" | "If we do X, Y will happen" |
+| Academic language | Stakeholder-ready framing |
+
+**Your job:** Turn "what we know" into "what we should build and why we expect it to work."
+
+## The Research → Decision Canvas
+
+| Component | Question | Your Answer |
+|:----------|:---------|:------------|
+| **Scientific Foundation** | What does behavioral science say about this problem? | _____________ |
+| **Product Hypothesis** | If we build [feature], then [outcome] because [mechanism] | _____________ |
+| **Expected Effect** | How big a change do we expect? What's the baseline? | _____________ |
+| **Success Metric** | How will we measure if it worked? | _____________ |
+| **Risk if Wrong** | What happens if our hypothesis is wrong? | _____________ |
+| **Validation Plan** | How will we test before full launch? | _____________ |
+
+## Worked Example: Instagram Hidden Likes
+
+**Research finding:** Social comparison theory (Festinger, 1954) + your qualitative data showing 9/12 participants check likes to compare with friends.
+
+| Component | Answer |
+|:----------|:-------|
+| **Scientific Foundation** | Social comparison drives anxiety; visible metrics enable comparison; removing visibility should reduce comparison triggers |
+| **Product Hypothesis** | If we hide like counts from viewers, then comparison-driven anxiety will decrease, because users can't compare their posts to others' |
+| **Expected Effect** | Baseline: 67% report checking to compare. Target: <40% report comparison motivation after hiding. |
+| **Success Metric** | Self-reported comparison frequency (survey); anxiety scale (GAD-7); qualitative interviews |
+| **Risk if Wrong** | Users might feel less validated, reducing posting motivation; engagement metrics might drop |
+| **Validation Plan** | A/B test with 10% of users for 4 weeks; exit survey + 10 interviews |
+
+## Case Study: Duolingo's Streak Feature
+
+**The science:** Loss aversion (Kahneman & Tversky, 1979) — people are more motivated to avoid losing something than to gain something of equal value.
+
+**The translation:**
+
+| Component | Duolingo's Answer |
+|:----------|:------------------|
+| **Scientific Foundation** | Loss aversion: losing a streak feels worse than gaining a day |
+| **Product Hypothesis** | If we visualize consecutive-day streaks, users will practice daily to avoid "losing" their streak |
+| **Expected Effect** | Daily active users should increase; session frequency should stabilize |
+| **Success Metric** | DAU/MAU ratio; 7-day retention; streak length distribution |
+| **Risk if Wrong** | Users might feel punished by broken streaks and churn |
+| **Validation Plan** | Introduced incrementally; added "streak freeze" as safety valve |
+
+**Result:** Streaks became Duolingo's core retention mechanism.
+
+## Case Study: Spotify Wrapped
+
+**The science:** Self-presentation theory (Goffman, 1959) — people curate identity through what they share; nostalgia increases emotional engagement.
+
+**The translation:**
+
+| Component | Spotify's Answer |
+|:----------|:-----------------|
+| **Scientific Foundation** | Sharing music = identity signaling; year-end reflection = nostalgia; social proof drives adoption |
+| **Product Hypothesis** | If we create shareable, personalized year-in-review content, users will spread it organically, driving brand awareness and emotional connection |
+| **Expected Effect** | Viral social sharing in December; increased premium conversions post-Wrapped |
+| **Success Metric** | Social shares; hashtag volume; December premium signups vs. baseline |
+| **Risk if Wrong** | Users might find it creepy or ignore it |
+| **Validation Plan** | Started with simple stats; iterated based on what got shared most |
+
+**Result:** Wrapped became Spotify's biggest annual marketing moment — built on behavioral science, not ad spend.
+
+## When Your Research Says "Don't Build It"
+
+Sometimes research reveals your hypothesis is wrong. That's valuable.
+
+**Signals to reconsider:**
+
+- Literature shows the mechanism doesn't work the way you thought
+- Qualitative data shows users don't actually have the problem you assumed
+- Comparable products tried it and failed (with documented reasons)
+- The effect size in existing research is too small to matter
+
+**What to do:**
+
+1. Document why you're not building it (prevents revisiting the same dead end)
+2. Look for adjacent opportunities the research revealed
+3. Share with stakeholders — "We saved X months by researching first"
+
+## What Product Research Output Looks Like
+
+**Not a paper.** A decision document.
+
+**Structure:**
+
+1. **The Opportunity** (1 paragraph): What problem are we solving? For whom?
+2. **What We Learned** (1 page): Key findings from research — qual themes, quant patterns, literature insights
+3. **Our Hypothesis** (1 paragraph): If we build X, then Y, because Z
+4. **Recommendation** (1 paragraph): Build / Don't build / Test first
+5. **Validation Plan** (if building): How we'll know if we're right
+6. **Appendix**: Raw data, quotes, methodology details
+
+**Length:** 2-3 pages + appendix. Readable in 10 minutes.
+
+## The Screenshot-Worthy Slide
+
+::: {.callout-tip}
+## Research → Decision in One Sentence
+
+**"We found [scientific principle] in the literature and [pattern] in our data, which suggests that if we build [feature], users will [outcome] — and we'll measure success by [metric]."**
+:::
+
+**Example:**
+
+> "We found that loss aversion (Kahneman & Tversky) predicts people work harder to protect what they have than to gain something new. Our interviews confirmed users hate 'losing progress.' This suggests that if we add a visible streak counter, users will practice daily to avoid breaking it — and we'll measure success by 7-day retention rate."
+
+---
+
+## Artifact Output: What You Leave With
+
+::: {.callout-note icon=false}
+## Today's Deliverables
+
+**From Writing Workshop:**
+
+- Reverse outline of your Doc 0.1 or Doc 0.2 draft
+- Peer feedback on descriptive vs. analytical writing
+- List of paragraphs that need deeper analysis
+
+**From Synthesis (Frontier Research):**
+
+- Draft Synthesis Canvas with at least 2 themes + triangulation check
+
+**From Research → Decision (Applied Research):**
+
+- Completed Research to Decision Canvas with hypothesis and validation plan
+
+**These feed directly into Doc 1.**
+:::
+
+# Logistics: Interview Project Reminder
+
+## Group/Individual Interview Project
+
+::: {.callout-note icon=false}
+## Quick Reminder
+
+The interview-based project (group or individual) gives you practice with:
+
+- Professional outreach and networking
+- Primary data collection through interviews
+- Synthesizing insights from first-hand sources
+
+**Choose group or individual based on your preferences.** Check Moodle for current deadlines and submission guidelines.
+:::

@@ -1,0 +1,270 @@
+---
+title: "Survey Design Checklist"
+subtitle: "DESN2003: Research for Innovation"
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - margin=0.75in
+    fontsize: 10pt
+    linestretch: 1.1
+---
+
+\newpage
+
+# Survey Design Checklist — Blank Template
+
+**Your Name:** ________________________________ **Date:** ____________
+
+**Research Question:** _______________________________________________________________
+
+---
+
+## 1. Pre-Design Checklist
+
+| Question | Your Answer |
+|:---------|:------------|
+| What specific information do I need? | _________________________________ |
+| Who is my target population? | _________________________________ |
+| How will I recruit respondents? | _________________________________ |
+| How many responses do I need? (aim for 50+ minimum) | _________________________________ |
+| How will I ensure diversity in my sample? | _________________________________ |
+
+---
+
+## 2. Survey Structure
+
+| Section | Content | Est. Time |
+|:--------|:--------|:----------|
+| **Introduction** | Purpose, time estimate, consent, contact info | ___ min |
+| **Screening** | Eligibility questions (if needed) | ___ min |
+| **Warm-up** | Easy, engaging questions | ___ min |
+| **Core** | Your main research questions | ___ min |
+| **Demographics** | Age, gender, etc. (at the END) | ___ min |
+| **Closing** | Thank you, optional contact for follow-up | ___ min |
+
+**Total estimated time:** ___ min (aim for under 10 min)
+
+---
+
+## 3. Question Type Selection
+
+| Type | When to Use | Your Questions |
+|:-----|:------------|:---------------|
+| **Multiple Choice** | Mutually exclusive options | Q#: ___ |
+| **Checkbox (select all)** | Non-exclusive options | Q#: ___ |
+| **Likert Scale (1-5 or 1-7)** | Measure agreement/frequency | Q#: ___ |
+| **Ranking** | Priority/preference order | Q#: ___ |
+| **Open-ended** | Exploratory (use sparingly) | Q#: ___ |
+
+---
+
+## 4. Write Your Questions
+
+**Question 1:** ___________________________________________________________________
+
+Type: [ ] MC [ ] Checkbox [ ] Likert [ ] Ranking [ ] Open
+
+Options: _________________________________________________________________________
+
+**Question 2:** ___________________________________________________________________
+
+Type: [ ] MC [ ] Checkbox [ ] Likert [ ] Ranking [ ] Open
+
+Options: _________________________________________________________________________
+
+**Question 3:** ___________________________________________________________________
+
+Type: [ ] MC [ ] Checkbox [ ] Likert [ ] Ranking [ ] Open
+
+Options: _________________________________________________________________________
+
+**Question 4:** ___________________________________________________________________
+
+Type: [ ] MC [ ] Checkbox [ ] Likert [ ] Ranking [ ] Open
+
+Options: _________________________________________________________________________
+
+**Question 5:** ___________________________________________________________________
+
+Type: [ ] MC [ ] Checkbox [ ] Likert [ ] Ranking [ ] Open
+
+Options: _________________________________________________________________________
+
+---
+
+## 5. Bias Checklist — Review Each Question
+
+| Bias Type | What to Check | All Clear? |
+|:----------|:--------------|:----------:|
+| **Leading** | Does the question suggest a "right" answer? | [ ] |
+| **Double-barreled** | Does it ask two things at once? | [ ] |
+| **Loaded language** | Are there emotionally charged words? | [ ] |
+| **Assumption** | Does it assume something that may not be true? | [ ] |
+| **Social desirability** | Will people answer honestly or "correctly"? | [ ] |
+| **Acquiescence** | Are all statements phrased positively? (Mix it up) | [ ] |
+
+---
+
+## 6. Likert Scale Template
+
+**Standard 5-point Agreement:**
+
+| 1 | 2 | 3 | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+| Strongly disagree | Disagree | Neither agree nor disagree | Agree | Strongly agree |
+
+**Standard 5-point Frequency:**
+
+| 1 | 2 | 3 | 4 | 5 |
+|:-:|:-:|:-:|:-:|:-:|
+| Never | Rarely | Sometimes | Often | Always |
+
+**Your custom scale (if needed):** ________________________________________________
+
+---
+
+## 7. Pre-Launch Checklist
+
+| Item | Done? |
+|:-----|:-----:|
+| Pilot tested with 3-5 people | [ ] |
+| Confusing questions revised | [ ] |
+| Time to complete is under 10 min | [ ] |
+| Mobile-friendly formatting checked | [ ] |
+| Skip logic tested (if applicable) | [ ] |
+| Data will be anonymous/confidential (stated clearly) | [ ] |
+| Contact info provided for questions | [ ] |
+
+---
+
+## 8. Sample Size & Credibility
+
+| Sample Size | What You Can Claim |
+|:------------|:-------------------|
+| n < 30 | Exploratory only — no generalizations |
+| n = 30-50 | Preliminary patterns — use cautiously |
+| n = 50-100 | Reasonable confidence for descriptive stats |
+| n = 100-200 | Good statistical power for correlations |
+| n > 200 | Strong confidence, can detect smaller effects |
+
+**My target sample size:** _______ **Realistic?** [ ] Yes [ ] No
+
+**Recruitment strategy:** _________________________________________________________
+
+\newpage
+
+# Survey Design Checklist — Worked Example
+
+**Your Name:** Alex Chen **Date:** Week 6
+
+**Research Question:** What is the relationship between Instagram like-checking frequency and daily anxiety levels among HKU undergraduate students?
+
+---
+
+## 1. Pre-Design Checklist
+
+| Question | Your Answer |
+|:---------|:------------|
+| What specific information do I need? | Like-checking frequency, anxiety levels (GAD-7), posting behavior, motivations |
+| Who is my target population? | HKU undergrads aged 18-24 who use Instagram daily |
+| How will I recruit respondents? | HKU student Facebook groups, WhatsApp groups, in-class announcements |
+| How many responses do I need? | Target: 150 (expect 50% completion = send to 300) |
+| How will I ensure diversity in my sample? | Post in multiple faculty groups, not just my own major |
+
+---
+
+## 2. Survey Structure
+
+| Section | Content | Est. Time |
+|:--------|:--------|:----------|
+| **Introduction** | Purpose, consent, ~8 min estimate | 0.5 min |
+| **Screening** | "Do you use Instagram daily?" "Are you 18-24?" | 0.5 min |
+| **Warm-up** | General Instagram usage patterns | 1 min |
+| **Core** | Like-checking behavior + GAD-7 anxiety scale | 5 min |
+| **Demographics** | Age, gender, year of study, faculty | 1 min |
+| **Closing** | Thank you, optional interview sign-up | 0.5 min |
+
+**Total estimated time:** 8.5 min ✓
+
+---
+
+## 3. Question Type Selection
+
+| Type | When to Use | Your Questions |
+|:-----|:------------|:---------------|
+| **Multiple Choice** | Mutually exclusive options | Q2, Q3 |
+| **Checkbox (select all)** | Non-exclusive options | Q5 |
+| **Likert Scale (1-5 or 1-7)** | Measure agreement/frequency | Q4, Q6-12 (GAD-7) |
+| **Ranking** | Priority/preference order | — |
+| **Open-ended** | Exploratory (use sparingly) | Q13 (optional) |
+
+---
+
+## 4. Sample Questions (Core Section)
+
+**Question 4:** In the past week, how often did you check the like count on your own Instagram posts?
+
+Type: [x] Likert (frequency)
+
+Options: Never / Once or twice / A few times / Once a day / Multiple times a day
+
+**Question 5:** What usually prompts you to check your like counts? (Select all that apply)
+
+Type: [x] Checkbox
+
+Options: [ ] Just posted something new [ ] Notification [ ] Boredom [ ] Comparing to previous posts [ ] Feeling anxious [ ] Habit [ ] Other: ___
+
+**Question 6 (GAD-7 Item 1):** Over the last 2 weeks, how often have you felt nervous, anxious, or on edge?
+
+Type: [x] Likert
+
+Options: Not at all / Several days / More than half the days / Nearly every day
+
+*(Questions 7-12: Remaining GAD-7 items with same scale)*
+
+**Question 13:** Is there anything else you'd like to share about how Instagram affects your mood? (Optional)
+
+Type: [x] Open-ended
+
+---
+
+## 5. Bias Checklist — Review Each Question
+
+| Bias Type | What to Check | All Clear? |
+|:----------|:--------------|:----------:|
+| **Leading** | "How often do you obsessively check likes?" → Changed to neutral "how often did you check" | [x] |
+| **Double-barreled** | Split "check likes and comments" into separate questions | [x] |
+| **Loaded language** | Removed "addicted," "waste time" — used neutral language | [x] |
+| **Assumption** | Added "I don't post" option for non-posters | [x] |
+| **Social desirability** | Anonymous survey + emphasized no right/wrong answers | [x] |
+| **Acquiescence** | GAD-7 is validated; my questions mix positive/negative framing | [x] |
+
+---
+
+## 7. Pre-Launch Checklist
+
+| Item | Done? |
+|:-----|:-----:|
+| Pilot tested with 3-5 people | [x] — 4 classmates, average 7 min |
+| Confusing questions revised | [x] — Clarified "past week" timeframe |
+| Time to complete is under 10 min | [x] — 7-8 min average |
+| Mobile-friendly formatting checked | [x] — Tested on iPhone and Android |
+| Skip logic tested (if applicable) | [x] — Non-daily users skip to demographics |
+| Data will be anonymous/confidential (stated clearly) | [x] — In intro paragraph |
+| Contact info provided for questions | [x] — My HKU email |
+
+---
+
+## 8. Sample Size & Credibility
+
+**My target sample size:** 150 **Realistic?** [x] Yes
+
+**Recruitment strategy:**
+- Post in 5 HKU faculty Facebook groups (reach ~2000 students)
+- Share in 3 course WhatsApp groups
+- Ask 2 professors to announce in class
+- Offer chance to win 1 of 5 $100 HKD gift cards as incentive
+
+**Credibility note:** Using validated GAD-7 scale means my anxiety measure is already tested for reliability — I don't need to defend my anxiety questions, only my like-checking questions.
+

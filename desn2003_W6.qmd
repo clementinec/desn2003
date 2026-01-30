@@ -331,6 +331,37 @@ Open-ended → Requires coding/thematic analysis (essentially qualitative data)
 
 ---
 
+## Anti-Patterns: How Quantitative Research Goes Wrong
+
+::: {.columns}
+::: {.column width="50%"}
+### Survey Mistakes
+
+- **50 responses from friends** — not representative
+- **Leading questions** — get the answer you want, learn nothing
+- **Too long** — response quality drops after 10 minutes
+- **No pilot test** — ambiguous questions you didn't catch
+:::
+
+::: {.column width="50%"}
+### Analysis Mistakes
+
+- **Correlation ≠ causation** — finding patterns doesn't explain them
+- **p-hacking** — running tests until something is "significant"
+- **Ignoring effect size** — statistically significant but practically meaningless
+- **Cherry-picking results** — only reporting what supports your hypothesis
+:::
+:::
+
+. . .
+
+::: {.callout-warning icon=false}
+## The Worst Anti-Pattern
+**"My survey got 200 responses!"** — From whom? How did you recruit them? Are they representative of the population you're studying?
+:::
+
+---
+
 ## Survey Flow & Structure
 
 ::: {.callout-tip icon=false}
@@ -748,6 +779,26 @@ Analysis: Making Sense of Data
 **Your research journey:**
 
 Instinct → Gap → Landscape → Question → **Methods** → Evidence → Analysis → Paper
+
+---
+
+---
+
+## The Slide to Screenshot
+
+::: {.r-fit-text}
+**Correlation is not causation.**
+
+**50 friends is not a sample.**
+
+**"Statistically significant"**
+
+**is not the same as "meaningful."**
+:::
+
+. . .
+
+Numbers lie all the time. Your job is to catch them.
 
 ---
 
