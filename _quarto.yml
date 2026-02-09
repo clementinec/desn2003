@@ -32,6 +32,7 @@ format:
     grid:
       body-width: 1800px
       margin-width: 0px
+    include-after-body: _includes/cloudflare-analytics.html
   
 
 

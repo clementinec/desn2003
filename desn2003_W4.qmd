@@ -529,19 +529,99 @@ If you can't imagine how you'd collect data to answer it, it's probably too broa
 
 ---
 
-## Exercise: Scope Check
+## Live Rating: How Good Is This Research Question? {background-color="#FFE66D"}
 
-**Which of these is better scoped? Why?**
+::: {.callout-note icon=false}
+## Mentimeter Time
+
+Go to **menti.com** and enter the code on screen.
+
+Rate each research question from **1** (weak) to **5** (strong). Trust your instincts — we'll discuss after.
+:::
+
+---
+
+## Rate Question 1
+
+> "How does social media affect teenagers?"
+
+**Rate 1–5 on Mentimeter now.**
+
+. . .
+
+::: {.callout-warning icon=false}
+## Verdict: 1–2 (Too Broad)
+Which platform? Which teens? Affect *what*? This is a **topic**, not a question. You could write ten dissertations and still not "answer" this.
+:::
+
+---
+
+## Rate Question 2
+
+> "How does Instagram's Explore algorithm affect content discovery satisfaction among HK university students?"
+
+**Rate 1–5 on Mentimeter now.**
+
+. . .
+
+::: {.callout-tip icon=false}
+## Verdict: 4–5 (Well Scoped)
+Specific platform (Instagram Explore), specific population (HK university students), specific outcome (content discovery satisfaction). You can immediately imagine a survey or interview study.
+:::
+
+---
+
+## Rate Question 3
+
+> "Does the third post in Instagram Explore get more engagement than the fourth post?"
+
+**Rate 1–5 on Mentimeter now.**
+
+. . .
+
+::: {.callout-warning icon=false}
+## Verdict: 1–2 (Too Narrow)
+Technically answerable, but so what? The finding would be trivial. No design implication, no theoretical contribution. This is an **A/B test detail**, not a research question.
+:::
+
+---
+
+## Rate Question 4
+
+> "What barriers do first-generation university students in Hong Kong face when using AI writing tools for academic coursework?"
+
+**Rate 1–5 on Mentimeter now.**
+
+. . .
+
+::: {.callout-tip icon=false}
+## Verdict: 4–5 (Strong)
+Defined population (first-gen HK students), specific context (AI writing tools + coursework), exploratory but bounded. Descriptive question with clear interview/survey methodology path.
+:::
+
+---
+
+## Rate Question 5
+
+> "Is AI good or bad for education?"
+
+**Rate 1–5 on Mentimeter now.**
+
+. . .
+
+::: {.callout-warning icon=false}
+## Verdict: 1 (Not a Research Question)
+Binary framing, no defined population, no context, no measurable outcome. This is an **op-ed prompt**, not a research question. It's what you'd argue about at dinner, not in a paper.
+:::
+
+---
+
+## What Did We Learn from the Ratings?
 
 ::: {.incremental}
-1. "How does social media affect teenagers?"
-   - *Too broad: which platform? which teens? affect what?*
-
-2. "How does Instagram's Explore algorithm affect content discovery satisfaction among HK university students?"
-   - *Better: specific platform, specific population, specific outcome*
-
-3. "Does the third post in Instagram Explore get more engagement than the fourth post?"
-   - *Too narrow: trivial, limited insight*
+- The class mostly **agrees** on what's strong and what's weak — you already have instincts for this
+- The hard part isn't recognizing good questions — it's **writing your own** at that level
+- Notice the pattern: strong questions have **specific who, what, where** — weak ones are missing at least two
 :::
 
 # Activity Part 1: Deepen the Landscape {background-color="#FFE66D"}
