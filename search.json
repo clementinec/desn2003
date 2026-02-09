@@ -637,11 +637,53 @@
     "text": "Scoping Dimensions\nUse these to narrow or broaden your question:\n\n\n\nDimension\nBroader\nNarrower\n\n\n\n\nPopulation\n“Users”\n“HK university students aged 18-24”\n\n\nContext\n“Social media”\n“Instagram Stories feature”\n\n\nTimeframe\n“Over time”\n“During a 2-week study period”\n\n\nGeography\n“Globally”\n“In Hong Kong”\n\n\nPhenomenon\n“User engagement”\n“Double-tap behavior on posts”\n\n\n\n\n\n\n\nRule of Thumb\n\n\nIf you can’t imagine how you’d collect data to answer it, it’s probably too broad. If the answer seems obvious or trivial, it’s probably too narrow."
   },
   {
-    "objectID": "desn2003_W4.html#exercise-scope-check",
-    "href": "desn2003_W4.html#exercise-scope-check",
+    "objectID": "desn2003_W4.html#live-rating-how-good-is-this-research-question",
+    "href": "desn2003_W4.html#live-rating-how-good-is-this-research-question",
     "title": "DESN2003: Research for Innovation",
-    "section": "Exercise: Scope Check",
-    "text": "Exercise: Scope Check\nWhich of these is better scoped? Why?\n\n\n“How does social media affect teenagers?”\n\nToo broad: which platform? which teens? affect what?\n\n“How does Instagram’s Explore algorithm affect content discovery satisfaction among HK university students?”\n\nBetter: specific platform, specific population, specific outcome\n\n“Does the third post in Instagram Explore get more engagement than the fourth post?”\n\nToo narrow: trivial, limited insight"
+    "section": "Live Rating: How Good Is This Research Question?",
+    "text": "Live Rating: How Good Is This Research Question?\n\n\n\nMentimeter Time\n\n\nGo to menti.com and enter the code on screen.\nRate each research question from 1 (weak) to 5 (strong). Trust your instincts — we’ll discuss after."
+  },
+  {
+    "objectID": "desn2003_W4.html#rate-question-1",
+    "href": "desn2003_W4.html#rate-question-1",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Rate Question 1",
+    "text": "Rate Question 1\n\n“How does social media affect teenagers?”\n\nRate 1–5 on Mentimeter now.\n\n\n\n\nVerdict: 1–2 (Too Broad)\n\n\nWhich platform? Which teens? Affect what? This is a topic, not a question. You could write ten dissertations and still not “answer” this."
+  },
+  {
+    "objectID": "desn2003_W4.html#rate-question-2",
+    "href": "desn2003_W4.html#rate-question-2",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Rate Question 2",
+    "text": "Rate Question 2\n\n“How does Instagram’s Explore algorithm affect content discovery satisfaction among HK university students?”\n\nRate 1–5 on Mentimeter now.\n\n\n\n\nVerdict: 4–5 (Well Scoped)\n\n\nSpecific platform (Instagram Explore), specific population (HK university students), specific outcome (content discovery satisfaction). You can immediately imagine a survey or interview study."
+  },
+  {
+    "objectID": "desn2003_W4.html#rate-question-3",
+    "href": "desn2003_W4.html#rate-question-3",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Rate Question 3",
+    "text": "Rate Question 3\n\n“Does the third post in Instagram Explore get more engagement than the fourth post?”\n\nRate 1–5 on Mentimeter now.\n\n\n\n\nVerdict: 1–2 (Too Narrow)\n\n\nTechnically answerable, but so what? The finding would be trivial. No design implication, no theoretical contribution. This is an A/B test detail, not a research question."
+  },
+  {
+    "objectID": "desn2003_W4.html#rate-question-4",
+    "href": "desn2003_W4.html#rate-question-4",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Rate Question 4",
+    "text": "Rate Question 4\n\n“What barriers do first-generation university students in Hong Kong face when using AI writing tools for academic coursework?”\n\nRate 1–5 on Mentimeter now.\n\n\n\n\nVerdict: 4–5 (Strong)\n\n\nDefined population (first-gen HK students), specific context (AI writing tools + coursework), exploratory but bounded. Descriptive question with clear interview/survey methodology path."
+  },
+  {
+    "objectID": "desn2003_W4.html#rate-question-5",
+    "href": "desn2003_W4.html#rate-question-5",
+    "title": "DESN2003: Research for Innovation",
+    "section": "Rate Question 5",
+    "text": "Rate Question 5\n\n“Is AI good or bad for education?”\n\nRate 1–5 on Mentimeter now.\n\n\n\n\nVerdict: 1 (Not a Research Question)\n\n\nBinary framing, no defined population, no context, no measurable outcome. This is an op-ed prompt, not a research question. It’s what you’d argue about at dinner, not in a paper."
+  },
+  {
+    "objectID": "desn2003_W4.html#what-did-we-learn-from-the-ratings",
+    "href": "desn2003_W4.html#what-did-we-learn-from-the-ratings",
+    "title": "DESN2003: Research for Innovation",
+    "section": "What Did We Learn from the Ratings?",
+    "text": "What Did We Learn from the Ratings?\n\n\nThe class mostly agrees on what’s strong and what’s weak — you already have instincts for this\nThe hard part isn’t recognizing good questions — it’s writing your own at that level\nNotice the pattern: strong questions have specific who, what, where — weak ones are missing at least two"
   },
   {
     "objectID": "desn2003_W4.html#from-quick-signals-to-academic-grounding-30-40-min",
