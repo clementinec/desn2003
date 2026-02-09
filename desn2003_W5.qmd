@@ -14,98 +14,166 @@ format:
     footer: "DESN2003 Research for Innovation"
 ---
 
-# Doc 0 Feedback {background-color="#A8DADC"}
+# Welcome Back {background-color="#A8DADC"}
 
-## Your Extended Abstracts: What We Saw
+## Spring Festival Debrief — Where Did We Leave Off?
 
-**The Good:**
+Before the break, you:
 
 ::: {.incremental}
-- Genuine curiosity about topics that matter to you
-- Clear problem identification in many cases
-- Personal connection to the research area
+- Mapped the landscape (W3) — found signals, competitors, first sources
+- Built your compass (W4) — turned your gap into a research question
+- Submitted Doc 0 — your first pitch
 :::
 
 . . .
 
-**Patterns to work on:**
+::: {.callout-note icon=false}
+## Quick Check: Do You Still Have Your Research Question Handy?
 
-::: {.incremental}
-- **Streamline your narratives** — Some were scattered; tighten the through-line
-- **Topic vs. Question** — Several described an area without a specific inquiry
-- **Scope calibration** — Some too ambitious, some too narrow for one semester
-- **Theoretical framing** — Connect your problem to existing frameworks
-:::
+If yes — good, you'll use it today.
 
-. . .
-
-::: {.callout-tip icon=false}
-## Feedback Released on Moodle
-Check your comments. If you need clarification, come to office hours.
+If it's fuzzy — take 30 seconds and write it down from memory. Whatever comes out is fine. We'll sharpen it.
 :::
 
 ---
 
-# The Story So Far {background-color="#4ECDC4"}
+## Doc 0 Feedback: The Short Version
 
-## Your Research Journey
+::: {.callout-tip icon=false}
+## Feedback is on Moodle — check your comments.
+:::
+
+**What we saw that was strong:**
+
+- Genuine curiosity, clear problem identification, personal connection to the topic
+
+**Patterns to work on (you'll keep improving these):**
+
+::: {.nonincremental}
+- **Topic vs. Question** — some described an area, not an inquiry (W4 addressed this)
+- **Scope calibration** — some too ambitious, some too narrow
+- **Theoretical framing** — connect your problem to existing frameworks (today helps with this)
+:::
+
+Remember: Doc 0 was **v0.1**. It's supposed to be rough. Doc 1 is where the polished version lives.
+
+---
+
+## Where You Should Be Right Now
+
+::: {.callout-important icon=false}
+## Week 5 Checkpoint
+
+**You should have:**
+
+1. A research question (from W4) — even if it's still rough
+2. Doc 0 feedback to review (on Moodle)
+3. Some landscape signals from W3 that you're building on
+
+**You should NOT worry if:**
+
+- Your question has changed since W4 — that's the process working
+- You feel unsure about your topic — today will help clarify
+- Your Doc 0 wasn't perfect — it was v0.1, not the final product
+
+**If you're feeling lost:** come to office hours this week. That's what they're for.
+:::
+
+---
+
+## From Compass to Toolkit
 
 ::: {.columns}
-::: {.column width="25%"}
-**Week 1-2**
+::: {.column width="50%"}
+**What you had after W4:**
 
-Identified a gap
+A research question — your compass
 
-*"Something is missing"*
+*"How do friction features affect anxiety in young adult Instagram users?"*
+
+This tells you **what** to investigate.
 :::
 
-::: {.column width="25%"}
-**Week 3**
+::: {.column width="50%"}
+**What you need after today:**
 
-Mapped the landscape
+A method — your toolkit
 
-*"Here's what exists"*
-:::
+*"I'll do semi-structured interviews with 8-10 students"*
 
-::: {.column width="25%"}
-**Week 4**
-
-Formed a question
-
-*"How does X affect Y?"*
-:::
-
-::: {.column width="25%"}
-**Week 5 (Today)**
-
-Choose a method
-
-*"How will I find out?"*
+This tells you **how** to investigate.
 :::
 :::
 
 . . .
 
 ::: {.callout-important icon=false}
-## Today's Challenge
-
-You have a research question. Now: **How will you answer it?**
-
-Today we focus on **qualitative methods** — research that explores the "why" and "how" through rich, descriptive data.
+## Today in One Sentence
+**Last time you decided what to ask. Today you decide how to find out.**
 :::
 
 ---
 
-## Today's Roadmap
+## But First: A Skill You'll Need for Doc 0.1
+
+Your literature review is due **Week 6** — that's next week. Here's the single biggest mistake to avoid:
+
+::: {.columns}
+::: {.column width="50%"}
+### Book Report Style (Don't Do This)
+
+*"Vogel et al. (2014) studied social comparison on Facebook and found it lowers self-esteem. Verduyn et al. (2017) studied passive scrolling and found it reduces well-being."*
+
+- Lists papers one by one
+- No connection between them
+- Reader thinks: "So what?"
+:::
+
+::: {.column width="50%"}
+### Synthesis Style (Do This)
+
+*"Both experimental and survey evidence suggests that passive social media behaviors — particularly comparison-driven scrolling — undermine well-being (Vogel et al., 2014; Verduyn et al., 2017), though neither study isolates specific design features as the mechanism."*
+
+- Weaves sources around a theme
+- Shows what's known AND what's missing
+- Reader thinks: "I see the gap"
+:::
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## The Pattern
+**Theme first, sources as evidence.** Not: source, then source, then source.
+
+Your lit review for Doc 0.1 doesn't need to be perfect — it's v0.2. But aim for synthesis over summary.
+:::
+
+---
+
+## Quick Poll: What's on Your Mind?
+
+::: {.callout-note icon=false}
+## Mentimeter Time
+
+Today covers qualitative methods — interviews, observation, ethnography, case studies.
+
+**But your projects are all different. Let's focus on what matters most to you.**
+
+Vote on Mentimeter: *Which of these is closest to your situation?*
+:::
 
 ::: {.nonincremental}
-1. **Qualitative vs. Quantitative** — When to use which
-2. **Interviews** — Types, design, and best practices
-3. **Observations & Ethnography** — Watching behavior in context
-4. **Case Studies** — Deep dives into specific instances
-5. **Activity: Design Your Approach**
-6. **Looking Ahead** — Doc 0.1 and connecting methods to your question
+1. "I'm planning to talk to people — how do I design good interviews?"
+2. "I want to observe behavior — what counts as data?"
+3. "I think I need surveys AND interviews — can I do both?"
+4. "I still don't know what method fits my question"
 :::
+
+. . .
+
+We'll spend the most time on whatever the class needs. The rest is in the slides for your reference.
 
 ---
 
@@ -114,7 +182,7 @@ Today we focus on **qualitative methods** — research that explores the "why" a
 By the end of this session, you will be able to:
 
 ::: {.incremental}
-1. **Distinguish** qualitative from quantitative approaches and when each is appropriate
+1. **Distinguish** qualitative from quantitative approaches and know when each is appropriate
 2. **Design** an interview protocol suited to your research question
 3. **Plan** observational research with clear categories and ethical considerations
 4. **Select** the qualitative method(s) most appropriate for YOUR research
@@ -361,6 +429,14 @@ This is the kind of qualitative research that gets published.
 **Closing (2 min)**
 - "Is there anything else you'd like to add?"
 - Thank participant, explain next steps
+:::
+
+::: {.callout-tip icon=false}
+## Grab the Template
+
+**[Interview Protocol Template (PDF)](data/interview_protocol_template.pdf)** — Full template with opening script, probe examples, and common anti-patterns to avoid. Page 1 is blank, page 2 is a worked example. You'll use this again for the Professional Discovery interviews in Weeks 7–9.
+
+Also useful: **[Worksheet: Qualitative Methods (PDF)](data/worksheet.pdf)** — Quick-reference card for interview best practices.
 :::
 
 ---

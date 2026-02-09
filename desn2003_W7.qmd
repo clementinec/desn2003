@@ -15,6 +15,102 @@ format:
     incremental: true
 ---
 
+# Where We Are {background-color="#4ECDC4"}
+
+## The Toolkit Is Complete — Now You Use It
+
+::: {.columns}
+::: {.column width="33%"}
+**Weeks 1–4**
+
+Found the problem, mapped the landscape, sharpened your question
+
+*You know **what** to investigate*
+:::
+
+::: {.column width="33%"}
+**Weeks 5–6**
+
+Learned qualitative, quantitative, and mixed methods
+
+*You know **how** to investigate*
+:::
+
+::: {.column width="33%"}
+**Week 7 (Today)**
+
+Talk to real people who do this work
+
+*You learn **what it's actually like***
+:::
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## Today's Shift
+We've been building research skills in the classroom. Today we take them outside — into real conversations with practitioners. This is where your research question meets the real world.
+:::
+
+---
+
+## Where You Should Be Right Now
+
+::: {.callout-note icon=false}
+## Week 7 Checkpoint
+
+**You should have:**
+
+1. A refined research question (evolved since W4 — that's normal)
+2. Doc 0.1 submitted (feedback coming)
+3. A sense of your methodology: qualitative, quantitative, or mixed
+
+**Coming up fast:**
+
+- Professional Discovery presentations: **Weeks 8–9** (group, in-class)
+- Doc 0.2 (Methodology): **Week 10**
+- Doc 1 (Research Paper): **Week 11** — this is the big one (contains upgraded versions of Doc 0, 0.1, and 0.2)
+
+**If you're behind on any of these:** office hours this week. Don't wait.
+:::
+
+---
+
+## Doc 0.1 Feedback: Quick Patterns
+
+**What worked well:**
+
+- Clear articulation of research focus
+- Adequate number of sources
+
+**Common areas for improvement:**
+
+::: {.nonincremental}
+- **Synthesis still reads as summary** — remember: theme first, sources as evidence (not paper-by-paper)
+- **Formatting off** — check discipline conventions
+- **Theoretical framework underdeveloped** — connect your work to existing theory
+- **Conclusions included** — lit reviews don't conclude; they set up *your* contribution
+:::
+
+This is v0.2 — you'll upgrade all of this for Doc 1.
+
+::: {.notes}
+Update with cohort-specific stats each semester if desired.
+:::
+
+---
+
+## Quick Reminder: Doc 1 Is the Release Candidate
+
+::: {.nonincremental}
+- Research paper format (~80% of a full paper)
+- Contains: Abstract, Literature Review, Methodology, Hypothesis/Anticipated Conclusions, References
+- **This is where your upgraded Doc 0 + 0.1 + 0.2 come together** — same components, better execution
+- How is this different from a research proposal? (We'll discuss)
+:::
+
+---
+
 ## Learning Objectives
 
 By the end of this session, you will be able to:
@@ -23,39 +119,6 @@ By the end of this session, you will be able to:
 2. **Craft** effective outreach messages for professional networking
 3. **Apply** thematic analysis to qualitative data (codes → themes)
 4. **Articulate** the "so what?" of your findings
-
----
-
-# Reflecting on Literature Review Submissions
-
-## Common Patterns in Doc 0.1 Submissions
-
-**What typically works well:**
-
-- Clear articulation of research focus
-- Adequate number of sources
-
-**Common areas for improvement:**
-
-- Formatting doesn't match discipline conventions
-- Synthesis missing — reads as summary, not analysis
-- Theoretical framework underdeveloped
-- Conclusions included (lit reviews don't conclude — they set up your contribution)
-
-::: {.notes}
-Update with cohort-specific stats each semester if desired.
-:::
-
-## Quick flash back on Document 1 submission
-
-  - Research-paper like
-  - ~80% of work needed to draft a research paper as it contains:
-    - Abstract
-    - Literature Review
-    - Methodology
-    - Hypothesis/Anticipated Conclusions
-    - Relevant References
-  - How is this different from a research proposal?
 
 # Informational Interview/Coffee Chat
 
@@ -205,6 +268,15 @@ Do your homework so that you do not make mistakes.
     - their career highlight/work most proud of
     - identify interviews/podcasts/presentation where they gave public opinion and based on those
     - come up with **two questions that you think is relevant to ask**
+
+::: {.callout-tip icon=false}
+## Your Toolkits (from earlier weeks — use them now)
+
+- **[Interview Protocol Template (PDF)](data/interview_protocol_template.pdf)** — Structure your Professional Discovery conversations the same way you'd structure a research interview. Opening, warm-up, core questions, closing.
+- **[Worksheet: Qualitative Methods (PDF)](data/worksheet.pdf)** — Quick-reference for interview best practices.
+
+These are the same tools from Week 5. The difference: now you're using them on real professionals, not classmates.
+:::
 
 <!-- - **Practical Exercise**: Arrange mock informational interviews where students can practice their research skills, question formulation, and conversational strategies in a supportive environment.
 

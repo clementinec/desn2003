@@ -1,0 +1,477 @@
+FEEDBACK PRINCIPLES FOR ITERATIVE DOCS
+DESN2003: Research for Innovation
+=======================================
+
+PURPOSE: Reference this each time you sit down to grade Doc 0, 0.1, or 0.2.
+The goal is not to grade a finished product — it's to give each student
+the ONE or TWO moves that will most improve their next version.
+
+
+CORE PRINCIPLES
+---------------
+
+1. DIAGNOSE, DON'T DESCRIBE
+   Bad:  "Your scope is too broad."
+   Good: "Your RQ asks about 'social media and anxiety' — that's a topic,
+          not a question. Pick ONE platform and ONE mechanism. If you keep
+          Instagram, try: 'How does [specific feature] affect [specific
+          outcome] among [specific population]?'"
+
+   The student should be able to act on your feedback without needing
+   a follow-up conversation.
+
+2. ONE MOVE, NOT TEN
+   Identify the single highest-leverage change. If the RQ is unfocused,
+   fixing the RQ fixes everything downstream — don't also comment on
+   citation formatting. Students can only absorb 1-2 structural changes
+   per iteration. Save the rest for the next round.
+
+   Priority order for what to fix:
+   - Research question clarity (if this is wrong, nothing else matters)
+   - Gap ↔ question alignment (are they studying what they say is missing?)
+   - Evidence ↔ argument alignment (does the lit review support the gap?)
+   - Method ↔ question fit (can this method actually answer this question?)
+   - Scope calibration (too broad / too narrow for one semester?)
+   - Writing quality (synthesis vs summary, structure, clarity)
+   - Formatting and conventions (last priority — never lead with this)
+
+3. POINT THEM BACK TO A TOOL
+   Every piece of feedback should connect to something actionable:
+   - "Run your revised question through the Research Question Builder —
+     check the FINER criteria on page 1."
+   - "Use the Landscape Canvas Section 3 to map what these sources
+     actually tell you vs. what's still unknown."
+   - "Open the Survey Design Checklist and check questions 4 and 7
+     against the bias patterns on page 2."
+
+   This reinforces the toolkit as useful and gives them a next step
+   that doesn't require you.
+
+4. NAME WHAT'S WORKING
+   Start with one specific thing they did well — not generic praise
+   ("good work") but evidence that you read it ("Your choice to focus
+   on HK public housing residents is smart — it's a bounded, accessible
+   population that connects to real policy debates").
+
+   This isn't about being nice. It's about helping them identify their
+   own strengths so they can replicate them.
+
+5. USE THE VERSION LANGUAGE
+   Frame feedback as iteration, not correction:
+   - "For v0.2, the main move is..."
+   - "This is solid for a first pass. The upgrade for Doc 1 is..."
+   - "You don't need to fix everything now — but for the next version,
+     focus on..."
+
+   This reduces defensiveness and reinforces that rough drafts are
+   expected and normal.
+
+
+DOC-SPECIFIC GUIDANCE
+---------------------
+
+DOC 0 (Extended Abstract — v0.1)
+  What you're looking for:
+  - Is there a real problem, not just a topic area?
+  - Is there a gap, or just an interest?
+  - Can you see the seed of a research question?
+  - Is the scope plausible for one semester?
+
+  Common patterns and how to respond:
+
+  PATTERN: Topic masquerading as a question
+  Signal:  "I want to research sustainability in design"
+  Response: "You've identified an area but not a question yet. What
+            specifically about sustainability? What population? What
+            outcome would you measure? Try the Research Question Builder
+            — the Who/What/Where/When/How template on page 1 will help
+            you narrow this."
+
+  PATTERN: Gap and question misaligned
+  Signal:  Gap says "no research on X" but question asks about Y
+  Response: "Your gap is about [X] but your question pivots to [Y].
+            These are two different studies. Pick one direction. If you
+            keep [X], your question should ask about [X]. If [Y] is more
+            interesting to you, rewrite the gap to justify why [Y] is
+            understudied."
+
+  PATTERN: Scope too ambitious
+  Signal:  "I will survey 500 users and conduct 30 interviews"
+  Response: "Scale this back. For a one-semester project: 5-8 interviews
+            OR a survey of 30-50 respondents is realistic. Pick the method
+            that best fits your question type (descriptive → interviews,
+            relational → survey). Quality over quantity."
+
+  PATTERN: Scope too narrow / trivial
+  Signal:  "Does button color affect clicks?"
+  Response: "This is testable but the answer won't contribute much.
+            Ask yourself: even if you proved blue beats red, so what?
+            Who benefits? What changes? Push toward a question where
+            the answer has design implications beyond one button."
+
+
+DOC 0.1 (Literature Review — v0.2)
+  What you're looking for:
+  - Synthesis, not summary (themes across sources, not source-by-source)
+  - Does the review build toward the gap?
+  - Are sources credible and relevant?
+  - Does the student evaluate sources, not just report them?
+
+  Common patterns and how to respond:
+
+  PATTERN: Book report style (source-by-source summary)
+  Signal:  "Smith (2020) found X. Jones (2021) found Y. Lee (2022) found Z."
+  Response: "You're summarizing papers individually — that's a reading list,
+            not a review. Try this: lead with the THEME, then use sources
+            as evidence. Example: 'Multiple studies suggest that passive
+            social media use undermines well-being (Smith, 2020; Jones,
+            2021), though the mechanism differs by platform (Lee, 2022).'
+            One paragraph, three sources, one argument."
+
+  PATTERN: No critical lens
+  Signal:  Accepts all sources at face value, no mention of limitations
+  Response: "You're reporting what others found but not evaluating it.
+            For each key source, ask: What couldn't they answer? What's
+            the limitation? That limitation is often where YOUR study
+            fits in. Add one sentence per major source: 'However, [study]
+            was limited by [X], leaving [Y] unexamined.'"
+
+  PATTERN: Literature doesn't connect to their question
+  Signal:  Sources are broadly related but don't build toward the gap
+  Response: "These sources are interesting but I can't see how they
+            connect to YOUR question. For each source, ask: does this
+            support my gap, challenge it, or provide methodology I can
+            borrow? If it doesn't do one of these three things, it
+            might not belong in your review."
+
+  PATTERN: Too few sources / surface-level engagement
+  Signal:  3-4 sources, each cited once, no depth
+  Response: "You need more landscape coverage. Use Connected Papers or
+            Semantic Scholar to find the citation network around your
+            strongest source — there are likely 5-10 more papers in
+            that cluster that are directly relevant. Aim for 8-12
+            sources minimum. Sections 3-4 of the Landscape Canvas
+            can help you organize what you find."
+
+
+DOC 0.2 (Methodology — v0.3)
+  What you're looking for:
+  - Does the method match the question type?
+  - Is the design specific enough to execute?
+  - Are practical constraints acknowledged?
+  - Is there a clear data collection plan?
+
+  Common patterns and how to respond:
+
+  PATTERN: Method doesn't match question
+  Signal:  Causal question ("Does X cause Y?") but plans to do interviews
+  Response: "Your question asks whether X causes Y — that's a causal
+            question that needs a controlled comparison (experiment or
+            A/B test). Interviews can tell you WHY something happens
+            but not WHETHER it does. Either change your method to match
+            the question, or change your question to match what
+            interviews can answer (e.g., 'How do users experience X?')."
+
+  PATTERN: Vague data collection plan
+  Signal:  "I will conduct interviews and analyze the data"
+  Response: "This is too vague to execute. Specify: How many interviews?
+            With whom (what population, how recruited)? What questions
+            (use the Interview Protocol Template)? How will you analyze
+            transcripts (thematic analysis? codes?)? Your methodology
+            section should be specific enough that someone else could
+            replicate your study."
+
+  PATTERN: Over-designed / too many methods
+  Signal:  "I will do 20 interviews, a survey of 200, and an A/B test"
+  Response: "Pick one primary method and do it well. If you want mixed
+            methods, sequence them: interviews first (5-8, to explore),
+            then a short survey (30-50, to validate patterns). Cut the
+            A/B test — you won't have time or access to run one properly
+            this semester."
+
+  PATTERN: No limitations acknowledged
+  Signal:  Presents plan as if it will produce definitive answers
+  Response: "Every method has limitations — name yours. Sample size,
+            self-report bias, convenience sampling, generalizability.
+            Acknowledging limitations isn't weakness; it's rigor.
+            Reviewers trust researchers who know what they can't claim."
+
+
+FEEDBACK TEMPLATES
+------------------
+
+Use these as starting structures. Personalize the bracketed parts.
+
+TEMPLATE 1: Standard feedback (most submissions)
+  "Strong [specific thing they did well]. For the next version,
+  the main move is [one specific change]. Try [specific action
+  using a specific tool]. This will [concrete benefit for their
+  project]."
+
+TEMPLATE 2: Student is lost
+  "I can see you're interested in [area], but the project needs
+  a sharper focus before it can move forward. Here's what I'd
+  suggest: [one concrete next step]. If this feels unclear, come
+  to office hours this week — 15 minutes of conversation will
+  save you hours of spinning."
+
+TEMPLATE 3: Student is strong — push them further
+  "This is solid work — [specific praise]. You're ready for a
+  harder question: [challenge that pushes them beyond current
+  level]. This is what would take your Doc 1 from good to
+  genuinely interesting."
+
+TEMPLATE 4: Student needs to restart direction
+  "I want to be honest: [current direction] isn't going to work
+  because [specific reason]. But the underlying interest in [X]
+  is real. Here's an alternative angle that keeps what's interesting
+  and makes it researchable: [suggested pivot]. This isn't starting
+  over — it's zooming in on the strongest part of what you have."
+
+
+PACING YOURSELF
+---------------
+
+Realistic time budget per student per doc round:
+  - Read: 3-5 min
+  - Diagnose the one move: 1-2 min
+  - Write feedback: 3-5 min
+  - Total: ~10 min per student
+
+If you have 30 students, that's ~5 hours per doc round.
+Three doc rounds = ~15 hours across the semester.
+
+Shortcut that doesn't sacrifice quality:
+  - Batch by pattern. Read all submissions first, tag each with
+    the pattern (topic-not-question, book-report-style, etc.).
+    Then write feedback for each pattern group — the diagnosis
+    is the same, you just personalize the specific example.
+  - Address the top 3 patterns as a class (you're already doing
+    this in the W5 and W7 opening slides). Then individual
+    feedback only needs to say: "Your version of the [pattern]
+    problem is [specific instance]. See the class slide for the
+    general fix; here's what it means for YOUR project: [one
+    sentence]."
+
+
+TONE & VOICE
+------------
+
+Your feedback voice should feel like a senior colleague at a whiteboard,
+not a judge with a rubric. Direct, warm, specific, and always forward-
+looking. The student should finish reading and think "I know exactly
+what to do next" — not "I did badly" or "this was fine I guess."
+
+1. DIRECT BUT NOT BLUNT
+   You're allowed to be honest. Students respect clarity. But deliver
+   honesty with a path forward, not just a verdict.
+
+   Too blunt:   "This isn't a research question."
+   Too soft:    "Maybe consider refining your question a little?"
+   Right tone:  "This reads as a topic right now, not a question —
+                 but the fix is straightforward. Try narrowing to
+                 one population and one measurable outcome."
+
+   The pattern: [honest diagnosis] + [but here's the move].
+
+2. SPEAK TO THE WORK, NOT THE PERSON
+   Never: "You didn't understand the assignment."
+   Always: "The abstract describes a topic area but doesn't yet
+            contain a specific research question."
+
+   This isn't just politeness — it keeps feedback about craft,
+   which students can improve, not about ability, which feels fixed.
+
+3. BE SPECIFIC ENOUGH TO ACT ON
+   Vague:    "Needs more depth."
+   Specific: "Your literature review covers 4 sources but treats
+              each one in isolation. Pick the two most relevant,
+              and write one paragraph that puts them in conversation
+              — where do they agree? Where do they diverge?"
+
+   The test: could the student sit down and start revising within
+   5 minutes of reading your comment? If not, it's too vague.
+
+4. CALIBRATE ENTHUSIASM TO EVIDENCE
+   Don't inflate praise. Students can tell when "great work!" means
+   "I didn't read this carefully." Specific praise is believed;
+   generic praise is dismissed.
+
+   Generic:  "Great job on the lit review!"
+   Specific: "Your synthesis of the three social comparison studies
+              is strong — you identified the methodological gap across
+              all three, which sets up your contribution clearly."
+
+   One sentence of specific praise > three sentences of generic
+   encouragement. If you can't name what's good, don't claim it is.
+
+5. MATCH LENGTH TO NEED
+   Not every student needs a paragraph. Strong work might need two
+   sentences: one acknowledging what's working, one pushing further.
+   Struggling work needs more scaffolding, but still no more than
+   one short paragraph — remember the "one move" principle.
+
+   Strong student:  2-3 sentences. Acknowledge + challenge.
+   Average student: 3-5 sentences. Diagnose + redirect + tool.
+   Struggling student: 4-6 sentences. Validate effort + name the
+                       core issue + give one concrete next step +
+                       invite to office hours.
+
+   Never write a page of feedback. If you need that much space,
+   the student needs a conversation, not a comment.
+
+6. FORWARD-LOOKING, NOT BACKWARD-FACING
+   Students can't change what they submitted. They can change what
+   they submit next. Every comment should point forward.
+
+   Backward: "You should have included more sources."
+   Forward:  "For the next version, use Connected Papers to find
+              5-6 more sources in the citation network around
+              your strongest reference."
+
+   Even when something is wrong, frame the fix as an opportunity
+   rather than a correction: "The upgrade here is..." not "The
+   problem here is..."
+
+7. USE THEIR OWN WORDS
+   When possible, quote their submission back to them. This proves
+   you read it, makes the feedback feel personal, and grounds
+   abstract advice in their specific work.
+
+   "You wrote: 'Social media has many effects on mental health.'
+   That's a topic. Try: 'How does [one specific feature] affect
+   [one specific outcome] among [one specific population]?' — same
+   interest, much sharper frame."
+
+
+WRITING FEEDBACK: WORKED EXAMPLES
+----------------------------------
+
+Below are full feedback examples at different student levels.
+Use these as calibration — not scripts, but reference points for
+the level of specificity and tone to aim for.
+
+EXAMPLE A: Solid student, Doc 0 (needs RQ sharpening)
+
+  "Your focus on accessibility in Hong Kong's MTR system is well-
+  chosen — it's specific, locally relevant, and has both policy and
+  design implications. The gap you've identified (limited research
+  on wayfinding for visually impaired commuters) is real. For v0.2,
+  the main move is turning this gap into a question: something like
+  'What wayfinding barriers do visually impaired commuters encounter
+  in MTR stations, and how do current design interventions address
+  or fail them?' Run it through the Research Question Builder (page 1)
+  to check scope and feasibility."
+
+  Why this works:
+  - Specific praise (names their topic, says why it's strong)
+  - One move (gap → question)
+  - Suggests a draft question (models what "sharper" looks like)
+  - Points to a tool
+  - 80 words total
+
+EXAMPLE B: Struggling student, Doc 0.1 (book report style)
+
+  "I can see the effort here — you found 6 relevant sources and each
+  summary is accurate. The next step is synthesis: instead of
+  describing each paper separately, try grouping them by what they
+  agree on. For example, three of your sources (Chen, Park, and Liu)
+  all study notification overload but measure it differently. One
+  paragraph that puts them in conversation — 'Multiple studies have
+  examined notification overload (Chen, 2020; Park, 2021; Liu, 2023),
+  though measurement approaches vary from self-report (Chen) to
+  behavioral logging (Liu)' — would be a significant upgrade. See
+  the synthesis example from the Week 5 slides if you want a model.
+  This is the single biggest improvement you can make for Doc 1."
+
+  Why this works:
+  - Validates effort (found sources, summaries are accurate)
+  - Names the pattern (book report) without using that label
+  - Shows the fix with their actual sources (not abstract advice)
+  - Provides a rewritten sentence they can use as a model
+  - Points to a resource
+  - Names this as the ONE thing to focus on
+  - 130 words — longer because the student needs more scaffolding
+
+EXAMPLE C: Strong student, Doc 0.2 (ready to be pushed)
+
+  "Your methodology section is clear and well-justified — semi-
+  structured interviews with 8 HK design students, thematic
+  analysis, good rationale for why qual fits your exploratory RQ.
+  You're beyond the basics. The challenge for Doc 1: your interview
+  guide has 12 questions, several of which overlap. Cut it to 7-8
+  and make each one earn its place. Also consider: what would ONE
+  well-chosen quantitative measure add? Even a short pre/post
+  survey (5 items) would let you triangulate. Not required — but
+  it's what would take this from a strong student project to
+  something with real publication potential."
+
+  Why this works:
+  - Specific, evidence-based praise
+  - Pushes beyond what's required (overlap in questions, triangulation)
+  - Plants the seed of publication without pressuring
+  - Challenges without undermining confidence
+  - 110 words
+
+EXAMPLE D: Student who needs to pivot, Doc 0
+
+  "Your interest in how AI affects creativity is genuine and timely.
+  But right now, 'How does AI affect creativity?' is a topic, not
+  a question — you could write ten dissertations here. More
+  importantly, 'creativity' is very hard to measure in a one-semester
+  study. Here's an angle that keeps what's interesting and makes it
+  researchable: pick ONE creative task (e.g., ideation in a design
+  studio) and ONE AI tool (e.g., Midjourney), and ask how students
+  experience the tool during that task. Something like: 'How do
+  design students describe the role of Midjourney in their ideation
+  process?' — that's an interview study you can actually do this
+  semester. Come to office hours if you want to talk through the
+  pivot."
+
+  Why this works:
+  - Validates the interest ("genuine and timely")
+  - Honest about why current direction won't work (too broad,
+    creativity hard to measure)
+  - Offers a concrete alternative, not just "narrow it down"
+  - Frames as zooming in, not starting over
+  - Explicit office hours invitation
+  - 150 words — justified because a pivot needs more explanation
+
+
+WHAT NOT TO DO
+--------------
+
+- Don't lead with formatting issues. Students fixate on what you
+  mention first. If you start with "fix your citation style,"
+  they'll fix citations and ignore the structural problem.
+
+- Don't give 10 comments. They'll address the easiest two and
+  ignore the rest. One structural comment > ten surface comments.
+
+- Don't just say "good work" to strong students. They need to be
+  pushed too. "This is strong — now here's what would make it
+  excellent" respects their effort and challenges them.
+
+- Don't use feedback to teach content you'll cover later. If their
+  methodology is weak but you haven't taught methods yet (e.g.,
+  Doc 0 is submitted before W5), say "we'll cover this in Week 5 —
+  for now, just note that your question implies [X] kind of data."
+
+- Don't rewrite their work for them. Diagnose the problem, point
+  to the tool, suggest the direction. They do the revision.
+
+- Don't use red-pen energy. Avoid "you failed to," "you neglected,"
+  "this is wrong," "unfortunately." Use "the next move is," "the
+  upgrade here is," "try this," "the gap between your current
+  version and the next one is."
+
+- Don't hedge excessively. "Maybe you could perhaps consider
+  possibly narrowing your scope a little bit?" is not feedback.
+  "Narrow your scope. Pick one platform and one population." is.
+  Be kind, be direct. These are not in conflict.
+
+- Don't copy-paste the same comment to multiple students. Even if
+  the pattern is the same, personalize the one sentence that names
+  THEIR specific instance. "Your version of this: [quote their
+  work]" takes 30 seconds and makes the difference between feedback
+  that feels generic and feedback that feels seen.

@@ -462,6 +462,11 @@ This section bridges that gap.
 
 ## The Research → Decision Canvas
 
+::: {.callout-tip icon=false}
+## Grab This Now
+**[Research to Decision Canvas (PDF)](data/research_to_decision_canvas.pdf)** — Fill this in as we walk through the examples. Page 1 is blank, page 2 is a worked example.
+:::
+
 | Component | Question | Your Answer |
 |:----------|:---------|:------------|
 | **Scientific Foundation** | What does behavioral science say about this problem? | _____________ |

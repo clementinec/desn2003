@@ -14,42 +14,71 @@ format:
     footer: "DESN2003 Research for Innovation"
 ---
 
-# Building on Last Week {background-color="#4ECDC4"}
+# Carrying On {background-color="#4ECDC4"}
 
-## The Methods Landscape
+## Last Week → This Week
 
 ::: {.columns}
 ::: {.column width="50%"}
-**Last Week: Qualitative**
+**Week 5 gave you the "why" toolkit**
 
-- Interviews (structured, semi-structured)
-- Observations & ethnography
-- Case studies
+- Interviews, observation, ethnography
 - Rich, descriptive data
-- Understanding the "why"
+- Understanding motivations and experiences
+- *"I now know how to explore my question in depth"*
 :::
 
 ::: {.column width="50%"}
-**This Week: Quantitative & Mixed**
+**Week 6 adds the "how much" toolkit**
 
-- Surveys & questionnaires
-- Experiments & A/B tests
-- Combining approaches
-- Numerical data
-- Measuring the "how much"
+- Surveys, experiments, A/B tests
+- Numerical, measurable data
+- Testing patterns at scale
+- *"I now know how to validate what I found"*
 :::
 :::
 
 . . .
 
+By the end of today, you'll have the full methods toolkit — qual, quant, and how to combine them. This is the last piece before you start actually *doing* your research.
+
+---
+
+## Where You Should Be Right Now
+
 ::: {.callout-important icon=false}
-## Today's Question
-When do you need numbers? When do you need both? How do you design research that gives you credible, useful data?
+## Week 6 Checkpoint
+
+**You should have:**
+
+1. A research question you're committed to (refined since W4)
+2. A sense of whether your approach is qualitative, quantitative, or mixed (from W5)
+3. Doc 0.1 ready to submit (due today!)
+
+**Feeling behind?** That's okay — Doc 0.1 is v0.2 of your thinking. It doesn't need to be perfect. Submit your best current version and keep improving it for Doc 1.
 :::
 
 ---
 
-## Today's Roadmap
+## Doc 0.1: Literature Review — Due Today
+
+::: {.callout-warning icon=false}
+## Tuesday, Mar 3, 12:00 PM noon
+
+Submit before class ends if you haven't already.
+:::
+
+Quick reminder on the synthesis pattern from last week:
+
+::: {.nonincremental}
+- **Theme first, then sources as evidence** — not paper-by-paper summaries
+- Show what's **known**, what **methods** others used, and where the **gaps** remain
+- This is v0.2 — you'll upgrade it for Doc 1 after you learn more
+:::
+
+---
+
+## Today's Focus
 
 ::: {.nonincremental}
 1. **Quantitative Methods Overview** — When numbers matter
@@ -57,7 +86,7 @@ When do you need numbers? When do you need both? How do you design research that
 3. **Experimental Methods** — Testing cause and effect
 4. **Mixed Methods** — Combining qual and quant
 5. **Activity: Design Your Data Collection**
-6. **Doc 0.1 Check-in** — Due today!
+6. **Pulse Check** — Anonymous feedback on how the course is going
 :::
 
 ---
@@ -71,23 +100,6 @@ By the end of this session, you will be able to:
 2. **Design** survey questions that avoid common pitfalls
 3. **Understand** the logic of experimental design and A/B testing
 4. **Plan** a mixed-methods approach that leverages both qual and quant strengths
-:::
-
----
-
-## Assessment Reminder
-
-::: {.callout-warning icon=false}
-## Doc 0.1: Literature Review — Due Today!
-
-**Tuesday, Mar 3, 12:00 PM noon**
-
-If you haven't submitted yet, do so before class ends.
-
-Your literature review should show:
-- What's already known about your topic
-- What methods others have used
-- Where the gaps remain
 :::
 
 # Quantitative Methods Overview {background-color="#A8DADC"}
@@ -180,6 +192,16 @@ Your data type determines what statistics you can use. You can't calculate a mea
 :::
 
 # Survey Design {background-color="#FFE66D"}
+
+## Your Toolkit for This Section
+
+::: {.callout-tip icon=false}
+## Grab This Now
+
+**[Survey Design Checklist (PDF)](data/survey_design_checklist.pdf)** — Bias checks, Likert scale guidance, sample size rules of thumb. Keep it open as we go through this section — you'll use it in the activity later. Page 1 is blank, page 2 is a worked example.
+:::
+
+---
 
 ## Surveys: Power and Pitfalls
 
@@ -615,10 +637,11 @@ Computational methods + qualitative interpretation = publishable research.
 
 2. **Design ONE of the following:**
 
-   **Option A: Survey Questions**
+   **Option A: Survey Questions** (use the **[Survey Design Checklist (PDF)](data/survey_design_checklist.pdf)** as your guide)
+
    - Draft 5 survey questions related to your research
    - Include at least one Likert scale question
-   - Avoid the common mistakes we discussed
+   - Run each question through the checklist's bias checks
 
    **Option B: Data Collection Plan**
    - What data do you need?
@@ -802,6 +825,32 @@ Numbers lie all the time. Your job is to catch them.
 
 ---
 
+# Mid-Semester Pulse Check {background-color="#FFE66D"}
+
+## 3 Minutes, Anonymous, Honest
+
+::: {.callout-note icon=false}
+## We're Halfway Through the Methods Block
+
+Before we move into the second half of the semester (evidence, analysis, writing), I want to hear from you. This is anonymous and takes 2-3 minutes.
+:::
+
+**Scan the QR code or go to the link on screen.**
+
+::: {.nonincremental}
+Three questions:
+
+1. **What's one thing that's working well** for you in this course?
+2. **What's one thing you're finding difficult or confusing?**
+3. **What would help you most** in the next few weeks?
+:::
+
+. . .
+
+Your responses will shape how I run the second half. This is not SFTL — this is for *us*, right now.
+
+---
+
 ## Questions?
 
 ::: {.r-fit-text}
@@ -810,12 +859,13 @@ Let's discuss!
 
 **Office hours:** By appointment
 
-**Next week:** Analysis — Making Sense of Your Data
+**Next week:** Know Your Client — Professional Discovery & Thematic Analysis
 
 **Doc 0.2 due:** Week 10 (Mar 31)
 
 ::: {.notes}
 - Check: Has everyone submitted Doc 0.1?
+- Run the anonymous pulse check — Google Form, 3 questions, 2-3 minutes
 - Encourage thinking about methods as they await feedback
 - Remind them that method choice will be refined based on lit review insights
 :::

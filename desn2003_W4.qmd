@@ -14,7 +14,137 @@ format:
     footer: "DESN2003 Research for Innovation"
 ---
 
-# Let's Start with a Problem {background-color="#FF6B6B"}
+# Quick — How Did Last Week Go? {background-color="#A8DADC"}
+
+## You Went Landscape Hunting in Week 3
+
+Reddit threads. App Store 1-star reviews. Google Trends. Wayback Machine. Maybe even some Google Scholar.
+
+. . .
+
+**Be honest — how do you feel right now?**
+
+::: {.incremental}
+- "I found too much stuff and I don't know what matters"
+- "I found almost nothing — is my topic even real?"
+- "I found interesting things but I don't know what to do with them"
+- "I feel like I'm going in circles"
+:::
+
+. . .
+
+**All of these are normal.** And all of them point to the same problem.
+
+---
+
+## The Problem: Landscape Without a Compass
+
+::: {.columns}
+::: {.column width="50%"}
+**What Week 3 gave you:**
+
+- A pile of signals
+- Some competitor info
+- Maybe a few papers
+- A general sense of "there's something here"
+
+This is **good raw material.**
+:::
+
+::: {.column width="50%"}
+**What Week 3 didn't give you:**
+
+- A way to decide what's relevant vs. noise
+- A targeted search strategy for Doc 0.1
+- A filter that tells you "read this, skip that"
+- A clear next step
+
+This is **today's job.**
+:::
+:::
+
+. . .
+
+::: {.callout-important icon=false}
+## Today in One Sentence
+
+**Last week you learned how to find the landscape. This week you build the compass — a research question that tells you exactly what to search for next, and what to ignore.**
+:::
+
+---
+
+## Why This Matters Right Now
+
+::: {.nonincremental}
+Your **Doc 0.1 (Literature Review)** is due Week 6.
+
+That means in two weeks you need to do a *targeted* literature search — not another broad scan.
+
+**Without a sharp research question**, your lit review will be:
+
+- "Here are 10 papers I found" (a reading list, not a review)
+
+**With a sharp research question**, your lit review will be:
+
+- "Here's what's known about [my specific question], here's where the evidence is thin, and here's what I'll investigate" (actual scholarship)
+:::
+
+The research question is the bridge between Week 3 (find stuff) and Doc 0.1 (make sense of it).
+
+---
+
+## The Shape of Today
+
+::: {.columns}
+::: {.column width="50%"}
+**First half — Build the skill**
+
+1. What separates a topic from a question?
+2. What makes a question good or bad?
+3. How do you scope it right?
+4. Live rating: judge real questions together
+
+*You'll develop the instinct.*
+:::
+
+::: {.column width="50%"}
+**Second half — Apply it to yours**
+
+5. Deepen your W3 signals with real sources
+6. Draft your own research question
+7. Peer feedback: stress-test it
+8. Leave with a working compass for Doc 0.1
+
+*You'll leave with something concrete.*
+:::
+:::
+
+---
+
+## The Toolkit You're Building This Semester
+
+Every few weeks, you'll pick up a new research tool. By the end you'll have a complete kit you can carry into capstones, theses, internships — any project where you need to go from "I have a hunch" to "here's the evidence."
+
+::: {.nonincremental}
+| Week | Tool | What It Does | Status |
+|:----:|------|-------------|:------:|
+| 3 | [Landscape Intelligence Canvas](data/landscape_canvas.pdf) | Map competitors + academic landscape | Done |
+| **4** | **[Research Question Builder](data/research_question_builder.pdf)** | **Sharpen your gap into a searchable question** | **Today** |
+| 5 | [Interview Protocol Template](data/interview_protocol_template.pdf) | Structure qualitative interviews | Coming |
+| 5 | [Worksheet: Qualitative Methods](data/worksheet.pdf) | Quick-reference for interview best practices | Coming |
+| 6 | [Survey Design Checklist](data/survey_design_checklist.pdf) | Design surveys that avoid common bias traps | Coming |
+| 9 | [Synthesis Canvas](data/synthesis_canvas.pdf) | Combine qual + quant findings into insight | Coming |
+| 9 | [Research to Decision Canvas](data/research_to_decision_canvas.pdf) | Turn research into product recommendations | Coming |
+:::
+
+. . .
+
+::: {.callout-tip icon=false}
+## These Are Yours to Keep
+Each PDF has a blank template (page 1) and a worked example (page 2). They're designed to be reusable — print them, fill them digitally, bring them to other courses. The toolkit page on the course site has all of them in one place.
+:::
+
+---
 
 ## Two Students Walk Into Office Hours...
 
@@ -31,7 +161,9 @@ format:
 - What would you even measure?
 - Where would you start?
 
-**This isn't a research project. It's a topic.**
+**This is a topic. It's not searchable.**
+
+You'd type it into Google Scholar and get 2 million results.
 :::
 
 ::: {.column width="50%"}
@@ -44,71 +176,12 @@ format:
 - Specific phenomenon (material choices)
 - Defined population (HK consumers)
 - Clear outcome (perception)
-- You can imagine how to study this
+- You can imagine the search terms already
 
-**This is a research question.**
+**This is a research question. It's a filter.**
+
+Google Scholar goes from 2 million → 200 → the 15 that matter.
 :::
-:::
-
----
-
-## The Difference Is Everything
-
-::: {.callout-important icon=false}
-## Today's Core Challenge
-
-You've identified a gap. You've mapped the landscape. You submitted Doc 0 this morning.
-
-But **"there's a gap"** still isn't a research project.
-
-The question is: **Can you turn your gap into something you can actually answer?**
-:::
-
-. . .
-
-That's what separates students who spin their wheels from students who make progress.
-
----
-
-## Where We've Been (Quick Recap)
-
-::: {.columns}
-::: {.column width="33%"}
-**Week 1-2**
-
-Instinct → Validation
-
-*"I think there's a problem here"*
-:::
-
-::: {.column width="33%"}
-**Week 3**
-
-Landscape mapping
-
-*"Here's what already exists"*
-:::
-
-::: {.column width="33%"}
-**Week 4 (Today)**
-
-Gap → Question
-
-*"Here's what I'll actually investigate"*
-:::
-:::
-
----
-
-## Today's Roadmap
-
-::: {.nonincremental}
-1. **Doc 0 Reflection** — Common patterns and feedback
-2. **What Makes a Research Question?** — Anatomy of a good RQ
-3. **Types of Research Questions** — Descriptive, relational, causal
-4. **Scoping Your Question** — Not too broad, not too narrow
-5. **Activity: Refine YOUR Research Question**
-6. **Looking Ahead** — From question to method (Doc 0.1)
 :::
 
 ---
@@ -118,78 +191,76 @@ Gap → Question
 By the end of this session, you will be able to:
 
 ::: {.incremental}
-1. **Articulate** the difference between a topic, a gap, and a research question
-2. **Formulate** a clear, focused research question from your identified gap
-3. **Evaluate** whether a research question is answerable within your constraints
-4. **Scope** a question appropriately (not too broad, not too narrow)
+1. **Distinguish** between a topic, a gap, and a research question — and know why it matters for your literature search
+2. **Formulate** a focused research question from the landscape work you did in Week 3
+3. **Evaluate** whether a question is answerable, searchable, and appropriately scoped
+4. **Leave with** a working research question that gives you a targeted search strategy for Doc 0.1
 :::
 
 # From Topic to Question {background-color="#A8DADC"}
 
-## Doc 0: You Just Submitted — Now What?
+## Doc 0: You Just Submitted — Quick Reality Check
 
 ::: {.callout-note icon=false}
-## Submitted Before Class?
+## Feedback is coming within the week.
 
-Good. Feedback will come within the week.
-
-Today's session will help you **refine your thinking** — so when you get feedback, you'll know how to act on it.
+But here's a preview: the most common pattern in Doc 0 submissions is **describing an area** instead of **asking a question.** Today fixes that.
 :::
 
 . . .
 
-**Common patterns we'll address today:**
+**Three things that look similar but are very different:**
 
 ::: {.incremental}
-- **Topic ≠ Question** — Many abstracts describe an area but don't ask something specific
-- **Gap ≠ Question** — "This hasn't been studied" isn't the same as "What happens when...?"
-- **Scope issues** — Too broad ("sustainability in design") or too narrow (trivial)
+- **Topic** — "I'm interested in sustainability and design" → *2 million Google Scholar results. Now what?*
+- **Gap** — "Nobody has studied how material choices affect perception in HK" → *Closer, but still not searchable*
+- **Research Question** — "How do material choices in packaging affect HK consumers' perception of product sustainability?" → *Now you know exactly what to type into Scholar*
 :::
 
 ---
 
-## The Progression: Topic → Gap → Question
+## See the Difference? It's a Zoom Lens.
 
 ::: {.columns}
 ::: {.column width="33%"}
 ### Topic
-*An area of interest*
+*Wide angle — everything in frame*
 
 "Social media and mental health"
 
-- Too broad to research
-- Could go anywhere
-- Not actionable
+- Captures the whole landscape
+- But you can't focus on anything
+- **Search result:** 2,000,000+
 :::
 
 ::: {.column width="33%"}
 ### Gap
-*Something missing in the landscape*
+*Medium shot — area of interest*
 
-"Little research on how design interventions reduce Instagram-related anxiety"
+"Little research on design interventions for Instagram-related anxiety"
 
-- More focused
 - Shows what's missing
-- But still not a question
+- But what exactly will *you* study?
+- **Search result:** ~5,000
 :::
 
 ::: {.column width="33%"}
 ### Research Question
-*A specific, answerable inquiry*
+*Close-up — your specific frame*
 
 "How do intentional friction features (like scroll limits) affect reported anxiety levels in young adult Instagram users?"
 
-- Specific
-- Answerable
-- Testable
+- You know the who, what, and how
+- You can imagine the study
+- **Search result:** 50–200 that actually matter
 :::
 :::
 
 . . .
 
 ::: {.callout-tip icon=false}
-## Your Task Today
-Move from gap → question. Make it specific enough to answer.
+## The Zoom Lens Test
+If your question returns millions of results, zoom in. If it returns almost nothing, you might be too narrow — or you've found a genuine gap. Either way, **the question controls the search.**
 :::
 
 # What Makes a Research Question? {background-color="#FFE66D"}
@@ -624,16 +695,15 @@ Binary framing, no defined population, no context, no measurable outcome. This i
 - Notice the pattern: strong questions have **specific who, what, where** — weak ones are missing at least two
 :::
 
-# Activity Part 1: Deepen the Landscape {background-color="#FFE66D"}
+# Activity Part 1: Test Your Signals {background-color="#FFE66D"}
 
-## From Quick Signals to Academic Grounding (30-40 min)
+## Your Week 3 Signals — Do They Hold Up? (30-40 min)
 
-**Last week you did the 5-Minute Research Stack:**
+Last week you collected quick signals: Reddit threads, App Store reviews, Google Trends, Wayback Machine.
 
-- Reddit threads, App Store reviews, Google Trends, Wayback Machine
-- Quick signals about what people care about, what's been tried, what failed
+**Those signals told you what people *feel*. Now let's find out if researchers can tell you *why*.**
 
-**That was shallow reconnaissance. Now go deeper.**
+This is the move from "interesting hunch" to "evidence-backed direction" — and it's exactly what separates a forgettable product pitch from one that makes people lean in.
 
 ---
 
@@ -797,11 +867,11 @@ This gives you time to actually read abstracts and evaluate quality — not just
 **Pro tip:** If your 5-minute signal doesn't have academic coverage, that itself is a gap worth noting — and potentially a research opportunity.
 :::
 
-# Activity Part 2: Refine Your Research Question {background-color="#4ECDC4"}
+# Activity Part 2: Build Your Compass {background-color="#4ECDC4"}
 
-## Your Task (20 minutes)
+## Draft Your Research Question (20 minutes)
 
-**Working individually or in pairs:**
+You've rated questions, you've deepened your signals. Now build yours. **Working individually or in pairs:**
 
 ::: {.nonincremental}
 1. **Start with your Doc 0 topic/gap** (or the idea you're considering)
@@ -817,6 +887,12 @@ This gives you time to actually read abstracts and evaluate quality — not just
    - What type is it? (Descriptive/Relational/Causal)
 
 4. **Prepare to share:** Your question + one concern you have about it
+:::
+
+::: {.callout-tip icon=false}
+## Your Toolkit
+
+**[Research Question Builder (PDF)](data/research_question_builder.pdf)** — FINER criteria checklist, scope check, question type identifier. Use it as your working sheet right now. Page 1 is blank, page 2 is a worked example.
 :::
 
 ---
@@ -858,53 +934,81 @@ This gives you time to actually read abstracts and evaluate quality — not just
 Your research question will evolve. The literature review (Doc 0.1) often reveals that your question needs adjusting. That's normal and expected.
 :::
 
-# What Gets Papers Accepted (or Rejected) {background-color="#FF6B6B"}
+# Where Product Thinking Comes From {background-color="#FF6B6B"}
 
-## Writing for Publication: The Reality
+## Every Feature You Love Started as a Research Question
 
-::: {.callout-important icon=false}
-## Required Reading
+You don't need to publish at CHI. But you should know that **CHI is where the playbook gets written** — usually 3–5 years before it shows up in your favorite app.
 
-[How to Write a CHI Paper (Asking for a Friend)](https://arxiv.org/html/2401.05818v1) — Actual advice from CHI authors on what works and what doesn't.
+::: {.incremental}
+- **Pull-to-refresh, infinite scroll, notification red dots** — variable ratio reinforcement (Skinner, 1957; operant conditioning research)
+- **Every thumb-reachable button you've ever tapped** — Fitts's Law (1954, experimental psychology)
+- **"Are you sure you want to close this tab?"** — loss aversion (Kahneman & Tversky, prospect theory)
+- **Default opt-in for organ donation, newsletter signups, privacy settings** — nudge theory (Thaler & Sunstein, behavioral economics)
+- **The entire engagement model of social media** — the "attention economy" (Herbert Simon coined it in academia)
 :::
-
-. . .
-
-**Key insight from the paper:**
-
-> "Papers succeed through clarity and conciseness, explicit contribution statements, and adherence to expected structure."
 
 ---
 
-## What Gets Papers Desk-Rejected?
-
-Based on reviewer feedback patterns:
+## The Silicon Valley Pipeline You Don't See
 
 ::: {.columns}
 ::: {.column width="50%"}
-### Methodological Issues
+### The Research Side
 
-- Vague research questions
-- No clear method to answer the question
-- Overclaiming results
-- Inadequate sample or evidence
+- **BJ Fogg** (Stanford HCI) publishes *Persuasive Technology* (2003)
+- Concepts: triggers, motivation, ability, behavior loops
+
+- **Kramer et al.** publish Facebook's emotional contagion study (PNAS, 2014)
+- Finding: platforms can shift users' moods at scale without their awareness
 :::
 
 ::: {.column width="50%"}
-### Structural Issues
+### The Product Side
 
-- Missing literature context
-- No explicit contribution statement
-- Poor organization/signposting
-- Ignoring limitations
+- Instagram, Snapchat, TikTok hire Fogg's students → engagement playbook
+- Growth hacking, dark patterns, gamification — all downstream
+
+- EU and US regulators begin drafting platform accountability laws
+- "Move fast and break things" becomes a liability, not a motto
 :::
 :::
 
 . . .
 
-::: {.callout-warning icon=false}
-## The Hard Truth
-A great idea with sloppy execution gets rejected. A solid question with rigorous methods gets published — even if the findings are modest.
+::: {.callout-important icon=false}
+## The Point
+The researchers asked the question. The product teams shipped the answer. The PMs who understood *both* sides made the best decisions — and avoided the worst ones.
+:::
+
+---
+
+## Why This Matters for Your Career
+
+::: {.callout-note icon=false}
+## Two Types of Product People
+
+**PM who reads Medium:**
+"Let's add gamification because Duolingo does it."
+
+**PM who reads the research:**
+"Duolingo's streak mechanic works because of commitment-consistency bias (Cialdini, 1984) and variable reward schedules — but the same mechanics cause anxiety in health apps. Our context is different. Here's what the evidence says we should do instead."
+:::
+
+. . .
+
+**Which one gets promoted? Which one avoids shipping something harmful?**
+
+The research-literate PM doesn't need to *publish* papers. They need to **read them, evaluate them, and apply them.** That's exactly what this course teaches.
+
+---
+
+## Recommended Reading
+
+::: {.callout-tip icon=false}
+## For the Curious
+
+[How to Write a CHI Paper (Asking for a Friend)](https://arxiv.org/html/2401.05818v1) — Even if you never submit to CHI, this shows you how the best HCI researchers think about clarity, contribution, and rigor. The standards they use are the same standards that separate sharp product thinking from hand-waving.
 :::
 
 ---
@@ -912,18 +1016,22 @@ A great idea with sloppy execution gets rejected. A solid question with rigorous
 ## Your Research Question Is Your Foundation
 
 ::: {.callout-note icon=false}
-## Everything Flows from the RQ
+## Same Skill, Different Output
 
-**Clear RQ** → Clear method → Clear findings → Clear contribution
+**In academia:**
+Clear RQ → Clear method → Clear findings → Publication
 
-**Vague RQ** → Confused method → Scattered findings → "So what?" from reviewers
+**In industry:**
+Clear problem definition → Clear evidence gathering → Clear insight → Better product decision
+
+The skill is identical. The output is different. Both start with a sharp question.
 :::
 
 . . .
 
 **This is why we're spending a whole session on this.**
 
-The time you invest in sharpening your question now saves you from rejection later.
+Whether you end up writing papers or writing PRDs — a vague question leads to vague outcomes.
 
 # Looking Ahead {background-color="#457B9D"}
 
@@ -966,16 +1074,39 @@ A well-formed question makes every subsequent step clearer.
 
 ---
 
-## Upcoming Assessments
+## Your Documents Are Version Updates, Not Final Drafts
+
+::: {.callout-important icon=false}
+## How the Doc Pipeline Actually Works
+
+Think of it like software releases:
+
+| Doc | Version | What It Is | What Happens Later |
+|-----|---------|------------|-------------------|
+| **Doc 0** | v0.1 | Your first pitch — rough, instinct-driven | Gets refined by landscape + lit review |
+| **Doc 0.1** | v0.2 | Your lit review — first attempt at synthesis | Gets sharper as you learn methods |
+| **Doc 0.2** | v0.3 | Your methodology — how you'll investigate | Gets validated by actual data collection |
+| **Doc 1** | v1.0 | Your research paper — **contains upgraded versions of everything above** | The release candidate |
+:::
+
+. . .
+
+**You are not expected to get Doc 0.1 perfect.** You're expected to get it *done* — and then make it better when you know more. Doc 1 is where the polished versions live.
+
+This is how real research works. Nobody writes a perfect literature review on the first pass. You write it, learn more, revise it, and the final paper is stronger because of the iterations.
+
+---
+
+## Upcoming Deadlines
 
 ::: {.columns}
 ::: {.column width="50%"}
 ### Just Submitted
 **Doc 0: Extended Abstract**
 
-- Feedback will be released soon
+- Feedback coming within the week
 - Use it to refine your question
-- Don't panic if you need to adjust
+- If you need to adjust — that's the process working, not a failure
 :::
 
 ::: {.column width="50%"}
@@ -983,16 +1114,16 @@ A well-formed question makes every subsequent step clearer.
 **Doc 0.1: Literature Review**
 
 - Due: Week 6 (Mar 3)
-- Now that you have a question, search for what's already known
-- Your lit review should help you refine the question further
+- Your research question is now your search filter
+- Write your best v0.2 — you'll upgrade it for Doc 1
 :::
 :::
 
 . . .
 
 ::: {.callout-tip icon=false}
-## Next Week: Methods I
-We'll cover qualitative research methods—interviews, observations, ethnography. Start thinking: **What method fits YOUR question?**
+## After the Break: Methods I
+We'll cover qualitative research methods — interviews, observations, ethnography. **Bring your research question to class.** We'll use it.
 :::
 
 # Key Takeaways {background-color="#457B9D"}
@@ -1012,7 +1143,7 @@ We'll cover qualitative research methods—interviews, observations, ethnography
 
 6. **Diverse research is valid** — Product, urban, computational, cultural — all publishable with clear questions
 
-7. **This is how you avoid rejection** — Reviewers reject vague questions; they accept rigorous ones
+7. **Research literacy is a career advantage** — The best product people trace features back to the science that makes them work
 :::
 
 ---
@@ -1056,16 +1187,16 @@ Instinct → Gap → Landscape → **Question** → Methods → Evidence → Ana
 ::: {.r-fit-text}
 **A vague question**
 
-**leads to a vague answer**
+**leads to a vague search**
 
-**leads to a vague contribution**
+**leads to a vague review**
 
-**leads to rejection.**
+**leads to a vague paper.**
 :::
 
 . . .
 
-Sharpen your question. Everything else gets easier.
+Sharpen your question. Everything downstream gets easier.
 
 ---
 
