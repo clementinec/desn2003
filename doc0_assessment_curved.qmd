@@ -1,0 +1,294 @@
+---
+title: "Doc 0 Assessment Summary (Curved)"
+subtitle: "DESN2003 | Research for Innovation"
+date: "2026-02-22"
+toc: true
+---
+
+This report consolidates Doc 0 submissions from `data/D0` and records rubric-based evaluations with a light curve applied to overall scores.
+
+**Rubric (20 pts each):** Problem clarity, Significance, Scope & feasibility, Approach / evidence plan, Writing quality & structure.
+
+**Curve applied to overall score:** `Curved = max(80, round(0.42 * Raw + 55.2))`
+
+The curve sets the median to ~85 and floors all curved scores at 80 while keeping the top end high.
+
+## Summary
+
+| Student | Topic (short) | Track | Modality | Words | Raw | Curved |
+|---|---|---|---|---:|---:|---:|
+| Ho Yan Wong | Gen Z fandom collectibles spending and implications for traditional retail | Applied | Consumer behavior + physical retail experience | 518 | 69 | 84 |
+| Arjun Kumar Pradhan | Monetization tactics in digital video games (gacha) | Applied | Digital product/market | 243 | 56 | 80 |
+| Lo A Ye | Interaction between social anxiety and appearance anxiety; intervention opportunities | Frontier | Behavioral/psychological | 236 | 81 | 89 |
+| Qiheng Yu | Interpersonal interactions and sustained pro-environmental behavior change | Frontier | Behavioral/social systems | 505 | 90 | 93 |
+| Zhen Yang | HK bookstores: user experience and visitor attraction | Applied | Physical space/service | 499 | 69 | 84 |
+| Neil Amit Patwa | Fitness tracking app retention and engagement | Applied | Digital app/service | 365 | 77 | 88 |
+| Ping Sum Li | Gen Z emotional consumption and brand marketing strategies | Applied | Consumer behavior/marketing | 253 | 73 | 86 |
+| Kiu Chin Chan | Non-drill vacuum adhesion for heavier furniture on porous walls | Frontier | Physical product/materials | 336 | 79 | 88 |
+| Yuen Yau Davina Chan | AI tools for climate-sensitive urban planning | Applied | Digital tool + physical environment | 479 | 55 | 80 |
+| Victor Zhuang | Environmental installations to preserve Jiaohe ancient city | Frontier | Physical environment/heritage conservation | 311 | 66 | 83 |
+| Chun Ho | Linking game environment variables to measurable player emotions | Frontier | Digital/virtual environment | 205 | 55 | 80 |
+| Yunqi Yu | Ski resort matching service for beginners/intermediates | Applied | Digital service/travel | 461 | 71 | 85 |
+| Ashalle Kumar Mahajan | Methodological framework for innovation types using AI-augmented design | Frontier | Methodological/strategic | 347 | 78 | 88 |
+
+## Individual Assessments
+
+## Ho Yan Wong
+
+**File:** `data/D0/2871434389 - Ho Yan Wong - 321328_Ho_Yan_Wong_Extended_Abstract_4021133_1036848327.pdf`
+
+**Topic:** Gen Z fandom collectibles spending and implications for traditional retail
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Consumer behavior + physical retail experience
+
+**Word count (auto):** 518 (over 500)
+
+**Scores:** Raw 69 | Curved 84
+
+**Components (20 each):** Problem 15, Significance 17, Scope 12, Approach 10, Writing 15
+
+**Effort estimate:** Medium-high
+
+**Feedback:** Strong personal motivation and clear industry relevance. Narrow to a specific category or market segment and add a concrete method (e.g., interviews plus spending data or ethnography). Trim ~20–30 words to meet the 500-word cap.
+
+## Arjun Kumar Pradhan
+
+**File:** `data/D0/2873644652 - Arjun Kumar Pradhan - 324174_Arjun_Kumar_Pradhan_DESN2003_-_Doc_0_-_3036344658_-_Arjun_Kumar_Pradhan.pdf_4021133_1870736420.pdf`
+
+**Topic:** Monetization tactics in digital video games (gacha)
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Digital product/market
+
+**Word count (auto):** 243
+
+**Scores:** Raw 56 | Curved 80
+
+**Components (20 each):** Problem 13, Significance 12, Scope 10, Approach 9, Writing 12
+
+**Effort estimate:** Low-medium
+
+**Feedback:** Interesting topic but needs a clearer research question and ethical framing (player wellbeing vs revenue optimization). Narrow to one genre or system and outline a concrete method (e.g., content analysis of monetization mechanics plus player interviews).
+
+## Lo A Ye
+
+**File:** `data/D0/2873771601 - Lo A Ye - 321143_Lo_A_Ye_3036325688_4021133_66013593.pdf`
+
+**Topic:** Interaction between social anxiety and appearance anxiety; intervention opportunities
+
+**Track guess:** Frontier (Technologist)
+
+**Modality:** Behavioral/psychological
+
+**Word count (auto):** 236
+
+**Scores:** Raw 81 | Curved 89
+
+**Components (20 each):** Problem 17, Significance 17, Scope 15, Approach 16, Writing 16
+
+**Effort estimate:** Medium
+
+**Feedback:** Clear framing and a solid literature-first approach. If you want design outcomes, add a small empirical component or specify a target population. Consider tightening scope to a specific age range or media context.
+
+## Qiheng Yu
+
+**File:** `data/D0/2874752467 - Qiheng Yu - 317034_Qiheng_Yu_DESN200_4021133_1182409447.docx`
+
+**Topic:** Interpersonal interactions and sustained pro-environmental behavior change
+
+**Track guess:** Frontier (Technologist)
+
+**Modality:** Behavioral/social systems
+
+**Word count (auto):** 505 (over 500)
+
+**Scores:** Raw 90 | Curved 93
+
+**Components (20 each):** Problem 19, Significance 19, Scope 16, Approach 18, Writing 18
+
+**Effort estimate:** High
+
+**Feedback:** Excellent clarity and methodology. Define concrete behavior measures and specify sampling boundaries. Trim slightly to keep it under 500 words.
+
+## Zhen Yang
+
+**File:** `data/D0/2874805321 - Zhen Yang - 317173_Zhen_Yang_Yang_Zhen_3036291605_4021133_1557031158.docx`
+
+**Topic:** HK bookstores: user experience and visitor attraction
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Physical space/service
+
+**Word count (auto):** 499
+
+**Scores:** Raw 69 | Curved 84
+
+**Components (20 each):** Problem 15, Significance 16, Scope 16, Approach 9, Writing 13
+
+**Effort estimate:** Medium
+
+**Feedback:** The local context is strong, but the method is missing. Add a method plan (observations, interviews, spatial analysis) and tighten the research question. There is an incomplete sentence near the end to fix.
+
+## Neil Amit Patwa
+
+**File:** `data/D0/2874828544 - Neil Amit Patwa - 319479_Neil_Amit_Patwa_Extended_Abstract_4021133_1833445321.pdf`
+
+**Topic:** Fitness tracking app retention and engagement
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Digital app/service
+
+**Word count (auto):** 365
+
+**Scores:** Raw 77 | Curved 88
+
+**Components (20 each):** Problem 16, Significance 16, Scope 15, Approach 15, Writing 15
+
+**Effort estimate:** Medium
+
+**Feedback:** Good applied framing and plausible methods. Specify target user segment and success metrics (retention, engagement, habit formation). Consider focusing on 1–2 apps for depth.
+
+## Ping Sum Li
+
+**File:** `data/D0/2874897835 - Ping Sum Li - 328841_Ping_Sum_Li_Research_abstract_emotional_consumption_4021133_722379701.docx`
+
+**Topic:** Gen Z emotional consumption and brand marketing strategies
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Consumer behavior/marketing
+
+**Word count (auto):** 253
+
+**Scores:** Raw 73 | Curved 86
+
+**Components (20 each):** Problem 15, Significance 16, Scope 13, Approach 14, Writing 15
+
+**Effort estimate:** Medium
+
+**Feedback:** Clear premise and method. Narrow to a few industries or exemplar brands, and define how you will operationalize “emotional consumption.” That will keep the case study grounded.
+
+## Kiu Chin Chan
+
+**File:** `data/D0/2875119516 - Kiu Chin Chan - 329045_Kiu_Chin_Chan_Doc._0_Extended_abstract_4021133_474449634.pdf`
+
+**Topic:** Non-drill vacuum adhesion for heavier furniture on porous walls
+
+**Track guess:** Frontier (Technologist)
+
+**Modality:** Physical product/materials
+
+**Word count (auto):** 336
+
+**Scores:** Raw 79 | Curved 88
+
+**Components (20 each):** Problem 17, Significance 17, Scope 15, Approach 14, Writing 16
+
+**Effort estimate:** High
+
+**Feedback:** Strong technical framing and a clear gap. Add a concrete experimental plan (surface types, load/time tests, materials) and define performance thresholds for success.
+
+## Yuen Yau Davina Chan
+
+**File:** `data/D0/2875506729 - Yuen Yau Davina Chan - 321452_Yuen_Yau_Davina_Chan_Davina_Chan_3036325602_4021133_1233640308.pdf`
+
+**Topic:** AI tools for climate-sensitive urban planning
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Digital tool + physical environment
+
+**Word count (auto):** 479
+
+**Scores:** Raw 55 | Curved 80
+
+**Components (20 each):** Problem 12, Significance 14, Scope 9, Approach 8, Writing 12
+
+**Effort estimate:** Medium-low
+
+**Feedback:** The problem is important but too broad. Pick a specific planning decision (e.g., street cooling, wind corridors) and name the dataset and method. Add a clear research question and evaluation plan.
+
+## Victor Zhuang
+
+**File:** `data/D0/2875515157 - Victor Zhuang - 327624_Victor_Zhuang_Document_0_Extended_Abstract__Victor_Zhuang_4021133_1770161473.pdf`
+
+**Topic:** Environmental installations to preserve Jiaohe ancient city
+
+**Track guess:** Frontier (Technologist)
+
+**Modality:** Physical environment/heritage conservation
+
+**Word count (auto):** 311
+
+**Scores:** Raw 66 | Curved 83
+
+**Components (20 each):** Problem 14, Significance 16, Scope 13, Approach 9, Writing 14
+
+**Effort estimate:** Medium
+
+**Feedback:** Compelling heritage context, but the method is vague. Narrow to one environmental threat and define the intervention to test. Specify how you’ll measure preservation impact.
+
+## Chun Ho
+
+**File:** `data/D0/2875553583 - Chun Ho - 318676_Chun_Ho_Chun_Ho_DESN2003_Doc_0_4021133_422648611.pdf`
+
+**Topic:** Linking game environment variables to measurable player emotions
+
+**Track guess:** Frontier (Technologist)
+
+**Modality:** Digital/virtual environment
+
+**Word count (auto):** 205
+
+**Scores:** Raw 55 | Curved 80
+
+**Components (20 each):** Problem 13, Significance 11, Scope 12, Approach 7, Writing 12
+
+**Effort estimate:** Low
+
+**Feedback:** Interesting gap but it reads like a premise only. Add a clear research question and a method (playtests, telemetry, or controlled experiments). Expand significance and define who benefits from the model.
+
+## Yunqi Yu
+
+**File:** `data/D0/2875572014 - Yunqi Yu - 317400_Yunqi_Yu_Yu_Yunqi_Doc_0_4021133_717053387.pdf`
+
+**Topic:** Ski resort matching service for beginners/intermediates
+
+**Track guess:** Applied (Builder-Maker)
+
+**Modality:** Digital service/travel
+
+**Word count (auto):** 461
+
+**Scores:** Raw 71 | Curved 85
+
+**Components (20 each):** Problem 16, Significance 15, Scope 14, Approach 11, Writing 15
+
+**Effort estimate:** Medium
+
+**Feedback:** Clear product intent and user pain. Add a method plan (user interviews plus prototype testing and evaluation). Narrow to a region or a dataset to keep it feasible.
+
+## Ashalle Kumar Mahajan
+
+**File:** `data/D0/2875621926 - Ashalle Kumar Mahajan - 321453_Ashalle_Kumar_Mahajan_Research_Proposal_4021133_611669498.pdf`
+
+**Topic:** Methodological framework for innovation types using AI-augmented design
+
+**Track guess:** Frontier (Technologist)
+
+**Modality:** Methodological/strategic
+
+**Word count (auto):** 347
+
+**Scores:** Raw 78 | Curved 88
+
+**Components (20 each):** Problem 17, Significance 17, Scope 14, Approach 14, Writing 16
+
+**Effort estimate:** High
+
+**Feedback:** Strong conceptual framing and objectives. Add a brief method sketch (data sources, case selection, time horizon) to meet Doc 0 expectations. Fix numbering and tighten structure.

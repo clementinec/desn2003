@@ -86,7 +86,7 @@ Quick reminder on the synthesis pattern from last week:
 3. **Experimental Methods** — Testing cause and effect
 4. **Mixed Methods** — Combining qual and quant
 5. **Activity: Design Your Data Collection**
-6. **Pulse Check** — Anonymous feedback on how the course is going
+6. **Co-Design Challenge** — Build our mid-semester pulse check survey together
 :::
 
 ---
@@ -825,29 +825,119 @@ Numbers lie all the time. Your job is to catch them.
 
 ---
 
-# Mid-Semester Pulse Check {background-color="#FFE66D"}
+# Co-Design Challenge: Build Our Pulse Check {background-color="#FFE66D"}
 
-## 3 Minutes, Anonymous, Honest
+## You Just Learned Survey Design. Now Use It. (15 min)
 
-::: {.callout-note icon=false}
-## We're Halfway Through the Methods Block
+::: {.callout-important icon=false}
+## The Brief
 
-Before we move into the second half of the semester (evidence, analysis, writing), I want to hear from you. This is anonymous and takes 2-3 minutes.
+We're halfway through. The second half of this course — evidence gathering, analysis, synthesis, your final paper — is still ahead of us.
+
+**I want to know two things:**
+
+1. What's landed so far — what's working, what's not
+2. **What do you actually want to learn in the remaining weeks** — what skills, what support, what would make this course worth your time
+
+You've been learning survey design all session. So you're building this instrument yourselves. Here's a shared Google Doc with a starter draft. Improve it.
 :::
 
-**Scan the QR code or go to the link on screen.**
+---
 
-::: {.nonincremental}
-Three questions:
+## The Shared Doc
 
-1. **What's one thing that's working well** for you in this course?
-2. **What's one thing you're finding difficult or confusing?**
-3. **What would help you most** in the next few weeks?
+::: {.callout-note icon=false}
+## Open the Link on Screen
+
+The doc has **5 question slots:**
+
+- **3 are pre-filled** with rough drafts that have deliberate problems — fix them
+- **2 are blank** — write new questions, but note the prompts:
+  - Slot 4 is tagged **"Forward-looking"** — this question should ask about what students want from the *remaining* weeks
+  - Slot 5 is tagged **"Open"** — your group decides what's worth asking
+
+Each question needs: question text, question type (Likert / open / multiple choice), and response options if applicable.
 :::
 
 . . .
 
-Your responses will shape how I run the second half. This is not SFTL — this is for *us*, right now.
+**Constraints:**
+
+::: {.nonincremental}
+- Exactly **5 questions** total (no scope creep — you know why)
+- At least **one Likert scale** and at least **one open-ended**
+- Must be **completable in under 3 minutes**
+- Must pass the anti-pattern check from today's lecture
+:::
+
+---
+
+## How This Works (15 min total)
+
+::: {.nonincremental}
+**1. Open the doc and claim a question (2 min)**
+
+- Groups of 3-4 — each group picks one question slot to own
+- If a slot already has a starter draft, your job is to fix it
+- If it's blank, your job is to write it
+
+**2. Draft and revise in the doc (5 min)**
+
+- Write directly in the shared doc — you can see each other's work in real time
+- Use the [Survey Design Checklist (PDF)](data/survey_design_checklist.pdf) to check your question
+- If you see a problem in another group's question, leave a comment — that's peer review
+
+**3. Class review on screen (5 min)**
+
+- We project the doc and walk through all 5 questions together
+- Anti-pattern check: leading? double-barreled? vague? loaded?
+- Final tweaks as a class
+
+**4. Fill it out (3 min)**
+
+- I transfer the final 5 questions to a Google Form (pre-built template, takes 1 min)
+- You fill it out immediately — anonymous
+:::
+
+---
+
+## The Starter Questions (Deliberately Imperfect)
+
+::: {.callout-warning icon=false}
+## These Are in the Doc — Can You Spot the Problems?
+
+**Q1:** "Don't you agree that the lectures are well-organized?"
+
+**Q2:** "How satisfied are you with the pace and difficulty of the course?"
+
+**Q3:** "Rate the course: Good / Okay / Bad"
+:::
+
+. . .
+
+::: {.nonincremental}
+- Q1 is **leading** — presupposes agreement
+- Q2 is **double-barreled** — pace and difficulty are two different things
+- Q3 has an **unbalanced scale** — no neutral, only 3 points, vague labels
+:::
+
+**Fix them. You know how — we just covered this.**
+
+---
+
+## After We're Done
+
+::: {.callout-important icon=false}
+## What Just Happened
+
+You spotted bias in existing questions, rewrote them using design principles, wrote new questions from scratch, peer-reviewed each other's work in real time, and deployed a real survey instrument — in 15 minutes.
+
+That's the survey research cycle in miniature.
+
+But the bigger point: **this survey isn't about evaluating me. It's about you telling me what you need.** The second half of this course is not locked in. If you want more hands-on workshop time, more examples from industry, more feedback on drafts, more time on a specific method — this is how you say so.
+
+You have agency in what happens next. Use it.
+:::
 
 ---
 
@@ -865,7 +955,14 @@ Let's discuss!
 
 ::: {.notes}
 - Check: Has everyone submitted Doc 0.1?
-- Run the anonymous pulse check — Google Form, 3 questions, 2-3 minutes
-- Encourage thinking about methods as they await feedback
+- Co-design pulse check: have a blank Google Form ready to build live
+- Keep the class to 5 final questions — resist scope creep
+- If short on time, have 3 backup questions pre-written that you can offer
+  as "starter" options (e.g., one Likert on overall satisfaction, one open-ended
+  on what's confusing, one on what would help most). Groups can improve these
+  or replace them entirely.
+- The point is that students practice survey design on something real —
+  even if the final questions are similar to what you'd have written yourself
+- Encourage thinking about methods as they await Doc 0.1 feedback
 - Remind them that method choice will be refined based on lit review insights
 :::

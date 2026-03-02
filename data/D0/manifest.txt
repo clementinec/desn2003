@@ -1,0 +1,20 @@
+The requested files for download id 84d69a0b-998b-4902-a8db-4a53fef4b162 are now available 
+ 
+Number of files requested: 13 
+Success file count: 13 
+Failed file count: 0 
+ 
+Files
+2873644652 - Arjun Kumar Pradhan - 324174_Arjun_Kumar_Pradhan_DESN2003_-_Doc_0_-_3036344658_-_Arjun_Kumar_Pradhan.pdf_4021133_1870736420.pdf - SUCCESS 
+2873771601 - Lo A Ye - 321143_Lo_A_Ye_3036325688_4021133_66013593.pdf - SUCCESS 
+2874752467 - Qiheng Yu - 317034_Qiheng_Yu_DESN200_4021133_1182409447.docx - SUCCESS 
+2874805321 - Zhen Yang - 317173_Zhen_Yang_Yang_Zhen_3036291605_4021133_1557031158.docx - SUCCESS 
+2874828544 - Neil Amit Patwa - 319479_Neil_Amit_Patwa_Extended_Abstract_4021133_1833445321.pdf - SUCCESS 
+2874897835 - Ping Sum Li - 328841_Ping_Sum_Li_Research_abstract_emotional_consumption_4021133_722379701.docx - SUCCESS 
+2875119516 - Kiu Chin Chan - 329045_Kiu_Chin_Chan_Doc._0_Extended_abstract_4021133_474449634.pdf - SUCCESS 
+2875506729 - Yuen Yau Davina Chan - 321452_Yuen_Yau_Davina_Chan_Davina_Chan_3036325602_4021133_1233640308.pdf - SUCCESS 
+2875515157 - Victor Zhuang - 327624_Victor_Zhuang_Document_0_Extended_Abstract__Victor_Zhuang_4021133_1770161473.pdf - SUCCESS 
+2875553583 - Chun Ho - 318676_Chun_Ho_Chun_Ho_DESN2003_Doc_0_4021133_422648611.pdf - SUCCESS 
+2875572014 - Yunqi Yu - 317400_Yunqi_Yu_Yu_Yunqi_Doc_0_4021133_717053387.pdf - SUCCESS 
+2875621926 - Ashalle Kumar Mahajan - 321453_Ashalle_Kumar_Mahajan_Research_Proposal_4021133_611669498.pdf - SUCCESS 
+2871434389 - Ho Yan Wong - 321328_Ho_Yan_Wong_Extended_Abstract_4021133_1036848327.pdf - SUCCESS 
