@@ -1,8 +1,8 @@
 ---
-title: "Know Your Client (KYC), Working with informational interviews"
+title: "Know Your Client (KYC), Ethics Approval & Thematic Analysis"
 subtitle: "DESN2003: Research for Innovation, Week Seven"
 author: Hongshan Guo
-format: 
+format:
   revealjs:
     slide-level: 2
     center: true
@@ -39,9 +39,9 @@ Learned qualitative, quantitative, and mixed methods
 ::: {.column width="33%"}
 **Week 7 (Today)**
 
-Talk to real people who do this work
+Talk to real people — and learn what must be in place before you collect data
 
-*You learn **what it's actually like***
+*You learn **what it's actually like** and **what's required***
 :::
 :::
 
@@ -49,7 +49,7 @@ Talk to real people who do this work
 
 ::: {.callout-important icon=false}
 ## Today's Shift
-We've been building research skills in the classroom. Today we take them outside — into real conversations with practitioners. This is where your research question meets the real world.
+We've been building research skills in the classroom. Today we take them outside — into real conversations with practitioners. But first: if your project involves talking to people as research participants, there are things you **must** have in place before you start.
 :::
 
 ---
@@ -116,11 +116,11 @@ Update with cohort-specific stats each semester if desired.
 By the end of this session, you will be able to:
 
 1. **Prepare** for informational interviews through professional research
-2. **Craft** effective outreach messages for professional networking
-3. **Apply** thematic analysis to qualitative data (codes → themes)
-4. **Articulate** the "so what?" of your findings
+2. **Identify** whether your project requires ethics approval and what documents you must prepare
+3. **Walk through** the HKU ethics application form and connect it to your methodology
+4. **Apply** thematic analysis to qualitative data (raw quotes → codes → themes)
 
-# Informational Interview/Coffee Chat
+# Informational Interview/Coffee Chat {background-color="#A8DADC"}
 
 ## Informational Interview/Coffee Chat
   - What they are:
@@ -132,12 +132,12 @@ By the end of this session, you will be able to:
     - Someone's firsthand experience
     - challenges & successes
     - career paths
-    - realistic picture of what to expect in a particular **field or role** (Not an ask, but preferrably something that we can look at)
+    - realistic picture of what to expect in a particular **field or role** (Not an ask, but preferably something that we can look at)
 
 ## Setting Expectation
   - Neither should bear agenda to secure job offer
   - Learn and build connections
-  - Experience informational interview as a long-term investment 
+  - Experience informational interview as a long-term investment
   - Start building/expanding professional network
   - The group project is a teaser of what you will likely experience going further into your career (regardless of discipline)
 
@@ -145,14 +145,14 @@ By the end of this session, you will be able to:
   - Do you think you have a better idea of what these are by now?
   - Any questions that you may have before we dive deeper into how to design/prepare for one?
 
-## Identify Person(s) of Intersts
-  
+## Identify Persons of Interest
+
   - Who to reach out to?
     - Industry Leaders and Role Models
     - Alumni Network
     - Professional Associations
   - Utilizing LinkedIn:
-    - Advanced Sesarch Features
+    - Advanced Search Features
       - Filter professionals by industry, company, role and even location
     - LinkedIn Groups: Join groups of related interests.
   - How to narrow scope of search?
@@ -176,88 +176,56 @@ By the end of this session, you will be able to:
   8. Politeness and Conciseness
   9. Closing and Signature
 
-### Let's checkout some examples. Give a probability that you will respond to a message that you receive on LinkedIn. (3 Examples)
+### Let's check out some examples. Give a probability that you will respond to a message that you receive on LinkedIn. (3 Examples)
 
 
-## Reaching Out:
+## Reaching Out
 
-#### Choosing the Right Platform:
+::: {.columns}
+::: {.column width="50%"}
+#### Choosing the Right Platform
+  - **Platform Etiquette**: Norms and best practices differ across LinkedIn, email, professional forums
+  - **Professional Channels**: make sure your profiles are up-to-date and professional
+  - **Timing**: avoid weekends, late nights, and major holidays
+  - **Follow-up**: wait 1-2 weeks, then a polite follow-up if no response
+:::
 
-  - **Platform Etiquette**: 
-    - Norms and best practices for different platforms (LinkedIn, email, professional forums)
-    - Initial outreach varies accordingly
-  - **Professional Channels**: 
-    - using professional channels for communication is important
-    - make sure your profiles on these platforms are up-to-date and professional.
-      - What do we mean by _professional_?
-
-#### Timing and Frequency:
-
-  - **Optimal Timing**: 
-    - best times to send messages: avoiding weekends, late nights, and major holidays
-    - the likelihood of a timely response improves accordingly.
-  - **Follow-up Strategy**: 
-    - follow-up strategy involves a waiting period (typically 1-2 weeks) 
-    - a polite follow-up message if there's no initial response.
-
-
-## Reaching Out (Continued)
-
-#### Managing Outreach Volume:
-  - **Tracking System**: 
-    - set up a simple tracking system (like a spreadsheet) to monitor whom you’ve contacted, 
-    - when, and any responses or follow-up actions needed.
-  - **Balanced Approach**: 
-    - ideally no mass messaging. 
-    - a balanced, targeted approach to outreach, 
-    - focusing on quality and personalization over quantity.
-
-## Dealing with Responses:
-
-#### Positive Responses:
-  - **Immediate Acknowledgment**: 
-    - respond promptly to positive replies, 
-    - expressing gratitude for the willingness to engage and 
-    - proposing potential times for the chat or meeting.
-  - **Preparation**: 
-    - being well-prepared for the interaction, 
-    - with specific questions and goals in mind.
-
-#### Negative or No Responses:
-- **Handling Rejection**: 
-  - not everyone will have the time or interest to respond
-  - it’s not a reflection of their worth or the quality of their outreach.
-  - aka it might be very frustrating.
-- **Learning from Silence**: 
-  - how would a lack of response offer learning opportunities? 
-  - should you change your outreach strategy or message content?
+::: {.column width="50%"}
+#### Managing Volume & Responses
+  - **Track** who you've contacted and when (simple spreadsheet)
+  - **Quality over quantity** — no mass messaging
+  - **Positive reply?** Respond promptly, express gratitude, propose times
+  - **No reply?** Not personal. Consider adjusting your message or trying a different channel
+  - **Rejection?** Part of the process. Learn and move on
+:::
+:::
 
 
 ## Know Your Client (KYC)
 
 Do your homework so that you do not make mistakes.
 
+::: {.columns}
+::: {.column width="50%"}
 #### Research Basics
-  
-  - Background Check: reviewing LinkedIn profile, professional biographies, recent publications, news mentions.
-    - Thorough professional research before outreach
-  - Understanding their work: 
-    - familiarize with the professional's role/projects/contributions
-    - understanding the context and significance of their work
+  - Background Check: LinkedIn profile, professional bios, recent publications, news
+  - Understanding their work: role, projects, contributions, context and significance
 
 #### Contextual Understanding
   - Know the Industry: major trends, challenges and opportunities
-  - Company Culture: culture and values of where they work/associate with for talking points
+  - Company Culture: culture and values for talking points
+:::
 
-## Know Your Client (KYC) Cont'd
-
-#### Preparing Questions: Structured/Semi-structured
-  - Informed Questions: **Informed and Open-Ended**, reflecting their research and curiosity about the professional 
-  - Personalized Inquiry: avoid overly general or easily Google-able questions
-  - Object-Oriented: what do you want to achieve through the interviews
-    - get first-hand critique on the discipline
-    - know what day-to-day is like at the particular industry
-  - Set an agenda: what will happen if you don't have one?
+::: {.column width="50%"}
+#### Preparing Questions
+  - **Informed and Open-Ended**: reflecting your research and curiosity
+  - **Personalized Inquiry**: avoid overly general or easily Google-able questions
+  - **Object-Oriented**: what do you want to achieve?
+    - first-hand critique on the discipline
+    - day-to-day reality of the role/industry
+  - **Set an agenda**: what happens if you don't have one?
+:::
+:::
 
 
 ## Activity: Research a Professional (10 min)
@@ -278,185 +246,255 @@ Do your homework so that you do not make mistakes.
 These are the same tools from Week 5. The difference: now you're using them on real professionals, not classmates.
 :::
 
-<!-- - **Practical Exercise**: Arrange mock informational interviews where students can practice their research skills, question formulation, and conversational strategies in a supportive environment.
-
-#### Research Presentation:
-- **Group Activity**: Have students present their research findings about a professional to the group, including potential questions and conversation goals, to foster collective learning and feedback.
- -->
-
 ## Meet Your Client
 
-#### Showing Engagement:
-  - **Active Engagement**:
-    - active listening, 
-    - showing interest through body language (in person or on video calls), and 
-    - asking follow-up questions based on the discussion.
-  - **Note-taking**: 
-    - taking brief notes during the conversation (with permission) to capture key points and advice,
-    - demonstrates engagement and respect for the professional's insights.
+::: {.columns}
+::: {.column width="50%"}
+#### During the Conversation
+  - **Active Engagement**: active listening, body language, follow-up questions
+  - **Note-taking**: brief notes with permission — shows engagement and respect
+  - **Time Management**: stick to agreed time; don't overextend
+  - **Confidentiality**: respect any sensitive information shared
+:::
 
-#### Respect and Professionalism:
-  - **Time Management**: 
-    - be mindful of the agreed-upon time for the conversation and 
-    - to avoid overextending unless the professional indicates they're willing to continue.
-  - **Confidentiality**: 
-    - the need to respect any confidential or sensitive information shared during the conversation.
-
-## Meet Your Client (Continued)
-
-### Post-Interaction Reflection:
-
-#### Reflective Practice:
-  - **Review and Reflect**: 
-    - review their notes and reflect on the conversation soon after, 
-    - identifying key learnings and any follow-up actions they might take.
-  - **Feedback Loop**:
-    - consider what went well and what could be improved for future interactions 
-    - mindset of continuous improvement.
+::: {.column width="50%"}
+#### After the Conversation
+  - **Review and Reflect**: review notes soon after; identify key learnings and follow-ups
+  - **Feedback Loop**: what went well? What could improve for next time?
+  - **Thank You**: always send a follow-up thank you note
+:::
+:::
 
 ## Mock Interview (If we have time ~ 15min)
-  
+
   - one-on-one practice: professional vs. student interviewer
   - work together and determine who the professional will shadow (a real person)
   - KYC on industry/persona individually
   - student interviewer to come up with 3 questions as structured interview and one follow-up during the conversation
   - student/professional to swap (if we have time)
 
-# Seminar Time: Back to Report Submission with Doc 0.1
 
-## Activities
+# Before You Collect Data: Ethics Approval {background-color="#FF6B6B"}
 
-1. Vote to review one literature review that was submitted (anonymized on mentimeter).
-2. Selected literature reviewed by peers with the following criteria:
-  - **Objective**: Does the literature review sufficiently present its objective?
-  - **Landscape**: Do you think the literature review presented a clear theoretical framework of what are the relevant studies and state-of-the art research landscape?
-  - **Caveat/Importance**: Does the literature review present any clear indication that there is room for investigation of any existing caveats? 
-  - **Citations**: Do you think the number of citations included is enough/adequate?
-  - **Improvements**: Anything that the author can do to strengthen the literature review?
-  - **Challenge**: <span style="color: red">_On the topics that were discussed in the literature review, can you quickly leverage google scholar to find additional ones that investigates similar things?_</span>
+## The Rule
 
-3. We will review the remainder three of the five documents (so long as time permits) for this week.
+::: {.nonincremental}
+The informational interviews we just practiced? Those are **networking** — casual, professional conversations.
 
-## Addendum: Checklist for successful literature review
+But when you start collecting data **for your research project** — interviewing users, running surveys, observing people, conducting user tests — **different rules apply.**
+:::
 
-### 1. Clarity and Coherence:
-- **Clear Objective**: Define the specific goals and scope of the literature review.
-- **Logical Structure**: Organize content in a logical manner, facilitating easy navigation and understanding.
-- **Language and Terminology**: Use clear, concise language appropriate for an interdisciplinary audience, avoiding unnecessary jargon.
+. . .
 
-### 2. Problem Statement and Importance:
-- **Well-defined Issue**: Clearly articulate the problem or research question the literature review addresses.
-- **Significance**: Explain the importance and relevance of the problem within the context of design and computer science.
-- **Gap Identification**: Highlight gaps or shortcomings in existing research that the literature review aims to address.
+::: {.callout-warning icon=false}
+## HKU Policy
+<span style="color: red; font-size: 1.1em">**No data can be collected or analysed before ethics approval is obtained from the relevant committee.**</span>
 
-## Addendum: Checklist for successful literature review (Cont'd)
+This is not a suggestion. Failure to comply can result in <span style="color: red">**rejection of your work**</span>, required recollection of data, and <span style="color: red">**disciplinary action**</span>.
+:::
 
-### 3. Theoretical Framework:
-- **Conceptual Underpinnings**: Present the theories or models that underlie the research area.
-- **Framework Integration**: Demonstrate how the theoretical framework informs the literature review's approach and analysis.
-- **Interdisciplinary Relevance**: Ensure the framework is relevant and accessible to both design and computer science perspectives.
+## Why This Matters Right Now
 
-### 4. Comprehensive Coverage:
-- **Breadth and Depth**: Cover a wide range of sources while diving deep into critical studies.
-- **Diverse Sources**: Include academic journals, conference papers, books, and reputable online resources relevant to both fields.
-- **Timeliness**: Ensure the inclusion of both foundational texts and recent research to reflect the current state of knowledge.
+::: {.nonincremental}
+**Your timeline:**
 
-### 5. Critical Analysis:
-- **Comparative Analysis**: Compare and contrast different studies, highlighting similarities and differences.
-- **Methodological Evaluation**: Assess the methodologies used in key studies for their strengths and limitations.
-- **Theoretical Critique**: Critically evaluate the theories discussed in the literature for their applicability and limitations in the interdisciplinary context.
+| Milestone | When | Implication |
+|:---|:---|:---|
+| Doc 0.2 (Methodology) | **Week 10** | Must describe your data collection plan in detail |
+| Ethics approval processing | <span style="color: red">**~3 weeks**</span> | If you need approval, start the application **now** |
+| Data collection | <span style="color: red">**After approval only**</span> | Cannot begin until you have the green light |
+:::
 
-## Addendum: Checklist for successful literature review (Cont'd)
+If your research involves human participants, you are already behind if you haven't started thinking about this.
 
-### 6. Synthesis:
-- **Thematic Organization**: Synthesize literature thematically rather than summarizing each source individually.
-- **Insight Generation**: Derive new insights or perspectives from the synthesis of the reviewed literature.
-- **Interdisciplinary Integration**: Fuse insights from design and computer science to create a cohesive understanding.
+---
 
-### 7. Relevance to Research Question:
-- **Alignment**: Ensure all reviewed literature contributes to answering the research question or addressing the problem statement.
-- **Application**: Discuss how findings from the literature review apply to the specific intersection of design and computer science.
+## The Ethics Form = Your Methodology Draft
 
-### 8. Source Evaluation:
-- **Credibility Assessment**: Evaluate the credibility and reliability of each source.
-- **Bias and Perspective**: Acknowledge potential biases in the literature and strive for a balanced perspective.
+::: {.nonincremental}
+The ethics application form asks you the **exact same questions** as Doc 0.2:
 
-## Addendum: Checklist for successful literature review (Cont'd)
+| Ethics Form Asks | Doc 0.2 Asks |
+|:---|:---|
+| How will participants be recruited? | Sampling strategy |
+| What data will you collect and how? | Data collection method |
+| What are the risks to participants? | Risk assessment |
+| How will you obtain consent? | Consent procedure |
+| How will data be stored and destroyed? | Data management plan |
+:::
 
-### 9. Conclusions and Implications:
-- **Summary of Findings**: Concisely summarize key findings and their implications for the research area.
-- **Future Research Directions**: Identify areas where further research is needed, especially at the intersection of design and computer science.
+. . .
 
-### 10. Documentation and Referencing:
-- **Consistent Formatting**: Adhere to a consistent citation style appropriate for the interdisciplinary audience.
-- **Accurate Citations**: Ensure all sources are accurately cited within the text and in the reference list.
+<span style="color: red">**This is not extra work. This IS the work.**</span> Figure it out now, not the night before you test.
 
-### 11. Reflection on Interdisciplinarity:
-- **Integration Challenges**: Discuss any challenges encountered in integrating design and computer science literature and how they were addressed.
-- **Value of Interdisciplinary Approach**: Reflect on how the interdisciplinary approach enriches the understanding of the topic.
+## Does YOUR Project Need Ethics Approval?
 
-## Revisiting Report Submission
+**Quick decision tree:**
 
-- Document 0: Research Statement (Extended Abstract)
-- Document 0.1: Literature Review
-- Document 0.2: Methodology & Data Needed/Collected
-- Document 1: Research Proposal (Paper-like)
+::: {.nonincremental}
+1. Does your research involve **collecting new data from people**?
+   - Interviews, surveys, user tests, observations of identifiable individuals
+   - <span style="color: red">**Yes → You need ethics approval. Full stop.**</span>
 
-*Check Moodle for current due dates.*
+2. Does your research use **pre-existing personal data**?
+   - Student records, health data, identifiable social media posts
+   - <span style="color: red">**Yes → You still need ethics approval**</span>
 
-## Research Process in Flow Chart
+3. Is it **only** an anonymous internal teaching survey (not for research/publication)?
+   - **Yes** → Exempt. <span style="color: red">Everything else → **not exempt.**</span>
+:::
 
-![](data/ReProc_FlowChart.png)
+. . .
 
-## Checklist for your final research proposal/paper submission
+::: {.callout-note icon=false}
+**For this course:** If you are unsure, **assume you need it.** I am responsible for endorsing your application as your supervisor. Come talk to me.
+:::
 
-### Elements that you've finalized:
-- **Research Problem Definition (Doc 0)**:
-  - Articulated innovative challenge or aspect addressed.
-  - Contextualized within industry/societal needs.
-- **Relevant Concepts and Theories (Doc 0.1)**:
-  - Reviewed key theories underpinning the innovation area.
-  - Included interdisciplinary approaches.
-- **Previous Research Findings (Doc 0.1)**:
-  - Highlighted past innovations and research.
-  - Noted successes and gaps for building upon/addressing.
+## The HKU Pathway for Undergraduate Students
 
-### Ready to be finalized:
-- **Hypothesis Formulation (Doc 0.2)**:
-  - Developed clear, testable hypotheses predicting innovation outcomes.
-- **Research Design Formulation (Doc 0.2)**:
-  - Outlined appropriate research methodologies/technologies to be used.
-  - Discussed feasibility and potential impact of proposed research design.
+::: {.nonincremental}
+```
+┌──────────────────┐
+│   YOU (Student)   │  ← Fill out the application form
+│                   │  ← Prepare: consent form, info sheet,
+│                   │    interview script / questionnaire
+└────────┬─────────┘
+         ▼
+┌──────────────────┐
+│ Your Supervisor   │  ← Reviews & endorses as Principal Investigator
+│ (i.e., Me)       │
+└────────┬─────────┘
+         ▼
+┌──────────────────┐
+│ Head of Dept /    │  ← Submits to Faculty or HREC
+│ Dean of Faculty   │
+└────────┬─────────┘
+         ▼
+┌──────────────────┐
+│ Ethics Committee  │  ← Reviews (~3 weeks)
+│ (FREC or HREC)   │  ← Approved / Conditionally Approved / Not Approved
+└──────────────────┘
+```
 
-## Research Progress Check
+You don't submit directly to HREC. But **you** do the thinking and fill out the form.
+:::
 
-#### Insofar, Your Design Should Provide:
-- **Evidence for Hypothesis**:
-  - Detailed data collection/analysis plan for hypothesis testing.
-  - Consideration on data sources/appropriate technologies deployed in their collection.
-- **Significance**:
-  - Connected significance to societal/industry/academic trends.
-  - Highlighted contribution to knowledge/innovation advancement.
-- **Implementation and Scalability**:
-  - Discuss real-world implementation pathways.
-  - Address potential scalability barriers.
-- **Ethical Considerations and Sustainability**:
-  - Outline ethical considerations of the innovation.
-  - Address sustainability of the proposed solution.
+## Core Principles: What the Committee Evaluates
 
-## Final Step in Finalizing Research
+::: {.nonincremental}
+Every ethics application is assessed against the **Belmont Report** principles:
 
-### As Finalizing the Proposal (Doc 1):
-- **Integration and Synthesis**:
-  - Ensured alignment of all proposal components with innovation/research goals.
-- **Stakeholder Engagement**:
-  - Identified key stakeholders: beneficiaries, participants, impacted communities.
-  - Included stakeholder engagement plans: evidencing the effectiveness of proposed solution/design
-- **Consideration of Future Directions**:
-  - Speculated on future research directions to further the innovation.
+| Principle | What It Means | <span style="color: #457B9D">Ask Yourself</span> |
+|:---|:---|:---|
+| **Minimal risk** | Risk ≤ what participants face in daily life | Could your questions cause distress? |
+| **Informed consent** | Participants know what they agree to | Do they know what happens to their data? |
+| **No coercion** | Participation is truly voluntary | Any grade or payment pressure? |
+| **Protect vulnerable groups** | Extra care for minors, elderly, at-risk | <span style="color: red">Anyone under 18? → Parental consent</span> |
+| **Confidentiality** | Data protected, eventually destroyed | How will you anonymize and store? |
+| **Proportionate benefit** | Research value justifies the intrusion | Why THIS data from THESE people? |
+:::
+
+::: {.notes}
+Reference: HKU HREC Operational Guidelines, Section V (Item 13). Full document linked on next slide.
+:::
+
+## Walk-Through: The Application Form
+
+::: {.callout-tip icon=false}
+## Download These Now
+- **[Ethical Approval Application Form (DOCX)](data/ethical-approval-application-form.docx)** — The actual HKU form for TPg and UG students.
+- **[HREC Operational Guidelines (PDF)](data/guidelines.pdf)** — Full HKU guidelines on principles, procedures, and requirements.
+
+Open both as we walk through this.
+:::
+
+::: {.nonincremental}
+**Part B — Your Project** (in plain language, no jargon)
+
+- What is your research about? What are your objectives? What is your methodology?
+- *Think of it as your Doc 0 abstract + Doc 0.2 summary, written so a non-specialist can understand.*
+:::
+
+---
+
+## Walk-Through: Part C — Data Collection
+
+This is the detailed, important part. The committee wants to know *exactly* how you will interact with participants:
+
+::: {.nonincremental}
+| Section | What They Ask |
+|:---|:---|
+| **(a) Recruitment** | How will you find participants? Inclusion/exclusion criteria? |
+| **(b–d) Logistics** | Who collects data? Where? How long per participant? |
+| **(e–j) Risks** | Physical discomfort? Psychological stress? <span style="color: red">Deception involved?</span> |
+| **(k) Vulnerable participants** | <span style="color: red">Anyone under 18? Other vulnerabilities?</span> |
+| **(l) Conflict of interest** | Are you in a position of power over participants? |
+| **Section 12 — Consent** | How will you record consent? Written? Online? Oral? |
+| **Section 13–14 — Data retention** | How long kept? How anonymized? When destroyed? |
+:::
+
+## What You MUST Prepare (Beyond the Form)
+
+::: {.nonincremental}
+The form alone is not enough. You also submit these supporting documents:
+
+| Document | What It Is |
+|:---|:---|
+| **Information Sheet** | 1-2 pages explaining the study, participant rights, data usage, your contact info |
+| **Informed Consent Form** | A form participants sign confirming voluntary participation |
+| **Interview Script / Questionnaire** | Your actual questions — committee checks these match your stated risk level |
+| **Research Proposal** | Summary of background, objectives, and design |
+:::
+
+. . .
+
+<span style="color: red">**Without these documents, your application is incomplete and will not be reviewed.**</span>
+
+---
+
+## Connect the Dots
+
+::: {.callout-important icon=false}
+You cannot write a **consent form** without knowing your methodology.
+
+You cannot design an **information sheet** without knowing your recruitment plan.
+
+You cannot assess **risks** without knowing your data collection method.
+:::
+
+. . .
+
+**Ethics planning and methodology planning are the same work.** If you haven't figured out these details, you are not ready to collect data — and that's the entire point of requiring approval first.
+
+<span style="color: #457B9D">*Start now → ethics form draft → Doc 0.2 becomes easy → Doc 1 has a real methodology section.*</span>
+
+## Activity: Ethics Self-Check (5 min)
+
+::: {.nonincremental}
+Open the [application form](data/ethical-approval-application-form.docx) and think through these for **your** project:
+
+1. **Do you need ethics approval?** (Use the decision tree)
+2. **Recruitment (Part C, Q-a):** How will you find participants? Can you write 2 sentences about who qualifies?
+3. **Risks (Part C, Q10):** Could your research cause any discomfort — physical, psychological, or privacy-related?
+4. **Consent (Part C, Section 12):** How will you record informed consent?
+5. **What documents do you still need to prepare?** (Information sheet? Consent form? Interview script?)
+:::
+
+. . .
+
+If you can't answer these yet — **that's fine.** It tells you exactly what you need to figure out for Doc 0.2. Come to office hours and we'll work through it.
+
+::: {.notes}
+Reference documents linked in these slides:
+
+- [HREC Operational Guidelines (PDF)](data/guidelines.pdf)
+- [Ethical Approval Application Form (DOCX)](data/ethical-approval-application-form.docx)
+
+Standard templates for consent forms and information sheets can be downloaded from the HREC section of the Research Services website: https://www.rss.hku.hk/integrity/ethics-compliance/hrec
+:::
 
 
-# From Data to Insights
+# From Data to Insights {background-color="#4ECDC4"}
 
 ## The Analysis Gap
 
@@ -467,8 +505,6 @@ You've collected data. Now what?
 - **Observations done** → pages of field notes
 
 **The hard part isn't collecting data. It's making sense of it.**
-
-This section bridges that gap.
 
 ## Thematic Analysis: The 5-Step Process
 
@@ -482,173 +518,147 @@ The most common approach for qualitative data:
 | 4. **Review themes** | Check if themes hold up across data | Refined themes |
 | 5. **Define & name** | Write 1-sentence definition for each theme | Final themes |
 
-## Step 1: Familiarize — Read Without Agenda
+. . .
 
-**First pass:** Read everything without highlighting. Just absorb.
+Let's walk through this on **real data**, step by step.
 
-**Second pass:** Note anything that:
-- Surprises you
-- Repeats across participants
-- Contradicts what you expected
-- Feels emotionally charged
-
-**Anti-pattern:** Jumping straight to coding. You'll miss the forest for the trees.
-
-## Step 2: Code — Label Meaningful Chunks
-
-A **code** = short label for a piece of data
-
-::: {.columns}
-::: {.column width="60%"}
-**Quote:**
-> "I check my likes within 10 minutes of posting. I literally can't help it. It's like my thumb just goes there."
-
-**Possible codes:**
-- Compulsive checking
-- Loss of control
-- Automatic behavior
-:::
-::: {.column width="40%"}
-**Code types:**
-
-- **Descriptive:** What's happening
-- **In-vivo:** Participant's own words
-- **Process:** Actions/verbs
-- **Emotion:** Feelings expressed
-:::
-:::
-
-## Step 3: Search for Themes — Cluster Codes
-
-Spread your codes out (physically or digitally). Look for patterns.
-
-| Code Cluster | Potential Theme |
-|:-------------|:----------------|
-| Compulsive checking, can't stop, automatic | **Checking as habit loop** |
-| Feel bad, anxious, disappointed | **Emotional cost of low engagement** |
-| Compare to friends, feel behind, jealous | **Social comparison trap** |
-| Delete posts, edit captions, time posts | **Performance management strategies** |
-
-**A theme is not a code.** A theme is a pattern that says something meaningful about your research question.
-
-## Step 4: Review Themes — Stress Test
-
-For each candidate theme, ask:
-
-- [ ] Does it appear across multiple participants (not just one)?
-- [ ] Does the data actually support it, or am I projecting?
-- [ ] Is it distinct from other themes, or should they merge?
-- [ ] Does it matter for my research question?
-
-**Kill themes that don't hold up.** 3-5 strong themes > 10 weak ones.
-
-## Step 5: Define & Name — Make It Stick
-
-Each final theme needs:
-
-1. **A clear name** (not jargon, not vague)
-2. **A 1-sentence definition**
-3. **Representative quotes** (2-3 per theme)
-
-| Theme | Definition |
-|:------|:-----------|
-| **Compulsive checking loop** | Participants describe checking likes as automatic, habitual behavior they feel unable to control. |
-| **Like thresholds as self-worth** | Participants set mental benchmarks for "acceptable" like counts; falling short triggers negative self-evaluation. |
-| **Performance management** | Participants actively curate posting behavior (timing, deletion, editing) to optimize engagement metrics. |
-
-## Worked Example: From 12 Interviews to 4 Themes
+## Worked Example: The Raw Data
 
 **Research question:** How do HKU students experience Instagram like-checking?
 
-**Raw data:** 12 interviews, 45 pages of transcripts
+**The data:** 12 semi-structured interviews. Here are 4 representative excerpts:
 
-**Coding:** 47 initial codes identified
+::: {.nonincremental}
+> **P3:** "I check my likes within 10 minutes of posting. I literally can't help it. It's like my thumb just goes there."
 
-**Final themes:**
+> **P7:** "If I get less than 50 likes I feel like the post failed. My friends all get way more. It makes me feel like I'm not interesting enough."
 
-1. **Compulsive checking loop** (10/12 participants)
-2. **Like thresholds as self-worth** (8/12 participants)
-3. **Social comparison with peers** (9/12 participants)
-4. **Temporary validation effect** (7/12 participants)
+> **P2:** "I deleted a photo because it only got 12 likes in an hour. I reposted it at 8pm because that's when more people are online."
 
-Each theme has 2-3 supporting quotes and a clear definition.
+> **P11:** "Right after I see the likes go up I feel good, like a little rush. But it wears off in 20 minutes and then I'm checking again."
+:::
 
----
+## Step 1: Familiarize — What Jumps Out?
 
-## Architecture/Urban Example: Analyzing Interviews About Public Space
+Read all 4 quotes. Before coding anything, notice patterns:
 
-**Research question:** How do Hong Kong residents perceive rule enforcement in privately-owned public spaces?
+::: {.nonincremental}
+- Checking feels **automatic**, not deliberate ("can't help it", "thumb just goes there")
+- There's a **number threshold** that defines success/failure ("less than 50")
+- Participants **compare** themselves to friends ("friends all get way more")
+- The good feeling is **temporary** ("wears off in 20 minutes")
+- Some participants **actively manage** their posts ("deleted... reposted at 8pm")
+:::
 
-**Raw data:** 8 interviews with regular users of POPS in Central
+**Anti-pattern:** Jumping straight to coding. Read first, absorb the whole picture.
 
-**Sample codes:**
-- "Security told me to move" → *enforcement encounter*
-- "I didn't know I couldn't sit there" → *unclear rules*
-- "It doesn't feel like public space" → *ownership ambiguity*
-- "I just avoid those places now" → *behavioral adaptation*
+## Step 2: Code — Label Each Quote
 
-**Emerging themes:**
+A <span style="color: #457B9D">**code**</span> = a short label for a meaningful chunk of data.
 
-| Theme | Definition | Prevalence |
-|:------|:-----------|:-----------|
-| **Invisible boundaries** | Users discover rules only through enforcement, not signage | 6/8 |
-| **Chilling effect** | Negative encounters lead to avoidance of space entirely | 5/8 |
-| **Public-private confusion** | Users unsure who controls space and what rights they have | 7/8 |
+| Quote | <span style="color: #457B9D">Codes Applied</span> |
+|:---|:---|
+| **P3:** "I check my likes within 10 minutes... can't help it... thumb just goes there" | `compulsive checking` · `loss of agency` · `automatic behavior` |
+| **P7:** "less than 50 likes... post failed... friends get way more... not interesting enough" | `like threshold` · `peer comparison` · `negative self-evaluation` |
+| **P2:** "deleted a photo... reposted at 8pm... more people are online" | `deletion behavior` · `strategic timing` · `engagement optimization` |
+| **P11:** "feel good, like a rush... wears off in 20 minutes... checking again" | `temporary validation` · `diminishing returns` · `checking cycle` |
 
-**So what?** Designers should consider how rule communication affects perceived publicness.
+**11 codes from 4 quotes.** Across all 12 interviews: 47 codes total.
 
-## For Quantitative Data: From Numbers to Patterns
+::: {.notes}
+Code types to mention: descriptive (what's happening), in-vivo (participant's own words), process (actions), emotion (feelings). P3's "thumb just goes there" is a good in-vivo code example.
+:::
 
-| What You Have | What You Do | What It Tells You |
-|:--------------|:------------|:------------------|
-| Survey responses (Likert) | Calculate means, SD | Central tendency & spread |
-| Two groups to compare | t-test or Mann-Whitney | Whether difference is real |
-| Two variables | Correlation (Pearson/Spearman) | Whether they move together |
-| Multiple predictors | Regression | Which factors matter most |
+## Steps 3–5: Cluster → Review → Define
 
-**Key question:** Is the pattern real, or just noise?
+Group related codes, check they hold up across participants, write definitions:
 
-- p < 0.05 → statistically significant (probably not random)
-- Effect size → practically significant (big enough to matter)
+::: {.nonincremental}
+**<span style="color: #457B9D">Theme 1: Compulsive checking loop</span>** (10/12 participants)
+: Codes: `compulsive checking` · `loss of agency` · `automatic behavior` · `checking cycle`
+: *"Like-checking as automatic habit they feel unable to control"*
 
-## Triangulation: When Qual and Quant Meet
+**<span style="color: #457B9D">Theme 2: Like thresholds as self-worth</span>** (8/12 participants)
+: Codes: `like threshold` · `negative self-evaluation` · `temporary validation` · `diminishing returns`
+: *"Mental benchmarks for 'acceptable' likes; falling short triggers negative feelings"*
 
-| Finding | Qual Evidence | Quant Evidence | Agreement? |
-|:--------|:--------------|:---------------|:-----------|
-| Checking frequency → anxiety | "I feel anxious when I check" (10/12) | r = 0.42, p < .001 | ✓ Converge |
-| Likes = self-worth | "I feel like a failure" (8/12) | Not directly measured | Partial |
-| Hiding likes would help | "I'd feel relieved" (6/12) | 45% selected "would reduce stress" | ✓ Converge |
+**<span style="color: #457B9D">Theme 3: Social comparison with peers</span>** (9/12 participants)
+: Codes: `peer comparison`
+: *"Evaluating engagement relative to friends, leading to feelings of inadequacy"*
 
-**When they disagree:** That's interesting data, not a problem. Ask why.
+**<span style="color: #457B9D">Theme 4: Performance management</span>** (7/12 participants)
+: Codes: `deletion behavior` · `strategic timing` · `engagement optimization`
+: *"Actively curating posts (timing, deletion) to maximize engagement metrics"*
+:::
+
+**Review check:** Each theme appears in 7+ of 12 interviews. Each is distinct. Each answers the research question.
 
 ## The "So What?" Test
 
 For every finding, ask: **Why should anyone care?**
 
-| Finding | So What? |
+| Theme | <span style="color: #457B9D">So What?</span> |
 |:--------|:---------|
-| r = 0.42 correlation between checking and anxiety | Moderate effect — not everyone, but meaningful signal for intervention design |
-| 10/12 describe compulsive checking | Design friction (delays, nudges) might break the automatic loop |
-| Social comparison drives checking | Hiding like counts removes the comparison trigger |
+| **Compulsive checking loop** (10/12) | Design friction (delays, nudges) might break the automatic loop |
+| **Like thresholds as self-worth** (8/12) | Users tie identity to metrics — removing visible counts could reduce this |
+| **Social comparison with peers** (9/12) | Hiding like counts removes the comparison trigger entirely |
+| **Performance management** (7/12) | Users doing unpaid labor to optimize engagement — a <span style="color: red">design problem</span>, not a user problem |
 
 If you can't answer "so what?" — the finding isn't ready.
+
+. . .
+
+**The whole process:** <span style="color: #457B9D">4 raw quotes → 11 codes → 4 themes → 4 actionable insights.</span>
+
+
+# Seminar Time: Doc 0.1 Peer Review {background-color="#FFE66D"}
+
+## Activities
+
+1. Vote to review one literature review that was submitted (anonymized on mentimeter).
+2. Selected literature reviewed by peers with the following criteria:
+  - **Objective**: Does the literature review sufficiently present its objective?
+  - **Landscape**: Do you think the literature review presented a clear theoretical framework of what are the relevant studies and state-of-the art research landscape?
+  - **Caveat/Importance**: Does the literature review present any clear indication that there is room for investigation of any existing caveats?
+  - **Citations**: Do you think the number of citations included is enough/adequate?
+  - **Improvements**: Anything that the author can do to strengthen the literature review?
+  - **Challenge**: <span style="color: red">_On the topics that were discussed in the literature review, can you quickly leverage google scholar to find additional ones that investigates similar things?_</span>
+
+3. We will review the remainder three of the five documents (so long as time permits) for this week.
+
+::: {.notes}
+Refer back to the literature review checklist criteria from the Doc 0.1 briefing if students need a refresher on what makes a strong lit review.
+:::
 
 ---
 
 ## Artifact Output: What You Leave With
 
-::: {.callout-note icon=false}
-## Today's Deliverables
-
-**From Part 1 (KYC/Informational Interviews):**
+::: {.nonincremental}
+**From Part 1 — KYC/Informational Interviews:**
 
 - Professional research profile for 1 potential interviewee
 - 2 informed questions ready to ask
 
-**From Part 2 (Analysis):**
+**From Part 2 — Ethics Approval:**
 
-- Understanding of the 5-step thematic analysis process
-- Ability to distinguish codes from themes
+- Completed ethics self-check: do you need approval? What documents do you need?
+- If yes: start the [application form](data/ethical-approval-application-form.docx) with the [HREC guidelines](data/guidelines.pdf)
 
-**Take-home thinking:** Start coding any interview/observation data you've collected. Bring your draft codebook to Week 8.
+**From Part 3 — Thematic Analysis:**
+
+- Understanding of the 5-step process, demonstrated on real data
+- Ability to go from raw quotes → codes → themes → "so what?"
+:::
+
+---
+
+## Take-Home Actions
+
+::: {.callout-important icon=false}
+## Before Next Week
+
+1. If your project involves human participants: <span style="color: red">**begin drafting your ethics application, information sheet, and consent form this week.**</span> Don't wait until Doc 0.2 is due.
+2. Start coding any interview/observation data you've collected. Bring your draft codebook to **Week 8**.
+3. Bring a draft ethics form to **office hours** — I'll review it with you before submission.
 :::
