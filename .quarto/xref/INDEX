@@ -120,5 +120,11 @@
   },
   "data/D01/assessment_doc01_independent.qmd": {
     "assessment_doc01_independent.tex": "30d85033"
+  },
+  "data/D01/assessment_doc01_independent.md": {
+    "assessment_doc01_independent.html": "67a0e431"
+  },
+  "data/D01/assessment_doc01.md": {
+    "assessment_doc01.html": "e316809e"
   }
 }

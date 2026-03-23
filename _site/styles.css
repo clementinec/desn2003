@@ -7,6 +7,8 @@
   --bg-warm: #f7f5f2;
   --bg-card: #ffffff;
   --border: #e5e2dd;
+  --page-max-width: 1800px;
+  --page-gutter: clamp(1rem, 3vw, 3rem);
 
   /* Override Quarto width variables */
   --bs-body-width: 100% !important;
@@ -85,26 +87,39 @@ main > p:nth-of-type(2) {
   text-align: center;
 }
 
-/* NUCLEAR OVERRIDE - Force wide content */
+/* Force Quarto containers to use the available viewport width */
 body,
 body.nav-fixed,
 #quarto-content,
 #quarto-content.quarto-container,
 .quarto-container,
 .page-columns,
-.page-rows-contents,
+.page-rows-contents {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin: 0 auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  box-sizing: border-box;
+}
+
+/* Responsive page container that expands with the viewport */
 main,
 main.content,
 main.column-page,
 .column-page,
 .column-body,
 .column-screen-inset,
-.page-layout-full main {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 3rem !important;
-  padding-right: 3rem !important;
+.page-layout-full main,
+.page-layout-full main.content,
+.page-layout-full .column-page,
+.page-layout-full .column-body {
+  max-width: none !important;
+  width: min(var(--page-max-width), calc(100vw - (2 * var(--page-gutter)))) !important;
   margin: 0 auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  box-sizing: border-box;
 }
 
 /* Tables should use available width */
@@ -282,15 +297,11 @@ a:hover {
   margin-bottom: 3rem;
 }
 
-/* Article content container - responsive with max-width */
+/* Article pages inherit the global responsive width; add vertical breathing room */
 .page-layout-full main,
 .page-layout-full main.content,
 .page-layout-full .column-page {
-  max-width: 1200px !important;
-  width: 90% !important;
-  margin: 0 auto;
-  padding: 0 2rem 4rem;
-  box-sizing: border-box;
+  padding-bottom: 4rem !important;
 }
 
 /* Article headings - slightly larger for readability */
@@ -489,12 +500,12 @@ a:hover {
   }
 
   main {
-    padding: 0 1rem 3rem;
+    padding: 0 0 3rem;
   }
 
   /* Article pages responsive */
   .page-layout-full main {
-    padding: 0 1.25rem 3rem;
+    padding-bottom: 3rem !important;
   }
 
   .page-layout-full #title-block-header.quarto-title-block {
