@@ -1,5 +1,8 @@
 project:
   type: website
+  resources:
+    - data/guidelines.pdf
+    - data/ethical-approval-application-form.docx
 
 website:
   title: "DESN2003"
@@ -34,6 +37,5 @@ format:
       margin-width: 0px
     include-after-body: _includes/cloudflare-analytics.html
   
-
 
 

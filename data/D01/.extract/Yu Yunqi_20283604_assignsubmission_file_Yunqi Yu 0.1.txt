@@ -1,0 +1,176 @@
+Ski tourism has nowadays emerged as a significant global industry, yet the
+
+complexity of destination choice remains challenging for travelers. This review visits
+
+academic research on skier decision-making and evaluates how existing digital tools
+
+address (or fail to address) these factors, revealing a critical disconnect between the
+
+sophisticated customer psychology and the filtering algorithms current ski platforms
+
+adopt.
+
+
+Skier’s Decision Making Patterns
+
+
+Studies discovered that ski destination choice is a multi-layered cognitive process.
+
+Klenosky's research highlighted a means-end chain theory indicating that skiers tend
+
+to choose destinations based not solely on the attributes themselves but on how
+
+attributes incorporate experiential consequences that enhance personal experience
+
+(Klenosky, Gengler, and Mulvey 362-379; Sun et al.). Push-pull research on skiers'
+
+behaviors conducted by He and Luo also confirms that motivation structures affect
+
+satisfaction and revisit intention, with pull factors such as facilities and convenience
+
+exerting stronger influence than push factors such as personal intentions to ski (He
+
+and Luo).
+
+
+Another notable finding across studies is skier heterogeneity. Xu et al. show that the
+
+attribute's importance varies dramatically throughout different resort types and user
+
+segments. As the Chinese market is characterized by 80% beginners (Vanat), it
+
+tends to prioritize accessibility and instruction, while enthusiasts in the European
+
+market focus more on snow quality and trail diversity (Sun et al.). Critically, Xu et al.
+
+reveal that attribute effects are often non-linear, while conventional recommender
+
+systems often adapt attribute scores to be positively linear with user satisfaction,
+
+which can lead to suboptimal recommendations for users with varying preferences
+
+and needs.
+Current Ski Platforms and Recommenders
+
+
+General travel platforms mostly approach ski resort recommendations through
+
+broad, multi-purpose frameworks that filter attributes in similar manners to hotels.
+
+TripAdvisor's ski recommendations derive from its main popularity ranking algorithm,
+
+which takes into account the quality, quantity, recency, and consistency of reviews
+
+("How Tripadvisor Works"). While offering destination filters and AI semantic search,
+
+its fundamental unit remains the traveler review and ranking rather than ski-specific
+
+attributes. This yields several limitations that flattened the ski attributes into hotel
+
+selections, where review-based rankings cover multiple satisfaction dimensions
+
+while on-mountain conditions receive secondary attention and standardized ski
+
+metrics are absent.
+
+
+Ski specialized platforms, on the other hand, offer more relevant functionality but
+
+remain limited in personalization. OnTheSnow serves as a real-time database
+
+prioritizing snowfall, snow depth, open trails, and lift status ("About Us"). Its filters
+
+enable matching by terrain composition, vertical drop, and ticket prices. However,
+
+these functions remain generic scoring instead of personalized recommendations
+
+that match the audience to their desired resort. Snomad represents the closest
+
+existing recommender to personalized matching, containing filters across multiple
+
+dimensions including runs, normal and off-piste terrain, lifts, and ski facilities ("Resort
+
+Finder"). Users prioritize dimensions via a quiz interface generating top-three
+
+matching recommendations. Personalization still remains filter-based. Its system
+
+neither learns from behavior nor infers deeper needs, the 5-minute quick quiz lacks
+
+comprehensive information about the audiences' preferences and expectations,
+
+often resulting in mismatches.
+
+
+Research Gap
+Therefore, synthesizing across the reviewed literature and the current ski platforms,
+
+a fundamental disconnect emerges between academic findings on skiers'
+
+decision-making and the matching algorithms of existing digital tools.
+
+
+Research has established destination choice as value-driven decision-making, with
+
+means-end chains linking attributes to personal preferences (Klenosky, Gengler, and
+
+Mulvey 362-379; Sun et al.), non-linear attribute effects across different thresholds
+
+(Xu et al.), and motivation structures differentially affecting the satisfaction of visitors'
+
+ski experiences (He and Luo). Although existing tools operate on different
+
+approaches, none of the systems successfully track skiers' behavioral traits
+
+highlighted in the research or infer deeper, heterogeneous needs. A
+
+knowledge-based recommendation system—ideal for complex, value-driven,
+
+multi-attribute domains—remains unapplied to ski recommenders on the market.
+
+Works Cited
+
+He, Xiaoshan, and Jian Ming Luo. "Relationship among Travel Motivation,
+
+Satisfaction and Revisit Intention of Skiers: A Case Study on the Tourists of Urumqi
+
+Silk Road Ski Resort." Administrative Sciences, vol. 10, no. 3, 2020, p. 56.
+
+
+"How Tripadvisor Works." TripAdvisor, 2024, www.tripadvisor.com/HowItWorks.
+
+Accessed 5 Mar. 2026.
+
+
+Klenosky, David B., Charles E. Gengler, and Michael S. Mulvey. "Understanding the
+
+Factors Influencing Ski Destination Choice: A Means-End Analytic Approach."
+
+Journal of Leisure Research, vol. 25, no. 4, 1993, pp. 362-379.
+
+
+"Resort Finder." Snomad, 2024, www.snomad.com/resort-finder. Accessed 5 Mar.
+
+2026.
+
+
+Sun, H., et al. "Influencing Factors of Destination Choice of Ski Tourism Enthusiasts:
+
+A Means-End Chain Analytical Perspective." Frontiers in Psychology, vol. 13, 2022,
+
+1017961.
+"About Us." OnTheSnow, Mountain News Corporation, 2024,
+
+www.onthesnow.com/about-us. Accessed 5 Mar. 2026.
+
+
+Vanat, Laurent. 2022 International Report on Snow & Mountain Tourism. Geneva:
+
+Laurent Vanat, 2022.
+
+
+Xu, Haibin, et al. "How Do Different Ski Resort Attributes Affect Skiers' Positive
+
+Sentiments? Evidence from China." Journal of Destination Marketing &
+
+Management, vol. 36, 2025, 100998.
+

@@ -1,0 +1,149 @@
+Doc 0.1 Literature Review
+
+
+                  The Social Dynamics of Sustainable Behavior Change
+
+Research on why people act or fail to act in environmentally responsible ways has
+generated rich and diverse results of scholarships. This review surveys three distinct
+but related conversations: individualistic models of behavior change, sociological
+accounts of practice and norms, and research on environmental communication. By
+analyzing these literatures one by one, I identify an existing blind spot: the everyday
+interpersonal interactions through which environmental meanings are negotiated and
+behaviors are shaped.
+
+Individual Models and Their Limits
+
+The primary surveys in environmental psychology treat behavior as a function of
+individual cognition. Ajzen's (1991) Theory of Planned Behavior proposes that
+behavioral intention is predicted by attitudes, subjective norms, and perceived
+behavioral control and widely applied in sustainability research. Studies have used
+this framework to explain recycling, energy conservation, and transportation choices
+(Bamberg & Möser, 2007). Stern and colleagues' (1999) Value-Belief-Norm theory
+traces pro-environmental action through a causal chain from personal values to
+awareness of consequences to a sense of responsibility to act.
+
+These models have proven useful but face significant limitations. The persistent
+disconnect between what people say and what they do remains poorly explained
+within individualistic frameworks (Kollmuss & Agyeman, 2002). Such models
+overemphasize individual choice while overlooking the social and material contexts
+that shape what people can do. From this perspective, focusing on attitudes misses the
+extent to which behavior is embedded in shared routines and infrastructures.
+
+The Turn Toward Social and Normative Perspectives
+
+The second literature category has responded by stressing social context. Cialdini and
+colleagues' (1990) focus theory of normative conduct distinguished between
+descriptive norms (what most people do) and injunctive norms (what most people
+approve of). Field experiments demonstrated that simply informing people about
+others' behavior. For instance, that most hotel guests reuse their towels can shift action
+(Goldstein, Cialdini, & Griskevicius, 2008).
+
+Subsequent research has refined this insight. Terry and Hogg (1996) found that
+normative messages are more influential when they come from groups we identify
+with. Peer effects have emerged in solar panel adoption (Bollinger & Gillingham,
+2012) and household energy use (Peschiera & Taylor, 2012).
+
+This kind of literature typically treats social influence as a kind of statistical force. It
+Doc 0.1 Literature Review
+
+
+tells us that networks matter but contains less about what happens when people talk.
+The content of conversation, the quality of interaction, the emotional dynamics of
+influence remain largely unexamined.
+
+Social practice theory offers a more fundamental departure. Shove, Pantzar, and
+Watson (2010) argue that the proper unit of analysis is not the individual but the
+practice itself. From this perspective, behaviors like showering or heating a home are
+not choices but performances of socially shared routines. The limitation for present
+purposes is that practice theory focuses on the reproduction of practices across time
+but has less to say about moments of change and the interpersonal dynamics of
+transition.
+
+Environmental Communication and the Interpersonal Realm
+
+The third relevant literature category concerns how environmental issues are
+communicated. Much of this work focuses on media framing and campaign
+effectiveness (Nisbet, 2009). But a smaller body of research has examined
+interpersonal communication specifically. Leiserowitz and colleagues (2016) found
+that Americans rarely discuss climate change with friends and family, a silence they
+argue inhibits engagement.
+
+More recently, Geiger and Swim (2016) explored how conversations about climate
+change can reduce polarization, suggesting that the quality of dialogue matters. But
+this work remains nascent. We know that talking is important, but we lack systematic
+understanding of what makes some conversations transformative while others go
+nowhere.
+
+Synthesis and the Identified Gap
+
+Synthesizing these literatures reveals a clear pattern. Individualistic models tell us
+much about internal determinants of behavior but little about social process. Norms
+research and network studies prove that social context matters but treat interaction as
+a black box. Practice theory embeds behavior in social routines but offers limited
+tools for understanding change. Environmental communication research attends to
+talk but has focused predominantly on mediated or public discourse.
+
+What's missing is systematic attention to the interpersonal middle ground: the
+specific, situated exchanges through which individuals try out new practices, seek
+validation, negotiate meaning, and experience support or resistance. We have
+fragments but no integrated account.
+Doc 0.1 Literature Review
+
+
+References:
+
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and
+Human Decision Processes, 50(2), 179–211. https://doi.org/10.1016/0749-
+5978(91)90020-T
+
+Bamberg, S., & Möser, G. (2007). Twenty years after Hines, Hungerford, and Tomera:
+A new meta-analysis of psycho-social determinants of pro-environmental behaviour.
+Journal of Environmental Psychology, 27(1), 14–25.
+https://doi.org/10.1016/j.jenvp.2006.12.002
+
+Bollinger, B., & Gillingham, K. (2012). Peer Effects in the Diffusion of Solar
+Photovoltaic Panels. Marketing Science, 31(6), 900–912.
+https://doi.org/10.1287/mksc.1120.0727
+
+Cialdini, R. B., Kallgren, C. A., & Reno, R. R. (1991). A Focus Theory of Normative
+Conduct: A Theoretical Refinement and Reevaluation of the Role of Norms in Human
+Behavior. Advances in Experimental Social Psychology, 24(6), 201–234.
+https://doi.org/10.1016/s0065-2601(08)60330-5
+
+Geiger, N., & Swim, J. K. (2016). Climate of silence: Pluralistic ignorance as a barrier
+to climate change discussion. Journal of Environmental Psychology, 47, 79–
+90. https://doi.org/10.1016/j.jenvp.2016.05.002
+
+Goldstein, N. J., Cialdini, R. B., & Griskevicius, V. (2008). A Room with a Viewpoint:
+Using Social Norms to Motivate Environmental Conservation in Hotels. Journal of
+Consumer Research, 35(3), 472–482. https://doi.org/10.1086/586910
+
+Kollmuss, A., & Agyeman, J. (2002). Mind the Gap: Why Do People Act
+Environmentally and What Are the Barriers to pro-environmental behavior?
+Environmental Education Research, 8(3), 239–260.
+https://doi.org/10.1080/13504620220145401
+
+Nisbet, M. C. (2009). Communicating Climate Change: Why Frames Matter for
+Public Engagement. Environment: Science and Policy for Sustainable Development,
+51(2), 12–23. https://doi.org/10.3200/envt.51.2.12-23
+
+Peschiera, G., & Taylor, J. E. (2012). The impact of peer network position on
+electricity consumption in building occupant networks utilizing energy feedback
+systems. Energy and Buildings, 49, 584–590.
+https://doi.org/10.1016/j.enbuild.2012.03.011
+
+Shove, E. (2010). Beyond the ABC: Climate Change Policy and Theories of Social
+Change. Environment and Planning A: Economy and Space, 42(6), 1273–1285.
+Doc 0.1 Literature Review
+
+
+https://doi.org/10.1068/a42282
+
+Stern, P. C., Dietz, T., Abel, T., Guagnano, G. A., & Kalof, L. (1999). A Value-Belief-
+Norm Theory of Support for Social Movements: The Case of Environmentalism.
+Human Ecology Review, 6(2), 81–97. https://www.jstor.org/stable/24707060
+
+Terry, D. J., & Hogg, M. A. (1996). Group norms and the attitude–behavior
+relationship: A role for group identification. Personality and Social Psychology
+Bulletin, 22(8), 776–793. https://doi.org/10.1177/0146167296228002
+

@@ -1,0 +1,214 @@
+        The built environment of a video game is one of the most significant factors of a
+game’s perceived enjoyability. Most live-service game updates involve the introduction of
+new maps, particularly in hero and FPS shooters, often alongside the introduction of new
+gameplay mechanics. Most competitive gamers often adjust their combat decisions and
+playstyle depending on the map itself. While it isn’t uncommon for players like myself to be in
+awe at the vast open world maps of RPGs, or panic at the sight of an unknown entity in the
+narrow hallway of a horror game, the creation of video game environments currently rely
+primarily on intuitive architectural principles, such as space and lighting, to manipulate player
+emotion and behavior. However, with the rise of AI and procedural tools (such as parametric
+design) has uncovered a knowledge gap in the industry. Developers are currently unable to
+effectively utilise these technologies due to the lack of a model that links architectural
+variables in game environments to specific, quantifiable player responses. It is crucial for
+developers to be able to “measure” the emotions that are invoked by certain aspects of the
+environment, such as texture, to create meaningful and intentional designs using these new
+technologies.
+
+Narrowing things down:
+
+Relational type question: We are currently lacking knowledge on how architectural elements
+affect player response hence lack the framework to implement AI effectively into video game
+map design.
+Might use AI as a justification to the research topic rather than creating a model using AI to
+test.
+
+Aspects to narrow down on:
+Which architectural elements (X):
+What player responses (Y): Playstyle e.g positioning and pacing
+Game genre: FPS and Hero shooters (able to test as I play both game genres and replay
+systems are widely accessible to analyse player movement and interactions)
+Game: CS2
+
+Problem: We don't understand how variable X affects response Y.
+Significance: This matters because AI/procedural tools are being deployed without this
+understanding.
+Research: I will establish the foundational relationship between X and Y.
+Implication: My findings can then guide AI implementation.
+Doc 0 rewrite:
+
+The introduction of AI-driven game design has had both positive and negative impacts on
+the game development industry. AI has given developers the ability to generate large
+amounts of new content, but with limited to no creativity nor intention in mind due to the lack
+of knowledge AI engines possess regarding player response and gameplay decisions based
+on the built environment.
+
+This topic is particularly interesting for me as it blends architectural and game design theory.
+After playing a plethora of FPS and hero shooter games, I have come to the realisation that
+the map itself influences many of my rotation and positioning decisions in-game.
+
+This piqued my interest, as I began to wonder how developers actually approach video
+game map design in shooter games. Do they take into consideration the visual appeal, the
+enjoyability of the map itself, or try to encourage more creative and diverse playstyles for the
+playerbase to explore and master? The player base of most games is massive, and each
+individual has their own unique game sense and preferred playstyle. How are game
+developers able to create a diverse built environment that the majority of the audience is
+able to enjoy without restricting players to a particular playstyle?
+
+There are many research papers regarding video game map design. However, most articles
+are purely analytical, where they break down the elements of the map without regard to the
+player interactions and movements through the areas. This style of analysis is akin to
+circulation diagrams in architecture - it demonstrates the movement of people through a
+space based on the architect’s assumptions. I aim to analyse not just the geometry of the
+map itself but also the player interactions that each element induces.
+
+This topic matters because of the rising popularity of AI in video game design. If game
+developers attempt to implement these models into their environment creation processes
+without the correct framework in place, it could lead dull and repetitive elements within the
+map that lack creativity and intention. This research topic could benefit the playerbase and
+developers of live-service games specifically, as the implementation of AI could allow
+developers to push out new updates more often, hence the players are able to enjoy new
+content in a more timely manner. Allowing AI to understand the underlying theory of
+architecture in map design could also lead to a larger variety of environments and in-game
+mechanics.
+Doc 0.1
+
+Proposed Research question:
+
+How does the distribution of cover and line of sight in the built environment of an FPS
+shooter affect the players’ positioning and playstyle?
+
+I aim to focus on the game Counter-strike 2, as it is much more mechanical and strategic
+compared to other FPS shooters. There are less movement and ability-based mechanics
+which makes the gameplay less dynamic and reduces the source of anomalies from the
+research.
+
+Proposed methodology: The method I will use for the majority of this research paper will be
+surveys and observation. There are multiple resources online that I can use to analyze how
+players move within a map, such as tournament replays and statistics. For large games like
+Counter-strike 2, there are also websites that include map statistics demonstrating the areas
+that most player deaths and kills are likely to occur. I can use these statistics to my
+advantage when comparing and analyzing them relative to the architecture of the map itself.
+FInally, the game is accessible to myself, meaning I can collect primary data by playing the
+game and understanding its mechanics.
+
+
+Literature review:
+
+The idea that spatial design shapes human behavior isn’t new, in fact, it has been a
+fundamental aspect of urban planning and architecture. Lynch's “The Image of the City”
+(1960) established that people navigate built environments through cognitive mapping,
+organizing space around five elements: paths, edges, districts, nodes, and landmarks. Hillier
+and Hanson (1984) reinforced this concept further with the “space syntax theory”, which
+analyzes how the configuration of space predicts patterns of movement and social encounter
+in buildings and cities. These frameworks were developed for physical environments, but
+their underlying logic, that spatial structure produces behavioral outcomes can be
+implemented into game design.
+
+One branch of research has approached game environments through recurring design
+patterns and their intended gameplay functions. Hullett and Whitehead (2010) categorized
+spatial patterns in first-person shooters, such as sniper positions, choke points, and open
+areas, and argued that each pattern creates recognizable gameplay dynamics. However,
+their analysis remained purely conceptual, and their paper only documented which types of
+spatial arrangements existed in video game maps and their intended purpose, rather than
+how players actually respond to them behaviorally and emotionally.
+
+While more practical frameworks exist for map design in games, they cater mainly towards
+RPGs with more significant narrative elements than FPS shooters. For example, Jenkins
+(2004) offered a broader conceptual framework with his idea of "narrative architecture,"
+proposing that game spaces communicate story through environmental arrangement rather
+than exposition. His four categories, evocative, enacted, embedded, and emergent narrative
+spaces, have been widely adopted across game studies. Yet Jenkins's study focuses solely
+on spatial storytelling rather than the correlation between a virtual space's architectural
+properties and the player's gameplay behavior. In his research, a narrow corridor funneling
+the player toward a planned encounter is analyzed for what it communicates in terms of
+storytelling, not for how its proportions, sightlines, or verticality influence the player's tactical
+decisions and movement speed
+
+On the player side, research has leaned heavily on psychological frameworks developed
+outside game studies. Csikszentmihalyi's (1990) “theory of flow”, a state of optimal
+engagement arising from a balance between challenge and skill, has been the dominant
+lens, formalised for games by Sweetser and Wyeth (2005) in their GameFlow model.
+GameFlow operationalized “flow” into a set of evaluative criteria for player enjoyment, and it
+has been widely used. However, both flow theory and GameFlow treat the spatial
+environment as background. Difficulty curves, pacing, and feedback loops are analyzed in
+terms of mechanics and challenge design, not in terms of the physical architecture of the
+space in which those mechanics unfold. A player may experience flow while moving through
+a game map, but whether the map's ceiling height, spatiality, or architecture placement
+contributed to or undermined that state has not been measured within this framework.
+
+In contrast, a separate strand of research has approached the problem from the opposite
+direction, not asking how spaces should be designed, but observing how players actually
+behave within them. Drachen and Canossa (2009) demonstrated that geographic
+information systems (GIS) could be applied to player movement data, producing heatmaps
+and trajectory analyses that revealed how players actually navigated game worlds as
+opposed to how designers intended them to. Their work showed that players frequently
+ignored intended pathways and clustered in unexpected areas, suggesting a disconnect
+between designer intent and spatial affordance.
+
+Additionally, the rise of game statistics and analytics has opened new possibilities for
+studying player-environment interaction. The work collected in El-Nasr, Drachen, and
+Canossa's (2013) Game Analytics demonstrated that spatial data collected from player
+sessions, such as movement traces and kill/death locations, could be systematically
+visualized and analyzed, revealing behavioral patterns that clearly correlate with map
+features. Players tend to engage through certain routes, avoid certain areas, and die
+repeatedly at specific spatial junctions. These insights are useful for iterative design, but the
+approach is fundamentally descriptive rather than explanatory. It reveals that behavior varies
+across different spaces within the map without identifying which architectural elements are
+responsible or why they produce the effects they do. A heatmap can show that players die
+frequently at a particular junction, but it cannot provide an analysis on whether the cause is a
+line-of-sight problem, an issue of spatial legibility, or something else entirely.
+
+
+The Gap:
+A knowledge gap identified across the reviewed literature is a lack of work that
+systematically connects the architectural properties of game map environments, spatial
+configuration, verticality, and line-of-sight to measured player gameplay behavior and
+psychological response. The existing research provides architectural theory applied
+conceptually to games (Nitsche, 2008; Totten, 2014), categorization of design patterns
+organized around designer intent (Hullett & Whitehead, 2010), narrative frameworks for
+interpreting game spaces (Jenkins, 2004), and analytic methodologies for tracking where
+players go and what happens to them (El-Nasr et al., 2013). These are substantial
+contributions, but they have not been synthesized into empirical studies that manipulate or
+systematically compare architectural variables and measure their effects on how players
+behave and how they experience play.
+
+This gap is important to the industry because map architecture is one of the few design
+elements that shape every moment of active gameplay. Compared to other game elements,
+such as narrative, the spatial environment is continuously present, influencing decisions,
+constraining movement, and structuring the player's decision at every instant. If specific
+architectural properties have measurable and consistent effects on player behavior and
+experience, then understanding those effects would provide AI models with an empirical
+foundation for decisions that are currently guided by intuition and playtesting without clear
+analytical frameworks for interpreting what the data means.
+
+
+References:
+
+Hillier, B., & Hanson, J. (1984). The Social Logic of Space. Cambridge University Press.
+
+Hullett, K., & Whitehead, J. (2010). Design patterns in FPS levels. Proceedings of the Fifth
+International Conference on the Foundations of Digital Games, 78–85.
+
+Jenkins, H. (2004). Game design as narrative architecture. In N. Wardrip-Fruin & P. Harrigan
+(Eds.), First Person: New Media as Story, Performance, and Game (pp. 118–130). MIT
+Press.
+
+Lynch, K. (1960). The Image of the City. MIT Press.
+
+Nitsche, M. (2008). Video Game Spaces: Image, Play, and Structure in 3D Worlds. MIT
+Press.
+
+Totten, C. W. (2014). An Architectural Approach to Level Design. CRC Press.
+
+El-Nasr, M. S., Drachen, A., & Canossa, A. (2013). Game Analytics: Maximizing the Value of
+Player Data. Springer.
+
+Csikszentmihalyi, M. (1990). Flow: The Psychology of Optimal Experience. Harper & Row.
+
+Drachen, A., & Canossa, A. (2009). Analyzing spatial user behavior in computer games
+using geographic information systems. Proceedings of the 13th International MindTrek
+Conference, 182–189.
+
+Sweetser, P., & Wyeth, P. (2005). GameFlow: A model for evaluating player enjoyment in
+games. Computers in Entertainment, 3(3), 1–24.
+

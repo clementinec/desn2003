@@ -1,0 +1,52 @@
+Research Question: How do pity systems and limited time rewards shape the decision
+making process and post-pull satisfaction of adult gacha players in Mobile RPG games?
+
+The concept of Pity Systems
+Pity systems within Gacha games have been popularised through the release of a sub-section
+of pity systems, as seen within Genshin’s 50/50. Due to the popularity, other modern games
+have adopted the pity system with Zheng et al. indicating a 60% prevalence of a pity system,
+within 20 top earning games (2025). Furthermore, a mathematical model conducted by
+Thavamuni et al. with reference to Game Refinement Theory, suggests that the critical reward
+system is around N~55, where the pity in Genshin is akin to the odds of gambling in
+traditional slot machines (2025). These papers are in conjunction with the identification of the
+gambling mechanics, whilst Tharvamuni et al. discuss the mathematical model and the final
+consideration for players regarding how pity systems are priced to obtain the desired
+outcome.
+
+Artificial Scarcity of Limited Timed Rewards
+The idea of limited timed rewards forms an artificial scarcity within the user. This can lead to
+them making impulse decisions, where in a paper by Gibson et al (2023), discusses that users
+were prompted to make a decision, based on the idea that the reward was time limited.
+Furthermore with investigation regarding post-pull satisfaction, according to Hietamäki
+(2023), around 80.2% of players did not regret their purchase after. When questioned, the
+users suggested that the reason for purchasing was the act of obtaining a character or a
+weapon. This leads to a precedent of participants who were willing to spend to obtain their
+desired outcome.
+
+However, there has been a conflict within the research, where in the findings found by
+Ageenkova, 2025, there is a discussion of urgency mechanics, appearing for most users, and
+making them feel annoyed. Yet, this research discusses other games, not limited to the scope
+of this research. This research can be essential to understand how users can be pushed. The
+research also discusses how participants have felt on the negative side of post-spend
+satisfaction, with most participants identifying that they feel less inclined to spend if they are
+not able to see the value.
+
+Gap for Research?
+The literature has two divided perspectives with the post-pull satisfaction. Hietamäki (2023),
+mentions a 80.2% of participants not regretting, whereas Ageenkova discusses the regret in
+other live service games. There can be further surveys conducted to investigate the user
+sentiment.
+                                        References
+Ageenkova, A. (2025). Manipulative game design: How Dark UX tactics drive player
+       engagement. Theseus. https://urn.fi/URN:NBN:fi:amk-2025113030925
+Gibson, E., Griffiths, M. D., Calado, F., & Harris, A. (2023). Videogame player experiences
+       with micro-transactions: An interpretative phenomenological analysis. Computers in
+       Human Behavior, 145, 107766. https://doi.org/10.1016/j.chb.2023.107766
+Hietamäki, V. (2023). Addiction and spending in gacha games. Information, 14(7), 399.
+       https://doi.org/10.3390/info14070399
+Thavamuni, S., Khalid, M. N. A., & Iida, H. (2025). Inherent addiction mechanisms in video
+       games' gacha. Information, 16(10), 890. https://doi.org/10.3390/info16100890
+Zheng, L., Xiao, L. Y., & Sharman, S. (2025). An overview of gambling-related psychological
+       features of loot boxes. [Unpublished manuscript]. Department of Addictions, King's
+       College London.
+

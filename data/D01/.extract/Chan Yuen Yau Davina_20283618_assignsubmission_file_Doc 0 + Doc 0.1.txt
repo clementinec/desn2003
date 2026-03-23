@@ -1,0 +1,155 @@
+                                                              University of Hong Kong DESN2003
+                                                                        3036325602 Davina Chan
+
+Research Question​
+How does implementing passive design strategies in new buildings affect ventilation compared
+to traditional designs?
+
+Extended Abstract
+Climate change, is an increasingly pressing issue in modern day society as we struggle to
+reverse the damages that have been done over the course of several decades, releasing
+heat-trapping greenhouses gases, pollution and more have opened the Earth to inevitable
+damage that although is being actively reversed still causes severe issues for our daily
+activities, such as changes in temperatures, causing droughts, flooding, overheating and
+several other issues that can be resolved if anticipated when planning the buildings and facilities
+of the city.
+
+Some of these issues, as seen in Hong Kong, is the change in temperature. Hong Kong’s winter
+is shrinking, with year averages increasing as winter temperatures struggle to reach under 18
+degrees, especially in the winter of 2025-2026. As such, many facilities and events have been
+affected as Hong Kong simply isn’t cold enough. Citizens still sweat, increasing the usage of
+aircons in their own areas, and the utilization of other cooling products that creates more trash,
+and more greenhouse gases to be released. Issues that can be resolved with designs that
+promote open-air flows, and other products that can be produced in anticipation of facing such
+issues. Issues that I believe artificial intelligence can predict if given a large set of urban data.
+
+Thus, leading to the question, how does implementing passive design strategies in new
+buildings affect energy consumption compared to traditional designs? Is there perhaps a
+strategy that could be used in HK’s tightly packed spaces to allow for better natural ventilation?
+
+Many urban cities now publish and claim to operate towards ambitious climate action plans,
+however, the spatial design of streets, buildings, and open spaces doesn’t reflect their local
+climate risks. Given the advancements made in artificial intelligence and its nature of design to
+be able to process large amounts of data, I believe by integrating artificial intelligence into the
+city planning while accounting for climate change, may significantly decrease the risks that cities
+face as they pursue their climate action plan.
+
+Artificial intelligence is now continuing to improve and integrate into modern society as a tool for
+academic success and a high technology search engine. However, given its large operation size
+and its fast operating speed, artificial intelligence should and can be used for more. Artificial
+intelligence is known for its ability to process large data sets, as such, it could surely process
+urban datasets and generate rapid spatial analysis or even design options, however, in the
+current market, artificial intelligence is rarely used for uses such as everyday design workflow in
+studios or planning department in fear of being replaced. However, I believe that artificial
+intelligence should be viewed as a tool, not as a replacement for human creativity.
+Literature Review
+Out with the Old, In with the New
+Hong Kong society relies heavily on the usage of air conditioners, due to the temperaments of a
+subtropical climate. As stated in DeWolf (2010), air conditions use a large amount of energy,
+and only adds to a cycle of climate change. As such we must recognize the problem of heavily
+relying on non-renewable fuel, and focus on switching to natural ventilation for long term
+betterment of ventilation.
+
+Currently, according to Reach Technology (2021), architectural firms rely heavily on simulation
+tools and thermal modelings which use simple airflow network models. However, most of these
+tools do not capture wind turbulence, external wind conditions, local building context or the
+potential impacts of local terrain.
+
+Secondly, based on the research article (Wang et al., 2013), a case study of a natural ventilation
+housing project was studied for its failure. A LEED-certified townhouse development in Beijing,
+North China was carried out in May 2011. And later failed due to multiple reasons. One such
+reason being the lack of account of localized climate calculations, and general calculations and
+predictions of local climate being taken into the design.
+
+Furthermore, there are many errors in using LEED standardized tools, as per Fail (2019), LEED
+heavily focuses on the environmental factors of air quality and wind, rather than focusing on the
+toxicity. Although our research aims to improve natural ventilation, toxicity and the general
+health and safety of the users will also be heavily weighted, and monitored.
+
+Passive Cooling Strategies
+According to the research (Shiva Manshour & Lehmann, 2025), the potential benefits of
+integrating years worth of traditional knowledge and merging said knowledge with modern
+innovations may very well be the best way to achieve the perfect thermal comfort, extending to
+the natural ventilation of buildings.
+
+As researched by Du (2019), sun shading and insulation are vital in the development of a
+building to work with natural ventilation. The document praises the structural integrity of
+vernacular buildings, blending local culture into the building while thinking about the natural
+ventilation and optimal wind corridor designs.
+
+According to the research (Han et al., 2025), it talks of a machine learning-guided
+semi-empirical model designed to predict single-sided natural ventilation rates, enhancing the
+accuracy of airflow calculations by integrating complex environmental variables and improving
+traditional modeling methods. Showing the possibility of integration of artificial intelligence.
+
+The Solution
+As mentioned in (Natural Ventilation in Buildings -Architectural Concepts, Consequences and
+Possibilities, n.d.), natural ventilation has several benefits. Reducing energy usage to net zero,
+allowing for natural lighting, and implementation of greenery.
+According to research (Bachand et al., 2026), the sheer complexity of the planning involved
+requires a large amount of processing power, power which AI can provide to study and process
+quantitative data such as calculations of wind angles, and enhanced parametrization. The
+research furthermore emphasizes that predicting wind-driven natural ventilation is more complex
+than commonly thought, which asks for prediction and scenario runs to ensure the building can
+withstand different weathers.
+
+AI integration in this aspect can not only improve the calculation time, saving architectural teams
+from human errors and efforts in calculations when AI can utilize data sets to predict future
+turmoils. Using data provided by the Hong Kong Observatory (Hong Kong Observatory, 2025),
+publicized data from the government (Hong Kong Government, 2026), as well as publicized
+data from the Chinese datasets (Esri China (HK), 2017), it would be possible to determine and
+predict the best outcome for the buildings.
+
+Bridge Between the Gap
+I believe the gap between the traditional methods of planning buildings for natural ventilation
+and minimization of energy usage. Climate-responsive design should be a top priority, and
+linking artificial intelligence usages into the traditional methods and strategies used before
+should strengthen our buildings and designs, offering insight and preparation for any future
+scenarios.
+
+References
+Bachand, N., Salehipour, H., & Gorlé, C. (2026). Simulating the urban canopy’s impact on
+      wind-driven natural ventilation. Flow, 6. https://doi.org/10.1017/flo.2025.10039
+
+DeWolf, C. (2010, October 15). Hong Kong’s Air Conditioning Addiction. Maisonneuve.
+      https://maisonneuve.org/article/2010/10/15/hong-kongs-air-conditioning-addiction/
+
+Du, X. (2019). Passive cooling techniques. DOAJ (DOAJ: Directory of Open Access Journals),
+        10. https://doi.org/10.7480/abe.19.10.4104
+
+Esri China (HK). (2017). Daily mean wind speed in Hong Kong. Esrichina.hk.
+       https://opendata.esrichina.hk/datasets/daily-mean-wind-speed-in-hong-kong/explore
+
+Fail, S. (2019). LEED Building Standards Fail to Protect Human Health. Yale E360.
+         https://e360.yale.edu/features/leed_building_standards_fail_to_protect_human_health
+
+Han, J. M., Wu, W., & Malkawi, A. (2025). A machine learning-guided semi-empirical model for
+       predicting single-sided natural ventilation rates. Energy and Buildings, 344, 115974.
+       https://doi.org/10.1016/j.enbuild.2025.115974
+
+Hong Kong Government. (2026). Daily mean wind speed - Daily Mean Wind Speed All Year -
+      Hong Kong International Airport | DATA.GOV.HK. Data.gov.hk.
+      https://data.gov.hk/en-data/dataset/hk-hko-rss-daily-mean-wind-speed/resource/8a07045
+      a-863d-48ee-88f0-38289af56cf8
+Hong Kong Observatory. (2025). Mean Wind. Hko.gov.hk.
+      https://www.hko.gov.hk/en/wxinfo/ts/index_wind.htm
+
+Natural Ventilation in Buildings -architectural concepts, consequences and possibilities. (n.d.).
+       https://www.sintef.no/globalassets/upload/smartbygg/natural-ventilation-in-buildings.pdf
+
+Reach Technology. (2021, April 28). Designing Natural Ventilation Strategies for New and
+      Existing Buildings - Construction Executive. Construction Executive - the Magazine for
+      the Business of Construction.
+      https://constructionexec.com/article/designing-natural-ventilation-strategies-for-new-and-
+      existing-buildings/
+
+Shiva Manshour, & Lehmann, S. (2025, July 12). A Systematic Review of Passive Cooling
+       Strategies Integrating Traditional Wisdom and Modern Innovations for Sustainable
+       Development in Arid Urban Environments. ResearchGate.
+       https://doi.org/10.48550/arXiv.2507.09365
+
+Wang, H., Lin, H., Ng, V., Yang, T., & Guan, L. (2013, May 23). Failure of natural ventilation
+      strategy in a sustainable house in China . International Journal of Low-Carbon
+      Technologies, 21, 216–228.
+      https://academic.oup.com/ijlct/article/10/3/216/702992#12366948
+

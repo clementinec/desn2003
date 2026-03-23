@@ -1,0 +1,127 @@
+to what extent Does participation in platform-mediated display
+environments increase material waste generation in GenZ
+collecting practices
+
+Consumption and the postsumer
+
+Much of contemporary research on social media and consumption begins with the premise that digital
+platforms intensifies consumer engagement by accelerating information flows, amplifying trends, and
+personalising advertising. Marketing and communication studies consistently shows that exposure to
+influencers and peer-generated content shows direct increases in purchase intentions and impulse buying
+(Lou and Yuan, 2019). Social media platforms reduce search costs, normalize rapid trend cycles, and
+integrate consumption patterns into our daily interactions. These body of works have been remarkably
+influential in establishing a link between digital participation and purchasing behavior.
+
+Over the last decade, scholars have begun to recognise the limitations of analysing social media effects
+solely in terms of purchase intent. Research on “Instagrammable” consumption and visual culture
+suggests that platforms do not merely advertise products but restructure goods as communicative devices
+embedded in attention economies. (Marwick, 2015). Algorithmic systems prioritize visually distinctive and
+circulation-ready content, rewarding aesthetic novelty and rapid turnover (van Dijck, Poell, and de Waal,
+2018). Further empirical studies within the fashion industry show direct correlation between social media
+engagement with more frequent purchasing and shorter trend cycles (McNeill and Venter, 2019). These
+works shifts docus from discrete purchasing decisions to the temporal acceleration of consumption.
+
+However, much of existing literature ends at acquisition. The focus remains on the analyzation of buying
+frequency, brand engagement, and symbolic display, while consequences for product retention and
+disposal are rarely examined. Social media participation is treated as a driver of demand rather than a
+structural factor in material throughput, and the environmental implications of intensified
+platform-mediated consumption remain largely unchecked.
+
+Social media and identity
+
+As stated previously, parallel scholarships in digital-platform sociology highlights the centrality of identity
+within mediated-platforms. Marwick (2015) argues that social media users curate identities for networked
+audiences while while van Dijck, Poell, and de Waal (2018) show how platform architectures prioritize
+visibility of circulation-ready aesthetics. By participating in these social-platforms, it requires continual
+acquisition and display of culturally legible content, or artifacts.
+
+Gen Z , a population that experienced upbringing where social media is heavily embedded in daily life,
+holds a particularly prominent position within this environment. Empirical research consistently shows
+Gen Z cohorts exhibit greater integration of digital communication in their social loves, and have
+heightened responsiveness to influencer culture (Djafarova and Bowes, 2021). This does not imply
+intrinsic generational characteristics, rather a stronger structural immersion to platform-rich environments.
+As a result, collecting practices in this cohort are likely to be more influenced by digital display logics than
+previous generations.
+
+The interconnectivity built into a social-platforms also amplifies social comparison between peers.
+Conspicuous consumption is further embedded in algorithmically curated feeds, where peer possessions
+are constantly visible. Exposure to upward comparison targets significantly reduces self-esteem, and
+increases social comparison tendencies (Vogel et al., 2014). In such environments, goods must be
+continuously produced as visual markers or hierarchy.
+
+Despite this, research on collecting practices rarely links digital identity to material turnover. Fandom,
+merchandise consumption and hobby culture studies tend to focus on community formation and symbolic
+meaning, but seldom measure acquisition frequency, retention and disposal patterns. The link between
+digital-display and waste outcomes remains untested.
+
+Environmental Consequences of overconsumption
+
+Research on environmental sociology have consistently demonstrated correlation in product throughput,
+waste generation and shortened product cycles. Intensifying decline in product durability shows a
+paralleled increase in resource extraction and waste generation (Cooper, 2005), while landfill pressure is
+also directly tied to waste accumulation through everyday disposal practices (Evans, 2011).
+
+Empirical research on modern day fast fashion provides clear evidence that accelerated trend cycles and
+low retention periods significantly increases textile waste and systemic material accumulation (Niinimäki
+et al., 2020). Similar patterns can be observed in Plastic-intensive industries such as toy and
+merchandise sectors, where trend-driven turnover contributes to significant waste streams.
+
+Yet, these works primarily analyses the production systems and regulatory frameworks, while consumer
+behaviour is treated as secondary or background variables rather than the central explanatory
+mechanism. Although shortened retention and increased acquisition are acknowledged, much of this
+research was conducted prior to social media became structurally embedded within consumption
+practices. As a result, environmental literature documents the consequences of turnover but does not
+account how platform-mediated environments may amplify said turnover.
+
+The Gap
+
+Across the stated literatures, developments are evident, yet their insights have developed largely in
+parallel. No integrated empirical study has directly tested whether participation in social-platforms have
+correlations with increased material waste in collecting practices. This study address this gap by linking
+social media participation to measurable indicators of material waste, acquisition frequency, retention
+duration and disposal behaviour within Gen Z collecting practices and discovering whether participation in
+social media platforms is systematically associated with increased material waste in collecting practices,
+and how platform-mediated visibility may operationally accelerate acquisition and retention cycles within
+Generation Z.
+
+
+
+
+REFERENCES
+Cooper, T. (2005). Slower consumption: Reflections on product life spans and the “throwaway
+society.” *Journal of Industrial Ecology, 9*(1–2), 51–67.
+https://doi.org/10.1162/1088198054084671
+
+Djafarova, E., & Bowes, T. (2021). “Instagram made me buy it”: Generation Z impulse purchases
+in fashion industry. *Journal of Retailing and Consumer Services, 59*, 102345.
+https://doi.org/10.1016/j.jretconser.2020.102345
+
+Evans, D. (2011). Blaming the consumer – once again: The social and material contexts of
+everyday food waste practices in some English households. *Critical Public Health, 21*(4),
+429–440.
+https://doi.org/10.1080/09581596.2011.608797
+
+Lou, C., & Yuan, S. (2019). Influencer marketing: How message value and credibility affect
+consumer trust and purchase intention. *Journal of Interactive Advertising, 19*(1), 58–73.
+https://doi.org/10.1080/15252019.2018.1533501
+
+Marwick, A. E. (2015). Instafame: Luxury selfies in the attention economy. *Public Culture,
+27*(1), 137–160.
+https://doi.org/10.1215/08992363-2798379
+
+McNeill, L., & Venter, B. (2019). Identity, self-concept and young women’s engagement with
+collaborative, sustainable fashion consumption models. *Journal of Fashion Marketing and
+Management, 23*(3), 368–383.
+https://doi.org/10.1108/JFMM-03-2018-0043
+
+Niinimäki, K., Peters, G., Dahlbo, H., Perry, P., Rissanen, T., & Gwilt, A. (2020). The
+environmental price of fast fashion. *Nature Reviews Earth & Environment, 1*(4), 189–200.
+https://doi.org/10.1038/s43017-020-0039-9
+
+van Dijck, J., Poell, T., & de Waal, M. (2018). *The platform society: Public values in a
+connective world*. Oxford University Press.
+
+Vogel, E. A., Rose, J. P., Roberts, L. R., & Eckles, K. (2014). Social comparison, social media,
+and self-esteem. *Psychology of Popular Media Culture, 3*(4), 206–222.
+https://doi.org/10.1037/ppm0000047
+

@@ -1,0 +1,432 @@
+FOMO and Nostalgia-Based Emotional Branding Strategies: Driving Emotional
+                   Consumption Across Generation Z
+
+
+   1.​ Abstract
+
+
+This study examines how FOMO (Fear of Missing Out) and nostalgia-based
+emotional branding strategies drive emotional consumption among Generation Z
+(Gen Z) across fashion, beauty, and technology brands. In the digital age, Gen Z
+consumers increasingly prioritize purchases that fulfill emotional needs—such as
+identity construction, community belonging, and alignment with personal
+values—over purely functional attributes. These emotional consumption patterns
+create a bidirectional relationship with brand strategies, where Gen Z preferences
+shape marketing tactics while adapted campaigns further intensify consumption
+cycles.
+
+A multi-case study methodology will be used, the research analyzes campaigns from
+leading Gen Z brands (fashion: Supreme, Nike; beauty: CeraVe, Rare Beauty;
+technology: Razer, Logitech) through document analysis of social media content,
+limited-drop announcements, influencer partnerships, and performance metrics.
+FOMO strategies—characterized by scarcity timers, flash sales, and urgency
+messaging—target younger Gen Z seeking peer approval, while nostalgia tactics
+leveraging Y2K aesthetics and retro authenticity appeal to older Gen Z pursuing
+stability and cultural connection.
+
+Findings reveal distinct emotional pathways: FOMO accelerates impulse buying
+through anxiety-relief cycles, while nostalgia fosters attachment via psychological
+security. Both mechanisms demonstrate self-reinforcing feedback loops where brand
+adaptations amplify Gen Z's emotional consumption intensity.
+
+This study advances emotional branding research by showing how strategies differ
+across Gen Z life stages and how they directly influence consumption patterns. For
+brand managers, it identifies opportunities for targeted emotional marketing across
+product categories while raising ethical concerns about FOMO tactics. The findings
+provide a foundation for understanding emotional consumption among digital-native
+generations.
+   2.​ Literature Review
+
+
+2.1 Emotional Consumption Defintion
+
+Emotional consumption refers to buying driven by emotional needs rather than
+practical use, such as purchasing for pleasure, mood improvement, status
+expression, or social connection (Puckhaber, 2025). It is closely aligned with hedonic
+consumption, where consumers seek sensory pleasure, excitement, and
+self-expression beyond basic functional needs (Zigu, 2011). It often involves
+products used to manage or enhance mood (e.g. treats, fashion, entertainment) and
+to construct identity or status, such as designer goods that provide pride and social
+recognition. In stressful or negative states, hedonic choices can serve mood repair
+by generating positive affect and emotional recovery (Balleyer & Fennis, 2022).
+
+To define emotions in consumption, Richins develops the Consumption Emotion Sets
+(CES) (see Table1), a validated taxonomy of 47 emotions experienced during
+consumption (buying, using, owning products/services), organized into 16 clusters
+including fear and contentment, which is relevant to FOMO and nostalgia (Richins,
+1997). This framework underlines that consumption is embedded in rich emotional
+episodes rather than simple satisfaction–dissatisfaction judgments.
+
+
+
+
+                Table 1. Consumption Emotion Sets (Richins, 1997)
+Complementing this, Uses and Gratifications theory (U&G) posits that consumers
+actively select products and media to fulfil emotional needs such as social
+integration, excitement and tension releases (Doob, 1950). People use media and
+symbolic goods to regulate arousal and mood: when bored or distressed, they seek
+stimulating or comforting content to adjust their affective state (Doob, 1950).
+Gratifications such as emotional release, entertainment and intrinsic enjoyment map
+directly onto hedonic, emotionally driven consumption (e.g. streaming, gaming,
+social media commerce). This framework suggests the reason why Gen Z seeks
+emotionally charged consumption, but lacks integration with discrete emotion like
+FOMO or nostalgia.
+
+
+2.2 Gen Z Definition
+
+Generation Z (born between 1997 and 2012) (Warren, 2024) represents the first
+digital native generation, shaped by technology, social media, and global events like
+the Great Recession and the pandemic.
+
+2.3 Emotional Consumption in GenZ
+
+2.3.1 FOMO in GenZ
+
+Over 70% of Gen Z individuals report experiencing FOMO (Fear of Missing Out)
+regularly (Suryawanshi, 2025), with research showing significantly higher FOMO
+levels (mean = 2.35) compared to Millennials (mean = 2.14), driven by their lifelong
+digital connectivity and expectation of real-time social awareness (Chakrabarti,
+2024).
+
+Compressed trend cycles on platforms like TikTok mean missing a viral sound or
+limited release equates to immediate social irrelevance within peer networks (Kalin
+Anastasov, 2025). This characteristic environment fosters prevalent FOMO,
+distinguishing Gen Z from previous generations.
+
+2.3.2 FOMO as Driver of Emotional Consumption
+
+
+FOMO triggers emotional consumption through a clear anxiety-relief mechanism.
+Social media exposure creates fear of missing rewarding social experiences,
+activating needs for belonging and peer approval (Przybylski et al., 2013). This
+anxiety prompts hedonic purchases that temporarily alleviate exclusion fears while
+signaling social status (Argan et al., 2022).
+This pattern resembles compulsive behaviors, where buying provides immediate
+gratification but increases future FOMO sensitivity, forming self-reinforcing
+consumption cycles (Elhai et al., 2020). Studies confirm FOMO mediates the link
+between social comparison and impulse buying (β=0.42, p<0.01), establishing it as a
+key driver of Gen Z's emotional purchasing (Richins, 1997).
+
+
+2.3.3 Nostalgia in Gen Z
+
+
+Social media platforms like TikTok and Instagram keep bringing back old trends
+through algorithms and user content. This creates "fauxstalgia" (second-hand
+nostalgia) for Gen Z, who never lived through these times (InsightTrendsWorld,
+2025). Hashtags like #Y2Kfashion and #2000sNostalgia gets millions of views with
+nostalgic edits, thrift finds, and retro styles (low-rise jeans, butterfly clips, 2010s
+filters) (Gupta, 2025).
+
+2.3.4 Nostalgia as Driver of Emotional Consumption
+
+
+TikTok's short videos create 2.5x more engagement than longer content. Y2K styles
+regularly beat current trends (Emplicit, 2025). This format drives Gen Z to consume
+and remix nostalgic elements for identity expression and escapism.
+
+Unlike older generations who experienced the eras they reminisce about, Gen Z’s
+relationship with nostalgia is vicarious. Their nostalgic experiences are shaped by
+second-hand exposure through YouTube videos, Netflix reboots, curated Instagram
+aesthetics, and TikTok throwback trends(Nations, 2022). Consequently, their
+nostalgia is not rooted in lived experiences but in media-mediated representations of
+the past. This makes them uniquely susceptible to retro-themed advertising that
+invokes familiarity, security, and identity reinforcement in a fast-changing digital
+environment. Studies suggest that Gen Z's affinity for retro media is not based on
+lived experience but a stylized appreciation of the past, constructed through visual
+storytelling and communal nostalgia (Alfasi & Weiss, 2022).
+
+According to Wildschut et al. (2006), nostalgia enhances psychological well-being by
+increasing social connectedness and existential meaning, which may influence
+consumption behavior as a coping mechanism (Wildschut et al., 2006).
+Thus, nostalgia acts not only as a promotional device but also as an emotional
+support during identity development—a critical aspect for Gen Z(Nations, 2022).
+
+2.4 Existing brand strategy
+
+2.4.1 Gen Z's Top Brand Categories
+Beauty, streetwear, sportswear, tech, and retail platforms dominate Gen Z
+conversations. Recent analysis shows fashion, beauty, sportswear, and technology
+categories make up over 70% of top-discussed brands, while traditional sectors like
+cars and packaged goods represent less than 8% (Basis Signals, 2026).
+
+2.4.2 Commonly Used Branding Strategies
+
+
+2.4.2.1 Fashion and Sportswear: Influencers and Limited Drop
+
+
+Fashion and sportswear brands mainly use influencer partnerships and limited
+releases to match Gen Z's need for authenticity and urgency. Micro-influencers work
+better than celebrities, especially for streetwear and athleisure brands like Gymshark
+and Nike, where creator collaborations make up 47% of strategy focus (Opensend,
+2025). Limited edition releases and flash sales create FOMO, as shown by
+Supreme's weekly drops and Adidas Yeezy scarcity model (Opensend, 2025). At the
+same time, nostalgia marketing with Y2K aesthetics and 90s sportswear relaunches
+has become standard, with retro packaging gaining 43% higher TikTok engagement
+than current content (Barton et al., 2025).
+
+
+2.4.2.2 Beauty: Viral Challenges and Performance Positioning
+
+
+Beauty brands rely on TikTok viral challenges and AR experiences as main
+strategies, since 58% of Gen Z discover products through social media (BOF Team
+& McKinsey & Company, 2023). Augmented Reality(AR) filters and #GRWM (Get
+Ready With Me) videos promote brands like e.l.f. (Jarsking, 2025) and Rare Beauty
+(lensblogadmin, 2023). Affordable performance positioning works well (CeraVe, The
+Ordinary), with clinical effectiveness plus "clean girl" aesthetics (Sala, 2025).
+User-generated content like before/after reviews provides social proof, while
+personalisation through shade-matching quizzes and custom skincare routines
+builds emotional attachment (Tolstoy, 2025).
+
+
+
+2.4.2.3 Technology and Gaming: Community Building and Creator Integration
+Tech brands focus on gaming culture integration and community platforms. Discord
+servers, esports sponsorships, and beta tester programs create participatory brand
+ecosystems (Barton et al., 2025). Gaming peripherals (Razer, Logitech) and mobile
+brands partner with Twitch streamers and tech YouTubers for authentic
+endorsements (Dmytro Murko, 2023) (Logitech, 2019), while limited edition hardware
+drops follow fashion's FOMO model (Marketingdive, 2019). Visual storytelling
+through unboxing videos and sleek product renders dominates Instagram and
+YouTube strategies (Chaitanya Koneti et al., 2025).
+
+
+2.4.3 Common Strategies Across Categories
+
+
+Across all four categories, personalisation, social proof, and experiential marketing
+form the core approach, supported by AI-driven recommendations and immersive
+technologies. Recent studies confirm influencer credibility directly correlates with
+Gen Z brand preferences in fashion, beauty, and tech sectors. marking a shift from
+top-down messaging to peer-shaped narratives (Chaitanya Koneti et al., 2025). The
+strategies reflect Gen Z's demand for immediacy, authenticity, and cultural relevance
+through platform-native execution rather than interruptive advertising (Basis Signals,
+2026a).
+
+
+
+2.5 Research Gap
+
+
+
+Existing literature largely describes how brands react to Gen Z preferences through
+influencer marketing, scarcity tactics, and nostalgic design. However, it does not yet
+clarify whether Gen Z’s emotional traits directly drive these strategic changes, nor
+how these adjusted strategies further intensify Gen Z’s emotional consumption,
+creating self‑reinforcing cycles of FOMO‑driven impulse buying and nostalgia‑based
+brand dependence. The present study addresses both directions: how Gen Z
+characteristics shape brand strategy, and how these strategies in turn amplify
+emotional consumption across different Gen Z life stages.
+                                     References
+
+Alfasi, Y., & Weiss, O. (2022). Generation Z and the aesthetic of nostalgia: A
+
+      psychological and cultural exploration. Journal of Consumer Culture, 22(4),
+
+      613–627.
+
+Argan, M., Argan, M. T., Aydınoğlu, N. Z., & Özer, A. (2022). The delicate balance of
+
+      social influences on consumption: A comprehensive model of
+
+      consumer-centric fear of missing out. Personality and Individual Differences,
+
+      194(1), 111638. https://doi.org/10.1016/j.paid.2022.111638
+
+Balleyer, A. H., & Fennis, B. M. (2022). Hedonic Consumption in Times of Stress:
+
+      Reaping the Emotional Benefits Without the Self-Regulatory Cost. Frontiers in
+
+      Psychology, 13. https://doi.org/10.3389/fpsyg.2022.685552
+
+Barton, C., Nayak, M., Boger, S., Seara, J., & Geoffroy van Raemdonck. (2025,
+
+      October 29). How Gen Z and Gen Alpha Are Rewiring the Fashion Industry.
+
+      BCG Global.
+
+      https://www.bcg.com/publications/2025/how-gen-z-gen-alpha-rewiring-fashion
+
+      -industry
+
+Basis Signals. (2026a, February 25). Gen Z Research 2026 | Brand Trends &
+
+      Consumer Insights | Basis Global. Basis Global.
+
+      https://basisglobal.co/intelligence-hub/gen-z-research/
+
+Basis Signals. (2026b, February 27). Gen Z brand rankings 2026 | The Gen Z Brand
+
+      Radar | Basis Global. Basis Global.
+
+      https://basisglobal.co/intelligence-hub/the-gen-z-brand-radar-2026/
+
+BOF Team, & McKinsey & Company. (2023, June 13). How to Decode Gen-Z’s
+
+      Evolving Relationship with Beauty. The Business of Fashion.
+      https://www.businessoffashion.com/articles/beauty/the-state-of-fashion-beauty
+
+      -report-gen-z-diversity-consumer-behaviour-trends/
+
+Chaitanya Koneti, Dr, Seetharaman, K., & Maddulety. (2025). Influence of Gen Z
+
+      Consumer Behavior on Branding Techniques. 2(4), 2014–2028.
+
+Chakrabarti, D. (2024). A Study on How Social Media FOMO (Fear of Missing Out)
+
+      Impacts the Gen Z Audience. Indian Journal of Mass Communication and
+
+      Journalism, 4(1). https://doi.org/10.54105/ijmcj.e1083.04010924
+
+Dmytro Murko. (2023, May 24). The most popular computer peripheral brands on
+
+      Twitch. Streamscharts.com; Streams Charts.
+
+      https://streamscharts.com/news/most-popular-computer-peripheral-brands-twi
+
+      tch
+
+Doob, L. W. (1950). Goebbels’ Principles of Propaganda. The Public Opinion
+
+      Quarterly, 14(3), 419–442.
+
+      https://www.jstor.org/stable/pdf/2745999.pdf?ab_segments=0%252Ftbsub-1%
+
+      252Frelevance_config_with_tbsub&refreqid=excelsior%3A3b00df8482b640f9
+
+      886337200618afcc
+
+Elhai, J. D., Yang, H., & Montag, C. (2020). Fear of missing out (FOMO): overview,
+
+      theoretical underpinnings, and literature review on relations with severity of
+
+      negative affectivity and problematic technology use. Brazilian Journal of
+
+      Psychiatry, 43(2). https://doi.org/10.1590/1516-4446-2020-0870
+
+Emplicit. (2025, July 30). TikTok Engagement Rate Benchmarks 2025 - Emplicit.
+
+      Emplicit. https://emplicit.co/tiktok-engagement-rate-benchmarks-2025/
+
+Gupta, S. (2025). Gen Z refreshes Y2K fashion trend. Best of SNO.
+
+      https://bestofsno.com/77608/arts-entertainment/gen-z-refreshes-y2k-fashion-t
+
+      rend/
+InsightTrendsWorld. (2025, July 23). Fashion: Gen Z’s “Fauxstalgia”: The Digital
+
+       Echo of the 2000s Rewiring Consumer Culture. InsightTrendsWorld.
+
+       https://www.insighttrendsworld.com/post/fashion-gen-z-s-fauxstalgia-the-digita
+
+       l-echo-of-the-2000s-rewiring-consumer-culture
+
+Jarsking. (2025, November 11). From Viral Filter to Shopping Cart: How Beauty
+
+       Brands Master TikTok and AR for Next-Gen Marketing - Jarsking. Jarsking -
+
+       Packaging Supplier.
+
+       https://www.jarsking.com/from-viral-filter-to-shopping-cart-how-beauty-brands-
+
+       master-tiktok-and-ar-for-next-gen-marketing/
+
+Kalin Anastasov. (2025, June 6). Gen Z’s Fear of Missing Out Is Reshaping Online
+
+       Shopping Behavior. Influencer Marketing Hub.
+
+       https://influencermarketinghub.com/fomo-reshaping-online-shopping-behavior
+
+       /
+
+lensblogadmin. (2023, December 19). Viral TikTok Trends: How Beauty Brands Use
+
+       AR Filters to Win Customers. Lenslist Blog.
+
+       https://blog.lenslist.co/2023/12/19/the-power-of-beauty-ar-filters/
+
+Logitech. (2019). Logitech G’s Streamlabs Launches New Sponsorship Platform to
+
+       Connect Brands and Streamers. Logitech.com.
+
+       https://ir.logitech.com/press-releases/press-release-details/2025/Logitech-Gs-
+
+       Streamlabs-Launches-New-Sponsorship-Platform-to-Connect-Brands-and-Str
+
+       eamers/default.aspx
+
+Marketingdive. (2019). Digital Marketing News and Insights | Marketing Dive.
+
+       Marketingdive.com. https://www.marketingdive.com/
+
+Nations, U. (2022). Marine litter, an analytical overview. Unep.org, 2(1).
+
+       https://doi.org/N/A
+Opensend. (2025, July 8). Marketing Strategies For Fashion & Apparel Brands -
+
+      2025. Opensend.com; Opensend.
+
+      https://www.opensend.com/post/marketing-strategies-fashion-apparel-brands
+
+Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational,
+
+      emotional, and Behavioral Correlates of Fear of Missing out. Computers in
+
+      Human Behavior, 29(4), 1841–1848.
+
+      https://doi.org/10.1016/j.chb.2013.02.014
+
+Puckhaber, C. (2025, January 8). Cap Puckhaber Marketing Spiritual Blog. Cap
+
+      Puckhaber | Spiritual Marketing Blog; Cap Puckhaber Marketing Spiritual
+
+      Blog. https://marketingspiritual.com/what-is-emotional-consumption/
+
+Richins, Marsha L. (1997). Measuring Emotions in the Consumption Experience.
+
+      Journal of Consumer Research, 24(2), 127–146.
+
+      https://doi.org/10.1086/209499
+
+Sala, E. L. (2025, November 17). Prioritizing Performance, Gen Z Consumers Name
+
+      CeraVe, E.l.f. And Rare Beauty Products As Favorites, New Report Finds.
+
+      Beauty Independent.
+
+      https://www.beautyindependent.com/prioritizing-performance-gen-z-consumer
+
+      s-cerave-e-l-f-rare-beauty-products-as-favorites-new-report-finds/
+
+Suryawanshi, A. (2025). FOMO in the Current Generation: A Psychological and
+
+      Social Analysis. International Journal for Multidisciplinary Research, 7(5).
+
+      https://doi.org/10.36948/ijfmr.2025.v07i05.58447
+
+Tolstoy. (2025). 18 Fashion Marketing Trends for 2025: A Brand Roadmap.
+
+      Gotolstoy.com. https://www.gotolstoy.com/blog/fashion-marketing-trends
+Warren, K. (2024). Generation Z (Gen Z): Definition, Birth Years, and Demographics.
+
+      Investopedia.
+
+      https://www.investopedia.com/generation-z-gen-z-definition-5218554
+
+Wildschut, T., Sedikides, C., Arndt, J., & Routledge, C. (2006). Nostalgia: Content,
+
+      triggers, functions. Journal of Personality and Social Psychology, 91(5),
+
+      975–993. https://doi.org/10.1037/0022-3514.91.5.975
+
+Zigu. (2011). Hedonic Consumption Definition | Marketing Dictionary | MBA
+
+      Skool-Study.Learn.Share. MBA Skool-Study.Learn.Share.
+
+      https://www.mbaskool.com/business-concepts/marketing-and-strategy-terms/
+
+      16569-hedonic-consumption.html
+

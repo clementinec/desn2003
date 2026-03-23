@@ -1,0 +1,72 @@
+DESN2003: Literature Review
+Title: Identifying the Gap in Fitness Tracking Applications
+Name: Patwa Neil Amit
+UID: 3036320688
+
+The Foundation of Self-Tracking Fitness
+Modern research into fitness applications can be incorporated into the Technology Acceptance Model
+(TAM), which states that a user’s intention to use an app is primarily driven by their perspective of
+usefulness and ease of use. Within the aspect of fitness and nutrition tracking, MyFitnessPal is a popular
+application which has been the industry’s benchmark for a while now. Allowing to keep track of workout
+routines and its productivity within many specific categories, and having an extensive food database, now
+exceeding 14 million items, this app supports individuals by simplifying fitness tracking and the complex
+task of caloric monitoring into a manageable daily habit.
+
+However, app usage does not guarantee long-term adherence. While MyFitnessPal effectively allows
+physiological tracking, it simultaneously operates on a deficit-based model which triggers what
+researchers call “persuasive guilt”. A study led by University College London (UCL) noted that based on
+user interviews, when users fail to meet daily numerical goals, the app’s feedback tends to transition from
+a tool of motivation to a source of anxiety, resulting in discontinuing usage to prevent negative emotional
+reinforcement (Greaves, 2025).
+
+Personalization vs. Algorithmic Overload
+Conversely, the evolution of Fitbit demonstrates a shift from simple-step counting to a wellness
+ecosystem. Fitbit’s incorporation of heart rate variability, sleep stages and the provision of overall “Daily
+Readiness Scores” reflects a step towards deep personalization. Unlike the manual concept of fitness
+tracker applications, Fitbit uses sensors which automatically generates data collection, theoretically
+reducing the “friction points” that’s known to lead to user fatigue.
+
+Yet, this concept has introduced a new challenge; data visualization vs. data comprehension. While Fitbit
+provides high-fidelity charts, a research study by Lepler, a student from Jonkoping University studying
+Computer Science and Informatics suggests that an overload of physiological data without enough
+qualitative context can result in users feeling disconnected (Lepler, 2023). The overload and complexity
+of advanced user interfaces can decrease engagement. In this case, the “failed user” phenomenon is not
+due to the lack of data, but rather an inability to conveniently convert the data into earned milestones.
+
+The Gap
+What remains missing is the framework that successfully fills the gap between physiological
+quantification and psychological maintenance. Existing literature tends to label fitness tracking
+applications as either “tools for the motivated” or “toys for the curious”. However, there’s a distinct lack
+of research into the “disengaged user” within specific demographics, for example, the individuals who
+start highly motivated but tend to feel that these apps under-address their psychological needs for
+entertainment and variety. By focusing on these “friction points” where numerical goals clash with the
+user’s lived experiences, further research can identify how to transform short-term tracking into long-term
+tracking and beneficial habit formations necessary for true well-being, attempting to bridge the gap in the
+productivity of fitness tracking applications.
+
+Word Count: 467
+
+
+References:
+       Greaves M. (2025, October 22). Emotional strain of fitness and calorie counting apps revealed.
+
+        UCL News.
+
+        https://www.ucl.ac.uk/news/2025/oct/emotional-strain-fitness-and-calorie-counting-apps-revealed
+
+
+
+        Lepler, L. (2023). Seeing Yourself Visualized as Data : A Qualitative Study on Users’ Interactions
+
+        and Perceptions of Data Visualizations in Digital Self-Tracking. DIVA.
+
+        https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1774690&dswid=5191
+
+
+‌
+
+
+
+
+‌
+

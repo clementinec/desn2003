@@ -1,0 +1,123 @@
+       A Comparison of Reddit’s Anecdotal Knowledge and Fact-Centric Websites
+
+
+
+   -​ To what extent do users perceive Reddit as more helpful than fact-centric
+      websites (e.g., encyclopedias, official guides) for subjective queries that benefit
+      from personal experience, such as parenting advice or product
+      recommendations?
+
+
+
+   -​ How does the perceived helpfulness of Reddit compare to that of traditional
+      informational websites when users seek advice on complex, personal decisions
+      (e.g., career changes, medical support)?
+
+https://news.osu.edu/true-stories-can-win-out-on-social-media-study-finds/
+
+
+
+​https://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=4643&context=faculty_rsca
+
+
+
+
+https://www.sciencedirect.com/science/article/pii/S0378216622000315
+
+
+Background and Problem Statement
+
+The contemporary information ecosystem is characterized by a diversity of sources,
+ranging from traditional, fact-centric websites (e.g., encyclopedias, official guides) to
+dynamic, community-driven platforms. Among the latter, Reddit has emerged as a
+significant space for information exchange, hosting thousands of specialized
+communities (subreddits) where users seek and share knowledge on virtually any topic
+(Cannon et al., 2022). A particularly prevalent activity on Reddit is seeking and
+providing advice. Unlike fact-centric websites that prioritize authoritative, curated
+information, Reddit advice communities offer a space for peer-to-peer interaction where
+responses are often grounded in personal experience, anecdote, and communal
+validation (Cannon et al., 2022; Morrow, 2022).
+
+
+
+While fact-centric websites are optimized for objective, verifiable queries, their utility for
+subjective questions such as those involving personal dilemmas, nuanced social norms,
+or complex life decisions may be limited. Reddit’s advice forums, such as
+‘r/relationships’ and ‘r/AmItheAsshole’, provide an alternative by crowdsourcing moral
+and practical guidance (Cannon et al., 2022). The anonymity afforded by the platform
+encourages high levels of personal disclosure, creating a rich repository of "real-world,
+dyadic data from people seeking and offering relationship advice" (Collisson et al.,
+2018, as cited in Cannon et al., 2022).
+
+However, the nature of "helpfulness" on Reddit is complex and multifaceted.
+Helpfulness may not solely reside in direct, prescriptive advice. As Morrow (2022)
+demonstrates, responses to advice-seeking on Reddit frequently diverge from simply
+providing a solution; they can accept, negotiate, or even deny the validity of the initial
+request while still orienting towards the overall activity. This suggests that users may
+perceive value in a wider range of responses, including those offering affiliation, shared
+experience, or alternative perspectives. Furthermore, the structural and social dynamics
+of Reddit including its voting system, community norms, and the demographics of its
+users shape the type of information that is produced and elevated (Cannon et al., 2022).
+
+
+
+Despite the prevalence of advice-seeking on Reddit, a significant gap remains in
+understanding how its community-driven, anecdotal model is perceived in terms of
+helpfulness when compared directly to the authoritative, fact-based model of traditional
+websites. While research has explored the linguistic features of Reddit advice (Cannon
+et al., 2022) and the sequential organization of responses (Morrow, 2022), it has not
+systematically investigated the user’s perspective on this comparative value. The
+central problem, therefore, is the lack of empirical insight into the extent to which users
+perceive Reddit’s anecdotal, experience-based information as more helpful than
+fact-centric sources, particularly for the types of subjective and personal queries that
+dominate its advice communities. Understanding this perception is crucial for mapping
+the modern information landscape and recognizing the distinct roles that different types
+of sources play in public knowledge and decision-making.
+Primary Objectives
+
+
+
+This research aims to address the identified gap by pursuing the following primary
+objectives:
+
+
+
+1. To measure and compare user perceptions of helpfulness between Reddit and
+fact-centric websites (e.g., encyclopedias, official guides) for two distinct categories of
+subjective queries:
+
+  a. Queries that benefit from personal experience, such as parenting advice or
+product recommendations.
+
+  b. Queries involving complex, personal decisions, such as career changes or
+medical support.
+
+
+
+2. To investigate the specific attributes of information that contribute to perceived
+helpfulness on each type of platform. This involves exploring whether users value
+attributes like anecdotal evidence, communal validation, and empathetic affiliation on
+Reddit, versus attributes like accuracy, authority, and verifiability on fact-centric
+websites.
+
+
+
+3. To understand the contextual factors that influence a user’s preference for one
+information source over another. This includes examining how the nature of the query,
+the user's prior experience, and their trust in different types of information shape their
+choice and their ultimate assessment of helpfulness.
+
+Conclusion
+
+In conclusion, this study is designed to provide a systematic comparison of how users
+perceive the helpfulness of Reddit’s anecdotal, community-driven advice versus the
+factual, authoritative information from traditional websites. By focusing on subjective
+and personal queries, the core domain of Reddit’s advice communities, this research
+will move beyond platform descriptions to directly assess user value and preference.
+The findings are expected to clarify the distinct and complementary roles these
+platforms play in helping individuals navigate complex personal and subjective
+questions. Ultimately, this investigation will contribute to a more nuanced understanding
+of the modern information ecosystem, where lived experience and factual authority are
+not mutually exclusive but represent different, and potentially equally valuable, modes of
+knowledge for different contexts.
+

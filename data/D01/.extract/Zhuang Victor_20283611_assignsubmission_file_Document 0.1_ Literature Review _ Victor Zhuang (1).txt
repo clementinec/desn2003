@@ -1,0 +1,88 @@
+Document 0.1: Literature Review | Victor Zhuang
+
+Urgency and Early Preservation of Jiaohe Ancient City
+Jiaohe Ancient City, also known as Yarkhoto, is an abandoned earthen vernacular city that once
+served as a key node on the Silk Road, providing a site for research not only in the
+socio-cultural histories of its surrounding region (Xie, 1998; Zhang, 2023) but also in
+architectural and engineering wisdom (Zhang, 2023). Although the remains have stood for
+thousands of years, their current condition remains concerning, encompassing the full spectrum
+of deterioration in earthen structures (Li et al., 2011), noticeably caused by wind, sand, flooding,
+and acidic rain (UNESCO Beijing Office, 1999; Richards et al., 2020). Understanding its
+situation, preservation activities focusing on reinforcing and replicating started by the end of the
+twentieth century, mainly relying on techniques such as ramming and material replacement (Xie,
+1998; UNESCO Beijing Office, 1999). However, such traditional activities interfered with the site,
+causing irreversible changes that may have transformed its architecture, and environmental
+threats remained, only postponed.
+
+
+Current Techniques of Earthen Architectural Heritage Site Conservation
+Current methodologies in intervention build on suggestions for early preservation techniques
+(UNESCO Beijing Office, 1999), especially the anchoring of weathered structures expected to
+overturn (Li et al., 2011), by the updating and comparison of materials for strength with minimal
+intervention (Ren et al., 2024; Lu et al., 2025; Zhang et al., 2025). Anchoring materials, once
+traditionally made of steel, were unable to withstand long-term exposure to the environment due
+to the structure's metallic nature, leading to erosion (Ren et al., 2024). Novel methodologies,
+such as compositing the steel structure for strength with bamboo and a resin coating (Ren et al.
+2009), were comparatively better at targeting organic and problem-solving materials (Ren et al.
+2024). Testing and comparisons of such anchoring methods were often conducted on-site (Li et
+al., 2011; Lu et al., 2025). However, as pointed out by Yulan et al. (2023), excessive intervention
+in arching existing structures harms the structural integrity of the architectural ruin, and with
+anchors being mostly installed within the remains (Ren et al., 2024), placement of them
+remains, in one sense, an endangering technique of intervention.
+The Gap:
+Noticing that the preservation techniques remained to be directly engaged with the remains,
+which remained questionable as a solution due to possible structural integrity issues related to
+the placement of the supports and the remaining direct physical contact with the
+thousands-year-old site, responding to this issue, relevant research could be conducted for
+other methods of preservation with indirect procressing, such as drilling or methodologies to
+minimize harm from the installation of such anchoring stuctures using novel technologies in
+detection and prediction.
+
+
+Limitations of Current Review
+The current review, as reflected in the reference list, is mainly composed of research articles
+written by a single ethnicity and nationality. Alongside, possible articles of indirect yet
+environmentally targeting solutions proposals could be discovered.
+
+
+Reference
+
+Li, Z., Wang, X., Sun, M., Chen, W., Guo, Q., & Zhang, H. (2011). Conservation of jiaohe ancient
+    earthen site in China. Journal of Rock Mechanics and Geotechnical Engineering, 3(3),
+    270–281. https://doi.org/10.3724/sp.j.1235.2011.00270
+
+​Lu, W., Luo, K., Yan, X. et al. (2025). Anchoring performance of a novel two-section
+    pressure-tension composite anchor for earthen sites conservation. npj Herit. Sci. 13, 627.
+    https://doi.org/10.1038/s40494-025-02209-5
+
+Ren, F., Huang, Q., Wang, G., & Li, Z. (2024). Anchorage mechanism of bamboo-steel
+  composite rockbolts subjected to the coupled effect of tensile and shear stress.
+  Geoenvironmental Disasters, 11(1). https://doi.org/10.1186/s40677-023-00258-1
+
+Ren, Feifan & Chen, Wenwu & Zhang, J. & Liang, Shouyun & He, F. & Wang, Guan & Kai, Cui.
+  (2009). Study on construction techniques of a novel bamboo-steel composite rock-bolt.
+  Yanshilixue Yu Gongcheng Xuebao/Chinese Journal of Rock Mechanics and Engineering.
+  28. 3789-3794.
+
+Richards, J., Viles, H., & Guo, Q. (2020). The importance of wind as a driver of earthen heritage
+   deterioration in dryland environments. Geomorphology, 369, 107363.
+   https://doi.org/10.1016/j.geomorph.2020.107363
+
+UNESCO Beijing Office. (1999). Master plan for preservation and restoration of the Ancient
+  Ruins of Jiaohe. https://unesdoc.unesco.org/ark:/48223/pf0000145411
+Xie, Y. H. (1998). Report of the Protection and Conservation Project of the ancient city of Jiaohe,
+   Xinjiang Uygur Autonomous Region, China.
+   https://unesdoc.unesco.org/ark:/48223/pf0000115964
+
+Yulan, W., Jian, G., Weixi, Z. et al. (2023). Experimental research on the performance of a Novel
+   Geo-filament anchor for an Earthen architectural site. Herit Sci 11, 34.
+   https://doi.org/10.1186/s40494-022-00842-y
+
+Zhang, J., Zhang, T., Ma, Y. et al. (2025). Experimental study on biological solutions for
+  anchoring earthen heritage sites. npj Herit. Sci. 13, 352.
+  https://doi.org/10.1038/s40494-025-01910-9
+
+Zhang, Y. (2023). Knowledge of earthen heritage deterioration in dry areas of China: Salinity
+  effect on the formation of cracked surface crust. Heritage Science, 11(1).
+  https://doi.org/10.1186/s40494-023-00890-y
+

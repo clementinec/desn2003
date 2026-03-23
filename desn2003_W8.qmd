@@ -14,6 +14,23 @@ format:
     embed-resources: true
     incremental: true
 ---
+# Week 8 Reset {background-color="#E9C46A"}
+
+## Good Question, Wrong Method = Bad Research
+
+::: {.callout-important icon=false}
+Even strong topics fail when the method is vague, mismatched, or ethically unprepared.
+:::
+
+. . .
+
+Today is about getting your project into a state where you can defend:
+
+- what you are doing
+- why this method fits
+- who or what your evidence source is
+- what approval, consent, or data-handling issues must be resolved first
+
 ## Learning Objectives
 
 By the end of this session, you will be able to:
@@ -36,6 +53,57 @@ By end of class, complete the **Method Justification Paragraph**:
 
 This paragraph goes directly into your Doc 0.2 methodology section.
 :::
+
+---
+
+## Week 8 Quick Clinic: Are You Actually Ready?
+
+Before we get abstract again, do a fast self-check.
+
+::: {.columns}
+::: {.column width="50%"}
+**If your project involves people:**
+
+- Who exactly are your participants?
+- How will you recruit them?
+- What is one real risk or discomfort?
+- How will you record consent?
+- What documents are still missing?
+:::
+
+::: {.column width="50%"}
+**If your project does not involve people directly:**
+
+- What is your actual data source?
+- Why is it appropriate to the question?
+- What are the limits of that evidence?
+- What can you reasonably claim from it?
+- What will your analysis actually look like?
+:::
+:::
+
+## Week 8 Ethics Clinic (10 min)
+
+::: {.callout-note icon=false}
+## Use This If You Need Human Participants
+
+Open these now if your project may involve interviews, surveys, observations, or user testing:
+
+- [HREC Operational Guidelines (PDF)](data/guidelines.pdf)
+- [Ethical Approval Application Form (DOCX)](data/ethical-approval-application-form.docx)
+:::
+
+Write down:
+
+1. Do I need ethics approval for my current plan?
+2. What is my method in one sentence?
+3. Who are my participants and how will I recruit them?
+4. What is the biggest foreseeable risk?
+5. What supporting documents do I still need?
+
+. . .
+
+If you cannot answer these yet, that is the signal. Your methodology is not specific enough yet.
 
 ---
 
@@ -84,6 +152,25 @@ This sets the stage for why we need a strong grounding in research methods.
 Feel free to note questions for discussion at end or during activities.
 :::
 
+# Paradigms & Methods {background-color="#A8DADC"}
+
+## Method Roast (10 min)
+
+::: {.nonincremental}
+1. "I want to know why users feel anxious, so I'll run a yes/no survey."
+2. "I want to prove my design is better, so I'll interview three friends."
+3. "I want to study student behavior, so I'll do 30 interviews, a survey of 500, and an A/B test in two weeks."
+:::
+
+. . .
+
+**Roast each plan:** what is broken first?
+
+- wrong method for the question?
+- too little evidence?
+- unrealistic scope?
+- unclear causal claim?
+
 ## Research Paradigms: Theoretical Lenses
 
 - **What’s a Paradigm?** A fundamental worldview or belief system about knowledge and reality that guides research approach ([Positivist and Constructivist Paradigms | What do you think you're doing?](https://applingtesol.wordpress.com/2019/10/30/positivist-and-constructivist-paradigms/#:~:text=,methodology)) ([Positivist and Constructivist Paradigms | What do you think you're doing?](https://applingtesol.wordpress.com/2019/10/30/positivist-and-constructivist-paradigms/#:~:text=Positivism%20is%20a%20research%20paradigm,to%20test%20theories%20or%20hypotheses)). It includes:
@@ -119,6 +206,73 @@ Feel free to note questions for discussion at end or during activities.
 - We form a hypothesis (“Design A will be faster than Design B”), then gather data (like task completion times) to confirm or refute it.
 - Because of the focus on objectivity, methods are typically quantitative: metrics, statistical tests, large sample sizes to ensure the findings aren’t just due to chance.
 - **Example expansion:** Suppose a product manager is very positivist in mindset. They might say “Let’s not rely on anecdotes, let’s run an experiment. 10,000 users get the old feature, 10,000 get the new AI feature, and we measure engagement. Whichever has higher engagement wins.” That’s a very objectivist, data-driven approach aligned with positivism.
+:::
+
+## Case Card: Google's "41 Shades of Blue"
+
+::: {.columns}
+::: {.column width="55%"}
+<div style="display:grid;grid-template-columns:repeat(7,1fr);gap:6px;">
+<div style="height:46px;background:#003e8a;"></div>
+<div style="height:46px;background:#00408d;"></div>
+<div style="height:46px;background:#004290;"></div>
+<div style="height:46px;background:#004493;"></div>
+<div style="height:46px;background:#004696;"></div>
+<div style="height:46px;background:#004899;"></div>
+<div style="height:46px;background:#004a9c;"></div>
+<div style="height:46px;background:#004c9f;"></div>
+<div style="height:46px;background:#004ea2;"></div>
+<div style="height:46px;background:#0050a5;"></div>
+<div style="height:46px;background:#0052a8;"></div>
+<div style="height:46px;background:#0054ab;"></div>
+<div style="height:46px;background:#0056ae;"></div>
+<div style="height:46px;background:#0058b1;"></div>
+<div style="height:46px;background:#005ab4;"></div>
+<div style="height:46px;background:#005cb7;"></div>
+<div style="height:46px;background:#005eba;"></div>
+<div style="height:46px;background:#0060bd;"></div>
+<div style="height:46px;background:#0062c0;"></div>
+<div style="height:46px;background:#0064c3;"></div>
+<div style="height:46px;background:#0066c6;"></div>
+<div style="height:46px;background:#0068c9;"></div>
+<div style="height:46px;background:#006acc;"></div>
+<div style="height:46px;background:#006ccf;"></div>
+<div style="height:46px;background:#006ed2;"></div>
+<div style="height:46px;background:#0070d5;"></div>
+<div style="height:46px;background:#0072d8;"></div>
+<div style="height:46px;background:#0074db;"></div>
+<div style="height:46px;background:#0076de;"></div>
+<div style="height:46px;background:#0078e1;"></div>
+<div style="height:46px;background:#007ae4;"></div>
+<div style="height:46px;background:#007ce7;"></div>
+<div style="height:46px;background:#007eea;"></div>
+<div style="height:46px;background:#0080ed;"></div>
+<div style="height:46px;background:#0082f0;"></div>
+<div style="height:46px;background:#1485f3;"></div>
+<div style="height:46px;background:#2488f4;"></div>
+<div style="height:46px;background:#348bf5;"></div>
+<div style="height:46px;background:#448ef6;"></div>
+<div style="height:46px;background:#5491f7;"></div>
+<div style="height:46px;background:#6494f8;"></div>
+</div>
+:::
+
+::: {.column width="45%"}
+Google became famous for reportedly testing dozens of link-blue variants to optimize click-through.
+
+**Use this story well:**
+
+- the good version: measure what actually changes behavior
+- the bad version: mistake measurable tiny wins for the whole design problem
+- the teaching point: **positivism is powerful, but it can become absurd when the metric replaces judgment**
+
+**Discuss:** when is this smart, and when is it pathological?
+
+**Read / show:**
+
+- [WIRED: Google's Data Culture Drives Designer Crazy — and Out](https://www.wired.com/2009/03/googles-data-cu/)
+- [Zeldman: 41 Shades of Blue](https://zeldman.com/2009/03/20/41-shades-of-blue/)
+:::
 :::
 
 ## Constructivist Paradigm (Interpretivist)
@@ -314,6 +468,8 @@ Feel free to note questions for discussion at end or during activities.
 - For you as aspiring PMs or UX leaders: the trick is to inject academic rigor *just enough* to ensure quality (for instance, avoid leading questions in user interviews, use solid metrics for A/B tests) while maintaining the agility of design practice (not every study needs to be published, just useful).
 :::
 
+# AI Research in Practice {background-color="#F4A261"}
+
 ## Researching User Experience with Generative AI
 
 - **New Challenges:** Generative AI systems (like GPT-based tools or image generators) can behave unpredictably and interact with users in complex ways. Evaluating them requires looking beyond traditional usability. Key questions include: Do users **trust** the AI? How do they understand its suggestions or outputs? Are there misuse or ethical concerns?
@@ -340,6 +496,31 @@ Feel free to note questions for discussion at end or during activities.
 - In summary, researching GenAI UX is inherently interdisciplinary: you need to evaluate the algorithm’s performance *and* the human’s experience together.
 :::
 
+## Watch First: Wizard-of-Oz AI Demo
+
+::: {.columns}
+::: {.column width="58%"}
+[![](data/wizard_of_oz_nngroup.jpg){fig-alt="Wizard of Oz Method in UX video thumbnail" width="100%"}](https://www.youtube.com/watch?v=gDsb0vW_LM8)
+:::
+
+::: {.column width="42%"}
+**Why this matters**
+
+- You do **not** need a finished AI system to test the interaction
+- You can fake intelligence and still learn about trust, expectations, and workflow
+- This is one of the best ways to stop students from saying "I need to build it first"
+
+**Use in class**
+
+1. Watch the NN/g clip: [Wizard of Oz Method in UX](https://www.youtube.com/watch?v=gDsb0vW_LM8)
+2. Then ask: what part of your project could be faked by a human behind the curtain?
+
+**Backup reference**
+
+- [MIT: Wizard of Oz = computer frontend, human backend](https://web.mit.edu/6.813/www/sp16/classes/10-prototyping/)
+:::
+:::
+
 ## **Activity 2 (15–20 min)** – Plan a Research Strategy for a GenAI Feature
 
 **Scenario:** You are the product team for a new *AI-powered plugin in Figma* that automatically suggests design improvements (layout tweaks, color suggestions, accessibility fixes) to designers as they work.
@@ -353,6 +534,7 @@ Feel free to note questions for discussion at end or during activities.
      - *Post-launch/iterative phase:* e.g., instrumentation to collect usage analytics, plus follow-up surveys for user satisfaction.
   3. **Use of Figma:** How will you leverage Figma in the research? Perhaps to build interactive prototype scenarios for testing, or to collect feedback directly in the design context.
 - **Deliverable:** Be ready to briefly share your plan: which methods you chose and why, and how they complement each other to ensure both the AI’s performance and the UX are evaluated.
+- **Constraint:** At least one part of your plan must be runnable **before** the real AI exists.
 - *(If working solo, sketch your plan and consider writing a short research plan outline.)*
 
 ::: {.notes}
@@ -484,4 +666,3 @@ Before submitting, ask:
   - Continuous learning: Encourage them to practice these skills. In their projects or even daily work, be the person who asks “how do we know?” and suggests an evidence-gathering approach. That’s the crux of being research-minded.
 - Thank the audience, and open for any final questions or discussion. If relevant, mention any resources or references (perhaps the ones cited throughout, or textbooks like Creswell on research design, or Nielsen Norman Group articles for UX methods).
 :::
-

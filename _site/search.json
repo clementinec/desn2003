@@ -235,7 +235,7 @@
     "href": "desn2003_W8.html#activity-2-1520-min-plan-a-research-strategy-for-a-genai-feature",
     "title": "Research Methodologies in Design, HCI, and Generative AI",
     "section": "Activity 2 (15–20 min) – Plan a Research Strategy for a GenAI Feature",
-    "text": "Activity 2 (15–20 min) – Plan a Research Strategy for a GenAI Feature\nScenario: You are the product team for a new AI-powered plugin in Figma that automatically suggests design improvements (layout tweaks, color suggestions, accessibility fixes) to designers as they work.\n\nGoal: Develop a research plan to guide the design and refinement of this AI feature.\nIn Teams: Spend the next ~15 minutes outlining:\n\nKey research questions: What do you need to learn? (e.g., Do designers trust the suggestions? Does it actually speed up design work? What problems or biases might occur?)\nMethods to use: Choose at least two methods (mix qualitative/quantitative). When and how will you use them?\n\nGenerative/exploratory phase: e.g., contextual inquiry or interviews with designers to understand how they might use such a tool and what they need.\nPrototyping/testing phase: e.g., create a prototype of the plugin (even a Wizard-of-Oz simulation in Figma) and conduct usability tests or A/B comparisons.\nPost-launch/iterative phase: e.g., instrumentation to collect usage analytics, plus follow-up surveys for user satisfaction.\n\nUse of Figma: How will you leverage Figma in the research? Perhaps to build interactive prototype scenarios for testing, or to collect feedback directly in the design context.\n\nDeliverable: Be ready to briefly share your plan: which methods you chose and why, and how they complement each other to ensure both the AI’s performance and the UX are evaluated.\n(If working solo, sketch your plan and consider writing a short research plan outline.)\n\n\nGuidance for Activity 2: - This is a capstone activity pulling everything together. Students should apply paradigm thinking and method knowledge to a realistic project. - Team setup: Form small groups (3-5 students ideally). If remote/asynchronous, individuals can do it but encourage sharing afterward. - Clarify scenario: An AI plugin in Figma suggesting design improvements. Essentially an “auto-designer assistant.” It’s a generative AI use-case in a UI context they’re familiar with. - They need to think of what to research: - Perhaps start with: “What would success look like for this feature? And what might go wrong?” That yields research questions: e.g., Will designers use or ignore the suggestions? Do suggestions actually help or annoy? Are there types of suggestions that are always rejected? Do users trust the AI on important decisions (colors, spacing)? Are there any failure cases (bad suggestions that could embarrass the designer)? User needs/expectations? - Encourage mixing methods: For example: - Early on, interviews or observations of designers working without the AI to see where it could fit (this identifies needs). - Then a prototype test: maybe design two prototype versions (one with subtle suggestions, one with aggressive auto-changes) and do a usability study or A/B test in a workshop. - After an initial version, gather analytics: measure how often suggestions are accepted, measure time saved, etc. And perhaps a survey or interviews after a week of use to get subjective feedback (do they feel it improved their workflow?). - Even a diary study could be proposed if someone uses it over a week on a real project, to see how their attitude changes. - Figma’s role: They can actually create a fake plugin UI in Figma (like a sidebar that lists suggestions) as a prototype for the test. Or use Figma’s prototyping to simulate the AI suggestions popping up. - Also, Figma could allow instrumenting the prototype to see what people click (with tools like Maze). - Time check: 15 minutes is short. Suggest to them to outline bullets rather than write a full plan. It’s about the reasoning: what methods and why. - After 15 min: Have each group (or a few groups, depending on time) share highlights. Possibly ask: “Which methods did you choose for exploratory vs evaluative? Why?” or “How will you know if your AI plugin is successful according to your research plan?” - Use their sharing to highlight good mixes: e.g., “Group A will do interviews then usage analytics – great mix of qual and quant. Group B wants to run a wizard-of-oz test with a fake AI – that’s a fantastic idea to get early feedback,” etc. - Connect back to lecture content explicitly: They are basically doing what we learned – identifying questions, choosing qual/quant, considering iterative design (DBR style), etc., and even ethics (maybe someone will mention checking if AI suggestions are biased or not useful for certain styles)."
+    "text": "Activity 2 (15–20 min) – Plan a Research Strategy for a GenAI Feature\nScenario: You are the product team for a new AI-powered plugin in Figma that automatically suggests design improvements (layout tweaks, color suggestions, accessibility fixes) to designers as they work.\n\nGoal: Develop a research plan to guide the design and refinement of this AI feature.\nIn Teams: Spend the next ~15 minutes outlining:\n\nKey research questions: What do you need to learn? (e.g., Do designers trust the suggestions? Does it actually speed up design work? What problems or biases might occur?)\nMethods to use: Choose at least two methods (mix qualitative/quantitative). When and how will you use them?\n\nGenerative/exploratory phase: e.g., contextual inquiry or interviews with designers to understand how they might use such a tool and what they need.\nPrototyping/testing phase: e.g., create a prototype of the plugin (even a Wizard-of-Oz simulation in Figma) and conduct usability tests or A/B comparisons.\nPost-launch/iterative phase: e.g., instrumentation to collect usage analytics, plus follow-up surveys for user satisfaction.\n\nUse of Figma: How will you leverage Figma in the research? Perhaps to build interactive prototype scenarios for testing, or to collect feedback directly in the design context.\n\nDeliverable: Be ready to briefly share your plan: which methods you chose and why, and how they complement each other to ensure both the AI’s performance and the UX are evaluated.\nConstraint: At least one part of your plan must be runnable before the real AI exists.\n(If working solo, sketch your plan and consider writing a short research plan outline.)\n\n\nGuidance for Activity 2: - This is a capstone activity pulling everything together. Students should apply paradigm thinking and method knowledge to a realistic project. - Team setup: Form small groups (3-5 students ideally). If remote/asynchronous, individuals can do it but encourage sharing afterward. - Clarify scenario: An AI plugin in Figma suggesting design improvements. Essentially an “auto-designer assistant.” It’s a generative AI use-case in a UI context they’re familiar with. - They need to think of what to research: - Perhaps start with: “What would success look like for this feature? And what might go wrong?” That yields research questions: e.g., Will designers use or ignore the suggestions? Do suggestions actually help or annoy? Are there types of suggestions that are always rejected? Do users trust the AI on important decisions (colors, spacing)? Are there any failure cases (bad suggestions that could embarrass the designer)? User needs/expectations? - Encourage mixing methods: For example: - Early on, interviews or observations of designers working without the AI to see where it could fit (this identifies needs). - Then a prototype test: maybe design two prototype versions (one with subtle suggestions, one with aggressive auto-changes) and do a usability study or A/B test in a workshop. - After an initial version, gather analytics: measure how often suggestions are accepted, measure time saved, etc. And perhaps a survey or interviews after a week of use to get subjective feedback (do they feel it improved their workflow?). - Even a diary study could be proposed if someone uses it over a week on a real project, to see how their attitude changes. - Figma’s role: They can actually create a fake plugin UI in Figma (like a sidebar that lists suggestions) as a prototype for the test. Or use Figma’s prototyping to simulate the AI suggestions popping up. - Also, Figma could allow instrumenting the prototype to see what people click (with tools like Maze). - Time check: 15 minutes is short. Suggest to them to outline bullets rather than write a full plan. It’s about the reasoning: what methods and why. - After 15 min: Have each group (or a few groups, depending on time) share highlights. Possibly ask: “Which methods did you choose for exploratory vs evaluative? Why?” or “How will you know if your AI plugin is successful according to your research plan?” - Use their sharing to highlight good mixes: e.g., “Group A will do interviews then usage analytics – great mix of qual and quant. Group B wants to run a wizard-of-oz test with a fake AI – that’s a fantastic idea to get early feedback,” etc. - Connect back to lecture content explicitly: They are basically doing what we learned – identifying questions, choosing qual/quant, considering iterative design (DBR style), etc., and even ethics (maybe someone will mention checking if AI suggestions are biased or not useful for certain styles)."
   },
   {
     "objectID": "desn2003_W8.html#academic-vs.-product-research-writing",
@@ -312,7 +312,7 @@
     "href": "index.html#resources",
     "title": "DESN2003",
     "section": "Resources",
-    "text": "Resources\n\nGrab-and-Go Artifacts\nPrintable PDF toolkits — each includes a blank template on page 1 and a worked example on page 2.\n\n\n\nWeek\nToolkit\nDescription\n\n\n\n\n3\nLandscape Intelligence Canvas\nCompetitive + academic research synthesis\n\n\n4\nResearch Question Builder\nFINER criteria, scope check, question types\n\n\n5\nInterview Protocol Template\nOpening script, probes, anti-patterns\n\n\n6\nSurvey Design Checklist\nBias checks, Likert scales, sample size guide\n\n\n9\nSynthesis Canvas\nQual→themes, quant patterns, triangulation\n\n\n9\nResearch to Decision Canvas\nFor Applied Research: evidence → recommendation\n\n\n\n\n\nCourse Materials\n\nAssessment Guide — Grading breakdown, document progression, submission guidelines\nWriting Samples — Examples of strong student work\nWorksheet: Qualitative Methods — Quick-reference interview guide\nExample Writeup — Sample research writeup\nPeer Review Guide — Evaluation criteria for peer feedback\n\nWeek 10 Data Files:\n\nPlotting Examples | Google Colab\nSurvey Data | Transcripts | Tabular Data"
+    "text": "Resources\n\nGrab-and-Go Artifacts\nPrintable PDF toolkits — each includes a blank template on page 1 and a worked example on page 2.\n\n\n\nWeek\nToolkit\nDescription\n\n\n\n\n3\nLandscape Intelligence Canvas\nCompetitive + academic research synthesis\n\n\n4\nResearch Question Builder\nFINER criteria, scope check, question types\n\n\n5\nInterview Protocol Template\nOpening script, probes, anti-patterns\n\n\n6\nSurvey Design Checklist\nBias checks, Likert scales, sample size guide\n\n\n9\nSynthesis Canvas\nQual→themes, quant patterns, triangulation\n\n\n9\nResearch to Decision Canvas\nFor Applied Research: evidence → recommendation\n\n\n\n\n\nCourse Materials\n\nAssessment Guide — Grading breakdown, document progression, submission guidelines\nWriting Samples — Examples of strong student work\nWorksheet: Qualitative Methods — Quick-reference interview guide\nExample Writeup — Sample research writeup\nPeer Review Guide — Evaluation criteria for peer feedback\n\n\n\nEthics & Approval\n\nWeek 7: KYC, Ethics Approval & Analysis — Slide deck with the ethics walk-through\nHREC Operational Guidelines (PDF) — Official HKU guidance referenced in Week 7\nEthical Approval Application Form (DOCX) — HKU TPg and UG application form used in the walk-through\n\nWeek 10 Data Files:\n\nPlotting Examples | Google Colab\nSurvey Data | Transcripts | Tabular Data"
   },
   {
     "objectID": "index.html#course-info",
@@ -833,11 +833,11 @@
     "text": "Quick Q&A on Information interviews\n\nDo you think you have a better idea of what these are by now?\nAny questions that you may have before we dive deeper into how to design/prepare for one?"
   },
   {
-    "objectID": "desn2003_W7.html#identify-persons-of-intersts",
-    "href": "desn2003_W7.html#identify-persons-of-intersts",
+    "objectID": "desn2003_W7.html#identify-persons-of-interest",
+    "href": "desn2003_W7.html#identify-persons-of-interest",
     "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Identify Person(s) of Intersts",
-    "text": "Identify Person(s) of Intersts\n\nWho to reach out to?\n\nIndustry Leaders and Role Models\nAlumni Network\nProfessional Associations\n\nUtilizing LinkedIn:\n\nAdvanced Sesarch Features\n\nFilter professionals by industry, company, role and even location\n\nLinkedIn Groups: Join groups of related interests.\n\nHow to narrow scope of search?\n\nFinding Common Grounds\n\nShared Interests\nRecent Publications or Talks\n\nLeverage Existing Connections: Academic/Industry\n\nDemo"
+    "section": "Identify Persons of Interest",
+    "text": "Identify Persons of Interest\n\nWho to reach out to?\n\nIndustry Leaders and Role Models\nAlumni Network\nProfessional Associations\n\nUtilizing LinkedIn:\n\nAdvanced Search Features\n\nFilter professionals by industry, company, role and even location\n\nLinkedIn Groups: Join groups of related interests.\n\nHow to narrow scope of search?\n\nFinding Common Grounds\n\nShared Interests\nRecent Publications or Talks\n\nLeverage Existing Connections: Academic/Industry\n\nDemo"
   },
   {
     "objectID": "desn2003_W7.html#crafting-effective-cold-messages",
@@ -854,32 +854,11 @@
     "text": "Reaching Out\n\n\nChoosing the Right Platform\n\nPlatform Etiquette: Norms and best practices differ across LinkedIn, email, professional forums\nProfessional Channels: make sure your profiles are up-to-date and professional\nTiming: avoid weekends, late nights, and major holidays\nFollow-up: wait 1-2 weeks, then a polite follow-up if no response\n\n\nManaging Volume & Responses\n\nTrack who you’ve contacted and when (simple spreadsheet)\nQuality over quantity — no mass messaging\nPositive reply? Respond promptly, express gratitude, propose times\nNo reply? Not personal. Consider adjusting your message or trying a different channel\nRejection? Part of the process. Learn and move on"
   },
   {
-    "objectID": "desn2003_W7.html#reaching-out-continued",
-    "href": "desn2003_W7.html#reaching-out-continued",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Reaching Out (Continued)",
-    "text": "Reaching Out (Continued)\nManaging Outreach Volume:\n\nTracking System:\n\nset up a simple tracking system (like a spreadsheet) to monitor whom you’ve contacted,\nwhen, and any responses or follow-up actions needed.\n\nBalanced Approach:\n\nideally no mass messaging.\na balanced, targeted approach to outreach,\nfocusing on quality and personalization over quantity."
-  },
-  {
-    "objectID": "desn2003_W7.html#dealing-with-responses",
-    "href": "desn2003_W7.html#dealing-with-responses",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Dealing with Responses:",
-    "text": "Dealing with Responses:\nPositive Responses:\n\nImmediate Acknowledgment:\n\nrespond promptly to positive replies,\nexpressing gratitude for the willingness to engage and\nproposing potential times for the chat or meeting.\n\nPreparation:\n\nbeing well-prepared for the interaction,\nwith specific questions and goals in mind.\n\n\nNegative or No Responses:\n\nHandling Rejection:\n\nnot everyone will have the time or interest to respond\nit’s not a reflection of their worth or the quality of their outreach.\naka it might be very frustrating.\n\nLearning from Silence:\n\nhow would a lack of response offer learning opportunities?\nshould you change your outreach strategy or message content?"
-  },
-  {
     "objectID": "desn2003_W7.html#know-your-client-kyc",
     "href": "desn2003_W7.html#know-your-client-kyc",
     "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
     "section": "Know Your Client (KYC)",
     "text": "Know Your Client (KYC)\nDo your homework so that you do not make mistakes.\n\n\nResearch Basics\n\nBackground Check: LinkedIn profile, professional bios, recent publications, news\nUnderstanding their work: role, projects, contributions, context and significance\n\nContextual Understanding\n\nKnow the Industry: major trends, challenges and opportunities\nCompany Culture: culture and values for talking points\n\n\nPreparing Questions\n\nInformed and Open-Ended: reflecting your research and curiosity\nPersonalized Inquiry: avoid overly general or easily Google-able questions\nObject-Oriented: what do you want to achieve?\n\nfirst-hand critique on the discipline\nday-to-day reality of the role/industry\n\nSet an agenda: what happens if you don’t have one?"
-  },
-  {
-    "objectID": "desn2003_W7.html#know-your-client-kyc-contd",
-    "href": "desn2003_W7.html#know-your-client-kyc-contd",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Know Your Client (KYC) Cont’d",
-    "text": "Know Your Client (KYC) Cont’d\nPreparing Questions: Structured/Semi-structured\n\nInformed Questions: Informed and Open-Ended, reflecting their research and curiosity about the professional\nPersonalized Inquiry: avoid overly general or easily Google-able questions\nObject-Oriented: what do you want to achieve through the interviews\n\nget first-hand critique on the discipline\nknow what day-to-day is like at the particular industry\n\nSet an agenda: what will happen if you don’t have one?"
   },
   {
     "objectID": "desn2003_W7.html#activity-research-a-professional-10-min",
@@ -896,13 +875,6 @@
     "text": "Meet Your Client\n\n\nDuring the Conversation\n\nActive Engagement: active listening, body language, follow-up questions\nNote-taking: brief notes with permission — shows engagement and respect\nTime Management: stick to agreed time; don’t overextend\nConfidentiality: respect any sensitive information shared\n\n\nAfter the Conversation\n\nReview and Reflect: review notes soon after; identify key learnings and follow-ups\nFeedback Loop: what went well? What could improve for next time?\nThank You: always send a follow-up thank you note"
   },
   {
-    "objectID": "desn2003_W7.html#meet-your-client-continued",
-    "href": "desn2003_W7.html#meet-your-client-continued",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Meet Your Client (Continued)",
-    "text": "Meet Your Client (Continued)\nPost-Interaction Reflection:\nReflective Practice:\n\nReview and Reflect:\n\nreview their notes and reflect on the conversation soon after,\nidentifying key learnings and any follow-up actions they might take.\n\nFeedback Loop:\n\nconsider what went well and what could be improved for future interactions\nmindset of continuous improvement."
-  },
-  {
     "objectID": "desn2003_W7.html#mock-interview-if-we-have-time-15min",
     "href": "desn2003_W7.html#mock-interview-if-we-have-time-15min",
     "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
@@ -910,74 +882,81 @@
     "text": "Mock Interview (If we have time ~ 15min)\n\none-on-one practice: professional vs. student interviewer\nwork together and determine who the professional will shadow (a real person)\nKYC on industry/persona individually\nstudent interviewer to come up with 3 questions as structured interview and one follow-up during the conversation\nstudent/professional to swap (if we have time)"
   },
   {
-    "objectID": "desn2003_W7.html#activities",
-    "href": "desn2003_W7.html#activities",
+    "objectID": "desn2003_W7.html#the-rule",
+    "href": "desn2003_W7.html#the-rule",
     "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Activities",
-    "text": "Activities\n\nVote to review one literature review that was submitted (anonymized on mentimeter).\nSelected literature reviewed by peers with the following criteria:\n\n\nObjective: Does the literature review sufficiently present its objective?\nLandscape: Do you think the literature review presented a clear theoretical framework of what are the relevant studies and state-of-the art research landscape?\nCaveat/Importance: Does the literature review present any clear indication that there is room for investigation of any existing caveats?\nCitations: Do you think the number of citations included is enough/adequate?\nImprovements: Anything that the author can do to strengthen the literature review?\nChallenge: On the topics that were discussed in the literature review, can you quickly leverage google scholar to find additional ones that investigates similar things?\n\n\nWe will review the remainder three of the five documents (so long as time permits) for this week.\n\n\nRefer back to the literature review checklist criteria from the Doc 0.1 briefing if students need a refresher on what makes a strong lit review."
+    "section": "The Rule",
+    "text": "The Rule\n\nThe informational interviews we just practiced? Those are networking — casual, professional conversations.\nBut when you start collecting data for your research project — interviewing users, running surveys, observing people, conducting user tests — different rules apply.\n\n\n\n\n\nHKU Policy\n\n\nNo data can be collected or analysed before ethics approval is obtained from the relevant committee.\nThis is not a suggestion. Failure to comply can result in rejection of your work, required recollection of data, and disciplinary action."
   },
   {
-    "objectID": "desn2003_W7.html#addendum-checklist-for-successful-literature-review",
-    "href": "desn2003_W7.html#addendum-checklist-for-successful-literature-review",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Addendum: Checklist for successful literature review",
-    "text": "Addendum: Checklist for successful literature review\n1. Clarity and Coherence:\n\nClear Objective: Define the specific goals and scope of the literature review.\nLogical Structure: Organize content in a logical manner, facilitating easy navigation and understanding.\nLanguage and Terminology: Use clear, concise language appropriate for an interdisciplinary audience, avoiding unnecessary jargon.\n\n2. Problem Statement and Importance:\n\nWell-defined Issue: Clearly articulate the problem or research question the literature review addresses.\nSignificance: Explain the importance and relevance of the problem within the context of design and computer science.\nGap Identification: Highlight gaps or shortcomings in existing research that the literature review aims to address."
+    "objectID": "desn2003_W7.html#why-this-matters-right-now",
+    "href": "desn2003_W7.html#why-this-matters-right-now",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Why This Matters Right Now",
+    "text": "Why This Matters Right Now\n\nYour timeline:\n\n\n\n\n\n\n\n\nMilestone\nWhen\nImplication\n\n\n\n\nDoc 0.2 (Methodology)\nWeek 10\nMust describe your data collection plan in detail\n\n\nEthics approval processing\n~3 weeks\nIf you need approval, start the application now\n\n\nData collection\nAfter approval only\nCannot begin until you have the green light\n\n\n\n\nIf your research involves human participants, you are already behind if you haven’t started thinking about this."
   },
   {
-    "objectID": "desn2003_W7.html#addendum-checklist-for-successful-literature-review-contd",
-    "href": "desn2003_W7.html#addendum-checklist-for-successful-literature-review-contd",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Addendum: Checklist for successful literature review (Cont’d)",
-    "text": "Addendum: Checklist for successful literature review (Cont’d)\n3. Theoretical Framework:\n\nConceptual Underpinnings: Present the theories or models that underlie the research area.\nFramework Integration: Demonstrate how the theoretical framework informs the literature review’s approach and analysis.\nInterdisciplinary Relevance: Ensure the framework is relevant and accessible to both design and computer science perspectives.\n\n4. Comprehensive Coverage:\n\nBreadth and Depth: Cover a wide range of sources while diving deep into critical studies.\nDiverse Sources: Include academic journals, conference papers, books, and reputable online resources relevant to both fields.\nTimeliness: Ensure the inclusion of both foundational texts and recent research to reflect the current state of knowledge.\n\n5. Critical Analysis:\n\nComparative Analysis: Compare and contrast different studies, highlighting similarities and differences.\nMethodological Evaluation: Assess the methodologies used in key studies for their strengths and limitations.\nTheoretical Critique: Critically evaluate the theories discussed in the literature for their applicability and limitations in the interdisciplinary context."
+    "objectID": "desn2003_W7.html#the-ethics-form-your-methodology-draft",
+    "href": "desn2003_W7.html#the-ethics-form-your-methodology-draft",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "The Ethics Form = Your Methodology Draft",
+    "text": "The Ethics Form = Your Methodology Draft\n\nThe ethics application form asks you the exact same questions as Doc 0.2:\n\n\n\nEthics Form Asks\nDoc 0.2 Asks\n\n\n\n\nHow will participants be recruited?\nSampling strategy\n\n\nWhat data will you collect and how?\nData collection method\n\n\nWhat are the risks to participants?\nRisk assessment\n\n\nHow will you obtain consent?\nConsent procedure\n\n\nHow will data be stored and destroyed?\nData management plan\n\n\n\n\n\nThis is not extra work. This IS the work. Figure it out now, not the night before you test."
   },
   {
-    "objectID": "desn2003_W7.html#addendum-checklist-for-successful-literature-review-contd-1",
-    "href": "desn2003_W7.html#addendum-checklist-for-successful-literature-review-contd-1",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Addendum: Checklist for successful literature review (Cont’d)",
-    "text": "Addendum: Checklist for successful literature review (Cont’d)\n6. Synthesis:\n\nThematic Organization: Synthesize literature thematically rather than summarizing each source individually.\nInsight Generation: Derive new insights or perspectives from the synthesis of the reviewed literature.\nInterdisciplinary Integration: Fuse insights from design and computer science to create a cohesive understanding.\n\n7. Relevance to Research Question:\n\nAlignment: Ensure all reviewed literature contributes to answering the research question or addressing the problem statement.\nApplication: Discuss how findings from the literature review apply to the specific intersection of design and computer science.\n\n8. Source Evaluation:\n\nCredibility Assessment: Evaluate the credibility and reliability of each source.\nBias and Perspective: Acknowledge potential biases in the literature and strive for a balanced perspective."
+    "objectID": "desn2003_W7.html#does-your-project-need-ethics-approval",
+    "href": "desn2003_W7.html#does-your-project-need-ethics-approval",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Does YOUR Project Need Ethics Approval?",
+    "text": "Does YOUR Project Need Ethics Approval?\nQuick decision tree:\n\n\nDoes your research involve collecting new data from people?\n\nInterviews, surveys, user tests, observations of identifiable individuals\nYes → You need ethics approval. Full stop.\n\nDoes your research use pre-existing personal data?\n\nStudent records, health data, identifiable social media posts\nYes → You still need ethics approval\n\nIs it only an anonymous internal teaching survey (not for research/publication)?\n\nYes → Exempt. Everything else → not exempt.\n\n\n\n\n\n\n\nNote\n\n\nFor this course: If you are unsure, assume you need it. I am responsible for endorsing your application as your supervisor. Come talk to me."
   },
   {
-    "objectID": "desn2003_W7.html#addendum-checklist-for-successful-literature-review-contd-2",
-    "href": "desn2003_W7.html#addendum-checklist-for-successful-literature-review-contd-2",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Addendum: Checklist for successful literature review (Cont’d)",
-    "text": "Addendum: Checklist for successful literature review (Cont’d)\n9. Conclusions and Implications:\n\nSummary of Findings: Concisely summarize key findings and their implications for the research area.\nFuture Research Directions: Identify areas where further research is needed, especially at the intersection of design and computer science.\n\n10. Documentation and Referencing:\n\nConsistent Formatting: Adhere to a consistent citation style appropriate for the interdisciplinary audience.\nAccurate Citations: Ensure all sources are accurately cited within the text and in the reference list.\n\n11. Reflection on Interdisciplinarity:\n\nIntegration Challenges: Discuss any challenges encountered in integrating design and computer science literature and how they were addressed.\nValue of Interdisciplinary Approach: Reflect on how the interdisciplinary approach enriches the understanding of the topic."
+    "objectID": "desn2003_W7.html#the-hku-pathway-for-undergraduate-students",
+    "href": "desn2003_W7.html#the-hku-pathway-for-undergraduate-students",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "The HKU Pathway for Undergraduate Students",
+    "text": "The HKU Pathway for Undergraduate Students\n\n┌──────────────────┐\n│   YOU (Student)   │  ← Fill out the application form\n│                   │  ← Prepare: consent form, info sheet,\n│                   │    interview script / questionnaire\n└────────┬─────────┘\n         ▼\n┌──────────────────┐\n│ Your Supervisor   │  ← Reviews & endorses as Principal Investigator\n│ (i.e., Me)       │\n└────────┬─────────┘\n         ▼\n┌──────────────────┐\n│ Head of Dept /    │  ← Submits to Faculty or HREC\n│ Dean of Faculty   │\n└────────┬─────────┘\n         ▼\n┌──────────────────┐\n│ Ethics Committee  │  ← Reviews (~3 weeks)\n│ (FREC or HREC)   │  ← Approved / Conditionally Approved / Not Approved\n└──────────────────┘\nYou don’t submit directly to HREC. But you do the thinking and fill out the form."
   },
   {
-    "objectID": "desn2003_W7.html#revisiting-report-submission",
-    "href": "desn2003_W7.html#revisiting-report-submission",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Revisiting Report Submission",
-    "text": "Revisiting Report Submission\n\nDocument 0: Research Statement (Extended Abstract)\nDocument 0.1: Literature Review\nDocument 0.2: Methodology & Data Needed/Collected\nDocument 1: Research Proposal (Paper-like)\n\nCheck Moodle for current due dates."
+    "objectID": "desn2003_W7.html#core-principles-what-the-committee-evaluates",
+    "href": "desn2003_W7.html#core-principles-what-the-committee-evaluates",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Core Principles: What the Committee Evaluates",
+    "text": "Core Principles: What the Committee Evaluates\n\nEvery ethics application is assessed against the Belmont Report principles:\n\n\n\n\n\n\n\n\nPrinciple\nWhat It Means\nAsk Yourself\n\n\n\n\nMinimal risk\nRisk ≤ what participants face in daily life\nCould your questions cause distress?\n\n\nInformed consent\nParticipants know what they agree to\nDo they know what happens to their data?\n\n\nNo coercion\nParticipation is truly voluntary\nAny grade or payment pressure?\n\n\nProtect vulnerable groups\nExtra care for minors, elderly, at-risk\nAnyone under 18? → Parental consent\n\n\nConfidentiality\nData protected, eventually destroyed\nHow will you anonymize and store?\n\n\nProportionate benefit\nResearch value justifies the intrusion\nWhy THIS data from THESE people?\n\n\n\n\n\nReference: HKU HREC Operational Guidelines, Section V (Item 13). Full document linked on next slide."
   },
   {
-    "objectID": "desn2003_W7.html#research-process-in-flow-chart",
-    "href": "desn2003_W7.html#research-process-in-flow-chart",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Research Process in Flow Chart",
-    "text": "Research Process in Flow Chart"
+    "objectID": "desn2003_W7.html#walk-through-the-application-form",
+    "href": "desn2003_W7.html#walk-through-the-application-form",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Walk-Through: The Application Form",
+    "text": "Walk-Through: The Application Form\n\n\n\nDownload These Now\n\n\n\nEthical Approval Application Form (DOCX) — The actual HKU form for TPg and UG students.\nHREC Operational Guidelines (PDF) — Full HKU guidelines on principles, procedures, and requirements.\n\nOpen both as we walk through this.\n\n\n\n\nPart B — Your Project (in plain language, no jargon)\n\nWhat is your research about? What are your objectives? What is your methodology?\nThink of it as your Doc 0 abstract + Doc 0.2 summary, written so a non-specialist can understand."
   },
   {
-    "objectID": "desn2003_W7.html#checklist-for-your-final-research-proposalpaper-submission",
-    "href": "desn2003_W7.html#checklist-for-your-final-research-proposalpaper-submission",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Checklist for your final research proposal/paper submission",
-    "text": "Checklist for your final research proposal/paper submission\nElements that you’ve finalized:\n\nResearch Problem Definition (Doc 0):\n\nArticulated innovative challenge or aspect addressed.\nContextualized within industry/societal needs.\n\nRelevant Concepts and Theories (Doc 0.1):\n\nReviewed key theories underpinning the innovation area.\nIncluded interdisciplinary approaches.\n\nPrevious Research Findings (Doc 0.1):\n\nHighlighted past innovations and research.\nNoted successes and gaps for building upon/addressing.\n\n\nReady to be finalized:\n\nHypothesis Formulation (Doc 0.2):\n\nDeveloped clear, testable hypotheses predicting innovation outcomes.\n\nResearch Design Formulation (Doc 0.2):\n\nOutlined appropriate research methodologies/technologies to be used.\nDiscussed feasibility and potential impact of proposed research design."
+    "objectID": "desn2003_W7.html#walk-through-part-c-data-collection",
+    "href": "desn2003_W7.html#walk-through-part-c-data-collection",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Walk-Through: Part C — Data Collection",
+    "text": "Walk-Through: Part C — Data Collection\nThis is the detailed, important part. The committee wants to know exactly how you will interact with participants:\n\n\n\n\n\n\n\n\nSection\nWhat They Ask\n\n\n\n\n(a) Recruitment\nHow will you find participants? Inclusion/exclusion criteria?\n\n\n(b–d) Logistics\nWho collects data? Where? How long per participant?\n\n\n(e–j) Risks\nPhysical discomfort? Psychological stress? Deception involved?\n\n\n(k) Vulnerable participants\nAnyone under 18? Other vulnerabilities?\n\n\n(l) Conflict of interest\nAre you in a position of power over participants?\n\n\nSection 12 — Consent\nHow will you record consent? Written? Online? Oral?\n\n\nSection 13–14 — Data retention\nHow long kept? How anonymized? When destroyed?"
   },
   {
-    "objectID": "desn2003_W7.html#research-progress-check",
-    "href": "desn2003_W7.html#research-progress-check",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Research Progress Check",
-    "text": "Research Progress Check\nInsofar, Your Design Should Provide:\n\nEvidence for Hypothesis:\n\nDetailed data collection/analysis plan for hypothesis testing.\nConsideration on data sources/appropriate technologies deployed in their collection.\n\nSignificance:\n\nConnected significance to societal/industry/academic trends.\nHighlighted contribution to knowledge/innovation advancement.\n\nImplementation and Scalability:\n\nDiscuss real-world implementation pathways.\nAddress potential scalability barriers.\n\nEthical Considerations and Sustainability:\n\nOutline ethical considerations of the innovation.\nAddress sustainability of the proposed solution."
+    "objectID": "desn2003_W7.html#what-you-must-prepare-beyond-the-form",
+    "href": "desn2003_W7.html#what-you-must-prepare-beyond-the-form",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "What You MUST Prepare (Beyond the Form)",
+    "text": "What You MUST Prepare (Beyond the Form)\n\nThe form alone is not enough. You also submit these supporting documents:\n\n\n\n\n\n\n\nDocument\nWhat It Is\n\n\n\n\nInformation Sheet\n1-2 pages explaining the study, participant rights, data usage, your contact info\n\n\nInformed Consent Form\nA form participants sign confirming voluntary participation\n\n\nInterview Script / Questionnaire\nYour actual questions — committee checks these match your stated risk level\n\n\nResearch Proposal\nSummary of background, objectives, and design\n\n\n\n\n\nWithout these documents, your application is incomplete and will not be reviewed."
   },
   {
-    "objectID": "desn2003_W7.html#final-step-in-finalizing-research",
-    "href": "desn2003_W7.html#final-step-in-finalizing-research",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Final Step in Finalizing Research",
-    "text": "Final Step in Finalizing Research\nAs Finalizing the Proposal (Doc 1):\n\nIntegration and Synthesis:\n\nEnsured alignment of all proposal components with innovation/research goals.\n\nStakeholder Engagement:\n\nIdentified key stakeholders: beneficiaries, participants, impacted communities.\nIncluded stakeholder engagement plans: evidencing the effectiveness of proposed solution/design\n\nConsideration of Future Directions:\n\nSpeculated on future research directions to further the innovation."
+    "objectID": "desn2003_W7.html#connect-the-dots",
+    "href": "desn2003_W7.html#connect-the-dots",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Connect the Dots",
+    "text": "Connect the Dots\n\n\n\nImportant\n\n\nYou cannot write a consent form without knowing your methodology.\nYou cannot design an information sheet without knowing your recruitment plan.\nYou cannot assess risks without knowing your data collection method.\n\n\n\n\nEthics planning and methodology planning are the same work. If you haven’t figured out these details, you are not ready to collect data — and that’s the entire point of requiring approval first.\nStart now → ethics form draft → Doc 0.2 becomes easy → Doc 1 has a real methodology section."
+  },
+  {
+    "objectID": "desn2003_W7.html#activity-ethics-self-check-5-min",
+    "href": "desn2003_W7.html#activity-ethics-self-check-5-min",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Activity: Ethics Self-Check (5 min)",
+    "text": "Activity: Ethics Self-Check (5 min)\n\nOpen the application form and think through these for your project:\n\nDo you need ethics approval? (Use the decision tree)\nRecruitment (Part C, Q-a): How will you find participants? Can you write 2 sentences about who qualifies?\nRisks (Part C, Q10): Could your research cause any discomfort — physical, psychological, or privacy-related?\nConsent (Part C, Section 12): How will you record informed consent?\nWhat documents do you still need to prepare? (Information sheet? Consent form? Interview script?)\n\n\n\nIf you can’t answer these yet — that’s fine. It tells you exactly what you need to figure out for Doc 0.2. Come to office hours and we’ll work through it.\n\nReference documents linked in these slides:\n\nHREC Operational Guidelines (PDF)\nEthical Approval Application Form (DOCX)\n\nStandard templates for consent forms and information sheets can be downloaded from the HREC section of the Research Services website: https://www.rss.hku.hk/integrity/ethics-compliance/hrec"
   },
   {
     "objectID": "desn2003_W7.html#the-analysis-gap",
@@ -994,67 +973,32 @@
     "text": "Thematic Analysis: The 5-Step Process\nThe most common approach for qualitative data:\n\n\n\n\n\n\n\n\nStep\nWhat You Do\nOutput\n\n\n\n\n1. Familiarize\nRead everything twice. Note first impressions.\nMargin notes\n\n\n2. Code\nLabel meaningful chunks (phrases, sentences)\nCode list\n\n\n3. Search for themes\nGroup related codes together\nTheme candidates\n\n\n4. Review themes\nCheck if themes hold up across data\nRefined themes\n\n\n5. Define & name\nWrite 1-sentence definition for each theme\nFinal themes\n\n\n\n\nLet’s walk through this on real data, step by step."
   },
   {
-    "objectID": "desn2003_W7.html#step-1-familiarize-read-without-agenda",
-    "href": "desn2003_W7.html#step-1-familiarize-read-without-agenda",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Step 1: Familiarize — Read Without Agenda",
-    "text": "Step 1: Familiarize — Read Without Agenda\nFirst pass: Read everything without highlighting. Just absorb.\nSecond pass: Note anything that: - Surprises you - Repeats across participants - Contradicts what you expected - Feels emotionally charged\nAnti-pattern: Jumping straight to coding. You’ll miss the forest for the trees."
+    "objectID": "desn2003_W7.html#worked-example-the-raw-data",
+    "href": "desn2003_W7.html#worked-example-the-raw-data",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Worked Example: The Raw Data",
+    "text": "Worked Example: The Raw Data\nResearch question: How do HKU students experience Instagram like-checking?\nThe data: 12 semi-structured interviews. Here are 4 representative excerpts:\n\n\nP3: “I check my likes within 10 minutes of posting. I literally can’t help it. It’s like my thumb just goes there.”\n\n\nP7: “If I get less than 50 likes I feel like the post failed. My friends all get way more. It makes me feel like I’m not interesting enough.”\n\n\nP2: “I deleted a photo because it only got 12 likes in an hour. I reposted it at 8pm because that’s when more people are online.”\n\n\nP11: “Right after I see the likes go up I feel good, like a little rush. But it wears off in 20 minutes and then I’m checking again.”"
   },
   {
-    "objectID": "desn2003_W7.html#step-2-code-label-meaningful-chunks",
-    "href": "desn2003_W7.html#step-2-code-label-meaningful-chunks",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Step 2: Code — Label Meaningful Chunks",
-    "text": "Step 2: Code — Label Meaningful Chunks\nA code = short label for a piece of data\n\n\nQuote: &gt; “I check my likes within 10 minutes of posting. I literally can’t help it. It’s like my thumb just goes there.”\nPossible codes: - Compulsive checking - Loss of control - Automatic behavior\n\nCode types:\n\nDescriptive: What’s happening\nIn-vivo: Participant’s own words\nProcess: Actions/verbs\nEmotion: Feelings expressed"
+    "objectID": "desn2003_W7.html#step-1-familiarize-what-jumps-out",
+    "href": "desn2003_W7.html#step-1-familiarize-what-jumps-out",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Step 1: Familiarize — What Jumps Out?",
+    "text": "Step 1: Familiarize — What Jumps Out?\nRead all 4 quotes. Before coding anything, notice patterns:\n\n\nChecking feels automatic, not deliberate (“can’t help it”, “thumb just goes there”)\nThere’s a number threshold that defines success/failure (“less than 50”)\nParticipants compare themselves to friends (“friends all get way more”)\nThe good feeling is temporary (“wears off in 20 minutes”)\nSome participants actively manage their posts (“deleted… reposted at 8pm”)\n\n\nAnti-pattern: Jumping straight to coding. Read first, absorb the whole picture."
   },
   {
-    "objectID": "desn2003_W7.html#step-3-search-for-themes-cluster-codes",
-    "href": "desn2003_W7.html#step-3-search-for-themes-cluster-codes",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Step 3: Search for Themes — Cluster Codes",
-    "text": "Step 3: Search for Themes — Cluster Codes\nSpread your codes out (physically or digitally). Look for patterns.\n\n\n\n\n\n\n\nCode Cluster\nPotential Theme\n\n\n\n\nCompulsive checking, can’t stop, automatic\nChecking as habit loop\n\n\nFeel bad, anxious, disappointed\nEmotional cost of low engagement\n\n\nCompare to friends, feel behind, jealous\nSocial comparison trap\n\n\nDelete posts, edit captions, time posts\nPerformance management strategies\n\n\n\nA theme is not a code. A theme is a pattern that says something meaningful about your research question."
+    "objectID": "desn2003_W7.html#step-2-code-label-each-quote",
+    "href": "desn2003_W7.html#step-2-code-label-each-quote",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Step 2: Code — Label Each Quote",
+    "text": "Step 2: Code — Label Each Quote\nA code = a short label for a meaningful chunk of data.\n\n\n\n\n\n\n\nQuote\nCodes Applied\n\n\n\n\nP3: “I check my likes within 10 minutes… can’t help it… thumb just goes there”\ncompulsive checking · loss of agency · automatic behavior\n\n\nP7: “less than 50 likes… post failed… friends get way more… not interesting enough”\nlike threshold · peer comparison · negative self-evaluation\n\n\nP2: “deleted a photo… reposted at 8pm… more people are online”\ndeletion behavior · strategic timing · engagement optimization\n\n\nP11: “feel good, like a rush… wears off in 20 minutes… checking again”\ntemporary validation · diminishing returns · checking cycle\n\n\n\n11 codes from 4 quotes. Across all 12 interviews: 47 codes total.\n\nCode types to mention: descriptive (what’s happening), in-vivo (participant’s own words), process (actions), emotion (feelings). P3’s “thumb just goes there” is a good in-vivo code example."
   },
   {
-    "objectID": "desn2003_W7.html#step-4-review-themes-stress-test",
-    "href": "desn2003_W7.html#step-4-review-themes-stress-test",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Step 4: Review Themes — Stress Test",
-    "text": "Step 4: Review Themes — Stress Test\nFor each candidate theme, ask:\n\nDoes it appear across multiple participants (not just one)?\nDoes the data actually support it, or am I projecting?\nIs it distinct from other themes, or should they merge?\nDoes it matter for my research question?\n\nKill themes that don’t hold up. 3-5 strong themes &gt; 10 weak ones."
-  },
-  {
-    "objectID": "desn2003_W7.html#step-5-define-name-make-it-stick",
-    "href": "desn2003_W7.html#step-5-define-name-make-it-stick",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Step 5: Define & Name — Make It Stick",
-    "text": "Step 5: Define & Name — Make It Stick\nEach final theme needs:\n\nA clear name (not jargon, not vague)\nA 1-sentence definition\nRepresentative quotes (2-3 per theme)\n\n\n\n\n\n\n\n\nTheme\nDefinition\n\n\n\n\nCompulsive checking loop\nParticipants describe checking likes as automatic, habitual behavior they feel unable to control.\n\n\nLike thresholds as self-worth\nParticipants set mental benchmarks for “acceptable” like counts; falling short triggers negative self-evaluation.\n\n\nPerformance management\nParticipants actively curate posting behavior (timing, deletion, editing) to optimize engagement metrics."
-  },
-  {
-    "objectID": "desn2003_W7.html#worked-example-from-12-interviews-to-4-themes",
-    "href": "desn2003_W7.html#worked-example-from-12-interviews-to-4-themes",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Worked Example: From 12 Interviews to 4 Themes",
-    "text": "Worked Example: From 12 Interviews to 4 Themes\nResearch question: How do HKU students experience Instagram like-checking?\nRaw data: 12 interviews, 45 pages of transcripts\nCoding: 47 initial codes identified\nFinal themes:\n\nCompulsive checking loop (10/12 participants)\nLike thresholds as self-worth (8/12 participants)\nSocial comparison with peers (9/12 participants)\nTemporary validation effect (7/12 participants)\n\nEach theme has 2-3 supporting quotes and a clear definition."
-  },
-  {
-    "objectID": "desn2003_W7.html#architectureurban-example-analyzing-interviews-about-public-space",
-    "href": "desn2003_W7.html#architectureurban-example-analyzing-interviews-about-public-space",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Architecture/Urban Example: Analyzing Interviews About Public Space",
-    "text": "Architecture/Urban Example: Analyzing Interviews About Public Space\nResearch question: How do Hong Kong residents perceive rule enforcement in privately-owned public spaces?\nRaw data: 8 interviews with regular users of POPS in Central\nSample codes: - “Security told me to move” → enforcement encounter - “I didn’t know I couldn’t sit there” → unclear rules - “It doesn’t feel like public space” → ownership ambiguity - “I just avoid those places now” → behavioral adaptation\nEmerging themes:\n\n\n\n\n\n\n\n\nTheme\nDefinition\nPrevalence\n\n\n\n\nInvisible boundaries\nUsers discover rules only through enforcement, not signage\n6/8\n\n\nChilling effect\nNegative encounters lead to avoidance of space entirely\n5/8\n\n\nPublic-private confusion\nUsers unsure who controls space and what rights they have\n7/8\n\n\n\nSo what? Designers should consider how rule communication affects perceived publicness."
-  },
-  {
-    "objectID": "desn2003_W7.html#for-quantitative-data-from-numbers-to-patterns",
-    "href": "desn2003_W7.html#for-quantitative-data-from-numbers-to-patterns",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "For Quantitative Data: From Numbers to Patterns",
-    "text": "For Quantitative Data: From Numbers to Patterns\n\n\n\n\n\n\n\n\nWhat You Have\nWhat You Do\nWhat It Tells You\n\n\n\n\nSurvey responses (Likert)\nCalculate means, SD\nCentral tendency & spread\n\n\nTwo groups to compare\nt-test or Mann-Whitney\nWhether difference is real\n\n\nTwo variables\nCorrelation (Pearson/Spearman)\nWhether they move together\n\n\nMultiple predictors\nRegression\nWhich factors matter most\n\n\n\nKey question: Is the pattern real, or just noise?\n\np &lt; 0.05 → statistically significant (probably not random)\nEffect size → practically significant (big enough to matter)"
-  },
-  {
-    "objectID": "desn2003_W7.html#triangulation-when-qual-and-quant-meet",
-    "href": "desn2003_W7.html#triangulation-when-qual-and-quant-meet",
-    "title": "Know Your Client (KYC), Working with informational interviews",
-    "section": "Triangulation: When Qual and Quant Meet",
-    "text": "Triangulation: When Qual and Quant Meet\n\n\n\n\n\n\n\n\n\nFinding\nQual Evidence\nQuant Evidence\nAgreement?\n\n\n\n\nChecking frequency → anxiety\n“I feel anxious when I check” (10/12)\nr = 0.42, p &lt; .001\n✓ Converge\n\n\nLikes = self-worth\n“I feel like a failure” (8/12)\nNot directly measured\nPartial\n\n\nHiding likes would help\n“I’d feel relieved” (6/12)\n45% selected “would reduce stress”\n✓ Converge\n\n\n\nWhen they disagree: That’s interesting data, not a problem. Ask why."
+    "objectID": "desn2003_W7.html#steps-35-cluster-review-define",
+    "href": "desn2003_W7.html#steps-35-cluster-review-define",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Steps 3–5: Cluster → Review → Define",
+    "text": "Steps 3–5: Cluster → Review → Define\nGroup related codes, check they hold up across participants, write definitions:\n\n\nTheme 1: Compulsive checking loop (10/12 participants)\n\nCodes: compulsive checking · loss of agency · automatic behavior · checking cycle\n\n\n“Like-checking as automatic habit they feel unable to control”\n\nTheme 2: Like thresholds as self-worth (8/12 participants)\n\nCodes: like threshold · negative self-evaluation · temporary validation · diminishing returns\n\n\n“Mental benchmarks for ‘acceptable’ likes; falling short triggers negative feelings”\n\nTheme 3: Social comparison with peers (9/12 participants)\n\nCodes: peer comparison\n\n\n“Evaluating engagement relative to friends, leading to feelings of inadequacy”\n\nTheme 4: Performance management (7/12 participants)\n\nCodes: deletion behavior · strategic timing · engagement optimization\n\n\n“Actively curating posts (timing, deletion) to maximize engagement metrics”\n\n\n\nReview check: Each theme appears in 7+ of 12 interviews. Each is distinct. Each answers the research question."
   },
   {
     "objectID": "desn2003_W7.html#the-so-what-test",
@@ -1064,11 +1008,25 @@
     "text": "The “So What?” Test\nFor every finding, ask: Why should anyone care?\n\n\n\n\n\n\n\nTheme\nSo What?\n\n\n\n\nCompulsive checking loop (10/12)\nDesign friction (delays, nudges) might break the automatic loop\n\n\nLike thresholds as self-worth (8/12)\nUsers tie identity to metrics — removing visible counts could reduce this\n\n\nSocial comparison with peers (9/12)\nHiding like counts removes the comparison trigger entirely\n\n\nPerformance management (7/12)\nUsers doing unpaid labor to optimize engagement — a design problem, not a user problem\n\n\n\nIf you can’t answer “so what?” — the finding isn’t ready.\n\nThe whole process: 4 raw quotes → 11 codes → 4 themes → 4 actionable insights."
   },
   {
+    "objectID": "desn2003_W7.html#activities",
+    "href": "desn2003_W7.html#activities",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Activities",
+    "text": "Activities\n\nVote to review one literature review that was submitted (anonymized on mentimeter).\nSelected literature reviewed by peers with the following criteria:\n\n\nObjective: Does the literature review sufficiently present its objective?\nLandscape: Do you think the literature review presented a clear theoretical framework of what are the relevant studies and state-of-the art research landscape?\nCaveat/Importance: Does the literature review present any clear indication that there is room for investigation of any existing caveats?\nCitations: Do you think the number of citations included is enough/adequate?\nImprovements: Anything that the author can do to strengthen the literature review?\nChallenge: On the topics that were discussed in the literature review, can you quickly leverage google scholar to find additional ones that investigates similar things?\n\n\nWe will review the remainder three of the five documents (so long as time permits) for this week.\n\n\nRefer back to the literature review checklist criteria from the Doc 0.1 briefing if students need a refresher on what makes a strong lit review."
+  },
+  {
     "objectID": "desn2003_W7.html#artifact-output-what-you-leave-with",
     "href": "desn2003_W7.html#artifact-output-what-you-leave-with",
     "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
     "section": "Artifact Output: What You Leave With",
     "text": "Artifact Output: What You Leave With\n\nFrom Part 1 — KYC/Informational Interviews:\n\nProfessional research profile for 1 potential interviewee\n2 informed questions ready to ask\n\nFrom Part 2 — Ethics Approval:\n\nCompleted ethics self-check: do you need approval? What documents do you need?\nIf yes: start the application form with the HREC guidelines\n\nFrom Part 3 — Thematic Analysis:\n\nUnderstanding of the 5-step process, demonstrated on real data\nAbility to go from raw quotes → codes → themes → “so what?”"
+  },
+  {
+    "objectID": "desn2003_W7.html#take-home-actions",
+    "href": "desn2003_W7.html#take-home-actions",
+    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
+    "section": "Take-Home Actions",
+    "text": "Take-Home Actions\n\n\n\nBefore Next Week\n\n\n\nIf your project involves human participants: begin drafting your ethics application, information sheet, and consent form this week. Don’t wait until Doc 0.2 is due.\nStart coding any interview/observation data you’ve collected. Bring your draft codebook to Week 8.\nBring a draft ethics form to office hours — I’ll review it with you before submission."
   },
   {
     "objectID": "desn2003_W2.html#last-week-your-instagram-feature-ideas",
@@ -3192,136 +3150,52 @@
     "text": "Group/Individual Interview Project\n\n\n\nQuick Reminder\n\n\nThe interview-based project (group or individual) gives you practice with:\n\nProfessional outreach and networking\nPrimary data collection through interviews\nSynthesizing insights from first-hand sources\n\nChoose group or individual based on your preferences. Check Moodle for current deadlines and submission guidelines."
   },
   {
-    "objectID": "desn2003_W7.html#the-rule",
-    "href": "desn2003_W7.html#the-rule",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "The Rule",
-    "text": "The Rule\n\nThe informational interviews we just practiced? Those are networking — casual, professional conversations.\nBut when you start collecting data for your research project — interviewing users, running surveys, observing people, conducting user tests — different rules apply.\n\n\n\n\n\nHKU Policy\n\n\nNo data can be collected or analysed before ethics approval is obtained from the relevant committee.\nThis is not a suggestion. Failure to comply can result in rejection of your work, required recollection of data, and disciplinary action."
+    "objectID": "desn2003_W8.html#good-question-wrong-method-bad-research",
+    "href": "desn2003_W8.html#good-question-wrong-method-bad-research",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Good Question, Wrong Method = Bad Research",
+    "text": "Good Question, Wrong Method = Bad Research\n\n\n\nImportant\n\n\nEven strong topics fail when the method is vague, mismatched, or ethically unprepared.\n\n\n\n\nToday is about getting your project into a state where you can defend:\n\nwhat you are doing\nwhy this method fits\nwho or what your evidence source is\nwhat approval, consent, or data-handling issues must be resolved first"
   },
   {
-    "objectID": "desn2003_W7.html#why-this-matters-right-now",
-    "href": "desn2003_W7.html#why-this-matters-right-now",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Why This Matters Right Now",
-    "text": "Why This Matters Right Now\n\nYour timeline:\n\n\n\n\n\n\n\n\nMilestone\nWhen\nImplication\n\n\n\n\nDoc 0.2 (Methodology)\nWeek 10\nMust describe your data collection plan in detail\n\n\nEthics approval processing\n~3 weeks\nIf you need approval, start the application now\n\n\nData collection\nAfter approval only\nCannot begin until you have the green light\n\n\n\n\nIf your research involves human participants, you are already behind if you haven’t started thinking about this."
+    "objectID": "desn2003_W8.html#week-8-quick-clinic-are-you-actually-ready",
+    "href": "desn2003_W8.html#week-8-quick-clinic-are-you-actually-ready",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Week 8 Quick Clinic: Are You Actually Ready?",
+    "text": "Week 8 Quick Clinic: Are You Actually Ready?\nBefore we get abstract again, do a fast self-check.\n\n\nIf your project involves people:\n\nWho exactly are your participants?\nHow will you recruit them?\nWhat is one real risk or discomfort?\nHow will you record consent?\nWhat documents are still missing?\n\n\nIf your project does not involve people directly:\n\nWhat is your actual data source?\nWhy is it appropriate to the question?\nWhat are the limits of that evidence?\nWhat can you reasonably claim from it?\nWhat will your analysis actually look like?"
   },
   {
-    "objectID": "desn2003_W7.html#does-your-project-need-ethics-approval",
-    "href": "desn2003_W7.html#does-your-project-need-ethics-approval",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Does YOUR Project Need Ethics Approval?",
-    "text": "Does YOUR Project Need Ethics Approval?\nQuick decision tree:\n\n\nDoes your research involve collecting new data from people?\n\nInterviews, surveys, user tests, observations of identifiable individuals\nYes → You need ethics approval. Full stop.\n\nDoes your research use pre-existing personal data?\n\nStudent records, health data, identifiable social media posts\nYes → You still need ethics approval\n\nIs it only an anonymous internal teaching survey (not for research/publication)?\n\nYes → Exempt. Everything else → not exempt.\n\n\n\n\n\n\n\nNote\n\n\nFor this course: If you are unsure, assume you need it. I am responsible for endorsing your application as your supervisor. Come talk to me."
+    "objectID": "desn2003_W8.html#week-8-ethics-clinic-10-min",
+    "href": "desn2003_W8.html#week-8-ethics-clinic-10-min",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Week 8 Ethics Clinic (10 min)",
+    "text": "Week 8 Ethics Clinic (10 min)\n\n\n\nUse This If You Need Human Participants\n\n\nOpen these now if your project may involve interviews, surveys, observations, or user testing:\n\nHREC Operational Guidelines (PDF)\nEthical Approval Application Form (DOCX)\n\n\n\n\nWrite down:\n\nDo I need ethics approval for my current plan?\nWhat is my method in one sentence?\nWho are my participants and how will I recruit them?\nWhat is the biggest foreseeable risk?\nWhat supporting documents do I still need?\n\n\nIf you cannot answer these yet, that is the signal. Your methodology is not specific enough yet."
   },
   {
-    "objectID": "desn2003_W7.html#the-hku-pathway-for-undergraduate-students",
-    "href": "desn2003_W7.html#the-hku-pathway-for-undergraduate-students",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "The HKU Pathway for Undergraduate Students",
-    "text": "The HKU Pathway for Undergraduate Students\n\n┌──────────────────┐\n│   YOU (Student)   │  ← Fill out the application form\n│                   │  ← Prepare: consent form, info sheet,\n│                   │    interview script / questionnaire\n└────────┬─────────┘\n         ▼\n┌──────────────────┐\n│ Your Supervisor   │  ← Reviews & endorses as Principal Investigator\n│ (i.e., Me)       │\n└────────┬─────────┘\n         ▼\n┌──────────────────┐\n│ Head of Dept /    │  ← Submits to Faculty or HREC\n│ Dean of Faculty   │\n└────────┬─────────┘\n         ▼\n┌──────────────────┐\n│ Ethics Committee  │  ← Reviews (~3 weeks)\n│ (FREC or HREC)   │  ← Approved / Conditionally Approved / Not Approved\n└──────────────────┘\nYou don’t submit directly to HREC. But you do the thinking and fill out the form."
+    "objectID": "desn2003_W8.html#live-diagnostic-which-plan-sounds-most-broken",
+    "href": "desn2003_W8.html#live-diagnostic-which-plan-sounds-most-broken",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Live Diagnostic: Which Plan Sounds Most Broken?",
+    "text": "Live Diagnostic: Which Plan Sounds Most Broken?\n\n\n“I want to know why users feel anxious, so I’ll run a yes/no survey.”\n“I want to prove my design is better, so I’ll interview three friends.”\n“I want to study student behavior, so I’ll do 30 interviews, a survey of 500, and an A/B test in two weeks.”\n\n\n\nDiscuss: What is wrong with each one?\n\nwrong method for the question?\ntoo little evidence?\nunrealistic scope?\nunclear causal claim?"
   },
   {
-    "objectID": "desn2003_W7.html#core-principles-what-the-committee-evaluates",
-    "href": "desn2003_W7.html#core-principles-what-the-committee-evaluates",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Core Principles: What the Committee Evaluates",
-    "text": "Core Principles: What the Committee Evaluates\n\nEvery ethics application is assessed against the Belmont Report principles:\n\n\n\n\n\n\n\n\nPrinciple\nWhat It Means\nAsk Yourself\n\n\n\n\nMinimal risk\nRisk ≤ what participants face in daily life\nCould your questions cause distress?\n\n\nInformed consent\nParticipants know what they agree to\nDo they know what happens to their data?\n\n\nNo coercion\nParticipation is truly voluntary\nAny grade or payment pressure?\n\n\nProtect vulnerable groups\nExtra care for minors, elderly, at-risk\nAnyone under 18? → Parental consent\n\n\nConfidentiality\nData protected, eventually destroyed\nHow will you anonymize and store?\n\n\nProportionate benefit\nResearch value justifies the intrusion\nWhy THIS data from THESE people?\n\n\n\n\n\nReference: HKU HREC Operational Guidelines, Section V (Item 13). Full document linked on next slide."
+    "objectID": "desn2003_W8.html#method-roast-10-min",
+    "href": "desn2003_W8.html#method-roast-10-min",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Method Roast (10 min)",
+    "text": "Method Roast (10 min)\n\n\n“I want to know why users feel anxious, so I’ll run a yes/no survey.”\n“I want to prove my design is better, so I’ll interview three friends.”\n“I want to study student behavior, so I’ll do 30 interviews, a survey of 500, and an A/B test in two weeks.”\n\n\n\nRoast each plan: what is broken first?\n\nwrong method for the question?\ntoo little evidence?\nunrealistic scope?\nunclear causal claim?"
   },
   {
-    "objectID": "desn2003_W7.html#walk-through-what-the-application-form-asks",
-    "href": "desn2003_W7.html#walk-through-what-the-application-form-asks",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Walk-Through: What the Application Form Asks",
-    "text": "Walk-Through: What the Application Form Asks\n\n\n\nDownload These Now\n\n\n\nEthical Approval Application Form (DOCX) — The actual HKU form for taught postgraduate and undergraduate students.\nHREC Operational Guidelines (PDF) — The full HKU guidelines document covering principles, procedures, and requirements.\n\nOpen both as we walk through this.\n\n\n\n\nPart B — Your Project (in plain language, no jargon)\n\nWhat is your research about? What are your objectives? What is your methodology?\nThink of it as your Doc 0 abstract + Doc 0.2 summary, written so a non-specialist can understand.\n\nPart C — Data Collection (the detailed, important part)\n\n(a) Recruitment: How will you find participants? Inclusion/exclusion criteria?\n(b–d) Logistics: Who collects data? Where? How long per participant?\n(e–j) Risks: Physical discomfort? Psychological stress? Deception involved?\n(k) Vulnerable participants: Anyone under 18? Other vulnerabilities?\n(l) Conflict of interest: Are you in a position of power over participants?\nSection 12 — Consent: How will you record consent? Written? Online? Oral?\nSection 13–14 — Data retention: How long kept? How anonymized? When destroyed?"
+    "objectID": "desn2003_W8.html#case-card-googles-41-shades-of-blue",
+    "href": "desn2003_W8.html#case-card-googles-41-shades-of-blue",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Case Card: Google’s “41 Shades of Blue”",
+    "text": "Case Card: Google’s “41 Shades of Blue”\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoogle became famous for reportedly testing dozens of link-blue variants to optimize click-through.\nUse this story well:\n\nthe good version: measure what actually changes behavior\nthe bad version: mistake measurable tiny wins for the whole design problem\nthe teaching point: positivism is powerful, but it can become absurd when the metric replaces judgment\n\nDiscuss: when is this smart, and when is it pathological?\nRead / show:\n\nWIRED: Google’s Data Culture Drives Designer Crazy — and Out\nZeldman: 41 Shades of Blue"
   },
   {
-    "objectID": "desn2003_W7.html#what-you-must-prepare-beyond-the-form-itself",
-    "href": "desn2003_W7.html#what-you-must-prepare-beyond-the-form-itself",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "What You MUST Prepare (Beyond the Form Itself)",
-    "text": "What You MUST Prepare (Beyond the Form Itself)\n\nThe application form is not the only thing you submit. The committee also requires:\n\n\n\n\n\n\n\n\nDocument\nWhat It Is\nWhy\n\n\n\n\nInformation Sheet\n1-2 pages explaining the study, participant rights, data usage, and your contact info\nParticipants can’t consent to what they don’t understand\n\n\nInformed Consent Form\nA form participants sign confirming voluntary participation\nLegal record that consent was given\n\n\nInterview Script / Questionnaire\nYour actual questions or survey instrument\nCommittee checks that questions match your stated methodology and risk level\n\n\nResearch Proposal\nSummary of background, objectives, and design\nContext for the committee’s evaluation\n\n\n\n\n\n\n\n\nConnect the Dots\n\n\nYou cannot write a consent form without knowing your methodology. You cannot design an information sheet without knowing your recruitment plan. You cannot assess risks without knowing your data collection method.\nEthics planning and methodology planning are the same work. If you haven’t figured out these details, you are not ready to collect data — and that’s the entire point of requiring approval first."
-  },
-  {
-    "objectID": "desn2003_W7.html#activity-ethics-self-check-5-min",
-    "href": "desn2003_W7.html#activity-ethics-self-check-5-min",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Activity: Ethics Self-Check (5 min)",
-    "text": "Activity: Ethics Self-Check (5 min)\n\nOpen the application form and think through these for your project:\n\nDo you need ethics approval? (Use the decision tree)\nRecruitment (Part C, Q-a): How will you find participants? Can you write 2 sentences about who qualifies?\nRisks (Part C, Q10): Could your research cause any discomfort — physical, psychological, or privacy-related?\nConsent (Part C, Section 12): How will you record informed consent?\nWhat documents do you still need to prepare? (Information sheet? Consent form? Interview script?)\n\n\n\nIf you can’t answer these yet — that’s fine. It tells you exactly what you need to figure out for Doc 0.2. Come to office hours and we’ll work through it.\n\nReference documents linked in these slides:\n\nHREC Operational Guidelines (PDF)\nEthical Approval Application Form (DOCX)\n\nStandard templates for consent forms and information sheets can be downloaded from the HREC section of the Research Services website: https://www.rss.hku.hk/integrity/ethics-compliance/hrec"
-  },
-  {
-    "objectID": "desn2003_W7.html#worked-example-the-raw-data",
-    "href": "desn2003_W7.html#worked-example-the-raw-data",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Worked Example: The Raw Data",
-    "text": "Worked Example: The Raw Data\nResearch question: How do HKU students experience Instagram like-checking?\nThe data: 12 semi-structured interviews. Here are 4 representative excerpts:\n\n\nP3: “I check my likes within 10 minutes of posting. I literally can’t help it. It’s like my thumb just goes there.”\n\n\nP7: “If I get less than 50 likes I feel like the post failed. My friends all get way more. It makes me feel like I’m not interesting enough.”\n\n\nP2: “I deleted a photo because it only got 12 likes in an hour. I reposted it at 8pm because that’s when more people are online.”\n\n\nP11: “Right after I see the likes go up I feel good, like a little rush. But it wears off in 20 minutes and then I’m checking again.”"
-  },
-  {
-    "objectID": "desn2003_W7.html#step-1-familiarize-what-jumps-out",
-    "href": "desn2003_W7.html#step-1-familiarize-what-jumps-out",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Step 1: Familiarize — What Jumps Out?",
-    "text": "Step 1: Familiarize — What Jumps Out?\nRead all 4 quotes. Before coding anything, notice patterns:\n\n\nChecking feels automatic, not deliberate (“can’t help it”, “thumb just goes there”)\nThere’s a number threshold that defines success/failure (“less than 50”)\nParticipants compare themselves to friends (“friends all get way more”)\nThe good feeling is temporary (“wears off in 20 minutes”)\nSome participants actively manage their posts (“deleted… reposted at 8pm”)\n\n\nAnti-pattern: Jumping straight to coding. Read first, absorb the whole picture."
-  },
-  {
-    "objectID": "desn2003_W7.html#step-2-code-label-each-quote",
-    "href": "desn2003_W7.html#step-2-code-label-each-quote",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Step 2: Code — Label Each Quote",
-    "text": "Step 2: Code — Label Each Quote\nA code = a short label for a meaningful chunk of data.\n\n\n\n\n\n\n\nQuote\nCodes Applied\n\n\n\n\nP3: “I check my likes within 10 minutes… can’t help it… thumb just goes there”\ncompulsive checking · loss of agency · automatic behavior\n\n\nP7: “less than 50 likes… post failed… friends get way more… not interesting enough”\nlike threshold · peer comparison · negative self-evaluation\n\n\nP2: “deleted a photo… reposted at 8pm… more people are online”\ndeletion behavior · strategic timing · engagement optimization\n\n\nP11: “feel good, like a rush… wears off in 20 minutes… checking again”\ntemporary validation · diminishing returns · checking cycle\n\n\n\n11 codes from 4 quotes. Across all 12 interviews: 47 codes total.\n\nCode types to mention: descriptive (what’s happening), in-vivo (participant’s own words), process (actions), emotion (feelings). P3’s “thumb just goes there” is a good in-vivo code example."
-  },
-  {
-    "objectID": "desn2003_W7.html#steps-35-cluster-review-define",
-    "href": "desn2003_W7.html#steps-35-cluster-review-define",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Steps 3–5: Cluster → Review → Define",
-    "text": "Steps 3–5: Cluster → Review → Define\nGroup related codes, check they hold up across participants, write definitions:\n\n\nTheme 1: Compulsive checking loop (10/12 participants)\n\nCodes: compulsive checking · loss of agency · automatic behavior · checking cycle\n\n\n“Like-checking as automatic habit they feel unable to control”\n\nTheme 2: Like thresholds as self-worth (8/12 participants)\n\nCodes: like threshold · negative self-evaluation · temporary validation · diminishing returns\n\n\n“Mental benchmarks for ‘acceptable’ likes; falling short triggers negative feelings”\n\nTheme 3: Social comparison with peers (9/12 participants)\n\nCodes: peer comparison\n\n\n“Evaluating engagement relative to friends, leading to feelings of inadequacy”\n\nTheme 4: Performance management (7/12 participants)\n\nCodes: deletion behavior · strategic timing · engagement optimization\n\n\n“Actively curating posts (timing, deletion) to maximize engagement metrics”\n\n\n\nReview check: Each theme appears in 7+ of 12 interviews. Each is distinct. Each answers the research question."
-  },
-  {
-    "objectID": "desn2003_W7.html#identify-persons-of-interest",
-    "href": "desn2003_W7.html#identify-persons-of-interest",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Identify Persons of Interest",
-    "text": "Identify Persons of Interest\n\nWho to reach out to?\n\nIndustry Leaders and Role Models\nAlumni Network\nProfessional Associations\n\nUtilizing LinkedIn:\n\nAdvanced Search Features\n\nFilter professionals by industry, company, role and even location\n\nLinkedIn Groups: Join groups of related interests.\n\nHow to narrow scope of search?\n\nFinding Common Grounds\n\nShared Interests\nRecent Publications or Talks\n\nLeverage Existing Connections: Academic/Industry\n\nDemo"
-  },
-  {
-    "objectID": "desn2003_W7.html#the-ethics-form-your-methodology-draft",
-    "href": "desn2003_W7.html#the-ethics-form-your-methodology-draft",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "The Ethics Form = Your Methodology Draft",
-    "text": "The Ethics Form = Your Methodology Draft\n\nThe ethics application form asks you the exact same questions as Doc 0.2:\n\n\n\nEthics Form Asks\nDoc 0.2 Asks\n\n\n\n\nHow will participants be recruited?\nSampling strategy\n\n\nWhat data will you collect and how?\nData collection method\n\n\nWhat are the risks to participants?\nRisk assessment\n\n\nHow will you obtain consent?\nConsent procedure\n\n\nHow will data be stored and destroyed?\nData management plan\n\n\n\n\n\nThis is not extra work. This IS the work. Figure it out now, not the night before you test."
-  },
-  {
-    "objectID": "desn2003_W7.html#walk-through-the-application-form",
-    "href": "desn2003_W7.html#walk-through-the-application-form",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Walk-Through: The Application Form",
-    "text": "Walk-Through: The Application Form\n\n\n\nDownload These Now\n\n\n\nEthical Approval Application Form (DOCX) — The actual HKU form for TPg and UG students.\nHREC Operational Guidelines (PDF) — Full HKU guidelines on principles, procedures, and requirements.\n\nOpen both as we walk through this.\n\n\n\n\nPart B — Your Project (in plain language, no jargon)\n\nWhat is your research about? What are your objectives? What is your methodology?\nThink of it as your Doc 0 abstract + Doc 0.2 summary, written so a non-specialist can understand."
-  },
-  {
-    "objectID": "desn2003_W7.html#walk-through-part-c-data-collection",
-    "href": "desn2003_W7.html#walk-through-part-c-data-collection",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Walk-Through: Part C — Data Collection",
-    "text": "Walk-Through: Part C — Data Collection\nThis is the detailed, important part. The committee wants to know exactly how you will interact with participants:\n\n\n\n\n\n\n\n\nSection\nWhat They Ask\n\n\n\n\n(a) Recruitment\nHow will you find participants? Inclusion/exclusion criteria?\n\n\n(b–d) Logistics\nWho collects data? Where? How long per participant?\n\n\n(e–j) Risks\nPhysical discomfort? Psychological stress? Deception involved?\n\n\n(k) Vulnerable participants\nAnyone under 18? Other vulnerabilities?\n\n\n(l) Conflict of interest\nAre you in a position of power over participants?\n\n\nSection 12 — Consent\nHow will you record consent? Written? Online? Oral?\n\n\nSection 13–14 — Data retention\nHow long kept? How anonymized? When destroyed?"
-  },
-  {
-    "objectID": "desn2003_W7.html#what-you-must-prepare-beyond-the-form",
-    "href": "desn2003_W7.html#what-you-must-prepare-beyond-the-form",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "What You MUST Prepare (Beyond the Form)",
-    "text": "What You MUST Prepare (Beyond the Form)\n\nThe form alone is not enough. You also submit these supporting documents:\n\n\n\n\n\n\n\nDocument\nWhat It Is\n\n\n\n\nInformation Sheet\n1-2 pages explaining the study, participant rights, data usage, your contact info\n\n\nInformed Consent Form\nA form participants sign confirming voluntary participation\n\n\nInterview Script / Questionnaire\nYour actual questions — committee checks these match your stated risk level\n\n\nResearch Proposal\nSummary of background, objectives, and design\n\n\n\n\n\nWithout these documents, your application is incomplete and will not be reviewed."
-  },
-  {
-    "objectID": "desn2003_W7.html#connect-the-dots",
-    "href": "desn2003_W7.html#connect-the-dots",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Connect the Dots",
-    "text": "Connect the Dots\n\n\n\nImportant\n\n\nYou cannot write a consent form without knowing your methodology.\nYou cannot design an information sheet without knowing your recruitment plan.\nYou cannot assess risks without knowing your data collection method.\n\n\n\n\nEthics planning and methodology planning are the same work. If you haven’t figured out these details, you are not ready to collect data — and that’s the entire point of requiring approval first.\nStart now → ethics form draft → Doc 0.2 becomes easy → Doc 1 has a real methodology section."
-  },
-  {
-    "objectID": "desn2003_W7.html#take-home-actions",
-    "href": "desn2003_W7.html#take-home-actions",
-    "title": "Know Your Client (KYC), Ethics Approval & Thematic Analysis",
-    "section": "Take-Home Actions",
-    "text": "Take-Home Actions\n\n\n\nBefore Next Week\n\n\n\nIf your project involves human participants: begin drafting your ethics application, information sheet, and consent form this week. Don’t wait until Doc 0.2 is due.\nStart coding any interview/observation data you’ve collected. Bring your draft codebook to Week 8.\nBring a draft ethics form to office hours — I’ll review it with you before submission."
+    "objectID": "desn2003_W8.html#watch-first-wizard-of-oz-ai-demo",
+    "href": "desn2003_W8.html#watch-first-wizard-of-oz-ai-demo",
+    "title": "Research Methodologies in Design, HCI, and Generative AI",
+    "section": "Watch First: Wizard-of-Oz AI Demo",
+    "text": "Watch First: Wizard-of-Oz AI Demo\n\n\n\n\nWhy this matters\n\nYou do not need a finished AI system to test the interaction\nYou can fake intelligence and still learn about trust, expectations, and workflow\nThis is one of the best ways to stop students from saying “I need to build it first”\n\nUse in class\n\nWatch the NN/g clip: Wizard of Oz Method in UX\nThen ask: what part of your project could be faked by a human behind the curtain?\n\nBackup reference\n\nMIT: Wizard of Oz = computer frontend, human backend"
   }
 ]
