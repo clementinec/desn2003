@@ -14,19 +14,24 @@ This course assesses your ability to conduct independent research, synthesize kn
 
 All written submissions are due **Tuesday before class** (by 12:00 PM noon) — no midnight scrambling.
 
-| Week | Date | Assessment Due |
-|------|------|----------------|
+| Teaching Week | Calendar Date | Assessment / In-Class Milestone |
+|---------------|---------------|---------------------------------|
 | 4 | Feb 10 | **Doc 0** — Extended Abstract |
 | 6 | Mar 3 | **Doc 0.1** — Literature Review |
-| 8–9 | Mar 17 & 24 | **Professional Discovery Presentations** (in-class) |
-| 10 | Mar 31 | **Doc 0.2** — Collecting Evidence |
-| 10 | Mar 31 | **Professional Discovery Documentation** |
-| 11 | Apr 7 | **Doc 1** — Research Paper Draft |
-| 12 | Apr 14 | **Final Presentations & Peer Evaluation** (in-class) |
+| 10 | Mar 31 | **Professional Discovery Presentations** (Part 1, in class) |
+| — | Apr 7 | **No class** |
+| 11 | Apr 14 | **Professional Discovery Presentations** (Part 2, in class) + **Doc 0.2** — Collecting Evidence + **Professional Discovery Documentation** |
+| 12 | Apr 21 | **Doc 1** — Research Paper Draft + **Final Presentations & Peer Evaluation** begin |
+| 13 | Apr 28 | **Final Presentations & Peer Evaluation** continue, if needed |
 
 ::: {.callout-note}
 ## Spring Festival Break
 No class on Feb 17. Teaching resumes Week 5 (Feb 24).
+:::
+
+::: {.callout-note}
+## Late-Semester Calendar Shift
+Teaching weeks and calendar weeks diverge after **Mar 31**. There is **no class on Apr 7**, so the teaching sequence resumes on **Apr 14 (Teaching Week 11)**. Final presentations begin on **Apr 21 (Teaching Week 12)**, with **Apr 28 (Teaching Week 13)** reserved as in-class overflow if needed.
 :::
 
 ::: {.callout-tip}
@@ -241,8 +246,8 @@ Your paper should have a clear narrative arc: Introduction → Literature Review
 In addition to individual research, you will conduct **conversations with practitioners** — designers, project managers, and other professionals working in areas relevant to your interests. This is research in action: reaching out to real people with real expertise, learning how the field actually works.
 
 ::: {.callout-note}
-## Presentations: Weeks 8 & 9
-We dedicate class time in both Week 8 (Mar 17) and Week 9 (Mar 24) for Professional Discovery presentations. This gives every group adequate time to present without rushing. Documentation is due Week 10.
+## Presentations: Mar 31 & Apr 14
+We dedicate class time on **Mar 31** and **Apr 14** for Professional Discovery presentations. This gives every group adequate time to present without rushing despite the no-class gap on **Apr 7**. Documentation is due **Apr 14**.
 :::
 
 ```{=html}

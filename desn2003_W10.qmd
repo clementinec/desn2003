@@ -13,6 +13,23 @@ format:
     incremental: true
 ---
 
+# Where This Fits Now {background-color="#E9C46A"}
+
+## This Is Primarily Doc 1 Support
+
+::: {.callout-note icon=false}
+Because the calendar is compressed:
+
+- **Mar 31**: Professional Discovery presentations begin
+- **Apr 7**: no class
+- **Apr 14**: **Doc 0.2** + **Professional Discovery Documentation**
+- **Apr 21**: **Doc 1 due** + final presentations start
+:::
+
+That means this visualization deck is less about "one more theory lecture" and more about helping you present findings clearly in **Doc 1** and in your final presentation.
+
+If your data is not collected yet, use this session selectively: decide **what figures you will need later** based on the method you already chose in Week 8.
+
 ## What is Data Visualization?
 
 - **Definition:** Data visualization is the **graphical representation of information and data**. By using visual elements like charts, graphs, and maps, it provides an accessible way to see and understand **trends, outliers, patterns, and insights** in data ([Presenting Data | Digital Experience Studio | Michigan State University](https://dxstudio.msu.edu/analytics/data-visualization#:~:text=What%20is%20Data%20Visualization%3F)).

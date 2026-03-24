@@ -16,6 +16,23 @@ format:
     
 ---
 
+# The Runway Is Short Now {background-color="#E9C46A"}
+
+## What This Session Is Actually For
+
+::: {.callout-important icon=false}
+If Week 8 was about choosing a defendable method, this session is about turning that method into **usable evidence and usable writing**.
+:::
+
+. . .
+
+- **Mar 31**: Professional Discovery presentations begin
+- **Apr 7**: no class
+- **Apr 14**: Professional Discovery presentations continue + **Doc 0.2** + **Professional Discovery Documentation**
+- **Apr 21**: **Doc 1 due** + final presentation sequence begins
+
+If your method is still vague, go back to the Week 8 method paragraph first. Everything here assumes you can already say what data you are collecting and why.
+
 <!-- ## Recapping on Literature Review
 - Grades & Comments published on Moodle
 - Major reasons that the grades may not appear to be satisfying:
@@ -74,7 +91,7 @@ By the end of this session, you will be able to:
 :::{.timer #task1 seconds=900}
 :::
  -->
-<!-- # Methodology (Due 11:59 AM Mar 31st) -->
+<!-- # Methodology (Due 11:59 AM Apr 14th) -->
 
 <!-- ## Circling back to Methodology Examples in Google Drive
 

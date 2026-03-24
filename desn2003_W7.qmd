@@ -67,9 +67,9 @@ We've been building research skills in the classroom. Today we take them outside
 
 **Coming up fast:**
 
-- Professional Discovery presentations: **Weeks 8–9** (group, in-class)
-- Doc 0.2 (Methodology): **Week 10**
-- Doc 1 (Research Paper): **Week 11** — this is the big one (contains upgraded versions of Doc 0, 0.1, and 0.2)
+- Professional Discovery presentations: **Mar 31 and Apr 14** (group, in-class)
+- Doc 0.2 (Methodology): **Apr 14**
+- Doc 1 (Research Paper): **Apr 21** — this is the big one (contains upgraded versions of Doc 0, 0.1, and 0.2)
 
 **If you're behind on any of these:** office hours this week. Don't wait.
 :::
@@ -300,7 +300,7 @@ This is not a suggestion. Failure to comply can result in <span style="color: re
 
 | Milestone | When | Implication |
 |:---|:---|:---|
-| Doc 0.2 (Methodology) | **Week 10** | Must describe your data collection plan in detail |
+| Doc 0.2 (Methodology) | **Apr 14** | Must describe your data collection plan in detail |
 | Ethics approval processing | <span style="color: red">**~3 weeks**</span> | If you need approval, start the application **now** |
 | Data collection | <span style="color: red">**After approval only**</span> | Cannot begin until you have the green light |
 :::
@@ -659,6 +659,6 @@ Refer back to the literature review checklist criteria from the Doc 0.1 briefing
 ## Before Next Week
 
 1. If your project involves human participants: <span style="color: red">**begin drafting your ethics application, information sheet, and consent form this week.**</span> Don't wait until Doc 0.2 is due.
-2. Start coding any interview/observation data you've collected. Bring your draft codebook to **Week 8**.
+2. Start coding any interview/observation data you've collected. Bring your draft codebook to the next workshop session.
 3. Bring a draft ethics form to **office hours** — I'll review it with you before submission.
 :::

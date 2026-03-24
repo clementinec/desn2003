@@ -31,6 +31,20 @@ Today is about getting your project into a state where you can defend:
 - who or what your evidence source is
 - what approval, consent, or data-handling issues must be resolved first
 
+## The Runway From Here
+
+::: {.callout-note icon=false}
+## What The Rest of Semester Looks Like
+
+- **Mar 31**: Professional Discovery presentations begin
+- **Apr 7**: no class
+- **Apr 14**: Professional Discovery presentations continue + **Doc 0.2** + **Professional Discovery Documentation**
+- **Apr 21**: last lecture / final presentation launch + **Doc 1 due**
+- **Apr 28**: in-class presentation overflow if needed
+:::
+
+That means this week is not abstract theory for its own sake. This week is about getting your method locked before the calendar compresses.
+
 ## Learning Objectives
 
 By the end of this session, you will be able to:
