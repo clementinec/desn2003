@@ -794,7 +794,7 @@ Could your research benefit from **both** qualitative and quantitative data? How
 ::: {.columns}
 ::: {.column width="50%"}
 ### Doc 0.1: Literature Review
-**Due: Week 6 (Mar 3)**
+**Due: Week 5 (Mar 3)**
 
 - What methods have others used?
 - What did they find?
@@ -928,7 +928,7 @@ Let's discuss!
 
 **Next week:** Methods II — Quantitative & Mixed Methods
 
-**Doc 0.1 due:** Week 6 (Mar 3)
+**Doc 0.1 due:** Week 5 (Mar 3)
 
 ::: {.notes}
 - Encourage questions about method selection

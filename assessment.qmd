@@ -16,22 +16,22 @@ All written submissions are due **Tuesday before class** (by 12:00 PM noon) — 
 
 | Teaching Week | Calendar Date | Assessment / In-Class Milestone |
 |---------------|---------------|---------------------------------|
-| 4 | Feb 10 | **Doc 0** — Extended Abstract |
-| 6 | Mar 3 | **Doc 0.1** — Literature Review |
-| 10 | Mar 31 | **Professional Discovery Presentations** (Part 1, in class) |
+| 3 | Feb 10 | **Doc 0** — Extended Abstract |
+| 5 | Mar 3 | **Doc 0.1** — Literature Review |
+| 9 | Mar 31 | **Professional Discovery Presentations** (Part 1, in class) |
 | — | Apr 7 | **No class** |
-| 11 | Apr 14 | **Professional Discovery Presentations** (Part 2, in class) + **Doc 0.2** — Collecting Evidence + **Professional Discovery Documentation** |
-| 12 | Apr 21 | **Doc 1** — Research Paper Draft + **Final Presentations & Peer Evaluation** begin |
-| 13 | Apr 28 | **Final Presentations & Peer Evaluation** continue, if needed |
+| 10 | Apr 14 | **Professional Discovery Presentations** (Part 2, in class) + **Doc 0.2** — Collecting Evidence + **Professional Discovery Documentation** |
+| 11 | Apr 21 | **Doc 1** — Research Paper Draft + **Final Presentations & Peer Evaluation** begin |
+| 12 | Apr 28 | **Final Presentations & Peer Evaluation** continue, if needed |
 
 ::: {.callout-note}
 ## Spring Festival Break
-No class on Feb 17. Teaching resumes Week 5 (Feb 24).
+No class on Feb 17. Teaching resumes Week 4 (Feb 24).
 :::
 
 ::: {.callout-note}
 ## Late-Semester Calendar Shift
-Teaching weeks and calendar weeks diverge after **Mar 31**. There is **no class on Apr 7**, so the teaching sequence resumes on **Apr 14 (Teaching Week 11)**. Final presentations begin on **Apr 21 (Teaching Week 12)**, with **Apr 28 (Teaching Week 13)** reserved as in-class overflow if needed.
+Teaching weeks and calendar weeks diverge after **Mar 31**. There is **no class on Apr 7**, so the teaching sequence resumes on **Apr 14 (Teaching Week 10)**. Final presentations begin on **Apr 21 (Teaching Week 11)**, with **Apr 28 (Teaching Week 12)** reserved as in-class overflow if needed.
 :::
 
 ::: {.callout-tip}

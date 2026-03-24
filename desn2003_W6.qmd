@@ -706,7 +706,7 @@ Computational methods + qualitative interpretation = publishable research.
 ::: {.column width="50%"}
 **Doc 0.2: Collecting Evidence**
 
-Due: Week 12 (Apr 14)
+Due: Week 10 (Apr 14)
 
 - Your methodology section
 - What data will you collect?
@@ -951,7 +951,7 @@ Let's discuss!
 
 **Next week:** Know Your Client — Professional Discovery & Thematic Analysis
 
-**Doc 0.2 due:** Week 12 (Apr 14)
+**Doc 0.2 due:** Week 10 (Apr 14)
 
 ::: {.notes}
 - Check: Has everyone submitted Doc 0.1?

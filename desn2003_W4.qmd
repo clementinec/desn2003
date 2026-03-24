@@ -1113,7 +1113,7 @@ This is how real research works. Nobody writes a perfect literature review on th
 ### Coming Up
 **Doc 0.1: Literature Review**
 
-- Due: Week 6 (Mar 3)
+- Due: Week 5 (Mar 3)
 - Your research question is now your search filter
 - Write your best v0.2 — you'll upgrade it for Doc 1
 :::
