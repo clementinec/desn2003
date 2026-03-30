@@ -32,14 +32,14 @@
     "href": "desn2003_W9.html#learning-objectives",
     "title": "DESN2003 | Research for Innovation",
     "section": "Learning Objectives",
-    "text": "Learning Objectives\nBy the end of this session, you will be able to:\n\nDistinguish descriptive from analytical writing in your own drafts\nApply reverse outlining to identify structural gaps\nSynthesize qualitative and quantitative findings using the Synthesis Canvas\nTranslate research findings into product hypotheses (Applied Research)"
+    "text": "Learning Objectives\nBy the end of this session, you will be able to:\n\nDiagnose common methodology failures before they appear in your own draft\nGive focused peer feedback on a research question, literature review paragraph, and method summary\nIdentify the next revision priorities for Doc 0.2 and Doc 1\nSynthesize findings into a more defensible argument or product hypothesis"
   },
   {
     "objectID": "desn2003_W9.html#todays-session-structure",
     "href": "desn2003_W9.html#todays-session-structure",
     "title": "DESN2003 | Research for Innovation",
     "section": "Today’s Session Structure",
-    "text": "Today’s Session Structure\n\nWriting Workshop (40 min) — Descriptive vs. analytical writing + peer review\nSynthesis Activity (25 min) — Working with the Synthesis Canvas\nResearch → Decision (20 min) — Applied Research framework\nLogistics (5 min) — Interview project reminder"
+    "text": "Today’s Session Structure\n\nMethod Roast 2.0 (25 min) — Diagnose broken research designs\nPeer Review Lite (35 min) — Research question + lit review + method fit\nSynthesis / Research → Decision (30 min) — Turn evidence into a usable claim\nExit Artifacts + Logistics (10 min)"
   },
   {
     "objectID": "desn2003_W9.html#descriptive-vs.-analytical-writing",
@@ -291,7 +291,7 @@
     "href": "desn2003_W9.html#artifact-output-what-you-leave-with",
     "title": "DESN2003 | Research for Innovation",
     "section": "Artifact Output: What You Leave With",
-    "text": "Artifact Output: What You Leave With\n\n\n\nToday’s Deliverables\n\n\nFrom Writing Workshop:\n\nReverse outline of your Doc 0.1 or Doc 0.2 draft\nPeer feedback on descriptive vs. analytical writing\nList of paragraphs that need deeper analysis\n\nFrom Synthesis (Frontier Research):\n\nDraft Synthesis Canvas with at least 2 themes + triangulation check\n\nFrom Research → Decision (Applied Research):\n\nCompleted Research to Decision Canvas with hypothesis and validation plan\n\nThese feed directly into Doc 1."
+    "text": "Artifact Output: What You Leave With\n\n\n\nToday’s Deliverables\n\n\nFrom Workshop 1: Method Roast 2.0\n\none completed roast verdict sheet per group\none sharp diagnosis of a broken method\none defensible revision of that method\n\nFrom Workshop 2: Peer Review Lite\n\none completed peer review sheet\none reviewer summary of the argument\none writer revision memo with the next three changes\n\nFrom Synthesis / Frontier Research:\n\nDraft Synthesis Canvas with at least 2 themes + triangulation check\n\nFrom Research → Decision / Applied Research:\n\nCompleted Research to Decision Canvas with hypothesis and validation plan\n\nThese feed directly into Doc 0.2 and Doc 1."
   },
   {
     "objectID": "desn2003_W9.html#groupindividual-interview-project",
@@ -2881,7 +2881,7 @@
     "href": "index.html#resources",
     "title": "DESN2003",
     "section": "Resources",
-    "text": "Resources\n\nGrab-and-Go Artifacts\nPrintable PDF toolkits — each includes a blank template on page 1 and a worked example on page 2.\n\n\n\nWeek\nToolkit\nDescription\n\n\n\n\n3\nLandscape Intelligence Canvas\nCompetitive + academic research synthesis\n\n\n4\nResearch Question Builder\nFINER criteria, scope check, question types\n\n\n5\nInterview Protocol Template\nOpening script, probes, anti-patterns\n\n\n6\nSurvey Design Checklist\nBias checks, Likert scales, sample size guide\n\n\n9\nSynthesis Canvas\nQual→themes, quant patterns, triangulation\n\n\n9\nResearch to Decision Canvas\nFor Applied Research: evidence → recommendation\n\n\n\n\n\nCourse Materials\n\nAssessment Guide — Grading breakdown, document progression, submission guidelines\nWriting Samples — Examples of strong student work\nWorksheet: Qualitative Methods — Quick-reference interview guide\nExample Writeup — Sample research writeup\nPeer Review Guide — Evaluation criteria for peer feedback\n\n\n\nEthics & Approval\n\nWeek 7: KYC, Ethics Approval & Analysis — Slide deck with the ethics walk-through\nHREC Operational Guidelines (PDF) — Official HKU guidance referenced in Week 7\nEthical Approval Application Form (DOCX) — HKU TPg and UG application form used in the walk-through\n\nWeek 10 Data Files:\n\nPlotting Examples | Google Colab\nSurvey Data | Transcripts | Tabular Data"
+    "text": "Resources\n\nGrab-and-Go Artifacts\nPrintable PDF toolkits — each includes a blank template on page 1 and a worked example on page 2.\n\n\n\nWeek\nToolkit\nDescription\n\n\n\n\n3\nLandscape Intelligence Canvas\nCompetitive + academic research synthesis\n\n\n4\nResearch Question Builder\nFINER criteria, scope check, question types\n\n\n5\nInterview Protocol Template\nOpening script, probes, anti-patterns\n\n\n6\nSurvey Design Checklist\nBias checks, Likert scales, sample size guide\n\n\n9\nSynthesis Canvas\nQual→themes, quant patterns, triangulation\n\n\n9\nResearch to Decision Canvas\nFor Applied Research: evidence → recommendation\n\n\n\n\n\nCourse Materials\n\nAssessment Guide — Grading breakdown, document progression, submission guidelines\nWriting Samples — Examples of strong student work\nWeek 9 Workshop Sheet — Method roast verdict + peer review lite prompts\nWorksheet: Qualitative Methods — Quick-reference interview guide\nExample Writeup — Sample research writeup\nPeer Review Guide — Evaluation criteria for peer feedback\n\n\n\nEthics & Approval\n\nWeek 7: KYC, Ethics Approval & Analysis — Slide deck with the ethics walk-through\nHREC Operational Guidelines (PDF) — Official HKU guidance referenced in Week 7\nEthical Approval Application Form (DOCX) — HKU TPg and UG application form used in the walk-through\n\nWeek 10 Data Files:\n\nPlotting Examples | Google Colab\nSurvey Data | Transcripts | Tabular Data"
   },
   {
     "objectID": "index.html#course-info",
@@ -3288,5 +3288,159 @@
     "title": "DESN2003 Doc 0.1 — Literature Review Assessment",
     "section": "",
     "text": "Student\nQuality (/50)\nEffort (/50)\nRaw Total\nCurved\n\n\n\n\nLi Ping Sum\n44\n46\n90\n96\n\n\nYu Qiheng\n42\n42\n84\n93\n\n\nHo Chun\n40\n40\n80\n91\n\n\nWong Chun Tin Isaac\n40\n38\n78\n90\n\n\nYang Zhen\n38\n40\n78\n90\n\n\nBai Junyi\n38\n38\n76\n89\n\n\nWong Ho Yan\n36\n34\n70\n86\n\n\nYu Yunqi\n35\n34\n69\n85\n\n\nZhuang Victor\n32\n33\n65\n84\n\n\nChan Yuen Yau Davina\n28\n32\n60\n83\n\n\nChan Kiu Chin\n30\n25\n55\n83\n\n\nPradhan Arjun Kumar\n28\n22\n50\n82\n\n\nPatwa Neil Amit\n25\n20\n45\n81\n\n\nMahajan Ashalle Kumar\n22\n18\n40\n80\n\n\nYe Lo A (Lucile)\n8\n5\n13\n75\n\n\n\n\nThis assessment was prepared with AI-assisted initial review. All grades are tentative and subject to instructor verification. Feedback is written to be forward-looking — Doc 0.1 is v0.2 of the research, and all of this content will be upgraded for Doc 1."
+  },
+  {
+    "objectID": "desn2003_W9.html#open-this-now",
+    "href": "desn2003_W9.html#open-this-now",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Open This Now",
+    "text": "Open This Now\n\nyour current research question\none literature review paragraph you think is strong\none literature review paragraph you are unsure about\nyour current method paragraph, or a 3-4 sentence method summary\nWeek 9 Workshop Sheet (PDF)\n\n\n\n\nImportant\n\n\nYou are not peer reviewing the whole paper today. That is too broad. We are doing baby-step peer review on the parts that most often fail first."
+  },
+  {
+    "objectID": "desn2003_W9.html#why-we-are-doing-this-again",
+    "href": "desn2003_W9.html#why-we-are-doing-this-again",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Why We Are Doing This Again",
+    "text": "Why We Are Doing This Again\n\n\n\nNote\n\n\nIf you can spot a broken method in somebody else’s project in under a minute, you are much less likely to ship the same mistake in your own.\n\n\n\nToday the roast is not just for entertainment. It is calibration."
+  },
+  {
+    "objectID": "desn2003_W9.html#group-deliverable-one-roast-verdict-sheet",
+    "href": "desn2003_W9.html#group-deliverable-one-roast-verdict-sheet",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Group Deliverable: One Roast Verdict Sheet",
+    "text": "Group Deliverable: One Roast Verdict Sheet\nUse Section A of the Week 9 Workshop Sheet (PDF).\nEach group hands in:\n\nthe case label\nthe main flaw\nthe unsupported claim\nthe ethics or access issue, if any\na defensible revision\na one-line verdict: fatal flaw or salvageable"
+  },
+  {
+    "objectID": "desn2003_W9.html#roast-prompts",
+    "href": "desn2003_W9.html#roast-prompts",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Roast Prompts",
+    "text": "Roast Prompts\nFor your assigned case, answer only these:\n\nWhat is the main flaw?\nWhat claim is the student trying to make that the method cannot support?\nIs there any ethics, consent, sampling, or access problem?\nWhat would a defensible revision look like?\n\nIf your comment does not point to a concrete mismatch, it is not useful feedback yet."
+  },
+  {
+    "objectID": "desn2003_W9.html#case-a-strong-topic-bad-method-fit",
+    "href": "desn2003_W9.html#case-a-strong-topic-bad-method-fit",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Case A: Strong Topic, Bad Method Fit",
+    "text": "Case A: Strong Topic, Bad Method Fit\n\n“I want to study how AI affects creativity in Hong Kong designers. I will survey 8 classmates from my own studio and conclude whether AI improves creativity in the design industry.”\n\nRoast target:\n\ntopic scale vs sample scale\nconvenience sample\nwhat the method can and cannot claim"
+  },
+  {
+    "objectID": "desn2003_W9.html#case-b-literature-review-points-one-way-data-source-points-another",
+    "href": "desn2003_W9.html#case-b-literature-review-points-one-way-data-source-points-another",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Case B: Literature Review Points One Way, Data Source Points Another",
+    "text": "Case B: Literature Review Points One Way, Data Source Points Another\n\n“My literature review says museum visitors want immersive experiences. To prove this, I will interview 2 curators and use their answers to conclude what visitors need.”\n\nRoast target:\n\nrespondent mismatch\nwhose perspective is being measured\nwhat evidence would actually answer the question"
+  },
+  {
+    "objectID": "desn2003_W9.html#case-c-plausible-method-hidden-ethics-problem",
+    "href": "desn2003_W9.html#case-c-plausible-method-hidden-ethics-problem",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Case C: Plausible Method, Hidden Ethics Problem",
+    "text": "Case C: Plausible Method, Hidden Ethics Problem\n\n“I will observe stressed pedestrians in public space and infer their emotional state from body language, then compare ‘stress levels’ across locations without asking for consent.”\n\nRoast target:\n\ninference beyond the data\nethics and consent\nwhat counts as observable behavior vs speculative interpretation"
+  },
+  {
+    "objectID": "desn2003_W9.html#roast-flow",
+    "href": "desn2003_W9.html#roast-flow",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Roast Flow",
+    "text": "Roast Flow\n\nRead the case silently (2 min)\nFill Section A as a group (8 min)\nPrepare one sharp verdict sentence (2 min)\nShare back (about 1 min per group)\n\nIf you finish early: choose a second case and do a lightning roast on the back of the sheet."
+  },
+  {
+    "objectID": "desn2003_W9.html#the-failure-modes-we-keep-seeing",
+    "href": "desn2003_W9.html#the-failure-modes-we-keep-seeing",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "The Failure Modes We Keep Seeing",
+    "text": "The Failure Modes We Keep Seeing\n\nthe claim is much larger than the sample can support\nthe wrong people are being asked the wrong question\nthe method collects description but the paper wants causation\nethics, consent, or access problems are discovered too late\nthere is data collection, but no credible analysis plan"
+  },
+  {
+    "objectID": "desn2003_W9.html#this-is-not-full-peer-review",
+    "href": "desn2003_W9.html#this-is-not-full-peer-review",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "This Is Not Full Peer Review",
+    "text": "This Is Not Full Peer Review\nWe are not reviewing the whole paper.\nWe are testing four things only:\n\nis the research question actually clear?\nis there at least one paragraph that goes beyond summary?\nis there at least one paragraph that still only summarizes?\ndoes the current method actually match the question?"
+  },
+  {
+    "objectID": "desn2003_W9.html#pair-deliverable-one-peer-review-sheet-one-revision-memo",
+    "href": "desn2003_W9.html#pair-deliverable-one-peer-review-sheet-one-revision-memo",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Pair Deliverable: One Peer Review Sheet + One Revision Memo",
+    "text": "Pair Deliverable: One Peer Review Sheet + One Revision Memo\nUse Section B of the Week 9 Workshop Sheet (PDF).\nThe reviewer must produce:\n\na one-sentence summary of the writer’s argument\ntwo strengths\ntwo revision priorities\n\nThe writer must produce:\n\na short revision memo with the first three changes they will make"
+  },
+  {
+    "objectID": "desn2003_W9.html#bring-only-these-four-things",
+    "href": "desn2003_W9.html#bring-only-these-four-things",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Bring Only These Four Things",
+    "text": "Bring Only These Four Things\nShare only:\n\nyour current research question\none literature review paragraph you think is strong\none literature review paragraph you are unsure about\nyour method paragraph, or a 3-4 sentence method summary\n\nThat is enough for a useful first-round review."
+  },
+  {
+    "objectID": "desn2003_W9.html#review-rules",
+    "href": "desn2003_W9.html#review-rules",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Review Rules",
+    "text": "Review Rules\n\nNo grammar policing first. This round is about argument and method fit.\nNo vague praise. “Looks good” is useless.\nNo reviewing everything. Focus on the four prompts only.\nName the mismatch. If something feels off, say exactly where."
+  },
+  {
+    "objectID": "desn2003_W9.html#step-1-silent-read-marking-6-min",
+    "href": "desn2003_W9.html#step-1-silent-read-marking-6-min",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Step 1: Silent Read + Marking (6 min)",
+    "text": "Step 1: Silent Read + Marking (6 min)\nAs the reviewer:\n\nunderline the clearest research question language\nmark the strongest analytical sentence with a star\ncircle the paragraph that is still mostly summary\nput a question mark where the method no longer fits the question"
+  },
+  {
+    "objectID": "desn2003_W9.html#step-2-write-feedback-not-vibes-10-min",
+    "href": "desn2003_W9.html#step-2-write-feedback-not-vibes-10-min",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Step 2: Write Feedback, Not Vibes (10 min)",
+    "text": "Step 2: Write Feedback, Not Vibes (10 min)\nComplete these prompts on the worksheet:\n\nYour project is asking...\nYour strongest analytical move is...\nThis paragraph is still mostly summary because...\nYour method stops matching the question when...\nTwo revision priorities are..."
+  },
+  {
+    "objectID": "desn2003_W9.html#what-strong-feedback-sounds-like",
+    "href": "desn2003_W9.html#what-strong-feedback-sounds-like",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "What Strong Feedback Sounds Like",
+    "text": "What Strong Feedback Sounds Like\n\n\n\n\n\n\n\nWeak\nUseful\n\n\n\n\n“Needs more detail.”\n“You interview curators, but your research question is about visitors. That is a respondent mismatch.”\n\n\n“Good paragraph.”\n“This paragraph cites three sources, but it never tells the reader what pattern or disagreement matters.”\n\n\n“Method unclear.”\n“You say you will observe behavior, but later you make a claim about feelings that observation alone cannot support.”"
+  },
+  {
+    "objectID": "desn2003_W9.html#step-3-writer-revision-memo-8-min",
+    "href": "desn2003_W9.html#step-3-writer-revision-memo-8-min",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Step 3: Writer Revision Memo (8 min)",
+    "text": "Step 3: Writer Revision Memo (8 min)\nAfter getting feedback, the writer fills in:\n\nThe clearest part of my draft is...\nThe biggest mismatch or weakness is...\nThe first three changes I will make before Doc 0.2 / Doc 1 are...\n\nThis is the part that turns peer review into actual revision."
+  },
+  {
+    "objectID": "desn2003_W9.html#if-you-brought-almost-nothing",
+    "href": "desn2003_W9.html#if-you-brought-almost-nothing",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "If You Brought Almost Nothing",
+    "text": "If You Brought Almost Nothing\nDo not panic.\nUse:\n\nyour research question\none sentence from your notes that tries to state a finding\na rough method summary\n\nYou can still do a useful peer review at that scale."
+  },
+  {
+    "objectID": "desn2003_W9.html#roast-case-wall",
+    "href": "desn2003_W9.html#roast-case-wall",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Roast Case Wall",
+    "text": "Roast Case Wall\n\n  \n    Case A\n    Too Small to Say That\n    \n      Aim: AI and creativity in Hong Kong designers\n      Plan: Survey 8 classmates from one studio\n    \n    \n      Scale mismatch\n      Convenience sample\n      Overclaim\n    \n  \n  \n    Case B\n    Wrong People, Wrong Answer\n    \n      Aim: What museum visitors want\n      Plan: Interview 2 curators\n    \n    \n      Respondent mismatch\n      Perspective gap\n      Bad evidence fit\n    \n  \n  \n    Case C\n    Observation Is Not Mind Reading\n    \n      Aim: Compare pedestrian stress by location\n      Plan: Infer stress from body language in public\n    \n    \n      Over-inference\n      Ethics problem\n      Weak construct\n    \n  \n\nPick one. Roast hard. Repair precisely."
+  },
+  {
+    "objectID": "desn2003_W9.html#case-a-too-small-to-say-that",
+    "href": "desn2003_W9.html#case-a-too-small-to-say-that",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Case A: Too Small to Say That",
+    "text": "Case A: Too Small to Say That\n\n  Case A\n  Too Small to Say That\n  \n    Aim: How AI affects creativity in Hong Kong designers\n    Plan: Survey 8 classmates from one studio\n    Claim they want: Whether AI improves creativity in the design industry\n  \n  \n    Scale mismatch\n    Convenience sample\n    Overclaim\n  \n\nYour job: name the overclaim, then repair the design."
+  },
+  {
+    "objectID": "desn2003_W9.html#case-b-wrong-people-wrong-answer",
+    "href": "desn2003_W9.html#case-b-wrong-people-wrong-answer",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Case B: Wrong People, Wrong Answer",
+    "text": "Case B: Wrong People, Wrong Answer\n\n  Case B\n  Wrong People, Wrong Answer\n  \n    Aim: What museum visitors want from immersive experiences\n    Plan: Interview 2 curators\n    Claim they want: Prove what visitors need\n  \n  \n    Respondent mismatch\n    Perspective gap\n    Bad evidence fit\n  \n\nYour job: identify whose voice is missing and what evidence would actually answer the question."
+  },
+  {
+    "objectID": "desn2003_W9.html#case-c-observation-is-not-mind-reading",
+    "href": "desn2003_W9.html#case-c-observation-is-not-mind-reading",
+    "title": "DESN2003 | Research for Innovation",
+    "section": "Case C: Observation Is Not Mind Reading",
+    "text": "Case C: Observation Is Not Mind Reading\n\n  Case C\n  Observation Is Not Mind Reading\n  \n    Aim: Compare pedestrian stress across locations\n    Plan: Infer stress from body language in public spaces\n    Claim they want: Measure stress without consent\n  \n  \n    Over-inference\n    Ethics problem\n    Weak construct\n  \n\nYour job: separate observable behavior from imagined inner state."
   }
 ]

@@ -65,6 +65,7 @@ Printable PDF toolkits — each includes a blank template on page 1 and a worked
 
 - [Assessment Guide](assessment.qmd) — Grading breakdown, document progression, submission guidelines
 - [Writing Samples](writingsample.qmd) — Examples of strong student work
+- [Week 9 Workshop Sheet](data/week9_workshop_sheet.pdf) — Method roast verdict + peer review lite prompts
 - [Worksheet: Qualitative Methods](data/worksheet.pdf) — Quick-reference interview guide
 - [Example Writeup](write.qmd) — Sample research writeup
 - [Peer Review Guide](data/TMP.pdf) — Evaluation criteria for peer feedback

@@ -1,6 +1,6 @@
 ---
 title: "DESN2003 | Research for Innovation"
-subtitle: "Lit Review Continues, Group Project and Finalizing Methodology"
+subtitle: "Method Roast, Peer Review, and Synthesis"
 author: Hongshan Guo
 format: 
   revealjs:
@@ -15,6 +15,114 @@ format:
     incremental: true
     
 ---
+
+```{=html}
+<style>
+.reveal .case-wall {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  align-items: stretch;
+  margin-top: 1rem;
+}
+
+.reveal .case-card {
+  text-align: left;
+  border-radius: 24px;
+  border: 4px solid #1d3557;
+  padding: 1.15rem 1.2rem;
+  box-shadow: 0 14px 0 rgba(29, 53, 87, 0.12);
+}
+
+.reveal .case-a {
+  background: #fff1d6;
+}
+
+.reveal .case-b {
+  background: #e3f4ef;
+}
+
+.reveal .case-c {
+  background: #fde6e2;
+}
+
+.reveal .case-tag {
+  display: inline-block;
+  margin-bottom: 0.7rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 999px;
+  background: #1d3557;
+  color: #ffffff;
+  font-size: 0.58em;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.reveal .case-title {
+  margin-bottom: 0.55rem;
+  color: #111827;
+  font-size: 1.2em;
+  font-weight: 800;
+  line-height: 1.05;
+}
+
+.reveal .case-body {
+  color: #1f2937;
+  font-size: 0.72em;
+  line-height: 1.35;
+}
+
+.reveal .case-claim {
+  margin-top: 0.75rem;
+  color: #111827;
+  font-size: 0.74em;
+  font-weight: 700;
+}
+
+.reveal .case-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin-top: 0.9rem;
+}
+
+.reveal .case-badge {
+  padding: 0.26rem 0.55rem;
+  border: 2px solid #1d3557;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.85);
+  color: #1d3557;
+  font-size: 0.54em;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.reveal .case-large {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.reveal .case-large .case-title {
+  font-size: 1.75em;
+}
+
+.reveal .case-large .case-body {
+  font-size: 0.92em;
+}
+
+.reveal .case-large .case-claim {
+  font-size: 0.95em;
+}
+
+@media (max-width: 1200px) {
+  .reveal .case-wall {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
+```
 
 # The Runway Is Short Now {background-color="#E9C46A"}
 
@@ -56,19 +164,31 @@ If your method is still vague, go back to the Week 8 method paragraph first. Eve
 
 By the end of this session, you will be able to:
 
-1. **Distinguish** descriptive from analytical writing in your own drafts
-2. **Apply** reverse outlining to identify structural gaps
-3. **Synthesize** qualitative and quantitative findings using the Synthesis Canvas
-4. **Translate** research findings into product hypotheses (Applied Research)
+1. **Diagnose** common methodology failures before they appear in your own draft
+2. **Give** focused peer feedback on a research question, literature review paragraph, and method summary
+3. **Identify** the next revision priorities for Doc 0.2 and Doc 1
+4. **Synthesize** findings into a more defensible argument or product hypothesis
 
 ---
 
 ## Today's Session Structure
 
-1. **Writing Workshop** (40 min) — Descriptive vs. analytical writing + peer review
-2. **Synthesis Activity** (25 min) — Working with the Synthesis Canvas
-3. **Research → Decision** (20 min) — Applied Research framework
-4. **Logistics** (5 min) — Interview project reminder
+1. **Method Roast 2.0** (25 min) — Diagnose broken research designs
+2. **Peer Review Lite** (35 min) — Research question + lit review + method fit
+3. **Synthesis / Research → Decision** (30 min) — Turn evidence into a usable claim
+4. **Exit Artifacts + Logistics** (10 min)
+
+## Open This Now
+
+- your current research question
+- one literature review paragraph you think is strong
+- one literature review paragraph you are unsure about
+- your current method paragraph, or a 3-4 sentence method summary
+- [Week 9 Workshop Sheet (PDF)](data/week9_workshop_sheet.pdf)
+
+::: {.callout-important icon=false}
+You are not peer reviewing the whole paper today. That is too broad. We are doing **baby-step peer review** on the parts that most often fail first.
+:::
 <!-- 
 ## From previous class, we have five (six) centralized group:
   
@@ -111,258 +231,261 @@ By the end of this session, you will be able to:
     - '**reproducible**' (repeatable)
       - allow readers to repeat the publication -->
 
-## Descriptive vs. Analytical Writing
+# Workshop 1: Method Roast 2.0 {background-color="#F4A261"}
 
-Welcome to today's session on distinguishing between descriptive and analytical writing. Let's enhance our academic writing skills together!
+## Why We Are Doing This Again
 
-::: notes
-In this session, we'll explore the key differences between descriptive and analytical writing, which are crucial for academic success, especially in fields like UI/UX and product design.
+::: {.callout-note icon=false}
+If you can spot a broken method in somebody else's project in under a minute, you are much less likely to ship the same mistake in your own.
 :::
 
+Today the roast is not just for entertainment. It is calibration.
+
+## Group Deliverable: One Roast Verdict Sheet
+
+Use **Section A** of the [Week 9 Workshop Sheet (PDF)](data/week9_workshop_sheet.pdf).
+
+Each group hands in:
+
+- the case label
+- the main flaw
+- the unsupported claim
+- the ethics or access issue, if any
+- a defensible revision
+- a one-line verdict: `fatal flaw` or `salvageable`
+
+## Roast Prompts
+
+For your assigned case, answer only these:
+
+1. **What is the main flaw?**
+2. **What claim is the student trying to make that the method cannot support?**
+3. **Is there any ethics, consent, sampling, or access problem?**
+4. **What would a defensible revision look like?**
+
+If your comment does not point to a concrete mismatch, it is not useful feedback yet.
+
+## Roast Case Wall
+
+```{=html}
+<div class="case-wall">
+  <div class="case-card case-a">
+    <div class="case-tag">Case A</div>
+    <div class="case-title">Too Small to Say That</div>
+    <div class="case-body">
+      <p><strong>Aim:</strong> AI and creativity in Hong Kong designers</p>
+      <p><strong>Plan:</strong> Survey 8 classmates from one studio</p>
+    </div>
+    <div class="case-badges">
+      <span class="case-badge">Scale mismatch</span>
+      <span class="case-badge">Convenience sample</span>
+      <span class="case-badge">Overclaim</span>
+    </div>
+  </div>
+  <div class="case-card case-b">
+    <div class="case-tag">Case B</div>
+    <div class="case-title">Wrong People, Wrong Answer</div>
+    <div class="case-body">
+      <p><strong>Aim:</strong> What museum visitors want</p>
+      <p><strong>Plan:</strong> Interview 2 curators</p>
+    </div>
+    <div class="case-badges">
+      <span class="case-badge">Respondent mismatch</span>
+      <span class="case-badge">Perspective gap</span>
+      <span class="case-badge">Bad evidence fit</span>
+    </div>
+  </div>
+  <div class="case-card case-c">
+    <div class="case-tag">Case C</div>
+    <div class="case-title">Observation Is Not Mind Reading</div>
+    <div class="case-body">
+      <p><strong>Aim:</strong> Compare pedestrian stress by location</p>
+      <p><strong>Plan:</strong> Infer stress from body language in public</p>
+    </div>
+    <div class="case-badges">
+      <span class="case-badge">Over-inference</span>
+      <span class="case-badge">Ethics problem</span>
+      <span class="case-badge">Weak construct</span>
+    </div>
+  </div>
+</div>
+```
+
+Pick one. Roast hard. Repair precisely.
+
+## Case A: Too Small to Say That
+
+```{=html}
+<div class="case-card case-a case-large">
+  <div class="case-tag">Case A</div>
+  <div class="case-title">Too Small to Say That</div>
+  <div class="case-body">
+    <p><strong>Aim:</strong> How AI affects creativity in Hong Kong designers</p>
+    <p><strong>Plan:</strong> Survey 8 classmates from one studio</p>
+    <p class="case-claim"><strong>Claim they want:</strong> Whether AI improves creativity in the design industry</p>
+  </div>
+  <div class="case-badges">
+    <span class="case-badge">Scale mismatch</span>
+    <span class="case-badge">Convenience sample</span>
+    <span class="case-badge">Overclaim</span>
+  </div>
+</div>
+```
+
+Your job: name the overclaim, then repair the design.
+
+## Case B: Wrong People, Wrong Answer
+
+```{=html}
+<div class="case-card case-b case-large">
+  <div class="case-tag">Case B</div>
+  <div class="case-title">Wrong People, Wrong Answer</div>
+  <div class="case-body">
+    <p><strong>Aim:</strong> What museum visitors want from immersive experiences</p>
+    <p><strong>Plan:</strong> Interview 2 curators</p>
+    <p class="case-claim"><strong>Claim they want:</strong> Prove what visitors need</p>
+  </div>
+  <div class="case-badges">
+    <span class="case-badge">Respondent mismatch</span>
+    <span class="case-badge">Perspective gap</span>
+    <span class="case-badge">Bad evidence fit</span>
+  </div>
+</div>
+```
 
-## Activity: Identify the Writing Style
+Your job: identify whose voice is missing and what evidence would actually answer the question.
 
-We'll go through several examples. For each, determine if it's descriptive or analytical. After your response, we'll reveal the correct answer and discuss.
+## Case C: Observation Is Not Mind Reading
 
-::: notes
-This interactive activity aims to help students practice distinguishing between descriptive and analytical writing through real examples.
-:::
+```{=html}
+<div class="case-card case-c case-large">
+  <div class="case-tag">Case C</div>
+  <div class="case-title">Observation Is Not Mind Reading</div>
+  <div class="case-body">
+    <p><strong>Aim:</strong> Compare pedestrian stress across locations</p>
+    <p><strong>Plan:</strong> Infer stress from body language in public spaces</p>
+    <p class="case-claim"><strong>Claim they want:</strong> Measure stress without consent</p>
+  </div>
+  <div class="case-badges">
+    <span class="case-badge">Over-inference</span>
+    <span class="case-badge">Ethics problem</span>
+    <span class="case-badge">Weak construct</span>
+  </div>
+</div>
+```
 
-## Example 1: Question
+Your job: separate observable behavior from imagined inner state.
 
-"User engagement metrics have decreased by 20% over the past three months."
+## Roast Flow
 
-**Question:**  
-Is this statement **descriptive** or **analytical**?
+1. **Read the case silently** (2 min)
+2. **Fill Section A as a group** (8 min)
+3. **Prepare one sharp verdict sentence** (2 min)
+4. **Share back** (about 1 min per group)
 
-::: notes
-This statement simply presents a fact without interpretation. Think: Does it explain why or how?
-:::
+**If you finish early:** choose a second case and do a lightning roast on the back of the sheet.
 
----
+## The Failure Modes We Keep Seeing
 
-## Example 1: Answer
+- the claim is much larger than the sample can support
+- the wrong people are being asked the wrong question
+- the method collects description but the paper wants causation
+- ethics, consent, or access problems are discovered too late
+- there is data collection, but no credible analysis plan
 
-**Answer:** Descriptive
+# Workshop 2: Peer Review Lite {background-color="#A8DADC"}
 
-*Explanation:*  
-The sentence reports a fact (a 20% drop) without delving into any reasons or implications behind the metric change.
+## This Is Not Full Peer Review
 
----
+We are not reviewing the whole paper.
 
-## Example 2: Question
+We are testing four things only:
 
-"Maslow's hierarchy of needs is a psychological theory that arranges human needs in a pyramid, with physiological needs at the base and self-actualization at the top."
+- is the research question actually clear?
+- is there at least one paragraph that goes beyond summary?
+- is there at least one paragraph that still only summarizes?
+- does the current method actually match the question?
 
-**Question:**  
-Is this statement **descriptive** or **analytical**?
+## Pair Deliverable: One Peer Review Sheet + One Revision Memo
 
-::: notes
-It describes the theory’s structure, but it doesn't critically assess its limitations or context.
-:::
+Use **Section B** of the [Week 9 Workshop Sheet (PDF)](data/week9_workshop_sheet.pdf).
 
----
+The reviewer must produce:
 
-## Example 2: Answer
+- a one-sentence summary of the writer's argument
+- two strengths
+- two revision priorities
 
-**Answer:** Descriptive
+The writer must produce:
 
-*Explanation:*  
-While it explains the pyramid structure, it does not analyze or critique the theory’s applicability or limitations across different cultures.
+- a short revision memo with the first three changes they will make
 
----
+## Bring Only These Four Things
 
-## Example 3: Question
+Share only:
 
-"The experiment demonstrated that plants exposed to sunlight grew faster than those kept in the shade."
+1. your current research question
+2. one literature review paragraph you think is strong
+3. one literature review paragraph you are unsure about
+4. your method paragraph, or a 3-4 sentence method summary
 
-**Question:**  
-Is this statement **descriptive** or **analytical**?
+That is enough for a useful first-round review.
 
-::: notes
-It reports the outcome of an experiment without explaining the underlying reasons.
-:::
+## Review Rules
 
----
+- `No grammar policing first.` This round is about argument and method fit.
+- `No vague praise.` "Looks good" is useless.
+- `No reviewing everything.` Focus on the four prompts only.
+- `Name the mismatch.` If something feels off, say exactly where.
 
-## Example 3: Answer
+## Step 1: Silent Read + Marking (6 min)
 
-**Answer:** Descriptive
+As the reviewer:
 
-*Explanation:*  
-The statement provides an observation (faster growth with sunlight) without discussing the process or significance of the finding.
+- underline the clearest research question language
+- mark the strongest analytical sentence with a star
+- circle the paragraph that is still mostly summary
+- put a question mark where the method no longer fits the question
 
----
+## Step 2: Write Feedback, Not Vibes (10 min)
 
-## Example 4: Question
+Complete these prompts on the worksheet:
 
-"In Shakespeare's 'Macbeth,' Lady Macbeth's manipulation of her husband's actions serves as a commentary on the corrupting power of unchecked ambition and challenges traditional gender roles in Shakespearean society."
+- `Your project is asking...`
+- `Your strongest analytical move is...`
+- `This paragraph is still mostly summary because...`
+- `Your method stops matching the question when...`
+- `Two revision priorities are...`
 
-**Question:**  
-Is this statement **descriptive** or **analytical**?
+## What Strong Feedback Sounds Like
 
-::: notes
-This statement goes beyond merely describing; it interprets the role of Lady Macbeth to reveal broader themes.
-:::
+| Weak | Useful |
+|:-----|:-------|
+| "Needs more detail." | "You interview curators, but your research question is about visitors. That is a respondent mismatch." |
+| "Good paragraph." | "This paragraph cites three sources, but it never tells the reader what pattern or disagreement matters." |
+| "Method unclear." | "You say you will observe behavior, but later you make a claim about feelings that observation alone cannot support." |
 
----
+## Step 3: Writer Revision Memo (8 min)
 
-## Example 4: Answer
+After getting feedback, the writer fills in:
 
-**Answer:** Analytical
+- `The clearest part of my draft is...`
+- `The biggest mismatch or weakness is...`
+- `The first three changes I will make before Doc 0.2 / Doc 1 are...`
 
-*Explanation:*  
-It not only identifies Lady Macbeth’s influence but also interprets her actions as a critique of societal norms, thus offering analytical insight.
+This is the part that turns peer review into actual revision.
 
----
+## If You Brought Almost Nothing
 
-## Example 5: Question
+Do not panic.
 
-"Survey results show that 60% of respondents prefer online shopping over in-store shopping."
+Use:
 
-**Question:**  
-Is this statement **descriptive** or **analytical**?
+- your research question
+- one sentence from your notes that tries to state a finding
+- a rough method summary
 
-::: notes
-Consider if the sentence just states the data or explores reasons behind the preference.
-:::
-
----
-
-## Example 5: Answer
-
-**Answer:** Descriptive
-
-*Explanation:*  
-It presents a statistic without discussing why users might prefer online shopping or its implications for consumer behavior.
-
----
-
-## Example 6: Question
-
-"While the interface layout includes a navigation bar, a content area, and a footer, this design might impede user engagement if it fails to prioritize the most critical user tasks, suggesting a need for a more dynamic, behavior-driven layout."
-
-**Question:**  
-Is this statement **descriptive** or **analytical**?
-
-::: notes
-Notice how this sentence not only describes the interface components but also evaluates their impact on user engagement.
-:::
-
----
-
-## Example 6: Answer
-
-**Answer:** Analytical
-
-*Explanation:*  
-The statement goes beyond description by assessing the potential drawbacks of the layout and suggesting improvements based on user behavior.
-
-## Key Takeaways
-
-- **Descriptive vs. Analytical:**  
-  - *Descriptive writing* states facts or observations.  
-  - *Analytical writing* explains the significance, reasoning, and implications behind those facts.
-  
-- **Depth of Analysis:**  
-  - Effective academic writing connects evidence with critical interpretation.  
-  - Always ask: "Why is this important?" and "What does this mean for the overall argument?"
-
-- **Practical Strategies for Improvement:**  
-  - **Peer Review:** Leverage feedback from classmates to identify areas lacking analysis.  
-  - **Reverse Outlining:** Break down your text to pinpoint descriptive versus analytical sections.
-
-- **Continuous Revision:**  
-  - Use these insights to refine your drafts, deepening your analysis and improving clarity.
-
-::: notes
-These key points emphasize the critical differences between descriptive and analytical writing. Remember, the goal is to transform simple statements into a compelling argument by integrating evidence, interpretation, and reflection. Use peer review and reverse outlining as tools to uncover and address any gaps in your analysis.
-:::
-
-## Enhancing Your Analytical Writing
-
-**Objective:**  
-- Develop your analytical writing skills by examining and revising your literature review or methodology sections.  
-- Engage in collaborative activities to practice critical analysis.
-
-**Today’s Activities:**  
-1. **Peer Review:** In pairs, analyze each other's writing using guided questions.  
-2. **Reverse Outlining:** Break down a text (yours or a provided sample) to identify strengths and gaps.
-
-::: notes
-In this session, we'll focus on moving beyond descriptive writing into deep, analytical writing. You have the option to work on your own work or use a sample provided by me.
-:::
-
----
-
-## Stage 1: Peer Review Activity
-
-**Time:** 25 minutes
-
-**Instructions:**  
-
-1. **Pair Up:** Find a partner in the room.
-2. **Exchange Materials:** Share your literature review or methodology section (or use the provided sample).
-3. **Guided Review:** Use these questions as you read your partner’s work:
-   - **Thesis & Argument:**  
-     - Is the thesis clear and arguable?
-     - Does the argument show critical evaluation rather than just stating facts?
-   - **Use of Evidence:**  
-     - Is evidence well integrated and analyzed?
-     - Does the writer explain the significance of each piece of evidence?
-   - **Structure & Flow:**  
-     - Are the ideas presented logically?
-     - Do transitions connect the analysis throughout the paper?
-
-**Goal:**  
-- Provide constructive feedback focused on deepening the analysis.
-
-::: notes
-As you review, think critically: Are the claims supported by analysis or just stated? Focus on suggesting ways to integrate evidence and clarify your argument.
-:::
-
----
-
-## Stage 2: Reverse Outlining Exercise
-
-**Time:** 25 minutes
-
-**Instructions:**  
-
-1. **Choose Your Text:** Pick a section from the previously worked-upon example you looked at (4-5 paragraphs max).
-2. **Number Each Paragraph:** Number the paragraphs in the margin for clarity.
-3. **Summarize Each Paragraph:** In one sentence, capture the main idea or argument of each paragraph.
-4. **Evaluate the Outline:**  
-   - Does each summary contribute to your overall argument?  
-   - Identify any parts that are merely descriptive rather than analytical.
-5. **Plan Revisions:** Mark paragraphs that need more critical insight or better integration of evidence.
-
-**Goal:**  
-- Reveal the structure and flow of your argument and present to each other.
-- Identify areas where you can add deeper analysis or clarity.
-
-::: notes
-Reverse outlining is a fantastic way to "step back" and see if your paragraphs are advancing your argument. Look for any gaps where analysis is missing, and consider how you can connect ideas more cohesively.
-:::
-
----
-
-## Reflection & Discussion
-
-**Discussion Questions:**  
-- What new insights did you gain about your own writing from these activities?  
-- How can the feedback from your peer review inform your revisions?  
-- What specific changes will you make to improve the analytical depth of your paper?
-
-**Next Steps:**  
-- Revise your draft based on the insights and feedback received.
-- Schedule a follow-up session if you need additional support on integrating analytical writing techniques.
-
-::: notes
-Feel free to share your reflections with the class. This discussion will help you and your peers learn from one another’s experiences and insights. Remember, the aim is not just to correct, but to deepen your understanding of analytical writing.
-:::
-
-## Double-check your submission to make sure that it can be considered a followable instruction manual by the domain experts.
+You can still do a useful peer review at that scale.
 
 # Synthesis Activity {background-color="#FFE66D"}
 
@@ -591,21 +714,27 @@ Sometimes research reveals your hypothesis is wrong. That's valuable.
 ::: {.callout-note icon=false}
 ## Today's Deliverables
 
-**From Writing Workshop:**
+**From Workshop 1: Method Roast 2.0**
 
-- Reverse outline of your Doc 0.1 or Doc 0.2 draft
-- Peer feedback on descriptive vs. analytical writing
-- List of paragraphs that need deeper analysis
+- one completed **roast verdict sheet** per group
+- one sharp diagnosis of a broken method
+- one defensible revision of that method
 
-**From Synthesis (Frontier Research):**
+**From Workshop 2: Peer Review Lite**
+
+- one completed **peer review sheet**
+- one reviewer summary of the argument
+- one writer revision memo with the next three changes
+
+**From Synthesis / Frontier Research:**
 
 - Draft Synthesis Canvas with at least 2 themes + triangulation check
 
-**From Research → Decision (Applied Research):**
+**From Research → Decision / Applied Research:**
 
 - Completed Research to Decision Canvas with hypothesis and validation plan
 
-**These feed directly into Doc 1.**
+**These feed directly into Doc 0.2 and Doc 1.**
 :::
 
 # Logistics: Interview Project Reminder
