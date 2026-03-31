@@ -116,6 +116,49 @@ format:
   font-size: 0.95em;
 }
 
+.reveal .student-justify {
+  text-align: left;
+  border-radius: 22px;
+  border-left: 10px solid #1d3557;
+  background: #ffffff;
+  padding: 1rem 1.2rem;
+  box-shadow: 0 12px 0 rgba(29, 53, 87, 0.10);
+}
+
+.reveal .student-label {
+  display: inline-block;
+  margin-bottom: 0.7rem;
+  padding: 0.24rem 0.58rem;
+  border-radius: 999px;
+  background: #1d3557;
+  color: #ffffff;
+  font-size: 0.56em;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.reveal .student-justify p {
+  margin: 0 0 0.8rem 0;
+  color: #111827;
+  font-size: 0.78em;
+  line-height: 1.45;
+}
+
+.reveal .roast-focus {
+  text-align: left;
+  border-radius: 22px;
+  border: 3px solid #1d3557;
+  background: #f7f8fa;
+  padding: 1rem 1.05rem;
+}
+
+.reveal .roast-focus ul {
+  margin: 0.35rem 0 0 1.1rem;
+  font-size: 0.72em;
+  line-height: 1.45;
+}
+
 @media (max-width: 1200px) {
   .reveal .case-wall {
     grid-template-columns: 1fr;
@@ -334,6 +377,33 @@ Pick one. Roast hard. Repair precisely.
 
 Your job: name the overclaim, then repair the design.
 
+## Case A: Fake Methodology Justification
+
+::: {.columns}
+::: {.column width="62%"}
+```{=html}
+<div class="student-justify">
+  <div class="student-label">Fake Student Doc 0.2</div>
+  <p>To investigate how AI affects creativity in Hong Kong designers, I will use a survey because it is an efficient way to collect data from multiple people within a short time. I will distribute the survey to 8 classmates from my own studio because they all have design training and are familiar with AI tools such as Midjourney and ChatGPT.</p>
+  <p>I believe this sample is suitable because these students can represent the new generation of Hong Kong designers, and their direct experience with AI can provide accurate information about whether AI improves creativity in design practice. The survey method is also objective because it allows me to present the results clearly in percentages and charts.</p>
+</div>
+```
+:::
+::: {.column width="38%"}
+```{=html}
+<div class="roast-focus">
+  <div class="student-label">Roast This Writing</div>
+  <ul>
+    <li>Where does convenience get disguised as representativeness?</li>
+    <li>Which sentence overclaims from students to the whole industry?</li>
+    <li>Why is calling the survey "objective" doing too much work here?</li>
+    <li>Rewrite one sentence so the scope becomes honest.</li>
+  </ul>
+</div>
+```
+:::
+:::
+
 ## Case B: Wrong People, Wrong Answer
 
 ```{=html}
@@ -355,6 +425,33 @@ Your job: name the overclaim, then repair the design.
 
 Your job: identify whose voice is missing and what evidence would actually answer the question.
 
+## Case B: Fake Methodology Justification
+
+::: {.columns}
+::: {.column width="62%"}
+```{=html}
+<div class="student-justify">
+  <div class="student-label">Fake Student Doc 0.2</div>
+  <p>Based on my literature review, immersive experience is important in museums today. To understand what visitors want, I will conduct semi-structured interviews with 2 curators because curators are professionals who design exhibitions and understand visitor behavior better than ordinary visitors.</p>
+  <p>This method is appropriate because curator interviews can provide expert insight into what kinds of immersive strategies are effective and meaningful. It is also practical for this project because curators are easier to access than a large number of museum visitors, while still providing deep and reliable information about visitor needs.</p>
+</div>
+```
+:::
+::: {.column width="38%"}
+```{=html}
+<div class="roast-focus">
+  <div class="student-label">Roast This Writing</div>
+  <ul>
+    <li>Where does "expert" get used to replace the actual target population?</li>
+    <li>Which sentence quietly swaps visitor evidence for curator opinion?</li>
+    <li>What can curators legitimately tell us, and what can they not prove?</li>
+    <li>Rewrite the question or method so they actually fit each other.</li>
+  </ul>
+</div>
+```
+:::
+:::
+
 ## Case C: Observation Is Not Mind Reading
 
 ```{=html}
@@ -375,6 +472,33 @@ Your job: identify whose voice is missing and what evidence would actually answe
 ```
 
 Your job: separate observable behavior from imagined inner state.
+
+## Case C: Fake Methodology Justification
+
+::: {.columns}
+::: {.column width="62%"}
+```{=html}
+<div class="student-justify">
+  <div class="student-label">Fake Student Doc 0.2</div>
+  <p>To compare stress levels in different pedestrian environments, I will use non-participant observation in public space. I will record visible indicators such as posture, walking speed, facial expression, and body movement in order to identify whether pedestrians appear stressed in different locations.</p>
+  <p>This method is efficient because observation allows me to collect natural data without interrupting people. Since the study takes place in public space, individual consent is not necessary. By comparing visible stress indicators across sites, I will be able to identify which environments are more stressful for pedestrians.</p>
+</div>
+```
+:::
+::: {.column width="38%"}
+```{=html}
+<div class="roast-focus">
+  <div class="student-label">Roast This Writing</div>
+  <ul>
+    <li>Which phrases pretend inner emotion is directly observable?</li>
+    <li>Where does "public space" get used as an ethics shortcut?</li>
+    <li>What behavior could actually be recorded without overclaiming?</li>
+    <li>If the student truly wants stress, what extra method would be needed?</li>
+  </ul>
+</div>
+```
+:::
+:::
 
 ## Roast Flow
 
