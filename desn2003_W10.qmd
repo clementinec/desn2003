@@ -40,8 +40,15 @@ If your data is not collected yet, use this session selectively: decide **what f
 
 - **Spreadsheets (Excel, Google Sheets):** Easiest starting point for beginners. Create bar charts, pie charts, etc. with a few clicks.
 - **Business Intelligence Tools (Tableau, Power BI):** User-friendly, drag-and-drop interfaces for more advanced visuals (maps, interactive dashboards) without coding. Require some learning but widely used.
-- **Programming Libraries:** For example, Python’s **Matplotlib/Seaborn** or R’s **ggplot2**. These offer high flexibility and customization, but require writing code. We'll use Python libraries today – a bit of a learning curve, but powerful for reproducible analysis.
-- **Which are easiest?** For absolute beginners, spreadsheets and GUI tools are most accessible. Coding libraries are powerful for those comfortable with programming (we'll guide you through using them).
+- **Programming Libraries:** Python’s **Matplotlib/Seaborn** are strong for reproducible static charts, **Plotly** is a practical route to interactive notebook visuals, and **D3.js** is the web-native option when you need fully custom interactive storytelling.
+- **Which are easiest?** For absolute beginners, spreadsheets and GUI tools are most accessible. For this class, Python is the practical middle ground: easier than D3.js, but more flexible than spreadsheets.
+
+## From Static Charts to Interactive Stories
+
+- **Plotly:** Best next step if you already have data in Python and want hover labels, zooming, Sankey diagrams, treemaps, and maps without leaving the notebook.
+- **D3.js:** Most flexible if you want custom interaction, animation, or a scrollytelling website. It is powerful, but it is also the steepest learning curve.
+- **Tableau / Power BI / Flourish:** Fastest route to presentation-ready dashboards and embeddable interactive visuals when coding is not the main goal.
+- **Rule of thumb for DESN2003:** Start with clear static charts. Move to interactive tools only when the interaction itself helps explain the insight.
 
 ## Quantitative vs Qualitative Data
 
@@ -57,13 +64,19 @@ If your data is not collected yet, use this session selectively: decide **what f
 - **Histograms:** Used to show the **distribution of continuous data**. Values are grouped into bins; bars touch each other (continuous scale). Histograms plot how many data points fall into ranges of a numeric variable ([Exploring and Analyzing Data: Create basic charts | by Deepak Holla | Medium](https://medium.com/@deepak.holla/exploring-and-analyzing-data-create-basic-charts-6047f10d43a4#:~:text=Although%20a%20Histogram%20looks%20similar,bar%20graph%20shows%20categorical%20data)).
 - *Key difference:* In a bar chart, categories (e.g. Group A vs Group B) have gaps between bars and can be reordered; in a histogram, the x-axis is numeric with no gaps (e.g. 0–10, 10–20, ...), showing the shape of data distribution.
 
+![](data/week10_figures/bar_histogram_examples.png){fig-alt="Side-by-side bar chart and histogram using the Week 10 teaching dataset." width=90%}
+
+*Left: a bar chart comparing recommendation outcomes by group. Right: a histogram showing the distribution of scores. Same dataset, different question.*
+
 ## Box Plots (Box-and-Whisker Plots)
 
 - **What they show:** A box plot uses boxes and lines to **summarize a distribution** of a numeric dataset ([ A Complete Guide to Box Plots | Atlassian ](https://www.atlassian.com/data/charts/box-plot-complete-guide#:~:text=A%20box%20plot%20,line%20edges%20to%20indicate%20outliers)). It displays the median (central line), the interquartile range (the box spans the 25th to 75th percentiles), and “whiskers” extending to cover most of the range. Points outside the whiskers are plotted as outliers.
 - **Use case:** Great for **comparing distributions between multiple groups** ([ A Complete Guide to Box Plots | Atlassian ](https://www.atlassian.com/data/charts/box-plot-complete-guide#:~:text=)). For example, we can compare test scores of students who used GenAI vs those who did not, all in one concise chart. You can quickly see which group tends to score higher or has more variability.
 - **Insight:** Look at the median lines and box spans – are they higher or lower for one group? A higher median or a smaller IQR (box) might indicate one group generally performed better or had more consistent results.
 
- ([image]()) *Example of a box plot comparing test score distributions for two groups (GenAI vs Traditional). The median score for the GenAI group is higher (around 80) with a smaller interquartile range than the Traditional group (median around 68). This indicates that in this sample, students using the AI tool performed slightly better on average and with less variability.*
+![](data/week10_figures/box_plot_scores.png){fig-alt="Example box plot comparing score distributions across GenAI and Traditional groups." width=72%}
+
+*Example of a box plot comparing test score distributions for two groups (GenAI vs Traditional). The median score for the GenAI group is higher, and the distribution is slightly tighter than the Traditional group.*
 
 ## Heatmaps and Confusion Matrices
 
@@ -74,11 +87,30 @@ If your data is not collected yet, use this session selectively: decide **what f
 
 - **Reading heatmaps:** Pay attention to the color legend. For a correlation heatmap, for instance, a darker color between “Score” and “Satisfaction” might indicate a strong positive relationship (we will see an example).
 
+![](data/week10_figures/heatmap_examples.png){fig-alt="Side-by-side correlation heatmap and group-versus-recommend matrix heatmap." width=90%}
+
+*Left: a correlation heatmap. Right: a confusion-matrix-style table showing how recommendation outcomes differ across groups.*
+
 ## Treemaps
 
 - **What is a Treemap?** A treemap uses a series of **nested rectangles** to visualize hierarchical data ([What is a treemap? | Definition from TechTarget](https://www.techtarget.com/searchenterprisedesktop/definition/treemap#:~:text=A%20treemap%20is%20a%20visual,amount%20of%20data%20it%20represents)). Each rectangle represents a category (and sub-category) and its size is **proportional to the value** it represents ([What is a treemap? | Definition from TechTarget](https://www.techtarget.com/searchenterprisedesktop/definition/treemap#:~:text=A%20treemap%20is%20a%20visual,amount%20of%20data%20it%20represents)). Color is often used to distinguish categories or encode an additional variable.
 - **Use cases:** Treemaps are great for showing **parts-of-a-whole** and **hierarchies**. For example, imagine we surveyed students in different regions and asked what resources they use. A treemap could show each region as a large rectangle, subdivided by resource type usage within that region, with area indicating number of students.
 - **For beginners:** Treemaps can be a bit complex to create from scratch, but tools like Excel (with add-ins) or Python's `plotly` library can generate them. They provide a quick sense of which categories are largest or smallest in a hierarchy at a glance.
+
+![](data/week10_figures/treemap_region_group.png){fig-alt="Treemap showing student counts grouped by region and learning method." width=84%}
+
+*This treemap uses the same teaching dataset, showing how a hierarchical view can reveal both region size and group composition at once.*
+
+## Sankey Diagrams
+
+- **What is a Sankey diagram?** A Sankey diagram visualizes **flows between stages**. The width of each band represents how much of something moves from one state to another.
+- **Use cases:** Great for journeys, funnels, decision paths, or any process with transitions. In design research, this could mean participant flow, interview coding pathways, or movement from one category to another.
+- **In our example:** We can show a flow from **Group → Satisfaction Band → Recommendation**. That is much harder to read from a raw table, but easy to scan in a Sankey.
+- **Tool note:** Sankey diagrams are often built in **Plotly**, **Flourish**, or **D3.js** when you want a more interactive version.
+
+![](data/week10_figures/sankey_group_satisfaction_recommend.png){fig-alt="Sankey diagram showing flow from group to satisfaction band to recommendation." width=84%}
+
+*This is the kind of chart you reach for when the story is about movement or transition, not just counts.*
 
 ## Regional Distribution Maps
 
@@ -86,6 +118,10 @@ If your data is not collected yet, use this session selectively: decide **what f
 - **Use cases:** To display any data that has a geographic component. For example, a choropleth could show the number of survey respondents in each region, or the average test score in each country. Darker shades might mean more respondents or higher scores, etc.
 - **Example scenario:** In our GenAI study, if we had enough data per region, we could create a map coloring regions by the percentage of students who found GenAI helpful. A quick glance might reveal regional differences (perhaps uptake is higher in some areas).
 - *Note:* Creating maps requires geographic data (like country codes) and sometimes additional libraries (e.g., geopandas or plotly). It’s an advanced visualization, but conceptually important to know.
+
+![](data/week10_figures/choropleth_representative_countries.png){fig-alt="Choropleth demonstration using representative country codes derived from the Week 10 dataset's regions." width=86%}
+
+*This demo maps region-level data to representative country codes so you can see the mechanics of a choropleth. For real work, you would want actual country, district, or postcode data.*
 
 # Qualitative Data Visualization
 
@@ -95,7 +131,9 @@ If your data is not collected yet, use this session selectively: decide **what f
 - **How to do it:** Typically, you would code the text – label segments with theme tags (e.g., "time-saving", "frustration with AI", "prefers self-study"). Then you might count how often each theme appears or find exemplar quotes for each theme.
 - **Visualizing Qualitative Data:** One quick visualization is a **word cloud**, which displays words by frequency. While not a rigorous analysis, it highlights prominent terms and can hint at key themes. Other visual approaches include concept maps or thematic networks, but those are more advanced.
 
- ([image]()) *Word cloud of common terms from student transcripts. Frequently mentioned words appear larger, indicating prevalent themes. Here we see prominent words like "AI", "using", "time", and "answers", reflecting key points students discussed.*
+![](data/week10_figures/wordcloud_transcripts.png){fig-alt="Word cloud built from the Week 10 interview transcript sample." width=76%}
+
+*Word cloud of common terms from student transcripts. Frequently mentioned words appear larger, indicating prevalent themes.*
 
 - *Interpretation:* In this example, **“AI”** stands out (many students mention it), along with words like **“time”** (e.g., saving time), **“tutor”**, **“answers”**, **“helpful”**, and **“confusing”**. This suggests a divide in experiences: many found the AI helpful (saving time, getting answers), while some found it confusing. This matches what we might expect: some students praise the AI, others point out issues.
 
