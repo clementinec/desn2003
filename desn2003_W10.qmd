@@ -109,4 +109,4 @@ If your data is not collected yet, use this session selectively: decide **what f
 
 ---
 
-*Now that we've covered the theory, let's put it into practice with some hands-on exercises! In the following Jupyter notebook segment, we'll load example datasets and create these visualizations step-by-step.* 🚀
+*Now that we've covered the theory, let's put it into practice with some hands-on exercises. Open the [Week 10 notebook](DataVisualization_Notebook.ipynb) or launch it in [Google Colab](https://colab.research.google.com/github/clementinec/desn2003/blob/main/DataVisualization_Notebook.ipynb), then work through the examples step-by-step.* 🚀

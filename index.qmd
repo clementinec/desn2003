@@ -78,7 +78,7 @@ Printable PDF toolkits — each includes a blank template on page 1 and a worked
 
 **Week 10 Data Files:**
 
-- [Plotting Examples](W10_note.qmd) | [Google Colab](https://drive.google.com/file/d/18ZA2SsFfTibCFGjTkAeFNxzJomOmAVLa/view?usp=sharing)
+- [Data Visualization Notebook](DataVisualization_Notebook.ipynb) | [Google Colab](https://colab.research.google.com/github/clementinec/desn2003/blob/main/DataVisualization_Notebook.ipynb)
 - [Survey Data](data/survey_data.csv) | [Transcripts](data/transcripts.json) | [Tabular Data](data/example_data.csv)
 
 ## Course Info
