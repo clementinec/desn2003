@@ -42,7 +42,8 @@ Choose based on your interests. Same methodology. Same skills. Different framing
 - [Week 8: Research Paradigms & Methods](desn2003_W8.qmd)
 - [Week 9: Writing & Synthesis](desn2003_W9.qmd)
 - [Week 10: Data Visualization](desn2003_W10.qmd)
-- [Week 12: Presentations](W12.qmd)
+- [Week 11: Doc 1 Presentations & Peer Evaluation](desn2003_W11.qmd)
+- [Week 12: Presentations Continue](W12.qmd)
 
 ---
 

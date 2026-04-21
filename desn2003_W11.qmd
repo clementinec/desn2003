@@ -1,0 +1,253 @@
+---
+title: "Doc 1 Presentations & Peer Evaluation"
+format:
+  revealjs:
+    slide-level: 2
+    center: true
+    slide-number: true
+    theme: simple
+    width: 1600
+    height: 1200
+    preview-links: auto
+    embed-resources: true
+    incremental: true
+---
+
+# Week 11: Final Push
+
+## What We Are Doing Today
+
+- Quick recap: visualization skills from last week
+- Quick orientation: Colab, Anaconda, IDEs, and coding basics
+- Peer-evaluation walkthrough
+- Deadline update: final Doc 1 submission
+- Finish any leftover Professional Discovery presentations
+- Begin Doc 1 final presentations
+
+The goal is not to add another full lecture. The goal is to make your Doc 1 argument clearer, more visual, and easier for peers to evaluate fairly.
+
+## Deadline Update: Final Doc 1
+
+To give everyone time to revise after presentations and peer feedback:
+
+- **Doc 1 draft / presentation version:** used for the Apr 21 and Apr 28 presentation sessions
+- **Final Doc 1 submission:** due **Tuesday, May 5, 2026, by 12:00 PM noon**
+
+This is a generous revision window. Use it to tighten the argument, improve figures, clarify methods, and respond to the most useful feedback you receive.
+
+## Presentation Timing
+
+Each Doc 1 presentation gets:
+
+- **5 minutes** for the presentation
+- **1 minute** after each speaker for peer evaluation
+- Remaining presentations continue next class
+
+With two class sessions, 5 minutes is reasonable. Do not try to cover every detail of the paper. Present the argument clearly enough that a peer can understand the question, evidence, method, insight, and implication.
+
+## What Fits in 5 Minutes?
+
+Use this structure if you are unsure:
+
+| Time | Focus | What to say |
+|---:|---|---|
+| 0:00-0:45 | Question | What are you investigating, and why does it matter? |
+| 0:45-1:45 | Evidence base | What literature, cases, or context shaped your thinking? |
+| 1:45-2:45 | Method | What did you collect or analyze, and why was it appropriate? |
+| 2:45-4:15 | Main finding | What is the most important insight? Show one strong visual if possible. |
+| 4:15-5:00 | So what | What does this imply for design, innovation, or future work? |
+
+# Visualization Recap
+
+## Last Week's Core Skill
+
+Data visualization is not decoration. It is a way to make an argument visible.
+
+Ask:
+
+- What comparison am I trying to show?
+- What pattern, distribution, flow, or relationship matters?
+- What should the reader understand faster because of this figure?
+- Is the visual simpler than the paragraph it replaces?
+
+## Choosing the Right Visual
+
+| If your point is... | Use... |
+|---|---|
+| Comparing categories | Bar chart |
+| Showing spread or variation | Histogram or box plot |
+| Showing relationships across variables | Scatter plot or heatmap |
+| Showing parts of a whole | Stacked bar, treemap, or pie chart if very simple |
+| Showing movement or transformation | Sankey diagram or flow diagram |
+| Showing themes in text | Thematic table, quote matrix, or word cloud |
+| Showing geography | Map or choropleth, only if place matters |
+
+## Static vs Interactive
+
+- **Static figures** are best for Doc 1: clear, printable, and easy to cite.
+- **Plotly** is useful when hover labels, maps, treemaps, or Sankey diagrams help explain the data.
+- **D3.js** is for custom web-native storytelling. Powerful, but not the fastest path for most Doc 1 drafts.
+- **Flourish, Tableau, and Power BI** are practical if you want interactive visuals without writing much code.
+
+Rule of thumb: start static. Add interaction only when the interaction teaches something.
+
+## Mermaid: Diagrams Without Design Software
+
+Mermaid lets you write diagrams in Markdown-like text. It is useful for process maps, research workflows, decision trees, and concept relationships.
+
+```{mermaid}
+flowchart LR
+  RQ[Research question] --> Evidence[Evidence]
+  Evidence --> Method[Method]
+  Method --> Finding[Finding]
+  Finding --> Implication[Design implication]
+```
+
+Good use in Doc 1: show your research logic, not decorative complexity.
+
+# Tooling Recap
+
+## Colab, Anaconda, IDEs
+
+| Tool | What it is | Best use |
+|---|---|---|
+| Google Colab | Browser-based Jupyter notebook | Fastest way to run Python without setup |
+| Jupyter Notebook / JupyterLab | Notebook interface for code, text, and figures | Reproducible analysis and teaching demos |
+| Anaconda | Local Python distribution and environment manager | Running notebooks locally with installed packages |
+| IDE | Coding workspace such as VS Code or Spyder | Larger projects, file management, debugging |
+
+For this course, Colab is enough. Anaconda and IDEs matter if you want a more permanent local research workflow.
+
+## Coding Basics for Data Visualization
+
+Most notebook visualizations follow the same pattern:
+
+```python
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+df = pd.read_csv("data/survey_data.csv")
+summary = df.groupby("group")["score"].mean().reset_index()
+
+sns.barplot(data=summary, x="group", y="score")
+plt.title("Average score by group")
+plt.show()
+```
+
+The important idea: load data, summarize what matters, then choose a chart that matches the claim.
+
+## What Your Figure Needs
+
+Every figure should answer these four questions:
+
+- What am I looking at?
+- What do the axes, colors, or sizes mean?
+- What pattern should I notice?
+- Why does this matter for the research question?
+
+If a figure cannot answer those questions, revise it or remove it.
+
+# Peer Evaluation
+
+## Why Peer Evaluation Counts
+
+Peer evaluation is 20% of the course because evaluating research is itself a research skill.
+
+You are not judging personality, accent, confidence, or whether you personally like the topic. You are judging whether the research argument comes through clearly and fairly.
+
+## How We Record It
+
+Use the private Google Form after each speaker.
+
+- Submit one response per presenter
+- Do not evaluate your own presentation
+- Scores are not shown live
+- The required comment should help the presenter revise Doc 1
+
+Paper notes are optional. The Google Form is the official peer-evaluation record.
+
+## Peer Evaluation Form
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+Scan this after each Doc 1 presenter:
+
+- Submit one response per presenter
+- Keep the form open during presentations
+- Use the same QR code for every speaker
+- Direct link: <https://forms.gle/r1MMRVJQ3rRr4sFXA>
+
+:::
+
+::: {.column width="45%"}
+
+![](data/doc1_peer_eval_qr.png){fig-alt="QR code linking to the DESN2003 Doc 1 Final Presentation Peer Evaluation Google Form." width=80%}
+
+:::
+
+::::
+
+## The 5 Criteria
+
+| # | Criterion | Listen for |
+|---|---|---|
+| 1 | Sharp problem statement | Clear, focused question that matters |
+| 2 | Evidence integration | Literature and data support one argument |
+| 3 | Method and tool fit | Methods are appropriate and justified |
+| 4 | Narrative flow and insight | Findings lead to a clear implication |
+| 5 | Delivery and visuals | Slides or visuals help rather than distract |
+
+Use the full 0-5 range, but be fair.
+
+## Score Anchors
+
+| Score | Meaning |
+|---:|---|
+| 0 | Missing or not enough information to evaluate |
+| 1 | Not yet clear |
+| 2 | Partly visible, but major gaps remain |
+| 3 | Understandable, but needs clearer evidence or structure |
+| 4 | Strong, with minor areas to improve |
+| 5 | Very clear, convincing, and well supported |
+
+Do not give everyone the same score. Also do not punish someone for researching a difficult or unfamiliar topic.
+
+## Required Comment
+
+After each presentation, write one useful comment:
+
+- "The strongest part of this research argument was..."
+- "One thing that would make the Doc 1 draft clearer is..."
+
+Avoid vague comments like "good job" or "confusing." Say what worked, what was unclear, and why.
+
+# Presentation Checklist
+
+## Before You Present
+
+- State the research question early
+- Show one clear visual, table, diagram, or evidence summary if possible
+- Explain method fit, not just method choice
+- Make the "so what" explicit
+- End with one limitation or next step
+
+## While Listening
+
+For each presenter, ask:
+
+- Can I repeat their research question?
+- Do I understand what evidence they used?
+- Do I understand why their method fits?
+- Can I identify their main finding?
+- Do I understand the implication?
+
+If the answer is no, your comment should help them locate that gap.
+
+## Today Is a Draft Moment
+
+This is not a performance contest. It is a structured way to test whether the Doc 1 argument is legible to another reader.
+
+Good peer review helps the presenter revise. Good presenting helps the peer reviewer understand what rigorous research communication looks like.

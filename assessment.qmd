@@ -23,6 +23,7 @@ All written submissions are due **Tuesday before class** (by 12:00 PM noon) — 
 | 10 | Apr 14 | **Professional Discovery Presentations** (Part 2, in class) + **Doc 0.2** — Collecting Evidence + **Professional Discovery Documentation** |
 | 11 | Apr 21 | **Doc 1** — Research Paper Draft + **Final Presentations & Peer Evaluation** begin |
 | 12 | Apr 28 | **Final Presentations & Peer Evaluation** continue, if needed |
+| — | May 5 | **Final Doc 1 Submission** — revised final version due by **12:00 PM noon** |
 
 ::: {.callout-note}
 ## Spring Festival Break
@@ -280,6 +281,8 @@ You bring biases and assumptions to every interview. That's not a flaw — it's 
 ## Peer Evaluation (20%)
 
 At the end of the semester, you will present your **Individual Research** to the class. Your peers will evaluate these presentations — and you will evaluate theirs. This component accounts for **20%** of your grade.
+
+Each Doc 1 presentation is **5 minutes**, followed by a short private peer evaluation. Presentations begin in **Week 11 (Apr 21)** and continue in **Week 12 (Apr 28)** if needed. The revised final Doc 1 submission is due **Tuesday, May 5, 2026, by 12:00 PM noon**.
 
 This serves two purposes. First, you learn from exposure to diverse research topics and approaches. Second, you develop critical judgment — the ability to evaluate research quality, which is itself a core research skill.
 

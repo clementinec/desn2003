@@ -17,8 +17,10 @@ format:
 
 ## Logistics
 
-- Try to stick to within 3min
+- Each Doc 1 presentation has **5 minutes**
+- After each speaker, take **1 minute** for private peer evaluation
 - If we don't finish today, the remaining presentations continue **in class on Apr 28**
+- Final Doc 1 submission is due **Tuesday, May 5, 2026, by 12:00 PM noon**
 - Let's try to stick to our schedule
 
 
